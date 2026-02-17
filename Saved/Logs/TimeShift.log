@@ -1433,3 +1433,18 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.17-13.07.37:583][458]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 319.919098
 [2026.02.17-13.07.38:581][460]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.17-13.07.38:582][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 320.585693, Update Interval: 356.650909
+[2026.02.17-13.08.46:586][774]Cmd: DELETE
+[2026.02.17-13.08.46:586][774]Cmd: ACTOR DELETE
+[2026.02.17-13.08.46:588][774]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.08.46:631][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.17-13.08.46:632][774]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2026.02.17-13.08.47:858][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-13.08.47:931][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.02.17-13.08.47:942][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.17-13.08.47:953][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.02.17-13.08.47:962][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.006 ms (total: 192.178 ms)
+[2026.02.17-13.08.48:502][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-13.08.48:581][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.08.48:594][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.02.17-13.08.48:604][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.17-13.08.48:612][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.317 ms (total: 302.496 ms)
