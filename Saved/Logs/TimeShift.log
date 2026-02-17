@@ -1448,3 +1448,1176 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.17-13.08.48:594][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
 [2026.02.17-13.08.48:604][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
 [2026.02.17-13.08.48:612][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.317 ms (total: 302.496 ms)
+[2026.02.17-13.10.49:333][218]LogStreaming: Display: FlushAsyncLoading(392): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.10.56:257][218]LogSlate: Window 'New Level' being destroyed
+[2026.02.17-13.10.56:268][218]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.10.56:279][218]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.10.56:280][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.10.56:280][218]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.02.17-13.10.56:294][218]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.10.56:296][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.02.17-13.10.56:306][218]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2026.02.17-13.10.56:306][218]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2026.02.17-13.10.56:314][218]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.10.56:326][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.02.17-13.10.56:326][218]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.10.56:326][218]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: ================================================
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Total job queries 392, among them cache hits 22 (5.61%), DDC hits 301 (76.79%), Duplicates 66 (16.84%)
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Tracking 304 distinct input hashes that result in 216 distinct outputs (71.05%)
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: RAM used: 3.14 MiB of 3.20 GiB budget. Usage: 0.10%
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Shaders Compiled: 3
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.02 s
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Job execution time: average 0.67 s, max 0.94 s
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Job life time (pending + execution): average 0.68 s, max 0.95
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Shader code size: total 30.523 KiB, numShaders 3, average 10.174 KiB, min 7.668 KiB, max 13.762 KiB
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.95 s
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Average processing rate: 3.14 jobs/sec
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Total thread time: 1.439 s
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Total thread preprocess time: 4.743 s
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Percentage time preprocessing: 329.65%
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Effective parallelization: 1.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.094214
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 51.22% of total time (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.41% of total time (compiled    1 times, average 0.47 sec, max 0.47 sec, min 0.47 sec)
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.38% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display:                                             FDebugViewModePS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: === Material stats ===
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Materials Translated:    142
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Material Translation Only: 0.03 s (40%)
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: Material Cache Hits: 19 (13%)
+[2026.02.17-13.11.20:923][985]LogShaderCompilers: Display: ================================================
+[2026.02.17-13.11.49:571][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.17-13.11.49:572][328]LogStreaming: Display: FlushAsyncLoading(395): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.11.49:574][328]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.02.17-13.11.49:574][328]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.17-13.11.49:574][328]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.17-13.11.49:574][328]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.17-13.11.49:584][328]LogWorldPartition: Display: WorldPartition initialize took 9.344 ms (total: 51.808 ms)
+[2026.02.17-13.11.49:586][328]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.02.17-13.11.49:586][328]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/FirstPerson/Lvl_FirstPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.11.49:632][328]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.11.49:632][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.11.49:645][328]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.11.49:646][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.17-13.11.49:647][328]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.11.49:647][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.11.49:647][328]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.02.17-13.11.49:662][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.17-13.11.49:749][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.02.17-13.11.49:751][328]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_FirstPerson'.
+[2026.02.17-13.11.49:751][328]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.02.17-13.11.49:753][328]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.17-13.11.49:753][328]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.17-13.11.49:753][328]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.17-13.11.49:761][328]LogWorldPartition: Display: WorldPartition initialize took 9.113 ms (total: 60.921 ms)
+[2026.02.17-13.11.49:774][328]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.11.49:787][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.17-13.11.49:791][328]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.11.49:792][328]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.429ms to complete.
+[2026.02.17-13.12.17:376][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.12.17:378][516]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.02.17-13.12.17:378][516]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/FirstPerson/Lvl_FirstPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.12.17:390][516]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.12.17:390][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.12.17:390][516]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.02.17-13.12.17:408][516]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.12.17:410][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.17-13.12.17:410][516]LogStreaming: Display: FlushAsyncLoading(521): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.12.17:411][516]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_FirstPerson'.
+[2026.02.17-13.12.17:411][516]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.02.17-13.12.17:413][516]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.17-13.12.17:413][516]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.17-13.12.17:413][516]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.17-13.12.17:422][516]LogWorldPartition: Display: WorldPartition initialize took 9.762 ms (total: 70.683 ms)
+[2026.02.17-13.12.17:435][516]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.12.17:449][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.17-13.12.17:454][516]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.12.17:455][516]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.411ms to complete.
+[2026.02.17-13.13.37:447][573]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 679.778015
+[2026.02.17-13.13.37:605][592]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-13.13.37:605][592]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 679.927856, Update Interval: 324.329956
+[2026.02.17-13.14.50:643][124]LogSlate: Window 'New Level' being destroyed
+[2026.02.17-13.15.01:334][288]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.02.17-13.15.01:340][288]LogContentBrowser: Creating deferred item: NewFolder
+[2026.02.17-13.15.01:346][289]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.02.17-13.15.09:972][323]LogContentBrowser: Attempting asset rename: NewFolder -> Dimensions
+[2026.02.17-13.15.09:973][323]LogContentBrowser: End creating deferred item NewFolder
+[2026.02.17-13.15.20:362][891]LogSlate: Window 'New Level' being destroyed
+[2026.02.17-13.15.20:374][891]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.15.20:385][891]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.15.20:386][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.15.20:386][891]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.02.17-13.15.20:400][891]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.15.20:404][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.17-13.15.20:406][891]LogStreaming: Display: FlushAsyncLoading(584): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.15.20:408][891]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2026.02.17-13.15.20:408][891]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_2
+[2026.02.17-13.15.20:417][891]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.15.20:429][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.02.17-13.15.20:430][891]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.15.20:430][891]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2026.02.17-13.15.32:832][ 66]LogStreaming: Display: FlushAsyncLoading(585): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.15.34:060][189]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.02.17-13.15.34:889][282]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.02.17-13.15.35:018][291]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.02.17-13.15.35:035][292]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.02.17-13.15.46:372][416]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.02.17-13.15.46:372][416]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.02.17-13.15.46:373][416]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_1
+[2026.02.17-13.15.46:373][416]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_1
+[2026.02.17-13.16.04:683][631]LogSlate: Window 'Save Level As' being destroyed
+[2026.02.17-13.16.04:780][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.02.17-13.16.04:794][631]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.02.17-13.16.04:795][631]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersionABBC4569482E1E249A50E2A27217B4E2.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.02.17-13.16.04:820][631]LogFileHelpers: Saving map 'LightVersion' took 0.125
+[2026.02.17-13.16.04:820][631]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.16.04:864][631]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.16.04:864][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.16.04:879][631]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.16.04:880][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.17-13.16.04:881][631]LogStreaming: Display: FlushAsyncLoading(586): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.16.04:882][631]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.02.17-13.16.04:882][631]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.17-13.16.04:890][631]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.16.04:903][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.02.17-13.16.04:906][631]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.16.04:906][631]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.036ms to complete.
+[2026.02.17-13.16.04:942][631]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-13.16.04:942][631]LogContentValidation: Enabled validators:
+[2026.02.17-13.16.04:942][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-13.16.04:942][631]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-13.16.04:942][631]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-13.16.04:942][631]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-13.16.04:942][631]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-13.16.04:942][631]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-13.16.04:943][631]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.02.17-13.16.04:975][631]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.17-13.16.18:320][144]Cmd: DELETE
+[2026.02.17-13.16.18:320][144]Cmd: ACTOR DELETE
+[2026.02.17-13.16.18:321][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.16.18:335][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.02.17-13.16.18:337][144]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.17-13.16.21:696][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.16.23:277][518]LogSlate: Window 'Save Content' being destroyed
+[2026.02.17-13.16.23:292][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-13.16.23:363][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.02.17-13.16.23:374][518]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.02.17-13.16.23:374][518]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion1774238344533392771B869C01A39100.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.02.17-13.16.23:379][518]LogFileHelpers: Saving map 'LightVersion' took 0.037
+[2026.02.17-13.16.23:460][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.115 ms (total: 469.612 ms)
+[2026.02.17-13.16.23:460][518]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.02.17-13.16.23:460][518]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.16.23:470][518]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.16.23:470][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.16.23:481][518]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.16.23:482][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.02.17-13.16.23:482][518]LogStreaming: Display: FlushAsyncLoading(587): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.16.23:484][518]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.02.17-13.16.23:484][518]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.17-13.16.23:492][518]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.16.23:504][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.02.17-13.16.23:508][518]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.16.23:508][518]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.039ms to complete.
+[2026.02.17-13.16.23:574][518]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-13.16.23:574][518]LogContentValidation: Enabled validators:
+[2026.02.17-13.16.23:574][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-13.16.23:574][518]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-13.16.23:574][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-13.16.23:574][518]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-13.16.23:574][518]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-13.16.23:574][518]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-13.16.23:574][518]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.02.17-13.16.46:264][112]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: ================================================
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Total job queries 417, among them cache hits 22 (5.28%), DDC hits 319 (76.50%), Duplicates 66 (15.83%)
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Tracking 329 distinct input hashes that result in 239 distinct outputs (72.64%)
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: RAM used: 3.32 MiB of 3.20 GiB budget. Usage: 0.10%
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Shaders Compiled: 10
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Average time worker was idle: 151.70 s
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.10 s
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Job execution time: average 0.72 s, max 1.11 s
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Job life time (pending + execution): average 0.75 s, max 1.13
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Shader code size: total 104.336 KiB, numShaders 10, average 10.434 KiB, min 6.289 KiB, max 14.93 KiB
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.91 s
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Average processing rate: 2.04 jobs/sec
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Total thread time: 5.547 s
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Total thread preprocess time: 5.029 s
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Percentage time preprocessing: 90.65%
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Effective parallelization: 1.13 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.070608
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.87 sec, max 0.90 sec, min 0.84 sec)
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.70 sec, max 0.74 sec, min 0.62 sec)
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.41 sec, max 0.47 sec, min 0.35 sec)
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 37.75% of total time (compiled    3 times, average 0.70 sec, max 0.74 sec, min 0.62 sec)
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 31.52% of total time (compiled    2 times, average 0.87 sec, max 0.90 sec, min 0.84 sec)
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.20% of total time (compiled    3 times, average 0.41 sec, max 0.47 sec, min 0.35 sec)
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.54% of total time (compiled    2 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display:                                             FDebugViewModePS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: === Material stats ===
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Materials Translated:    143
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Material Translation Only: 0.03 s (40%)
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: Material Cache Hits: 19 (13%)
+[2026.02.17-13.17.20:928][ 89]LogShaderCompilers: Display: ================================================
+[2026.02.17-13.18.10:652][387]LogStreaming: Display: FlushAsyncLoading(588): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.18.10:664][387]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.02.17-13.18.10:665][387]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.17-13.18.10:665][387]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.17-13.18.10:665][387]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.17-13.18.10:666][387]LogWorldPartition: Display: WorldPartition initialize took 1.126 ms (total: 71.809 ms)
+[2026.02.17-13.18.10:782][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.17-13.18.14:469][387]LogSlate: Window 'Save Content' being destroyed
+[2026.02.17-13.18.14:483][387]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-13.18.14:556][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.02.17-13.18.14:568][387]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.02.17-13.18.14:568][387]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion4BEF7D804EE86EB4C5583BA4E18B0618.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.02.17-13.18.14:574][387]LogFileHelpers: Saving map 'LightVersion' took 0.038
+[2026.02.17-13.18.14:654][387]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.053 ms (total: 639.665 ms)
+[2026.02.17-13.18.14:654][387]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.02.17-13.18.14:654][387]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/FirstPerson/Lvl_FirstPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.18.14:664][387]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.18.14:664][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.18.14:675][387]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.18.14:675][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.02.17-13.18.14:676][387]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.18.14:676][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.18.14:676][387]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.02.17-13.18.14:690][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.17-13.18.14:700][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.02.17-13.18.14:703][387]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_FirstPerson'.
+[2026.02.17-13.18.14:703][387]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.02.17-13.18.14:704][387]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.17-13.18.14:704][387]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.17-13.18.14:704][387]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.17-13.18.14:712][387]LogWorldPartition: Display: WorldPartition initialize took 7.991 ms (total: 79.801 ms)
+[2026.02.17-13.18.14:722][387]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.18.14:735][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.17-13.18.14:738][387]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.18.14:739][387]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.399ms to complete.
+[2026.02.17-13.18.14:987][387]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-13.18.14:987][387]LogContentValidation: Enabled validators:
+[2026.02.17-13.18.14:987][387]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-13.18.14:987][387]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-13.18.14:987][387]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-13.18.14:987][387]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-13.18.14:987][387]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-13.18.14:987][387]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-13.18.25:619][606]Cmd: DELETE
+[2026.02.17-13.18.25:619][606]Cmd: ACTOR DELETE
+[2026.02.17-13.18.25:620][606]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.25:644][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.17-13.18.25:646][606]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2026.02.17-13.18.26:299][676]Cmd: DELETE
+[2026.02.17-13.18.26:299][676]Cmd: ACTOR DELETE
+[2026.02.17-13.18.26:300][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.26:313][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.17-13.18.26:315][676]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.27:676][828]Cmd: DELETE
+[2026.02.17-13.18.27:676][828]Cmd: ACTOR DELETE
+[2026.02.17-13.18.27:677][828]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.27:690][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.27:693][828]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.17-13.18.28:244][886]Cmd: DELETE
+[2026.02.17-13.18.28:244][886]Cmd: ACTOR DELETE
+[2026.02.17-13.18.28:245][886]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.28:257][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.28:259][886]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.28:678][926]Cmd: DELETE
+[2026.02.17-13.18.28:678][926]Cmd: ACTOR DELETE
+[2026.02.17-13.18.28:679][926]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.28:693][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.28:695][926]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.17-13.18.29:218][978]Cmd: DELETE
+[2026.02.17-13.18.29:218][978]Cmd: ACTOR DELETE
+[2026.02.17-13.18.29:220][978]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.29:232][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.29:235][978]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.29:672][ 19]Cmd: DELETE
+[2026.02.17-13.18.29:673][ 19]Cmd: ACTOR DELETE
+[2026.02.17-13.18.29:674][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.29:686][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.29:688][ 19]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.30:107][ 61]Cmd: DELETE
+[2026.02.17-13.18.30:107][ 61]Cmd: ACTOR DELETE
+[2026.02.17-13.18.30:108][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.30:120][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.30:122][ 61]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.02.17-13.18.31:437][209]Cmd: DELETE
+[2026.02.17-13.18.31:437][209]Cmd: ACTOR DELETE
+[2026.02.17-13.18.31:439][209]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.31:453][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.31:455][209]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.17-13.18.32:482][321]Cmd: DELETE
+[2026.02.17-13.18.32:482][321]Cmd: ACTOR DELETE
+[2026.02.17-13.18.32:483][321]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.32:496][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.32:498][321]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.33:685][453]Cmd: DELETE
+[2026.02.17-13.18.33:685][453]Cmd: ACTOR DELETE
+[2026.02.17-13.18.33:686][453]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.33:700][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.33:702][453]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.17-13.18.35:170][620]Cmd: DELETE
+[2026.02.17-13.18.35:170][620]Cmd: ACTOR DELETE
+[2026.02.17-13.18.35:172][620]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.35:185][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.35:187][620]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.35:906][698]Cmd: DELETE
+[2026.02.17-13.18.35:906][698]Cmd: ACTOR DELETE
+[2026.02.17-13.18.35:907][698]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.35:921][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.35:923][698]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.17-13.18.36:672][780]Cmd: DELETE
+[2026.02.17-13.18.36:672][780]Cmd: ACTOR DELETE
+[2026.02.17-13.18.36:674][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.36:687][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.02.17-13.18.36:689][780]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.37:188][832]Cmd: DELETE
+[2026.02.17-13.18.37:188][832]Cmd: ACTOR DELETE
+[2026.02.17-13.18.37:189][832]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.37:200][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.37:203][832]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2026.02.17-13.18.37:700][881]Cmd: DELETE
+[2026.02.17-13.18.37:700][881]Cmd: ACTOR DELETE
+[2026.02.17-13.18.37:702][881]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.37:714][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.37:716][881]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.38:146][925]Cmd: DELETE
+[2026.02.17-13.18.38:146][925]Cmd: ACTOR DELETE
+[2026.02.17-13.18.38:147][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.38:161][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.02.17-13.18.38:162][925]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.38:779][990]Cmd: DELETE
+[2026.02.17-13.18.38:779][990]Cmd: ACTOR DELETE
+[2026.02.17-13.18.38:779][990]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.38:792][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.38:794][990]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.02.17-13.18.39:218][ 31]Cmd: DELETE
+[2026.02.17-13.18.39:218][ 31]Cmd: ACTOR DELETE
+[2026.02.17-13.18.39:219][ 31]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.39:233][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.39:235][ 31]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.17-13.18.40:140][128]Cmd: DELETE
+[2026.02.17-13.18.40:140][128]Cmd: ACTOR DELETE
+[2026.02.17-13.18.40:142][128]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.40:154][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.40:156][128]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.02.17-13.18.40:577][171]Cmd: DELETE
+[2026.02.17-13.18.40:577][171]Cmd: ACTOR DELETE
+[2026.02.17-13.18.40:578][171]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.40:591][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.40:593][171]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.41:970][325]Cmd: DELETE
+[2026.02.17-13.18.41:970][325]Cmd: ACTOR DELETE
+[2026.02.17-13.18.41:973][325]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.41:986][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.41:988][325]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.42:674][399]Cmd: DELETE
+[2026.02.17-13.18.42:675][399]Cmd: ACTOR DELETE
+[2026.02.17-13.18.42:676][399]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.42:689][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.42:690][399]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.43:158][446]Cmd: DELETE
+[2026.02.17-13.18.43:158][446]Cmd: ACTOR DELETE
+[2026.02.17-13.18.43:159][446]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.43:173][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.43:175][446]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.43:595][488]Cmd: DELETE
+[2026.02.17-13.18.43:595][488]Cmd: ACTOR DELETE
+[2026.02.17-13.18.43:596][488]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.43:608][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.43:610][488]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.44:013][526]Cmd: DELETE
+[2026.02.17-13.18.44:013][526]Cmd: ACTOR DELETE
+[2026.02.17-13.18.44:015][526]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.44:029][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.44:030][526]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.17-13.18.44:426][565]Cmd: DELETE
+[2026.02.17-13.18.44:426][565]Cmd: ACTOR DELETE
+[2026.02.17-13.18.44:427][565]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.44:441][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.44:442][565]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.17-13.18.44:937][613]Cmd: DELETE
+[2026.02.17-13.18.44:937][613]Cmd: ACTOR DELETE
+[2026.02.17-13.18.44:938][613]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.44:950][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.44:953][613]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.45:386][656]Cmd: DELETE
+[2026.02.17-13.18.45:386][656]Cmd: ACTOR DELETE
+[2026.02.17-13.18.45:386][656]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2026.02.17-13.18.45:387][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.45:400][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.45:403][656]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.45:873][704]Cmd: DELETE
+[2026.02.17-13.18.45:873][704]Cmd: ACTOR DELETE
+[2026.02.17-13.18.45:875][704]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.45:890][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.45:892][704]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.17-13.18.46:303][745]Cmd: DELETE
+[2026.02.17-13.18.46:303][745]Cmd: ACTOR DELETE
+[2026.02.17-13.18.46:304][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.46:317][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.46:319][745]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.46:916][809]Cmd: DELETE
+[2026.02.17-13.18.46:916][809]Cmd: ACTOR DELETE
+[2026.02.17-13.18.46:917][809]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.46:930][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.46:933][809]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.17-13.18.47:958][920]Cmd: DELETE
+[2026.02.17-13.18.47:958][920]Cmd: ACTOR DELETE
+[2026.02.17-13.18.47:960][920]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.47:973][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.02.17-13.18.47:975][920]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.17-13.18.48:450][969]Cmd: DELETE
+[2026.02.17-13.18.48:450][969]Cmd: ACTOR DELETE
+[2026.02.17-13.18.48:452][969]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.48:463][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.48:465][969]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.02.17-13.18.48:904][ 11]Cmd: DELETE
+[2026.02.17-13.18.48:904][ 11]Cmd: ACTOR DELETE
+[2026.02.17-13.18.48:905][ 11]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.48:919][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.02.17-13.18.48:921][ 11]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.17-13.18.49:339][ 53]Cmd: DELETE
+[2026.02.17-13.18.49:341][ 53]Cmd: ACTOR DELETE
+[2026.02.17-13.18.49:342][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.49:355][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.49:357][ 53]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.49:776][ 93]Cmd: DELETE
+[2026.02.17-13.18.49:776][ 93]Cmd: ACTOR DELETE
+[2026.02.17-13.18.49:777][ 93]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.49:792][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.49:794][ 93]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.17-13.18.50:547][175]Cmd: DELETE
+[2026.02.17-13.18.50:547][175]Cmd: ACTOR DELETE
+[2026.02.17-13.18.50:549][175]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.50:564][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.50:566][175]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.02.17-13.18.51:440][272]Cmd: DELETE
+[2026.02.17-13.18.51:440][272]Cmd: ACTOR DELETE
+[2026.02.17-13.18.51:441][272]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.51:454][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.51:456][272]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.51:934][321]Cmd: DELETE
+[2026.02.17-13.18.51:934][321]Cmd: ACTOR DELETE
+[2026.02.17-13.18.51:935][321]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.51:949][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.51:950][321]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.17-13.18.52:372][361]Cmd: DELETE
+[2026.02.17-13.18.52:372][361]Cmd: ACTOR DELETE
+[2026.02.17-13.18.52:374][361]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.52:386][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.52:388][361]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.52:860][409]Cmd: DELETE
+[2026.02.17-13.18.52:860][409]Cmd: ACTOR DELETE
+[2026.02.17-13.18.52:861][409]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.52:873][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.52:875][409]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.53:269][448]Cmd: DELETE
+[2026.02.17-13.18.53:269][448]Cmd: ACTOR DELETE
+[2026.02.17-13.18.53:270][448]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.53:284][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.53:286][448]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.53:833][506]Cmd: DELETE
+[2026.02.17-13.18.53:833][506]Cmd: ACTOR DELETE
+[2026.02.17-13.18.53:835][506]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.53:846][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.53:848][506]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.02.17-13.18.54:270][549]Cmd: DELETE
+[2026.02.17-13.18.54:270][549]Cmd: ACTOR DELETE
+[2026.02.17-13.18.54:271][549]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.54:283][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.54:285][549]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.02.17-13.18.54:978][622]Cmd: DELETE
+[2026.02.17-13.18.54:978][622]Cmd: ACTOR DELETE
+[2026.02.17-13.18.54:979][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.54:992][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.54:994][622]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.56:060][742]Cmd: DELETE
+[2026.02.17-13.18.56:060][742]Cmd: ACTOR DELETE
+[2026.02.17-13.18.56:060][742]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.56:074][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.56:076][742]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.17-13.18.57:325][880]Cmd: DELETE
+[2026.02.17-13.18.57:325][880]Cmd: ACTOR DELETE
+[2026.02.17-13.18.57:326][880]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.57:338][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.57:340][880]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.57:840][930]Cmd: DELETE
+[2026.02.17-13.18.57:840][930]Cmd: ACTOR DELETE
+[2026.02.17-13.18.57:842][930]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.57:855][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.57:857][930]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.17-13.18.58:596][ 11]Cmd: DELETE
+[2026.02.17-13.18.58:596][ 11]Cmd: ACTOR DELETE
+[2026.02.17-13.18.58:597][ 11]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.58:610][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.18.58:612][ 11]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.59:210][ 75]Cmd: DELETE
+[2026.02.17-13.18.59:210][ 75]Cmd: ACTOR DELETE
+[2026.02.17-13.18.59:210][ 75]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.59:224][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.18.59:226][ 75]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.18.59:679][119]Cmd: DELETE
+[2026.02.17-13.18.59:679][119]Cmd: ACTOR DELETE
+[2026.02.17-13.18.59:681][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.18.59:693][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.02.17-13.18.59:695][119]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.19.00:179][169]Cmd: DELETE
+[2026.02.17-13.19.00:179][169]Cmd: ACTOR DELETE
+[2026.02.17-13.19.00:180][169]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.19.00:193][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.19.00:195][169]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.19.01:004][258]Cmd: DELETE
+[2026.02.17-13.19.01:004][258]Cmd: ACTOR DELETE
+[2026.02.17-13.19.01:005][258]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.19.01:018][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.19.01:021][258]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.17-13.19.09:764][305]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1012.098755
+[2026.02.17-13.19.09:922][324]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-13.19.09:922][324]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1012.248962, Update Interval: 358.862885
+[2026.02.17-13.20.00:738][422]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.00:738][422]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.01:285][431]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.01:285][431]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.01:550][459]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.01:550][459]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.01:725][473]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.01:725][473]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.01:890][492]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.01:890][492]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.02:090][509]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.02:090][509]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.02:271][530]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.02:271][530]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.02:464][546]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.02:464][546]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.02:629][565]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.02:629][565]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.02:821][581]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.02:821][581]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.03:019][604]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.03:019][604]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.03:221][621]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.03:221][621]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.03:394][641]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.03:394][641]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.03:587][657]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.03:587][657]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.03:795][681]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.03:795][681]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.03:989][697]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.03:989][697]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.04:188][720]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.04:188][720]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.04:389][735]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.04:389][735]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.04:599][739]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.04:599][739]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.04:809][741]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.04:809][741]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.04:986][747]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.04:986][747]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.05:173][763]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.05:173][763]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.05:372][786]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.05:372][786]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.05:574][803]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.05:574][803]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.05:764][825]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.05:764][825]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.05:980][844]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.05:980][844]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.06:188][868]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.06:188][868]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.06:448][892]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.06:448][892]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.06:680][919]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.06:680][919]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.06:890][937]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.06:890][937]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.07:088][960]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.07:088][960]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.07:272][975]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.07:272][975]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.07:470][998]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.07:470][998]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.07:663][ 14]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.07:663][ 14]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.07:878][ 39]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.07:878][ 39]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.08:096][ 56]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.08:096][ 56]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.08:287][ 59]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.08:287][ 59]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.08:477][ 61]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.08:477][ 61]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.08:681][ 67]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.08:681][ 67]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.08:877][ 84]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.08:878][ 84]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.09:093][109]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.09:093][109]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.09:292][126]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.09:292][126]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.09:505][151]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.09:506][151]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.09:706][168]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.09:706][168]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.09:920][193]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.09:920][193]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.10:116][209]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.10:116][209]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.10:324][233]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.10:324][233]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.10:542][252]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.10:542][252]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.10:748][276]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.10:748][276]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.10:975][296]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.10:975][296]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.11:181][320]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.11:181][320]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.11:392][338]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.11:392][338]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.11:619][364]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.11:619][364]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.11:858][367]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.11:858][367]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.12:096][371]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.12:096][371]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.12:315][382]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.12:315][382]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.12:520][406]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.12:520][406]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.12:779][430]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.12:779][430]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.12:968][452]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.12:968][452]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.13:203][473]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.13:203][473]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.13:451][502]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.13:451][502]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.13:695][524]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.13:695][524]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.13:918][550]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.13:918][550]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.14:145][570]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.14:146][570]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.14:402][600]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.14:402][600]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.14:646][622]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.14:646][622]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.14:878][649]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.14:878][649]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.15:162][675]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.15:162][675]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.15:416][679]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.15:416][679]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.15:649][682]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.15:649][682]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.15:823][694]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.15:823][694]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.16:063][716]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.16:063][716]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.16:285][742]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.16:285][742]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.16:526][764]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.16:526][764]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.16:742][789]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.16:742][789]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.16:935][805]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.16:935][805]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.17:176][833]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.17:176][833]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.17:444][858]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.17:444][858]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.17:760][895]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.17:760][895]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.18:046][922]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.18:046][922]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.18:285][950]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.18:285][950]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.18:479][966]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.18:479][966]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.18:922][ 17]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.18:922][ 17]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.19:319][ 24]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.19:319][ 24]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.19:660][ 49]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.19:660][ 49]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.20:025][ 86]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.20:025][ 86]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.20:366][126]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.20:366][126]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.20:700][159]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.20:700][159]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.21:015][196]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.21:015][196]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.21:317][225]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.21:317][225]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.21:649][264]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.21:649][264]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.21:958][294]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.21:958][294]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.22:308][335]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.22:308][335]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.22:626][364]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.22:626][364]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.22:971][370]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.22:971][370]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.23:308][390]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.23:308][390]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.23:623][427]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.23:623][427]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.23:908][454]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.23:908][454]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.24:156][483]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.24:156][483]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.24:509][518]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.24:509][518]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.24:726][543]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.24:726][543]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.24:936][561]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.24:936][561]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.25:133][584]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.25:133][584]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.25:344][602]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.25:344][602]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.25:593][631]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.25:593][631]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.25:839][653]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.25:839][653]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.20.26:137][688]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.26:137][688]LogEditorTransaction: Undo Delete Elements
+[2026.02.17-13.20.26:541][694]Cmd: TRANSACTION UNDO
+[2026.02.17-13.20.26:541][694]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.17-13.21.22:524][ 69]LogSlate: Window 'New Level' being destroyed
+[2026.02.17-13.21.22:535][ 69]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.21.22:546][ 69]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.21.22:546][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.21.22:546][ 69]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.02.17-13.21.22:560][ 69]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.21.22:563][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.17-13.21.22:565][ 69]LogStreaming: Display: FlushAsyncLoading(715): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.21.22:567][ 69]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_3'.
+[2026.02.17-13.21.22:567][ 69]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_3
+[2026.02.17-13.21.22:575][ 69]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.21.22:587][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.02.17-13.21.22:587][ 69]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.21.22:588][ 69]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2026.02.17-13.21.48:189][714]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.17-13.22.06:457][545]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.17-13.22.06:457][545]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.17-13.22.06:458][545]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_3.Untitled_3:PersistentLevel.StaticMeshActor_1
+[2026.02.17-13.22.06:458][545]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_3.Untitled_3:PersistentLevel.StaticMeshActor_1
+[2026.02.17-13.22.24:991][758]LogSlate: Window 'Save Level As' being destroyed
+[2026.02.17-13.22.25:068][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.17-13.22.25:081][758]LogSavePackage: Moving output files for package: /Game/Dimensions/DarkVersion
+[2026.02.17-13.22.25:081][758]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/DarkVersion749CB1E1422D738B3A2D1E8CA3FBA369.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap'
+[2026.02.17-13.22.25:110][758]LogFileHelpers: Saving map 'DarkVersion' took 0.107
+[2026.02.17-13.22.25:110][758]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.22.25:155][758]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.22.25:155][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.22.25:167][758]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.22.25:168][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.17-13.22.25:169][758]LogStreaming: Display: FlushAsyncLoading(716): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.22.25:170][758]LogAudio: Display: Audio Device (ID: 1) registered with world 'DarkVersion'.
+[2026.02.17-13.22.25:170][758]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.17-13.22.25:178][758]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.22.25:190][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.17-13.22.25:193][758]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.22.25:193][758]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.037ms to complete.
+[2026.02.17-13.22.25:259][758]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-13.22.25:260][758]LogContentValidation: Enabled validators:
+[2026.02.17-13.22.25:260][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-13.22.25:260][758]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-13.22.25:260][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-13.22.25:260][758]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-13.22.25:260][758]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-13.22.25:260][758]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-13.22.25:260][758]AssetCheck: /Game/Dimensions/DarkVersion Validating asset
+[2026.02.17-13.22.25:285][758]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.17-13.22.35:286][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.22.35:288][732]LogStreaming: Display: FlushAsyncLoading(717): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.22.35:290][732]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.17-13.22.35:292][732]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.02.17-13.22.35:292][732]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.22.35:303][732]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.22.35:303][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.22.35:317][732]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.22.35:317][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.17-13.22.35:318][732]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.22.35:318][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.22.35:333][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.17-13.22.35:348][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.17-13.22.35:350][732]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.02.17-13.22.35:350][732]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.17-13.22.35:360][732]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.22.35:375][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.17-13.22.35:457][732]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.22.35:457][732]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.047ms to complete.
+[2026.02.17-13.22.36:354][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.22.36:355][817]LogStreaming: Display: FlushAsyncLoading(719): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.22.36:357][817]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.17-13.22.36:358][817]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/DarkVersion.DarkVersion
+[2026.02.17-13.22.36:358][817]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.22.36:394][817]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.22.36:394][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.22.36:407][817]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.22.36:408][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.17-13.22.36:409][817]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.22.36:409][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.22.36:422][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.17-13.22.36:436][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.17-13.22.36:438][817]LogAudio: Display: Audio Device (ID: 1) registered with world 'DarkVersion'.
+[2026.02.17-13.22.36:438][817]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.17-13.22.36:526][817]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.22.36:541][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.17-13.22.36:545][817]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.22.36:545][817]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.05ms to complete.
+[2026.02.17-13.23.04:063][772]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.17-13.23.20:321][588]LogStreaming: Display: FlushAsyncLoading(721): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.23.20:323][588]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.17-13.23.20:482][590]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.02.17-13.23.20:488][590]LogActorFactory: Actor Factory attempting to spawn World /Game/Dimensions/LightVersion.LightVersion
+[2026.02.17-13.23.20:488][590]LogActorFactory: Actor Factory attempting to spawn World /Game/Dimensions/LightVersion.LightVersion
+[2026.02.17-13.23.20:488][590]LogStreaming: Display: FlushAsyncLoading(722): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.23.20:491][590]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.02.17-13.23.20:987][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.17-13.23.20:989][648]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2026.02.17-13.23.24:494][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.23.26:469][ 42]LogSlate: Window 'Save Content' being destroyed
+[2026.02.17-13.23.26:481][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-13.23.26:587][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.02.17-13.23.26:599][ 42]LogSavePackage: Moving output files for package: /Game/Dimensions/DarkVersion
+[2026.02.17-13.23.26:599][ 42]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/DarkVersion2AFA13FE4FE071C8626CE7B574D796BE.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap'
+[2026.02.17-13.23.26:604][ 42]LogFileHelpers: Saving map 'DarkVersion' took 0.038
+[2026.02.17-13.23.26:663][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.071 ms (total: 820.736 ms)
+[2026.02.17-13.23.26:663][ 42]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.02.17-13.23.26:663][ 42]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.23.26:674][ 42]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.23.26:674][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.23.26:684][ 42]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.23.26:685][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.02.17-13.23.26:687][ 42]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.23.26:687][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.23.26:698][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.02.17-13.23.26:710][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.17-13.23.26:710][ 42]LogStreaming: Display: FlushAsyncLoading(723): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.23.26:712][ 42]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.02.17-13.23.26:712][ 42]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.17-13.23.26:720][ 42]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.23.26:732][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.17-13.23.26:737][ 42]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.23.26:737][ 42]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.04ms to complete.
+[2026.02.17-13.23.26:808][ 42]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-13.23.26:808][ 42]LogContentValidation: Enabled validators:
+[2026.02.17-13.23.26:808][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-13.23.26:808][ 42]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-13.23.26:808][ 42]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-13.23.26:808][ 42]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-13.23.26:808][ 42]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-13.23.26:808][ 42]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-13.23.28:848][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.23.28:849][266]LogStreaming: Display: FlushAsyncLoading(724): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.23.28:851][266]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.17-13.23.28:852][266]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/DarkVersion.DarkVersion
+[2026.02.17-13.23.28:852][266]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.23.28:865][266]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.23.28:865][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.23.28:877][266]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.23.28:877][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.17-13.23.28:878][266]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.23.28:878][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.23.28:891][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.17-13.23.28:904][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.17-13.23.28:906][266]LogAudio: Display: Audio Device (ID: 1) registered with world 'DarkVersion'.
+[2026.02.17-13.23.28:906][266]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.17-13.23.28:917][266]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.23.28:931][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.17-13.23.28:935][266]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.23.29:018][266]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83.281ms to complete.
+[2026.02.17-13.23.30:186][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.02.17-13.23.30:187][383]LogStreaming: Display: FlushAsyncLoading(726): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.23.30:188][383]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.17-13.23.30:189][383]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.02.17-13.23.30:189][383]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.23.30:235][383]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.23.30:235][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.23.30:250][383]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.23.30:251][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.17-13.23.30:252][383]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.23.30:253][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.23.30:267][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.17-13.23.30:279][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.17-13.23.30:357][383]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.02.17-13.23.30:357][383]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.17-13.23.30:366][383]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.23.30:379][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.17-13.23.30:384][383]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.23.30:384][383]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.051ms to complete.
+[2026.02.17-13.23.30:869][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.23.30:870][427]LogStreaming: Display: FlushAsyncLoading(728): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.23.30:871][427]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.17-13.23.30:872][427]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/DarkVersion.DarkVersion
+[2026.02.17-13.23.30:872][427]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.23.30:884][427]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.23.30:884][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.23.30:896][427]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.23.30:897][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.17-13.23.30:898][427]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.23.30:898][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.23.30:912][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.17-13.23.30:925][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.17-13.23.30:927][427]LogAudio: Display: Audio Device (ID: 1) registered with world 'DarkVersion'.
+[2026.02.17-13.23.30:927][427]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.17-13.23.30:937][427]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.23.30:951][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.17-13.23.30:955][427]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.23.31:015][427]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.283ms to complete.
+[2026.02.17-13.23.32:702][620]Cmd: DELETE
+[2026.02.17-13.23.32:702][620]Cmd: ACTOR DELETE
+[2026.02.17-13.23.32:704][620]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.23.32:718][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.17-13.23.32:719][620]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.17-13.23.37:356][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.23.38:576][148]LogSlate: Window 'Save Content' being destroyed
+[2026.02.17-13.23.38:587][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-13.23.38:663][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.02.17-13.23.38:674][148]LogSavePackage: Moving output files for package: /Game/Dimensions/DarkVersion
+[2026.02.17-13.23.38:674][148]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/DarkVersion7B720E404F6F33F65B3222815AB4A002.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap'
+[2026.02.17-13.23.38:680][148]LogFileHelpers: Saving map 'DarkVersion' took 0.038
+[2026.02.17-13.23.38:742][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.886 ms (total: 975.623 ms)
+[2026.02.17-13.23.38:742][148]LogStreaming: Display: FlushAsyncLoading(730): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.23.38:743][148]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.17-13.23.38:744][148]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.02.17-13.23.38:744][148]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.23.38:755][148]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.23.38:755][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.23.38:765][148]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.23.38:766][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.17-13.23.38:766][148]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.23.38:768][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.23.38:780][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.17-13.23.38:793][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.02.17-13.23.38:795][148]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.02.17-13.23.38:795][148]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.17-13.23.38:803][148]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.23.38:815][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.17-13.23.38:818][148]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.23.38:818][148]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.039ms to complete.
+[2026.02.17-13.23.38:892][148]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-13.23.38:892][148]LogContentValidation: Enabled validators:
+[2026.02.17-13.23.38:892][148]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-13.23.38:892][148]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-13.23.38:892][148]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-13.23.38:892][148]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-13.23.38:892][148]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-13.23.38:892][148]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-13.24.33:840][488]LogSlate: Window 'New Level' being destroyed
+[2026.02.17-13.24.33:853][488]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.24.33:865][488]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.24.33:865][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.24.33:876][488]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.24.33:877][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.02.17-13.24.33:878][488]LogStreaming: Display: FlushAsyncLoading(732): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.24.33:880][488]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_4'.
+[2026.02.17-13.24.33:880][488]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_4
+[2026.02.17-13.24.33:888][488]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.24.33:901][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.02.17-13.24.33:902][488]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.24.33:902][488]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2026.02.17-13.24.39:541][ 31]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.17-13.24.39:541][ 31]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.17-13.24.39:542][ 31]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_4.Untitled_4:PersistentLevel.StaticMeshActor_1
+[2026.02.17-13.24.39:542][ 31]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_4.Untitled_4:PersistentLevel.StaticMeshActor_1
+[2026.02.17-13.24.51:433][217]LogSlate: Window 'Save Level As' being destroyed
+[2026.02.17-13.24.51:522][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.17-13.24.51:534][217]LogSavePackage: Moving output files for package: /Game/Dimensions/PersistentLvl
+[2026.02.17-13.24.51:534][217]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/PersistentLvlAD7D340B4042FB7ADC5F74B966896A51.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/PersistentLvl.umap'
+[2026.02.17-13.24.51:546][217]LogFileHelpers: Saving map 'PersistentLvl' took 0.104
+[2026.02.17-13.24.51:546][217]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/PersistentLvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.24.51:558][217]LogWorld: UWorld::CleanupWorld for PersistentLvl, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.24.51:558][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.24.51:569][217]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.24.51:569][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.17-13.24.51:570][217]LogStreaming: Display: FlushAsyncLoading(733): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.24.51:571][217]LogAudio: Display: Audio Device (ID: 1) registered with world 'PersistentLvl'.
+[2026.02.17-13.24.51:571][217]LogChaosDD: Creating Chaos Debug Draw Scene for world PersistentLvl
+[2026.02.17-13.24.51:580][217]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.24.51:592][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.02.17-13.24.51:595][217]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.24.51:595][217]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.04ms to complete.
+[2026.02.17-13.24.51:629][217]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-13.24.51:629][217]LogContentValidation: Enabled validators:
+[2026.02.17-13.24.51:629][217]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-13.24.51:629][217]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-13.24.51:629][217]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-13.24.51:629][217]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-13.24.51:629][217]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-13.24.51:629][217]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-13.24.51:630][217]AssetCheck: /Game/Dimensions/PersistentLvl Validating asset
+[2026.02.17-13.24.51:646][217]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.17-13.24.56:540][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.24.56:542][699]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/PersistentLvl.PersistentLvl
+[2026.02.17-13.24.56:542][699]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/PersistentLvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.24.56:553][699]LogWorld: UWorld::CleanupWorld for PersistentLvl, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.24.56:553][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.24.56:566][699]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.24.56:567][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.17-13.24.56:567][699]LogStreaming: Display: FlushAsyncLoading(734): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.24.56:570][699]LogAudio: Display: Audio Device (ID: 1) registered with world 'PersistentLvl'.
+[2026.02.17-13.24.56:570][699]LogChaosDD: Creating Chaos Debug Draw Scene for world PersistentLvl
+[2026.02.17-13.24.56:580][699]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.24.56:594][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.17-13.24.56:598][699]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.24.56:598][699]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.045ms to complete.
+[2026.02.17-13.24.59:182][945]Cmd: DELETE
+[2026.02.17-13.24.59:182][945]Cmd: ACTOR DELETE
+[2026.02.17-13.24.59:183][945]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.17-13.24.59:196][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.24.59:198][945]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.02.17-13.25.19:503][976]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1381.833862
+[2026.02.17-13.25.19:667][991]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-13.25.19:667][991]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1381.986694, Update Interval: 351.155731
+[2026.02.17-13.25.24:298][404]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Dimensions/DarkVersion) is flushing async loading
+[2026.02.17-13.25.24:298][404]LogStreaming: Display: FlushAsyncLoading(735): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.25.24:301][404]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Dimensions/LightVersion) is flushing async loading
+[2026.02.17-13.25.24:312][404]LogSlate: Window 'Open Level' being destroyed
+[2026.02.17-13.25.24:319][404]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.17-13.27.11:903][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.17-13.27.13:599][786]LogSlate: Window 'Save Content' being destroyed
+[2026.02.17-13.27.13:615][786]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.17-13.27.13:690][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.02.17-13.27.13:702][786]LogSavePackage: Moving output files for package: /Game/Dimensions/PersistentLvl
+[2026.02.17-13.27.13:703][786]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/PersistentLvlC60BFA6C4E48DAC79A8614B9F17E185E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/PersistentLvl.umap'
+[2026.02.17-13.27.13:708][786]LogFileHelpers: Saving map 'PersistentLvl' took 0.038
+[2026.02.17-13.27.13:767][786]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.059 ms (total: 1.12 sec)
+[2026.02.17-13.27.13:767][786]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/DarkVersion.DarkVersion
+[2026.02.17-13.27.13:767][786]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.27.13:778][786]LogWorld: UWorld::CleanupWorld for PersistentLvl, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.27.13:778][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.27.13:778][786]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.27.13:778][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.27.13:778][786]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.27.13:778][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.27.13:789][786]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.27.13:790][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.02.17-13.27.13:791][786]LogAudio: Display: Audio Device (ID: 1) registered with world 'DarkVersion'.
+[2026.02.17-13.27.13:791][786]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.17-13.27.13:799][786]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.27.13:813][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.17-13.27.13:817][786]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.27.13:817][786]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.037ms to complete.
+[2026.02.17-13.27.13:907][786]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.17-13.27.13:907][786]LogContentValidation: Enabled validators:
+[2026.02.17-13.27.13:907][786]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.17-13.27.13:907][786]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.17-13.27.13:907][786]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.17-13.27.13:907][786]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.17-13.27.13:907][786]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.17-13.27.13:907][786]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.17-13.27.13:926][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.02.17-13.27.16:472][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.02.17-13.27.16:472][ 74]LogStreaming: Display: FlushAsyncLoading(737): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.27.16:474][ 74]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.17-13.27.16:475][ 74]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.02.17-13.27.16:475][ 74]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.27.16:487][ 74]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.27.16:487][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.27.16:500][ 74]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.27.16:501][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.17-13.27.16:502][ 74]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.27.16:503][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.27.16:517][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.17-13.27.16:531][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.17-13.27.16:533][ 74]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.02.17-13.27.16:533][ 74]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.17-13.27.16:543][ 74]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.27.16:561][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.17-13.27.16:628][ 74]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.27.16:628][ 74]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.049ms to complete.
+[2026.02.17-13.29.35:922][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.02.17-13.29.35:923][744]LogStreaming: Display: FlushAsyncLoading(739): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.29.35:925][744]LogChaosDD: Creating Chaos Debug Draw Scene for world PersistentLvl
+[2026.02.17-13.29.35:926][744]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/PersistentLvl.PersistentLvl
+[2026.02.17-13.29.35:927][744]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/PersistentLvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.29.35:939][744]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.29.35:939][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.29.35:951][744]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.29.35:953][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.17-13.29.35:954][744]LogWorld: UWorld::CleanupWorld for PersistentLvl, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.29.35:954][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.29.35:968][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.17-13.29.35:981][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.17-13.29.35:983][744]LogAudio: Display: Audio Device (ID: 1) registered with world 'PersistentLvl'.
+[2026.02.17-13.29.35:983][744]LogChaosDD: Creating Chaos Debug Draw Scene for world PersistentLvl
+[2026.02.17-13.29.35:985][744]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Dimensions/LightVersion) is flushing async loading
+[2026.02.17-13.29.35:992][744]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Dimensions/DarkVersion) is flushing async loading
+[2026.02.17-13.29.36:004][744]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.29.36:024][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.17-13.29.36:110][744]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.29.36:110][744]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.056ms to complete.
+[2026.02.17-13.31.22:129][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.17-13.31.22:131][348]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/PersistentLvl.PersistentLvl
+[2026.02.17-13.31.22:131][348]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/PersistentLvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.17-13.31.22:181][348]LogWorld: UWorld::CleanupWorld for PersistentLvl, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.31.22:181][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.31.22:181][348]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.31.22:181][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.31.22:181][348]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.17-13.31.22:181][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.17-13.31.22:197][348]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.17-13.31.22:198][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.02.17-13.31.22:199][348]LogStreaming: Display: FlushAsyncLoading(743): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.31.22:200][348]LogAudio: Display: Audio Device (ID: 1) registered with world 'PersistentLvl'.
+[2026.02.17-13.31.22:200][348]LogChaosDD: Creating Chaos Debug Draw Scene for world PersistentLvl
+[2026.02.17-13.31.22:202][348]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Dimensions/DarkVersion) is flushing async loading
+[2026.02.17-13.31.22:210][348]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Dimensions/LightVersion) is flushing async loading
+[2026.02.17-13.31.22:302][348]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.17-13.31.22:317][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.17-13.31.22:322][348]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.17-13.31.22:322][348]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.051ms to complete.
+[2026.02.17-13.31.22:346][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.17-13.31.32:696][580]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1755.023560
+[2026.02.17-13.31.32:864][600]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.17-13.31.32:864][600]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1755.182739, Update Interval: 349.985657
+[2026.02.17-13.33.18:644][659]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.02.17-13.33.18:655][659]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.02.17-13.33.18:661][659]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.02.17-13.33.18:668][660]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.02.17-13.33.30:434][ 71]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_TimeShiftManager
+[2026.02.17-13.33.30:439][ 71]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.02.17-13.33.33:710][428]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_TimeShiftManager.BP_TimeShiftManager
+[2026.02.17-13.33.33:711][428]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.02.17-13.33.33:909][428]LogStreaming: Display: FlushAsyncLoading(746): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.17-13.33.34:504][428]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2026.02.17-13.33.34:516][428]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2026.02.17-13.34.00:183][822]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
