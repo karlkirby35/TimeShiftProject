@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/karlk/TimeShiftProject/Content/Dimensions/LightVersion.umap",
+				"C:/Users/karlk/TimeShiftProject/Content/Dimensions/DarkVersion.umap",
+				"C:/Users/karlk/TimeShiftProject/Content/ChangeLevel.uasset",
+				"C:/Users/karlk/TimeShiftProject/Content/worldfade.uasset",
+				"C:/Users/karlk/TimeShiftProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap",
 				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap",
 				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/BP_TimeShiftManager.uasset",

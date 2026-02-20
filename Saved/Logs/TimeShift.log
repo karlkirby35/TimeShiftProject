@@ -1710,3 +1710,904 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.20-14.50.32:415][786]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2883.675049
 [2026.02.20-14.50.33:415][789]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.20-14.50.33:415][789]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2884.341309, Update Interval: 320.145874
+[2026.02.20-14.53.33:494][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-14.53.33:494][424]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.20-14.53.33:494][424]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-14.53.33:495][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-14.53.33:497][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-14.53.33:503][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-14.53.33:521][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-14.53.33:521][424]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.20-14.53.33:521][424]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.02.20-14.53.33:524][424]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.02.20-14.53.33:535][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2026.02.20-14.53.33:597][425]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2026.02.20-14.56.46:898][524]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3258.163818
+[2026.02.20-14.56.47:898][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-14.56.47:898][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3258.829834, Update Interval: 357.540833
+[2026.02.20-15.03.19:949][703]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3651.219482
+[2026.02.20-15.03.20:950][706]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-15.03.20:951][706]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3651.886475, Update Interval: 359.796753
+[2026.02.20-15.03.48:505][789]LogDerivedDataCache: C:/Users/karlk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.20-15.09.52:013][879]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4043.281982
+[2026.02.20-15.09.53:012][882]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-15.09.53:012][882]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4043.950439, Update Interval: 314.522552
+[2026.02.20-15.16.04:731][997]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4415.999023
+[2026.02.20-15.16.05:731][  0]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-15.16.05:731][  0]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4416.665039, Update Interval: 304.260986
+[2026.02.20-15.21.51:116][ 36]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4762.383301
+[2026.02.20-15.21.52:117][ 39]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-15.21.52:117][ 39]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4763.050293, Update Interval: 313.530090
+[2026.02.20-15.27.52:504][120]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5123.773438
+[2026.02.20-15.27.53:504][123]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-15.27.53:504][124]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5124.439941, Update Interval: 352.618805
+[2026.02.20-15.31.26:960][873]LogStreaming: Display: FlushAsyncLoading(334): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.20-15.31.27:367][873]LogTexture: Display: Building textures: /Engine/Transient.Texture2D_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.515617 MB), EncodeSpeed: Fast
+[2026.02.20-15.31.37:917][464]LogTexture: Display: Building textures: /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.02.20-15.31.37:963][464]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: ff0b7891efbc24c4fd39789ad2a754999e97255d), compiling. Is special engine material.
+[2026.02.20-15.31.39:959][464]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.02.20-15.31.39:980][464]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.02.20-15.31.39:990][464]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.02.20-15.31.40:001][464]LogDeviceProfileManager: Going up to parent DeviceProfile [AppleTV]
+[2026.02.20-15.31.40:001][464]LogDeviceProfileManager: Going up to parent DeviceProfile [IOS]
+[2026.02.20-15.31.40:001][464]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.02.20-15.31.40:012][464]LogDeviceProfileManager: Display: Deviceprofile None not found.
+[2026.02.20-15.31.40:058][464]LogTexture: Display: Building textures: /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2026.02.20-15.32.08:587][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.02.20-15.32.09:842][127]LogSlate: Window 'Save Content' being destroyed
+[2026.02.20-15.32.09:854][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-15.32.09:897][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimensions/LightVersion" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/LightVersion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.20-15.32.09:944][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.20-15.32.09:955][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_0 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:955][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_1 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:956][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_2 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:956][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_3 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:956][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_4 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:956][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_5 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:956][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_6 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:956][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_7 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:956][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_8 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:956][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_9 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:956][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_10 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:956][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_11 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:958][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_12 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:958][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_13 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:958][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_14 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:958][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_15 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:958][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_16 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:958][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_17 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:958][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_18 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:958][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_19 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:958][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_20 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:958][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_21 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:958][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_22 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:958][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_23 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:958][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_24 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:959][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_25 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:959][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_26 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:959][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_27 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:960][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_28 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:960][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_29 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:960][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_30 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:960][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_31 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:960][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_32 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:960][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_33 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:960][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_34 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:960][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_35 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:960][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_36 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:960][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_37 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:960][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_38 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:960][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_39 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:961][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_40 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:961][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_41 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:961][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_42 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:961][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_43 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:961][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_44 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:961][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_45 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:961][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_46 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:961][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_47 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:961][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_48 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:961][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_49 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:961][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_50 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:961][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_51 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:961][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_52 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:962][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_53 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:962][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_54 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:962][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_55 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:962][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_56 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:962][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_57 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:962][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_58 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:962][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_59 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:962][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_60 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:962][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_61 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:962][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_62 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.09:962][127]LogLandscape: Display: The component /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.LandscapeComponent_63 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.32.10:022][127]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.02.20-15.32.10:022][127]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersionF6C898834DFC305625FEDA8E7B09A87F.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/LightVersion.umap'
+[2026.02.20-15.32.10:042][127]LogFileHelpers: Saving map 'LightVersion' took 0.146
+[2026.02.20-15.32.10:083][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 229.035 ms
+[2026.02.20-15.32.10:083][127]LogStreaming: Display: FlushAsyncLoading(343): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.20-15.32.10:087][127]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.20-15.32.10:090][127]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/DarkVersion.DarkVersion
+[2026.02.20-15.32.10:093][127]Cmd: MAP LOAD FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/DarkVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.20-15.32.10:124][127]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-15.32.10:133][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.32.10:151][127]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.20-15.32.10:155][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.02.20-15.32.10:160][127]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-15.32.10:160][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.32.10:179][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.20-15.32.10:198][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.20-15.32.10:200][127]LogAudio: Display: Audio Device (ID: 1) registered with world 'DarkVersion'.
+[2026.02.20-15.32.10:200][127]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.20-15.32.10:217][127]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.20-15.32.10:236][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.20-15.32.10:247][127]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.20-15.32.10:247][127]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2026.02.20-15.32.10:308][127]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-15.32.10:308][127]LogContentValidation: Enabled validators:
+[2026.02.20-15.32.10:308][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-15.32.10:308][127]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-15.32.10:308][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-15.32.10:308][127]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-15.32.10:308][127]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-15.32.10:308][127]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-15.32.10:342][127]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/karlk/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.20-15.32.19:802][661]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-15.32.19:811][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-15.32.19:812][661]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.20-15.32.19:831][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019760s)
+[2026.02.20-15.32.19:831][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.019823s)
+[2026.02.20-15.32.19:863][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.20-15.32.19:864][661]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.20-15.32.19:866][661]LogPlayLevel: PIE: World Init took: (0.001796s)
+[2026.02.20-15.32.19:866][661]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.02.20-15.32.19:866][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.20-15.32.19:866][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.20-15.32.19:866][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.20-15.32.19:866][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.20-15.32.19:866][661]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.20-15.32.19:866][661]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.20-15.32.19:866][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.20-15.32.19:866][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.20-15.32.19:867][661]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.20-15.32.19:867][661]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.20-15.32.19:867][661]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.20-15.32.19:870][661]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.20-15.32.19:891][661]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.02.20-15.32.19:892][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.20-15.32.19:892][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.20-15.32.19:892][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.20-15.32.19:892][661]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.02.20-15.32.19:892][661]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.02.20-15.32.19:895][661]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.02.20-15.32.19:895][661]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.02.20-15.32.19:895][661]LogInit: FAudioDevice initialized with ID 4.
+[2026.02.20-15.32.19:895][661]LogAudio: Display: Audio Device (ID: 4) registered with world 'DarkVersion'.
+[2026.02.20-15.32.19:895][661]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.02.20-15.32.19:902][661]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.20-15.32.19:904][661]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 60) at 2026.02.20-15.32.19
+[2026.02.20-15.32.19:904][661]LogWorld: Bringing up level for play took: 0.002239
+[2026.02.20-15.32.19:907][661]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.02.20-15.32.19:922][661]PIE: Server logged in
+[2026.02.20-15.32.19:925][661]PIE: Play in editor total start time 0.114 seconds.
+[2026.02.20-15.32.24:174][916]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.20-15.32.24:174][916]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.20-15.32.24:174][916]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.20-15.32.24:174][916]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.20-15.32.24:175][916]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-15.32.24:176][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.32.24:216][916]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.20-15.32.24:218][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.20-15.32.24:220][916]LogStreaming: Display: FlushAsyncLoading(345): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.20-15.32.24:240][916]LogAudio: Display: Audio Device (ID: 4) registered with world 'LightVersion'.
+[2026.02.20-15.32.24:240][916]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.20-15.32.24:241][916]LogPlayLevel: PIE: World Init took: (0.001777s)
+[2026.02.20-15.32.24:241][916]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.20-15.32.24:251][916]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.02.20-15.32.24
+[2026.02.20-15.32.24:251][916]LogWorld: Bringing up level for play took: 0.008545
+[2026.02.20-15.32.24:256][916]LogLoad: Took 0.080645 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.02.20-15.32.24:256][916]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.02.20-15.32.26:088][ 26]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.02.20-15.32.26:088][ 26]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.02.20-15.32.26:088][ 26]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.02.20-15.32.26:088][ 26]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.20-15.32.26:089][ 26]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-15.32.26:089][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.32.26:105][ 26]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.20-15.32.26:108][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.20-15.32.26:110][ 26]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.20-15.32.26:127][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016755s)
+[2026.02.20-15.32.26:127][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.016822s)
+[2026.02.20-15.32.26:127][ 26]LogAudio: Display: Audio Device (ID: 4) registered with world 'DarkVersion'.
+[2026.02.20-15.32.26:127][ 26]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.20-15.32.26:128][ 26]LogPlayLevel: PIE: World Init took: (0.001789s)
+[2026.02.20-15.32.26:128][ 26]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.20-15.32.26:131][ 26]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 60) at 2026.02.20-15.32.26
+[2026.02.20-15.32.26:131][ 26]LogWorld: Bringing up level for play took: 0.001942
+[2026.02.20-15.32.26:136][ 26]LogLoad: Took 0.048356 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_DarkVersion)
+[2026.02.20-15.32.26:136][ 26]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.20-15.32.28:649][177]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.20-15.32.28:649][177]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.20-15.32.28:649][177]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.20-15.32.28:649][177]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.20-15.32.28:651][177]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-15.32.28:652][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.32.28:668][177]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.20-15.32.28:671][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.20-15.32.28:673][177]LogStreaming: Display: FlushAsyncLoading(346): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.20-15.32.28:691][177]LogAudio: Display: Audio Device (ID: 4) registered with world 'LightVersion'.
+[2026.02.20-15.32.28:691][177]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.20-15.32.28:692][177]LogPlayLevel: PIE: World Init took: (0.001626s)
+[2026.02.20-15.32.28:692][177]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.20-15.32.28:700][177]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.02.20-15.32.28
+[2026.02.20-15.32.28:701][177]LogWorld: Bringing up level for play took: 0.007929
+[2026.02.20-15.32.28:705][177]LogLoad: Took 0.054917 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.02.20-15.32.28:705][177]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.02.20-15.32.31:181][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-15.32.31:181][324]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.20-15.32.31:181][324]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-15.32.31:182][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.32.31:184][324]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-15.32.31:188][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.32.31:205][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-15.32.31:205][324]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.02.20-15.32.31:205][324]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.02.20-15.32.31:208][324]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.02.20-15.32.31:218][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.20-15.32.31:331][325]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: ================================================
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Total job queries 4,013, among them cache hits 1,784 (44.46%), DDC hits 1,518 (37.83%), Duplicates 267 (6.65%)
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Tracking 1,962 distinct input hashes that result in 1,209 distinct outputs (61.62%)
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: RAM used: 12.36 MiB of 819.20 MiB budget. Usage: 1.51%
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Shaders Compiled: 444
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Jobs assigned 444, completed 444 (100%)
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Average time worker was idle: 481.15 s
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Time job spent in pending queue: average 4.37 s, longest 14.28 s
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Job execution time: average 4.63 s, max 12.74 s
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Job life time (pending + execution): average 9.00 s, max 17.44
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Shader code size: total 4.309 MiB, numShaders 464, average 9.509 KiB, min 2.105 KiB, max 51.403 KiB
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 44.44 s
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Jobs were issued in 109 batches (only local compilation was used), average 4.07 jobs/batch
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Average processing rate: 9.99 jobs/sec
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Total thread time: 309.527 s
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Total thread preprocess time: 45 s
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Percentage time preprocessing: 14.54%
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Effective parallelization: 6.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.870536
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display:                              FRayTracingDecalMaterialCHS_AHS (compiled    2 times, average 2.25 sec, max 3.04 sec, min 1.46 sec)
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   14 times, average 1.91 sec, max 3.18 sec, min 1.25 sec)
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   14 times, average 1.80 sec, max 2.79 sec, min 1.66 sec)
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display:                               FLightFunctionRayTracingShader (compiled    1 times, average 1.67 sec, max 1.67 sec, min 1.67 sec)
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   14 times, average 1.47 sec, max 2.89 sec, min 0.93 sec)
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 8.64% of total time (compiled   14 times, average 1.91 sec, max 3.18 sec, min 1.25 sec)
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.12% of total time (compiled   14 times, average 1.80 sec, max 2.79 sec, min 1.66 sec)
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.59% of total time (compiled   34 times, average 0.69 sec, max 2.38 sec, min 0.35 sec)
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.67% of total time (compiled   14 times, average 1.47 sec, max 2.89 sec, min 0.93 sec)
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.02% of total time (compiled   27 times, average 0.58 sec, max 1.25 sec, min 0.34 sec)
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: === Material stats ===
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Materials Translated:    162
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Material Translation Only: 0.07 s (49%)
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.02.20-15.32.35:528][576]LogShaderCompilers: Display: ================================================
+[2026.02.20-15.33.47:685][903]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-15.33.47:694][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-15.33.47:694][903]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.20-15.33.47:712][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018341s)
+[2026.02.20-15.33.47:712][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.018383s)
+[2026.02.20-15.33.47:731][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.20-15.33.47:734][903]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.20-15.33.47:736][903]LogPlayLevel: PIE: World Init took: (0.001725s)
+[2026.02.20-15.33.47:737][903]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.02.20-15.33.47:737][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.20-15.33.47:737][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.20-15.33.47:737][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.20-15.33.47:737][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.20-15.33.47:737][903]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.20-15.33.47:737][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.20-15.33.47:737][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.20-15.33.47:737][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.20-15.33.47:737][903]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.20-15.33.47:737][903]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.20-15.33.47:737][903]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.20-15.33.47:739][903]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.20-15.33.47:756][903]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.02.20-15.33.47:756][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.20-15.33.47:756][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.20-15.33.47:756][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.20-15.33.47:757][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.02.20-15.33.47:757][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.02.20-15.33.47:760][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.02.20-15.33.47:760][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.02.20-15.33.47:760][903]LogInit: FAudioDevice initialized with ID 5.
+[2026.02.20-15.33.47:760][903]LogAudio: Display: Audio Device (ID: 5) registered with world 'DarkVersion'.
+[2026.02.20-15.33.47:760][903]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.02.20-15.33.47:764][903]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.20-15.33.47:766][903]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 60) at 2026.02.20-15.33.47
+[2026.02.20-15.33.47:766][903]LogWorld: Bringing up level for play took: 0.002376
+[2026.02.20-15.33.47:769][903]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2026.02.20-15.33.47:775][903]PIE: Server logged in
+[2026.02.20-15.33.47:777][903]PIE: Play in editor total start time 0.083 seconds.
+[2026.02.20-15.33.51:207][108]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.20-15.33.51:207][108]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.20-15.33.51:207][108]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.20-15.33.51:207][108]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.20-15.33.51:208][108]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-15.33.51:209][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.33.51:227][108]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.20-15.33.51:228][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.20-15.33.51:231][108]LogStreaming: Display: FlushAsyncLoading(347): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.20-15.33.51:252][108]LogAudio: Display: Audio Device (ID: 5) registered with world 'LightVersion'.
+[2026.02.20-15.33.51:252][108]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.20-15.33.51:253][108]LogPlayLevel: PIE: World Init took: (0.001761s)
+[2026.02.20-15.33.51:253][108]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.20-15.33.51:262][108]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.02.20-15.33.51
+[2026.02.20-15.33.51:262][108]LogWorld: Bringing up level for play took: 0.008449
+[2026.02.20-15.33.51:266][108]LogLoad: Took 0.059439 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.02.20-15.33.51:266][108]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.02.20-15.34.32:626][589]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5523.852539
+[2026.02.20-15.34.32:809][600]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-15.34.32:809][600]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5524.019531, Update Interval: 356.160156
+[2026.02.20-15.34.34:479][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-15.34.34:479][699]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.20-15.34.34:479][699]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-15.34.34:481][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.34.34:483][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-15.34.34:487][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.34.34:502][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-15.34.34:502][699]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.02.20-15.34.34:504][699]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.02.20-15.34.34:506][699]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.02.20-15.34.34:514][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.02.20-15.34.34:575][701]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.02.20-15.34.38:495][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.20-15.34.40:041][911]LogSlate: Window 'Save Content' being destroyed
+[2026.02.20-15.34.40:050][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-15.34.40:087][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimensions/DarkVersion" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/DarkVersion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.02.20-15.34.40:132][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.20-15.34.40:134][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_0 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:134][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_1 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:135][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_2 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:135][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_3 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:135][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_4 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:135][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_5 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:135][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_6 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:135][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_7 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:136][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_8 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:136][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_9 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:136][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_10 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:136][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_11 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:136][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_12 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:136][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_13 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:136][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_14 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:136][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_15 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:136][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_16 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:136][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_17 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:136][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_18 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:136][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_19 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:136][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_20 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:138][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_21 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:138][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_22 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:138][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_23 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:138][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_24 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:138][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_25 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:138][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_26 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:138][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_27 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:138][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_28 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:138][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_29 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:139][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_30 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:139][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_31 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:139][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_32 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:139][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_33 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:139][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_34 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:139][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_35 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:139][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_36 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:139][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_37 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:139][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_38 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:139][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_39 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:140][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_40 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:140][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_41 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:140][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_42 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:140][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_43 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:140][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_44 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:140][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_45 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:140][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_46 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:140][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_47 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:140][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_48 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:140][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_49 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:140][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_50 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:141][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_51 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:141][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_52 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:141][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_53 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:141][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_54 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:141][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_55 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:141][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_56 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:141][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_57 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:141][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_58 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:142][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_59 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:142][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_60 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:142][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_61 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:142][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_62 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:142][911]LogLandscape: Display: The component /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.Landscape_0.LandscapeComponent_63 had non-optimal bounds.  The bounds have been recalculated (old CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=63.000 Y=63.000 Z=0.000), new CachedLocalBox: IsValid=true, Min=(X=0.000 Y=0.000 Z=-1.000), Max=(X=63.000 Y=63.000 Z=1.000))
+[2026.02.20-15.34.40:188][911]LogSavePackage: Moving output files for package: /Game/Dimensions/DarkVersion
+[2026.02.20-15.34.40:189][911]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/DarkVersion87F32266476C4D842F179680F8E2F341.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/DarkVersion.umap'
+[2026.02.20-15.34.40:202][911]LogFileHelpers: Saving map 'DarkVersion' took 0.115
+[2026.02.20-15.34.40:244][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 193.851 ms (total: 422.886 ms)
+[2026.02.20-15.34.40:244][911]LogStreaming: Display: FlushAsyncLoading(348): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.20-15.34.40:262][911]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.20-15.34.40:266][911]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.02.20-15.34.40:266][911]Cmd: MAP LOAD FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.20-15.34.40:291][911]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-15.34.40:291][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.34.40:310][911]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.20-15.34.40:312][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.20-15.34.40:314][911]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-15.34.40:314][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.34.40:334][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.02.20-15.34.40:351][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.20-15.34.40:412][911]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.02.20-15.34.40:412][911]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.20-15.34.40:432][911]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.20-15.34.40:450][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.20-15.34.40:463][911]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.20-15.34.40:464][911]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2026.02.20-15.34.40:519][911]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-15.34.40:519][911]LogContentValidation: Enabled validators:
+[2026.02.20-15.34.40:519][911]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-15.34.40:519][911]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-15.34.40:519][911]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-15.34.40:519][911]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-15.34.40:519][911]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-15.34.40:519][911]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-15.34.40:545][911]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/karlk/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.20-15.34.46:796][277]Cmd: DELETE
+[2026.02.20-15.34.46:796][277]Cmd: ACTOR DELETE
+[2026.02.20-15.34.46:815][277]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.20-15.34.46:832][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.20-15.34.46:835][277]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.02.20-15.35.49:224][983]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-15.35.49:232][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-15.35.49:232][983]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.20-15.35.49:242][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009562s)
+[2026.02.20-15.35.49:242][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.009601s)
+[2026.02.20-15.35.49:274][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.20-15.35.49:276][983]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.20-15.35.49:277][983]LogPlayLevel: PIE: World Init took: (0.001661s)
+[2026.02.20-15.35.49:278][983]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.02.20-15.35.49:278][983]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.20-15.35.49:278][983]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.20-15.35.49:278][983]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.20-15.35.49:278][983]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.20-15.35.49:278][983]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.20-15.35.49:278][983]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.20-15.35.49:278][983]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.20-15.35.49:278][983]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.20-15.35.49:278][983]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.20-15.35.49:278][983]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.20-15.35.49:278][983]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.20-15.35.49:280][983]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.20-15.35.49:298][983]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.02.20-15.35.49:298][983]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.20-15.35.49:298][983]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.20-15.35.49:298][983]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.20-15.35.49:299][983]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.02.20-15.35.49:299][983]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.02.20-15.35.49:301][983]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.02.20-15.35.49:301][983]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.02.20-15.35.49:301][983]LogInit: FAudioDevice initialized with ID 6.
+[2026.02.20-15.35.49:301][983]LogAudio: Display: Audio Device (ID: 6) registered with world 'LightVersion'.
+[2026.02.20-15.35.49:301][983]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.20-15.35.49:305][983]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.20-15.35.49:308][983]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.02.20-15.35.49
+[2026.02.20-15.35.49:308][983]LogWorld: Bringing up level for play took: 0.002267
+[2026.02.20-15.35.49:311][983]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2026.02.20-15.35.49:316][983]PIE: Server logged in
+[2026.02.20-15.35.49:318][983]PIE: Play in editor total start time 0.087 seconds.
+[2026.02.20-15.35.50:793][ 71]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.02.20-15.35.50:793][ 71]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.02.20-15.35.50:793][ 71]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.02.20-15.35.50:793][ 71]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.20-15.35.50:794][ 71]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-15.35.50:795][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.35.50:836][ 71]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.20-15.35.50:839][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.20-15.35.50:844][ 71]LogStreaming: Display: FlushAsyncLoading(350): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.20-15.35.50:863][ 71]LogAudio: Display: Audio Device (ID: 6) registered with world 'DarkVersion'.
+[2026.02.20-15.35.50:863][ 71]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.20-15.35.50:865][ 71]LogPlayLevel: PIE: World Init took: (0.001797s)
+[2026.02.20-15.35.50:865][ 71]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.20-15.35.50:873][ 71]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 60) at 2026.02.20-15.35.50
+[2026.02.20-15.35.50:874][ 71]LogWorld: Bringing up level for play took: 0.008176
+[2026.02.20-15.35.50:878][ 71]LogLoad: Took 0.084657 seconds to LoadMap(/Game/Dimensions/DarkVersion)
+[2026.02.20-15.35.50:878][ 71]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/DarkVersion
+[2026.02.20-15.35.53:741][243]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.20-15.35.53:741][243]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.20-15.35.53:741][243]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.20-15.35.53:741][243]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.20-15.35.53:742][243]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-15.35.53:742][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.35.53:759][243]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.20-15.35.53:762][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.02.20-15.35.53:765][243]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.20-15.35.53:774][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009046s)
+[2026.02.20-15.35.53:774][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.009111s)
+[2026.02.20-15.35.53:774][243]LogAudio: Display: Audio Device (ID: 6) registered with world 'LightVersion'.
+[2026.02.20-15.35.53:774][243]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.20-15.35.53:775][243]LogPlayLevel: PIE: World Init took: (0.001577s)
+[2026.02.20-15.35.53:776][243]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.20-15.35.53:778][243]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.02.20-15.35.53
+[2026.02.20-15.35.53:778][243]LogWorld: Bringing up level for play took: 0.001915
+[2026.02.20-15.35.53:783][243]LogLoad: Took 0.041955 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_LightVersion)
+[2026.02.20-15.35.53:783][243]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.20-15.35.54:619][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-15.35.54:619][291]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.20-15.35.54:619][291]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-15.35.54:621][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.35.54:623][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-15.35.54:628][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.35.54:645][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-15.35.54:645][291]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.20-15.35.54:645][291]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.02.20-15.35.54:647][291]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.02.20-15.35.54:654][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.20-15.35.54:747][292]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.02.20-15.36.18:844][716]LogTexture: Display: Building textures: /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.Landscape_0.Texture2D_0 (G8, 64x64 x1x1x1) (Required Memory Estimate: 1.113275 MB), EncodeSpeed: Fast
+[2026.02.20-15.36.21:633][883]Cmd: TRANSACTION UNDO
+[2026.02.20-15.36.21:642][883]LogEditorTransaction: Undo Landscape Editing: Region Selection
+[2026.02.20-15.36.31:088][428]Cmd: TRANSACTION UNDO
+[2026.02.20-15.36.31:088][428]LogEditorTransaction: Undo Landscape Editing: Component Selection
+[2026.02.20-15.39.02:586][786]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ChangeLevel.ChangeLevel
+[2026.02.20-15.39.02:587][786]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.02.20-15.39.02:682][786]LogStreaming: Display: FlushAsyncLoading(351): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.20-15.39.04:070][786]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2026.02.20-15.39.04:072][786]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2026.02.20-15.39.04:600][786]LogSlate: Took 0.013926 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.20-15.39.08:232][987]LogSlate: Window 'ChangeLevel' being destroyed
+[2026.02.20-15.39.29:774][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.20-15.39.30:448][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-15.39.30:494][246]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ChangeLevel] ([2] browsable assets)...
+[2026.02.20-15.39.30:502][246]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ChangeLevel.ChangeLevel]
+[2026.02.20-15.39.30:502][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/ChangeLevel]
+[2026.02.20-15.39.30:502][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChangeLevel" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/ChangeLevel.uasset" SILENT=true
+[2026.02.20-15.39.30:524][246]LogSavePackage: Moving output files for package: /Game/ChangeLevel
+[2026.02.20-15.39.30:524][246]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/ChangeLevel2CC8C1AE48896A57D76D8097166CDDDB.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/ChangeLevel.uasset'
+[2026.02.20-15.39.30:533][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.282 ms (total: 508.169 ms)
+[2026.02.20-15.39.30:574][246]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-15.39.30:574][246]LogContentValidation: Enabled validators:
+[2026.02.20-15.39.30:574][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-15.39.30:574][246]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-15.39.30:574][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-15.39.30:574][246]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-15.39.30:574][246]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-15.39.30:574][246]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-15.39.30:576][246]AssetCheck: /Game/ChangeLevel Validating asset
+[2026.02.20-15.39.30:594][246]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/karlk/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.20-15.39.31:584][306]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-15.39.31:593][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-15.39.31:593][306]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.20-15.39.31:603][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009453s)
+[2026.02.20-15.39.31:603][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.009496s)
+[2026.02.20-15.39.31:629][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.20-15.39.31:631][306]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.20-15.39.31:633][306]LogPlayLevel: PIE: World Init took: (0.001799s)
+[2026.02.20-15.39.31:633][306]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.02.20-15.39.31:633][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.20-15.39.31:633][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.20-15.39.31:633][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.20-15.39.31:634][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.20-15.39.31:634][306]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.20-15.39.31:634][306]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.20-15.39.31:634][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.20-15.39.31:634][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.20-15.39.31:634][306]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.20-15.39.31:634][306]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.20-15.39.31:634][306]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.20-15.39.31:636][306]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.20-15.39.31:653][306]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.02.20-15.39.31:653][306]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.20-15.39.31:653][306]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.20-15.39.31:653][306]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.20-15.39.31:653][306]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.02.20-15.39.31:653][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.02.20-15.39.31:655][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.02.20-15.39.31:656][306]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.02.20-15.39.31:656][306]LogInit: FAudioDevice initialized with ID 7.
+[2026.02.20-15.39.31:656][306]LogAudio: Display: Audio Device (ID: 7) registered with world 'LightVersion'.
+[2026.02.20-15.39.31:656][306]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.20-15.39.31:659][306]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.20-15.39.31:662][306]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.02.20-15.39.31
+[2026.02.20-15.39.31:662][306]LogWorld: Bringing up level for play took: 0.002364
+[2026.02.20-15.39.31:665][306]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2026.02.20-15.39.31:670][306]PIE: Server logged in
+[2026.02.20-15.39.31:672][306]PIE: Play in editor total start time 0.08 seconds.
+[2026.02.20-15.39.34:324][465]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.02.20-15.39.34:324][465]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.02.20-15.39.34:324][465]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.02.20-15.39.34:324][465]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.20-15.39.34:325][465]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-15.39.34:325][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.39.34:352][465]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.20-15.39.34:354][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.20-15.39.34:357][465]LogStreaming: Display: FlushAsyncLoading(548): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.20-15.39.34:377][465]LogAudio: Display: Audio Device (ID: 7) registered with world 'DarkVersion'.
+[2026.02.20-15.39.34:377][465]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.20-15.39.34:379][465]LogPlayLevel: PIE: World Init took: (0.001738s)
+[2026.02.20-15.39.34:379][465]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.20-15.39.34:387][465]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 60) at 2026.02.20-15.39.34
+[2026.02.20-15.39.34:387][465]LogWorld: Bringing up level for play took: 0.008038
+[2026.02.20-15.39.34:392][465]LogLoad: Took 0.068651 seconds to LoadMap(/Game/Dimensions/DarkVersion)
+[2026.02.20-15.39.34:392][465]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/DarkVersion
+[2026.02.20-15.39.35:906][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-15.39.35:906][554]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.20-15.39.35:906][554]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-15.39.35:907][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.39.35:909][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-15.39.35:916][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.39.35:941][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-15.39.35:941][554]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.20-15.39.35:941][554]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.02.20-15.39.35:943][554]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.02.20-15.39.35:952][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.02.20-15.39.35:993][555]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.02.20-15.39.41:466][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.20-15.39.41:996][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-15.39.42:029][908]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ChangeLevel] ([2] browsable assets)...
+[2026.02.20-15.39.42:034][908]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ChangeLevel.ChangeLevel]
+[2026.02.20-15.39.42:034][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/ChangeLevel]
+[2026.02.20-15.39.42:034][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChangeLevel" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/ChangeLevel.uasset" SILENT=true
+[2026.02.20-15.39.42:048][908]LogSavePackage: Moving output files for package: /Game/ChangeLevel
+[2026.02.20-15.39.42:048][908]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/ChangeLevel9DE70D294DD4D57BB6B4DBA39B681A5C.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/ChangeLevel.uasset'
+[2026.02.20-15.39.42:057][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.745 ms (total: 568.914 ms)
+[2026.02.20-15.39.42:097][908]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-15.39.42:097][908]LogContentValidation: Enabled validators:
+[2026.02.20-15.39.42:097][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-15.39.42:097][908]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-15.39.42:097][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-15.39.42:097][908]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-15.39.42:097][908]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-15.39.42:097][908]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-15.39.42:097][908]AssetCheck: /Game/ChangeLevel Validating asset
+[2026.02.20-15.39.43:035][964]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.20-15.39.43:043][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.20-15.39.43:043][964]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.20-15.39.43:052][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009392s)
+[2026.02.20-15.39.43:052][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.009445s)
+[2026.02.20-15.39.43:078][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.20-15.39.43:081][964]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.20-15.39.43:082][964]LogPlayLevel: PIE: World Init took: (0.001606s)
+[2026.02.20-15.39.43:083][964]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.02.20-15.39.43:083][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.20-15.39.43:083][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.20-15.39.43:083][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.20-15.39.43:083][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.20-15.39.43:083][964]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.20-15.39.43:083][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.20-15.39.43:083][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.20-15.39.43:083][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.20-15.39.43:083][964]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.20-15.39.43:083][964]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.20-15.39.43:083][964]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.20-15.39.43:085][964]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.20-15.39.43:100][964]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.02.20-15.39.43:100][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.20-15.39.43:100][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.20-15.39.43:100][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.20-15.39.43:101][964]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.02.20-15.39.43:101][964]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.02.20-15.39.43:104][964]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.02.20-15.39.43:104][964]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.02.20-15.39.43:104][964]LogInit: FAudioDevice initialized with ID 8.
+[2026.02.20-15.39.43:104][964]LogAudio: Display: Audio Device (ID: 8) registered with world 'LightVersion'.
+[2026.02.20-15.39.43:104][964]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.20-15.39.43:108][964]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.20-15.39.43:110][964]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.02.20-15.39.43
+[2026.02.20-15.39.43:111][964]LogWorld: Bringing up level for play took: 0.002345
+[2026.02.20-15.39.43:113][964]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2026.02.20-15.39.43:118][964]PIE: Server logged in
+[2026.02.20-15.39.43:120][964]PIE: Play in editor total start time 0.078 seconds.
+[2026.02.20-15.39.45:384][100]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.02.20-15.39.45:384][100]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.02.20-15.39.45:384][100]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.02.20-15.39.45:384][100]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.20-15.39.45:385][100]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-15.39.45:386][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.39.45:410][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.20-15.39.45:414][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.20-15.39.45:416][100]LogStreaming: Display: FlushAsyncLoading(549): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.20-15.39.45:435][100]LogAudio: Display: Audio Device (ID: 8) registered with world 'DarkVersion'.
+[2026.02.20-15.39.45:435][100]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.20-15.39.45:437][100]LogPlayLevel: PIE: World Init took: (0.001702s)
+[2026.02.20-15.39.45:437][100]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.20-15.39.45:446][100]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 60) at 2026.02.20-15.39.45
+[2026.02.20-15.39.45:446][100]LogWorld: Bringing up level for play took: 0.008124
+[2026.02.20-15.39.45:451][100]LogLoad: Took 0.066795 seconds to LoadMap(/Game/Dimensions/DarkVersion)
+[2026.02.20-15.39.45:451][100]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/DarkVersion
+[2026.02.20-15.39.47:346][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-15.39.47:346][212]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.20-15.39.47:346][212]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.20-15.39.47:347][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.39.47:349][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.20-15.39.47:355][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.20-15.39.47:380][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.20-15.39.47:380][212]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.20-15.39.47:380][212]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.02.20-15.39.47:382][212]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.02.20-15.39.47:392][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.20-15.39.47:431][213]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2026.02.20-15.40.55:617][212]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.02.20-15.40.55:635][212]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.02.20-15.40.55:642][212]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.02.20-15.40.55:667][213]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.02.20-15.41.00:448][500]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5911.652344
+[2026.02.20-15.41.00:648][512]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-15.41.00:648][512]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5911.835449, Update Interval: 339.348724
+[2026.02.20-15.41.07:124][901]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_WorldFade
+[2026.02.20-15.41.07:136][901]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.02.20-15.41.08:577][979]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WBP_WorldFade.WBP_WorldFade
+[2026.02.20-15.41.08:579][979]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.02.20-15.41.08:586][979]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.02.20-15.41.08:595][979]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.02.20-15.41.09:110][979]LogSlate: Took 0.008478 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.20-15.42.28:611][258]LogStreaming: Display: FlushAsyncLoading(550): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.20-15.42.29:011][258]LogInterchangeEngine: [Pending] Importing
+[2026.02.20-15.42.29:011][258]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/karlk/Downloads/Screenshot 2026-02-20 152714.png]
+[2026.02.20-15.42.29:429][260]LogStreaming: Display: FlushAsyncLoading(584): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.20-15.42.29:733][262]LogTexture: Display: Building textures: /Game/Screenshot_2026-02-20_152714.Screenshot_2026-02-20_152714 (BGRA8, 257x820 x1x1x1) (Required Memory Estimate: 8.235168 MB), EncodeSpeed: Fast
+[2026.02.20-15.42.30:096][262]LogInterchangeEngine: Display: Interchange import completed [C:/Users/karlk/Downloads/Screenshot 2026-02-20 152714.png]
+[2026.02.20-15.42.30:109][262]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.02.20-15.42.30:109][262]LogInterchangeEngine: [Success] Import Done
+[2026.02.20-15.42.34:410][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.02.20-15.42.34:523][350]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.02.20-15.42.34:536][350]LogSlate: Took 0.012688 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.02.20-15.42.35:374][350]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.20-15.42.35:427][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.20-15.42.35:456][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.20-15.42.35:483][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.20-15.42.41:473][576]LogStreaming: Display: FlushAsyncLoading(585): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.20-15.42.41:477][576]LogInterchangeEngine: [Pending] Importing
+[2026.02.20-15.42.41:477][576]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/karlk/Downloads/2019-12-18-16-34-37-c81e72.png]
+[2026.02.20-15.42.42:169][578]LogStreaming: Display: FlushAsyncLoading(586): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.20-15.42.42:484][580]LogTexture: Display: Building textures: /Game/2019-12-18-16-34-37-c81e72.2019-12-18-16-34-37-c81e72 (TFO_AutoDXT, 1920x1080 x1x1x1) (Required Memory Estimate: 157.943359 MB), EncodeSpeed: Fast
+[2026.02.20-15.42.42:830][580]LogInterchangeEngine: Display: Interchange import completed [C:/Users/karlk/Downloads/2019-12-18-16-34-37-c81e72.png]
+[2026.02.20-15.42.42:837][580]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.02.20-15.42.42:837][580]LogInterchangeEngine: [Success] Import Done
+[2026.02.20-15.42.52:300][ 15]LogContentBrowser: Attempting asset rename: 2019-12-18-16-34-37-c81e72 -> worldfade
+[2026.02.20-15.42.52:441][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-15.42.52:442][ 15]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/worldfade] ([1] browsable assets)...
+[2026.02.20-15.42.52:444][ 15]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/worldfade.worldfade]
+[2026.02.20-15.42.52:444][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/worldfade]
+[2026.02.20-15.42.52:444][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/worldfade" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/worldfade.uasset" SILENT=true
+[2026.02.20-15.42.52:462][ 15]LogSavePackage: Moving output files for package: /Game/worldfade
+[2026.02.20-15.42.52:462][ 15]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/worldfade2A031A264B9F650017CC4882F37E1609.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/worldfade.uasset'
+[2026.02.20-15.42.52:464][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 22.236 ms (total: 591.151 ms)
+[2026.02.20-15.42.52:499][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.20-15.42.52:526][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.20-15.42.52:552][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.02.20-15.42.52:599][ 15]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-15.42.52:599][ 15]LogContentValidation: Enabled validators:
+[2026.02.20-15.42.52:599][ 15]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-15.42.52:599][ 15]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-15.42.52:599][ 15]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-15.42.52:599][ 15]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-15.42.52:599][ 15]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-15.42.52:599][ 15]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-15.42.52:599][ 15]AssetCheck: /Game/worldfade Validating asset
+[2026.02.20-15.42.52:658][ 15]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/karlk/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.20-15.43.28:936][159]LogEditorTransaction: Undo Resize Widget
+[2026.02.20-15.45.07:438][971]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.20-15.45.33:584][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.20-15.45.33:709][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto1
+[2026.02.20-15.45.33:709][276]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersion_Auto10F99E0854A837FA14F766F81E231B5BF.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/LightVersion_Auto1.umap'
+[2026.02.20-15.45.33:711][276]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.155
+[2026.02.20-15.45.33:711][276]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.155
+[2026.02.20-15.45.33:712][276]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WBP_WorldFade] ([2] browsable assets)...
+[2026.02.20-15.45.33:714][276]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WBP_WorldFade.WBP_WorldFade]
+[2026.02.20-15.45.33:714][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/WBP_WorldFade]
+[2026.02.20-15.45.33:715][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_WorldFade" FILE="../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/WBP_WorldFade_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.02.20-15.45.33:725][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WBP_WorldFade_Auto1
+[2026.02.20-15.45.33:726][276]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/WBP_WorldFade_Auto17DC50FBD4D0DA67C2997E19A8F66D728.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/WBP_WorldFade_Auto1.uasset'
+[2026.02.20-15.45.33:726][276]LogFileHelpers: Auto-saving content packages took 0.015
+[2026.02.20-15.46.29:704][430]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.20-15.46.56:869][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.02.20-15.47.05:230][532]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.02.20-15.47.06:350][595]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.02.20-15.47.07:126][638]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2026.02.20-15.47.07:126][638]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.02.20-15.47.07:477][638]LogSlate: Took 0.009449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.02.20-15.47.09:074][724]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.02.20-15.47.13:946][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6285.109375
+[2026.02.20-15.47.14:276][  6]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-15.47.14:276][  6]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6285.292969, Update Interval: 328.499390
+[2026.02.20-15.47.36:065][242]LogShaderCompilers: Display: ================================================
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Total job queries 4,017, among them cache hits 1,784 (44.41%), DDC hits 1,519 (37.81%), Duplicates 267 (6.65%)
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Tracking 1,966 distinct input hashes that result in 1,212 distinct outputs (61.65%)
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: RAM used: 12.39 MiB of 819.20 MiB budget. Usage: 1.51%
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Shaders Compiled: 447
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Jobs assigned 447, completed 447 (100%)
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Average time worker was idle: 485.10 s
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Time job spent in pending queue: average 4.34 s, longest 14.28 s
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Job execution time: average 4.61 s, max 12.74 s
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Job life time (pending + execution): average 8.95 s, max 17.44
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Shader code size: total 4.345 MiB, numShaders 467, average 9.526 KiB, min 2.105 KiB, max 51.403 KiB
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 46.48 s
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Jobs were issued in 112 batches (only local compilation was used), average 3.99 jobs/batch
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Average processing rate: 9.62 jobs/sec
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Total thread time: 312.333 s
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Total thread preprocess time: 45.046 s
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Percentage time preprocessing: 14.42%
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Effective parallelization: 6.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.839979
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display:                              FRayTracingDecalMaterialCHS_AHS (compiled    2 times, average 2.25 sec, max 3.04 sec, min 1.46 sec)
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   14 times, average 1.91 sec, max 3.18 sec, min 1.25 sec)
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   16 times, average 1.72 sec, max 2.79 sec, min 1.16 sec)
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display:                               FLightFunctionRayTracingShader (compiled    1 times, average 1.67 sec, max 1.67 sec, min 1.67 sec)
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   14 times, average 1.47 sec, max 2.89 sec, min 0.93 sec)
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.80% of total time (compiled   16 times, average 1.72 sec, max 2.79 sec, min 1.16 sec)
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 8.56% of total time (compiled   14 times, average 1.91 sec, max 3.18 sec, min 1.25 sec)
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.67% of total time (compiled   35 times, average 0.68 sec, max 2.38 sec, min 0.35 sec)
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.61% of total time (compiled   14 times, average 1.47 sec, max 2.89 sec, min 0.93 sec)
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.98% of total time (compiled   27 times, average 0.58 sec, max 1.25 sec, min 0.34 sec)
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: === Material stats ===
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Materials Translated:    164
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Material Translation Only: 0.07 s (47%)
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.02.20-15.47.36:066][242]LogShaderCompilers: Display: ================================================
+[2026.02.20-15.53.26:221][ 86]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6657.324707
+[2026.02.20-15.53.26:405][ 97]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-15.53.26:405][ 97]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6657.491211, Update Interval: 347.748047
+[2026.02.20-15.56.46:124][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.02.20-15.56.46:127][ 28]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.053
+[2026.02.20-15.56.46:127][ 28]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.02.20-15.56.46:129][ 28]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.02.20-15.56.46:151][ 28]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C]
+[2026.02.20-15.56.46:164][ 28]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.02.20-15.56.46:164][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.02.20-15.56.46:185][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2
+[2026.02.20-15.56.46:185][ 28]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_FirstPersonCharacter_Auto24A72E9B3423D568BC60AA28A1B620F1B.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2.uasset'
+[2026.02.20-15.56.46:186][ 28]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WBP_WorldFade] ([2] browsable assets)...
+[2026.02.20-15.56.46:190][ 28]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WBP_WorldFade.WBP_WorldFade]
+[2026.02.20-15.56.46:191][ 28]OBJ SavePackage: Finished generating thumbnails for package [/Game/WBP_WorldFade]
+[2026.02.20-15.56.46:191][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WBP_WorldFade" FILE="../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/WBP_WorldFade_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.02.20-15.56.46:203][ 28]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WBP_WorldFade_Auto2
+[2026.02.20-15.56.46:203][ 28]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/WBP_WorldFade_Auto2CD7E86A8429A0C893EDBAF90AD682414.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/WBP_WorldFade_Auto2.uasset'
+[2026.02.20-15.56.46:203][ 28]LogFileHelpers: Auto-saving content packages took 0.077
+[2026.02.20-15.59.44:962][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.02.20-15.59.47:397][337]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7038.417969
+[2026.02.20-15.59.47:614][350]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.20-15.59.47:614][350]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7038.617188, Update Interval: 345.124054
+[2026.02.20-16.00.19:224][227]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.20-16.00.32:360][  5]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.20-16.00.34:131][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.20-16.03.48:505][574]LogDerivedDataCache: C:/Users/karlk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.20-16.04.55:522][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.02.20-16.04.56:077][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.20-16.04.56:116][784]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.02.20-16.04.56:121][784]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.02.20-16.04.56:121][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.02.20-16.04.56:141][784]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.02.20-16.04.56:141][784]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_FirstPersonCharacter49662FC444A3C5E73A6D1F97AE88242A.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.02.20-16.04.56:151][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.698 ms (total: 664.849 ms)
+[2026.02.20-16.04.56:187][784]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.20-16.04.56:187][784]LogContentValidation: Enabled validators:
+[2026.02.20-16.04.56:187][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.20-16.04.56:187][784]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.20-16.04.56:187][784]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.20-16.04.56:187][784]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.20-16.04.56:187][784]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.20-16.04.56:187][784]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.20-16.04.56:188][784]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.02.20-16.04.56:204][784]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/karlk/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
