@@ -10576,3 +10576,46 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.02.22-22.39.10:959][  8]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.22-22.39.10:959][  8]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.22-22.39.10:959][  8]AssetCheck: /Game/StartMenuDesign/StartMenu Validating asset
+[2026.02.22-22.39.26:710][131]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.22-22.39.26:723][131]LogPlayLevel: [PlayLevel] Compiling StartMenu before play...
+[2026.02.22-22.39.26:799][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.02.22-22.39.26:803][131]LogPlayLevel: PlayLevel: Blueprint regeneration took 82 ms (1 blueprints)
+[2026.02.22-22.39.26:838][131]LogStreaming: Display: FlushAsyncLoading(723): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.22-22.39.26:838][131]LogPlayLevel: Creating play world package: /Game/StartMenuDesign/UEDPIE_0_StartMenu
+[2026.02.22-22.39.26:840][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001329s)
+[2026.02.22-22.39.26:840][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMenuDesign/StartMenu.StartMenu to /Game/StartMenuDesign/UEDPIE_0_StartMenu.StartMenu (0.001370s)
+[2026.02.22-22.39.26:870][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.22-22.39.26:874][131]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenu
+[2026.02.22-22.39.26:876][131]LogPlayLevel: PIE: World Init took: (0.002741s)
+[2026.02.22-22.39.26:878][131]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2026.02.22-22.39.26:878][131]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.22-22.39.26:878][131]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.22-22.39.26:878][131]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.22-22.39.26:878][131]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.22-22.39.26:878][131]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.22-22.39.26:878][131]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.22-22.39.26:878][131]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.22-22.39.26:878][131]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.22-22.39.26:878][131]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.22-22.39.26:878][131]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.22-22.39.26:878][131]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.22-22.39.26:880][131]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.22-22.39.26:902][131]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.02.22-22.39.26:902][131]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.22-22.39.26:902][131]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.22-22.39.26:902][131]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.22-22.39.26:903][131]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=84
+[2026.02.22-22.39.26:903][131]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=84
+[2026.02.22-22.39.26:906][131]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=84
+[2026.02.22-22.39.26:906][131]LogInit: FAudioDevice initialized with ID 84.
+[2026.02.22-22.39.26:906][131]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=84
+[2026.02.22-22.39.26:906][131]LogAudio: Display: Audio Device (ID: 84) registered with world 'StartMenu'.
+[2026.02.22-22.39.26:906][131]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 84
+[2026.02.22-22.39.26:930][131]LogLoad: Game class is 'startmenumode_C'
+[2026.02.22-22.39.26:930][131]LogWorld: Bringing World /Game/StartMenuDesign/UEDPIE_0_StartMenu.StartMenu up for play (max tick rate 60) at 2026.02.22-22.39.26
+[2026.02.22-22.39.26:931][131]LogWorld: Bringing up level for play took: 0.000493
+[2026.02.22-22.39.26:934][131]LogOnline: OSS: Created online subsystem instance for: :Context_114
+[2026.02.22-22.39.26:936][131]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.22-22.39.26:936][131]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.02.22-22.39.26:937][131]PIE: Server logged in
+[2026.02.22-22.39.26:939][131]PIE: Play in editor total start time 0.218 seconds.
