@@ -10619,3 +10619,121 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.02.22-22.39.26:936][131]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
 [2026.02.22-22.39.26:937][131]PIE: Server logged in
 [2026.02.22-22.39.26:939][131]PIE: Play in editor total start time 0.218 seconds.
+[2026.02.22-22.39.49:481][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-22.39.49:481][886]LogWorld: BeginTearingDown for /Game/StartMenuDesign/UEDPIE_0_StartMenu
+[2026.02.22-22.39.49:481][886]LogWorld: UWorld::CleanupWorld for StartMenu, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-22.39.49:481][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-22.39.49:482][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.22-22.39.49:491][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-22.39.49:522][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-22.39.49:522][886]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 84
+[2026.02.22-22.39.49:522][886]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84, StreamState=4
+[2026.02.22-22.39.49:524][886]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84, StreamState=2
+[2026.02.22-22.39.49:532][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.22-22.39.49:565][887]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2026.02.22-22.39.50:551][946]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.22-22.39.50:561][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.22-22.39.50:561][946]LogStreaming: Display: FlushAsyncLoading(724): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.22-22.39.50:561][946]LogPlayLevel: Creating play world package: /Game/StartMenuDesign/UEDPIE_0_StartMenu
+[2026.02.22-22.39.50:563][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001383s)
+[2026.02.22-22.39.50:563][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMenuDesign/StartMenu.StartMenu to /Game/StartMenuDesign/UEDPIE_0_StartMenu.StartMenu (0.001420s)
+[2026.02.22-22.39.50:592][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.22-22.39.50:596][946]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenu
+[2026.02.22-22.39.50:598][946]LogPlayLevel: PIE: World Init took: (0.001840s)
+[2026.02.22-22.39.50:598][946]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2026.02.22-22.39.50:598][946]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.22-22.39.50:598][946]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.22-22.39.50:598][946]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.22-22.39.50:598][946]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.22-22.39.50:598][946]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.22-22.39.50:598][946]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.22-22.39.50:598][946]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.22-22.39.50:598][946]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.22-22.39.50:598][946]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.22-22.39.50:598][946]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.22-22.39.50:598][946]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.22-22.39.50:602][946]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.22-22.39.50:617][946]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.02.22-22.39.50:618][946]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.22-22.39.50:618][946]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.22-22.39.50:618][946]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.22-22.39.50:618][946]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=85
+[2026.02.22-22.39.50:618][946]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=85
+[2026.02.22-22.39.50:621][946]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=85
+[2026.02.22-22.39.50:621][946]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=85
+[2026.02.22-22.39.50:621][946]LogInit: FAudioDevice initialized with ID 85.
+[2026.02.22-22.39.50:621][946]LogAudio: Display: Audio Device (ID: 85) registered with world 'StartMenu'.
+[2026.02.22-22.39.50:621][946]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 85
+[2026.02.22-22.39.50:626][946]LogLoad: Game class is 'startmenumode_C'
+[2026.02.22-22.39.50:626][946]LogWorld: Bringing World /Game/StartMenuDesign/UEDPIE_0_StartMenu.StartMenu up for play (max tick rate 60) at 2026.02.22-22.39.50
+[2026.02.22-22.39.50:627][946]LogWorld: Bringing up level for play took: 0.000383
+[2026.02.22-22.39.50:630][946]LogOnline: OSS: Created online subsystem instance for: :Context_115
+[2026.02.22-22.39.50:632][946]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.22-22.39.50:632][946]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.02.22-22.39.50:633][946]PIE: Server logged in
+[2026.02.22-22.39.50:635][946]PIE: Play in editor total start time 0.075 seconds.
+[2026.02.22-22.40.15:613][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-22.40.15:613][442]LogWorld: BeginTearingDown for /Game/StartMenuDesign/UEDPIE_0_StartMenu
+[2026.02.22-22.40.15:613][442]LogWorld: UWorld::CleanupWorld for StartMenu, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-22.40.15:613][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-22.40.15:613][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.22-22.40.15:623][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-22.40.15:654][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-22.40.15:654][442]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 85
+[2026.02.22-22.40.15:654][442]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85, StreamState=4
+[2026.02.22-22.40.15:656][442]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85, StreamState=2
+[2026.02.22-22.40.15:663][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.02.22-22.40.15:696][443]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2026.02.22-22.40.16:886][514]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.22-22.40.16:896][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.22-22.40.16:896][514]LogStreaming: Display: FlushAsyncLoading(725): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.22-22.40.16:897][514]LogPlayLevel: Creating play world package: /Game/StartMenuDesign/UEDPIE_0_StartMenu
+[2026.02.22-22.40.16:898][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001592s)
+[2026.02.22-22.40.16:898][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMenuDesign/StartMenu.StartMenu to /Game/StartMenuDesign/UEDPIE_0_StartMenu.StartMenu (0.001645s)
+[2026.02.22-22.40.16:930][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.22-22.40.16:934][514]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenu
+[2026.02.22-22.40.16:936][514]LogPlayLevel: PIE: World Init took: (0.001793s)
+[2026.02.22-22.40.16:937][514]LogAudio: Display: Creating Audio Device:                 Id: 86, Scope: Unique, Realtime: True
+[2026.02.22-22.40.16:937][514]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.22-22.40.16:937][514]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.22-22.40.16:937][514]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.22-22.40.16:937][514]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.22-22.40.16:937][514]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.22-22.40.16:937][514]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.22-22.40.16:937][514]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.22-22.40.16:937][514]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.22-22.40.16:937][514]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.22-22.40.16:937][514]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.22-22.40.16:937][514]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.22-22.40.16:940][514]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.22-22.40.16:955][514]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.02.22-22.40.16:956][514]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.22-22.40.16:956][514]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.22-22.40.16:956][514]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.22-22.40.16:956][514]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=86
+[2026.02.22-22.40.16:956][514]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=86
+[2026.02.22-22.40.16:959][514]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=86
+[2026.02.22-22.40.16:959][514]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=86
+[2026.02.22-22.40.16:959][514]LogInit: FAudioDevice initialized with ID 86.
+[2026.02.22-22.40.16:959][514]LogAudio: Display: Audio Device (ID: 86) registered with world 'StartMenu'.
+[2026.02.22-22.40.16:959][514]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 86
+[2026.02.22-22.40.16:964][514]LogLoad: Game class is 'startmenumode_C'
+[2026.02.22-22.40.16:965][514]LogWorld: Bringing World /Game/StartMenuDesign/UEDPIE_0_StartMenu.StartMenu up for play (max tick rate 60) at 2026.02.22-22.40.16
+[2026.02.22-22.40.16:965][514]LogWorld: Bringing up level for play took: 0.000361
+[2026.02.22-22.40.16:968][514]LogOnline: OSS: Created online subsystem instance for: :Context_116
+[2026.02.22-22.40.16:970][514]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.22-22.40.16:970][514]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.02.22-22.40.16:970][514]PIE: Server logged in
+[2026.02.22-22.40.16:974][514]PIE: Play in editor total start time 0.078 seconds.
+[2026.02.22-22.40.24:023][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-22.40.24:023][935]LogWorld: BeginTearingDown for /Game/StartMenuDesign/UEDPIE_0_StartMenu
+[2026.02.22-22.40.24:023][935]LogWorld: UWorld::CleanupWorld for StartMenu, bSessionEnded=true, bCleanupResources=true
+[2026.02.22-22.40.24:023][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-22.40.24:025][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.22-22.40.24:035][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.22-22.40.24:065][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.22-22.40.24:066][935]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 86
+[2026.02.22-22.40.24:066][935]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86, StreamState=4
+[2026.02.22-22.40.24:068][935]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86, StreamState=2
+[2026.02.22-22.40.24:075][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.02.22-22.40.24:107][936]LogPlayLevel: Display: Destroying online subsystem :Context_116
