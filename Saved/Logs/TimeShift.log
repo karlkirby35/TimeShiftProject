@@ -1410,6 +1410,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.23-11.35.47:741][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
 [2026.02.23-11.35.47:835][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
 
+<<<<<<< Updated upstream
 [2026.02.23-11.35.47:847][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 106.208 ms
 [2026.02.23-11.35.48:413][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/karlk/TimeShiftProject/Content/' took 1.67s
 [2026.02.23-11.35.48:417][  1]LogAssetRegistry: AssetRegistryGather time 0.4039s: AssetDataDiscovery 0.0135s, AssetDataGather 0.3055s, StoreResults 0.0848s. Wall time 18.2530s.
@@ -1674,3 +1675,1100 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.23-11.46.33:636][796]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 658.885315
 [2026.02.23-11.46.34:396][799]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.23-11.46.34:396][799]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 659.518677, Update Interval: 354.759369
+=======
+[2026.02.18-14.15.30:998][  0]LogPython: Display: Running start-up script C:/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 32.092 ms
+[2026.02.18-14.15.31:111][  1]LogSourceControl: Uncontrolled asset discovery finished in 0.192516 seconds (Found 7591 uncontrolled assets)
+[2026.02.18-14.15.31:239][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 3.315721
+[2026.02.18-14.15.31:240][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2026.02.18-14.15.31:241][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3.325620
+[2026.02.18-14.15.32:059][  9]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2026.02.18-14.15.32:312][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 4.350778
+[2026.02.18-14.15.32:314][ 12]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -287380011
+[2026.02.18-14.15.32:314][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4.350778, Update Interval: 338.636444
+[2026.02.18-14.15.33:513][133]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.18-14.15.33:519][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.18-14.15.33:522][133]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.02.18-14.15.33:522][133]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.02.18-14.15.33:522][133]LogStreaming: Display: FlushAsyncLoading(330): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.15.33:523][133]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.15.33:524][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001550s)
+[2026.02.18-14.15.33:524][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.001586s)
+[2026.02.18-14.15.33:562][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.18-14.15.33:562][133]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.15.33:563][133]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2026.02.18-14.15.33:564][133]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.02.18-14.15.33:564][133]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.18-14.15.33:564][133]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.18-14.15.33:564][133]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.18-14.15.33:564][133]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.18-14.15.33:564][133]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.18-14.15.33:564][133]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.18-14.15.33:564][133]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.18-14.15.33:564][133]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.18-14.15.33:564][133]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.18-14.15.33:564][133]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.18-14.15.33:564][133]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.18-14.15.33:565][133]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.18-14.15.33:586][133]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.18-14.15.33:586][133]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.18-14.15.33:586][133]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.18-14.15.33:586][133]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.18-14.15.33:586][133]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.02.18-14.15.33:586][133]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.02.18-14.15.33:588][133]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.02.18-14.15.33:588][133]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.02.18-14.15.33:588][133]LogInit: FAudioDevice initialized with ID 2.
+[2026.02.18-14.15.33:588][133]LogAudio: Display: Audio Device (ID: 2) registered with world 'LightVersion'.
+[2026.02.18-14.15.33:588][133]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.18-14.15.33:600][133]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.15.33:601][133]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.18-14.15.33
+[2026.02.18-14.15.33:601][133]LogWorld: Bringing up level for play took: 0.000595
+[2026.02.18-14.15.33:602][133]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2026.02.18-14.15.33:611][133]PIE: Server logged in
+[2026.02.18-14.15.33:612][133]PIE: Play in editor total start time 0.094 seconds.
+[2026.02.18-14.15.35:686][380]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.02.18-14.15.35:686][380]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.02.18-14.15.35:686][380]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.02.18-14.15.35:686][380]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.15.35:687][380]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.15.35:687][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.15.35:732][380]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.15.35:733][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.18-14.15.35:734][380]LogStreaming: Display: FlushAsyncLoading(332): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.15.35:749][380]LogAudio: Display: Audio Device (ID: 2) registered with world 'DarkVersion'.
+[2026.02.18-14.15.35:749][380]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.18-14.15.35:750][380]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2026.02.18-14.15.35:750][380]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.15.35:752][380]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.18-14.15.35
+[2026.02.18-14.15.35:752][380]LogWorld: Bringing up level for play took: 0.001007
+[2026.02.18-14.15.35:755][380]LogLoad: Took 0.069510 seconds to LoadMap(/Game/Dimensions/DarkVersion)
+[2026.02.18-14.15.35:755][380]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/DarkVersion
+[2026.02.18-14.15.37:736][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.15.37:736][613]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.15.37:736][613]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.15.37:736][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.15.37:738][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.18-14.15.37:740][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.15.37:751][613]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.15.37:751][613]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.18-14.15.37:751][613]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.02.18-14.15.37:752][613]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.02.18-14.15.37:754][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.15.37:755][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.02.18-14.15.37:800][615]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2026.02.18-14.15.47:269][692]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.18-14.15.47:274][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.18-14.15.47:306][692]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.15.47:307][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001511s)
+[2026.02.18-14.15.47:308][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.001544s)
+[2026.02.18-14.15.47:322][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.02.18-14.15.47:322][692]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.15.47:324][692]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2026.02.18-14.15.47:324][692]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.02.18-14.15.47:324][692]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.18-14.15.47:324][692]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.18-14.15.47:324][692]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.18-14.15.47:324][692]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.18-14.15.47:324][692]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.18-14.15.47:324][692]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.18-14.15.47:324][692]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.18-14.15.47:324][692]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.18-14.15.47:324][692]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.18-14.15.47:324][692]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.18-14.15.47:324][692]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.18-14.15.47:325][692]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.18-14.15.47:345][692]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.18-14.15.47:345][692]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.18-14.15.47:345][692]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.18-14.15.47:345][692]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.18-14.15.47:346][692]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.02.18-14.15.47:346][692]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.02.18-14.15.47:347][692]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.02.18-14.15.47:348][692]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.02.18-14.15.47:348][692]LogInit: FAudioDevice initialized with ID 3.
+[2026.02.18-14.15.47:348][692]LogAudio: Display: Audio Device (ID: 3) registered with world 'LightVersion'.
+[2026.02.18-14.15.47:348][692]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.18-14.15.47:351][692]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.15.47:352][692]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.18-14.15.47
+[2026.02.18-14.15.47:352][692]LogWorld: Bringing up level for play took: 0.000577
+[2026.02.18-14.15.47:353][692]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2026.02.18-14.15.47:357][692]PIE: Server logged in
+[2026.02.18-14.15.47:358][692]PIE: Play in editor total start time 0.085 seconds.
+[2026.02.18-14.15.48:944][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.15.48:944][877]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.15.48:944][877]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.15.48:945][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.15.48:947][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.18-14.15.48:947][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.15.48:962][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.15.48:962][877]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.18-14.15.48:962][877]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.02.18-14.15.48:964][877]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.02.18-14.15.48:969][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.18-14.15.49:015][879]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2026.02.18-14.17.25:059][454]LogDerivedDataCache: C:/Users/N00235865/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.18-14.21.10:935][131]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 343.354309
+[2026.02.18-14.21.11:938][134]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-14.21.11:938][134]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 344.021423, Update Interval: 327.827393
+[2026.02.18-14.26.43:317][128]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 675.735352
+[2026.02.18-14.26.44:316][131]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-14.26.44:316][131]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 676.400024, Update Interval: 324.364746
+[2026.02.18-14.32.14:373][121]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1006.792236
+[2026.02.18-14.32.15:372][124]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-14.32.15:372][124]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1007.457458, Update Interval: 346.264832
+[2026.02.18-14.38.13:431][198]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1365.848755
+[2026.02.18-14.38.14:426][201]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-14.38.14:426][202]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1366.514038, Update Interval: 350.901215
+[2026.02.18-14.44.30:816][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1743.230347
+[2026.02.18-14.44.31:817][333]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-14.44.31:817][333]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1743.898071, Update Interval: 309.774475
+[2026.02.18-14.45.36:859][528]LogSlate: Took 0.007842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.02.18-14.46.11:365][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.18-14.46.11:366][615]LogStreaming: Display: FlushAsyncLoading(333): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.46.11:368][615]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.18-14.46.11:370][615]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/DarkVersion.DarkVersion
+[2026.02.18-14.46.11:370][615]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.18-14.46.11:389][615]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.46.11:389][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.46.11:401][615]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.46.11:403][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.18-14.46.11:404][615]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.46.11:404][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.46.11:418][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.18-14.46.11:431][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.18-14.46.11:434][615]LogAudio: Display: Audio Device (ID: 1) registered with world 'DarkVersion'.
+[2026.02.18-14.46.11:434][615]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.18-14.46.11:446][615]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.18-14.46.11:463][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.18-14.46.11:553][615]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.18-14.46.11:553][615]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.047ms to complete.
+[2026.02.18-14.46.20:051][612]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.18-14.46.20:058][612]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.18-14.46.20:083][612]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.46.20:085][612]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001694s)
+[2026.02.18-14.46.20:085][612]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.001732s)
+[2026.02.18-14.46.20:100][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.02.18-14.46.20:101][612]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.18-14.46.20:102][612]LogPlayLevel: PIE: World Init took: (0.001235s)
+[2026.02.18-14.46.20:102][612]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.02.18-14.46.20:102][612]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.18-14.46.20:102][612]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.18-14.46.20:102][612]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.18-14.46.20:102][612]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.18-14.46.20:102][612]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.18-14.46.20:102][612]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.18-14.46.20:102][612]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.18-14.46.20:102][612]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.18-14.46.20:102][612]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.18-14.46.20:102][612]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.18-14.46.20:102][612]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.18-14.46.20:104][612]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.18-14.46.20:129][612]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.18-14.46.20:129][612]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.18-14.46.20:129][612]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.18-14.46.20:129][612]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.18-14.46.20:130][612]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.02.18-14.46.20:130][612]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.02.18-14.46.20:132][612]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.02.18-14.46.20:132][612]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.02.18-14.46.20:132][612]LogInit: FAudioDevice initialized with ID 4.
+[2026.02.18-14.46.20:132][612]LogAudio: Display: Audio Device (ID: 4) registered with world 'DarkVersion'.
+[2026.02.18-14.46.20:132][612]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.02.18-14.46.20:139][612]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.46.20:139][612]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.18-14.46.20
+[2026.02.18-14.46.20:139][612]LogWorld: Bringing up level for play took: 0.000613
+[2026.02.18-14.46.20:141][612]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2026.02.18-14.46.20:147][612]PIE: Server logged in
+[2026.02.18-14.46.20:149][612]PIE: Play in editor total start time 0.09 seconds.
+[2026.02.18-14.46.24:390][121]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.18-14.46.24:390][121]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.18-14.46.24:390][121]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.18-14.46.24:390][121]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.46.24:392][121]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.46.24:392][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.46.24:427][121]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.46.24:429][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.18-14.46.24:430][121]LogStreaming: Display: FlushAsyncLoading(335): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.46.24:431][121]LogAudio: Display: Audio Device (ID: 4) registered with world 'LightVersion'.
+[2026.02.18-14.46.24:431][121]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.46.24:432][121]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2026.02.18-14.46.24:432][121]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.46.24:433][121]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.18-14.46.24
+[2026.02.18-14.46.24:434][121]LogWorld: Bringing up level for play took: 0.001073
+[2026.02.18-14.46.24:438][121]LogLoad: Took 0.047077 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.02.18-14.46.24:438][121]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.02.18-14.46.31:345][950]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.02.18-14.46.31:345][950]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.02.18-14.46.31:345][950]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.02.18-14.46.31:345][950]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.46.31:346][950]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.46.31:346][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.46.31:389][950]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.46.31:390][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.18-14.46.31:392][950]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.46.31:393][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001638s)
+[2026.02.18-14.46.31:393][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.001677s)
+[2026.02.18-14.46.31:393][950]LogAudio: Display: Audio Device (ID: 4) registered with world 'DarkVersion'.
+[2026.02.18-14.46.31:393][950]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.18-14.46.31:394][950]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2026.02.18-14.46.31:394][950]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.46.31:395][950]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.18-14.46.31
+[2026.02.18-14.46.31:395][950]LogWorld: Bringing up level for play took: 0.000500
+[2026.02.18-14.46.31:399][950]LogLoad: Took 0.054090 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_DarkVersion)
+[2026.02.18-14.46.31:399][950]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.46.34:255][293]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.18-14.46.34:255][293]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.18-14.46.34:255][293]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.18-14.46.34:256][293]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.46.34:256][293]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.46.34:256][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.46.34:312][293]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.46.34:313][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.02.18-14.46.34:314][293]LogStreaming: Display: FlushAsyncLoading(336): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.46.34:316][293]LogAudio: Display: Audio Device (ID: 4) registered with world 'LightVersion'.
+[2026.02.18-14.46.34:316][293]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.46.34:317][293]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2026.02.18-14.46.34:317][293]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.46.34:318][293]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.18-14.46.34
+[2026.02.18-14.46.34:318][293]LogWorld: Bringing up level for play took: 0.001020
+[2026.02.18-14.46.34:322][293]LogLoad: Took 0.066480 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.02.18-14.46.34:322][293]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.02.18-14.46.35:664][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.46.35:664][449]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.46.35:664][449]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.46.35:665][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.46.35:667][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.18-14.46.35:668][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.46.35:683][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.46.35:683][449]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.02.18-14.46.35:683][449]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.02.18-14.46.35:685][449]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.02.18-14.46.35:690][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.18-14.46.35:738][451]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2026.02.18-14.46.47:886][792]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.18-14.46.47:892][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.18-14.46.47:923][792]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.46.47:925][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001781s)
+[2026.02.18-14.46.47:925][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.001822s)
+[2026.02.18-14.46.47:939][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.18-14.46.47:939][792]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.18-14.46.47:941][792]LogPlayLevel: PIE: World Init took: (0.001242s)
+[2026.02.18-14.46.47:941][792]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.02.18-14.46.47:941][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.18-14.46.47:941][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.18-14.46.47:941][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.18-14.46.47:941][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.18-14.46.47:941][792]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.18-14.46.47:941][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.18-14.46.47:941][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.18-14.46.47:941][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.18-14.46.47:941][792]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.18-14.46.47:941][792]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.18-14.46.47:941][792]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.18-14.46.47:943][792]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.18-14.46.47:965][792]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.18-14.46.47:965][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.18-14.46.47:965][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.18-14.46.47:965][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.18-14.46.47:966][792]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.02.18-14.46.47:966][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.02.18-14.46.47:968][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.02.18-14.46.47:968][792]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.02.18-14.46.47:968][792]LogInit: FAudioDevice initialized with ID 5.
+[2026.02.18-14.46.47:968][792]LogAudio: Display: Audio Device (ID: 5) registered with world 'DarkVersion'.
+[2026.02.18-14.46.47:968][792]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.02.18-14.46.47:971][792]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.46.47:972][792]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.18-14.46.47
+[2026.02.18-14.46.47:972][792]LogWorld: Bringing up level for play took: 0.000660
+[2026.02.18-14.46.47:973][792]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.02.18-14.46.47:979][792]PIE: Server logged in
+[2026.02.18-14.46.47:980][792]PIE: Play in editor total start time 0.088 seconds.
+[2026.02.18-14.46.52:510][335]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.18-14.46.52:510][335]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.18-14.46.52:510][335]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.18-14.46.52:510][335]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.46.52:511][335]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.46.52:511][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.46.52:548][335]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.46.52:549][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.18-14.46.52:550][335]LogStreaming: Display: FlushAsyncLoading(337): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.46.52:552][335]LogAudio: Display: Audio Device (ID: 5) registered with world 'LightVersion'.
+[2026.02.18-14.46.52:552][335]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.46.52:554][335]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2026.02.18-14.46.52:554][335]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.46.52:555][335]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.18-14.46.52
+[2026.02.18-14.46.52:555][335]LogWorld: Bringing up level for play took: 0.001104
+[2026.02.18-14.46.52:559][335]LogLoad: Took 0.048604 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.02.18-14.46.52:559][335]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.02.18-14.46.53:664][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.46.53:664][464]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.46.53:664][464]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.46.53:664][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.46.53:666][464]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.18-14.46.53:668][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.46.53:683][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.46.53:683][464]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.02.18-14.46.53:683][464]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.02.18-14.46.53:685][464]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.02.18-14.46.53:690][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.02.18-14.46.53:735][466]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.02.18-14.47.29:676][961]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.18-14.47.29:681][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.18-14.47.29:714][961]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.47.29:717][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002394s)
+[2026.02.18-14.47.29:717][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.002439s)
+[2026.02.18-14.47.29:732][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.18-14.47.29:733][961]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.18-14.47.29:734][961]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2026.02.18-14.47.29:734][961]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.02.18-14.47.29:734][961]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.18-14.47.29:734][961]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.18-14.47.29:734][961]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.18-14.47.29:734][961]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.18-14.47.29:734][961]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.18-14.47.29:734][961]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.18-14.47.29:734][961]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.18-14.47.29:734][961]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.18-14.47.29:734][961]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.18-14.47.29:734][961]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.18-14.47.29:734][961]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.18-14.47.29:736][961]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.18-14.47.29:756][961]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.18-14.47.29:756][961]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.18-14.47.29:756][961]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.18-14.47.29:756][961]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.18-14.47.29:756][961]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.02.18-14.47.29:756][961]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.02.18-14.47.29:758][961]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.02.18-14.47.29:758][961]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.02.18-14.47.29:758][961]LogInit: FAudioDevice initialized with ID 6.
+[2026.02.18-14.47.29:758][961]LogAudio: Display: Audio Device (ID: 6) registered with world 'DarkVersion'.
+[2026.02.18-14.47.29:758][961]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.18-14.47.29:761][961]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.47.29:762][961]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.18-14.47.29
+[2026.02.18-14.47.29:762][961]LogWorld: Bringing up level for play took: 0.000603
+[2026.02.18-14.47.29:763][961]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2026.02.18-14.47.29:767][961]PIE: Server logged in
+[2026.02.18-14.47.29:769][961]PIE: Play in editor total start time 0.088 seconds.
+[2026.02.18-14.47.32:782][322]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.18-14.47.32:782][322]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.18-14.47.32:782][322]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.18-14.47.32:782][322]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.47.32:783][322]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.47.32:783][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.47.32:829][322]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.47.32:830][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.18-14.47.32:831][322]LogStreaming: Display: FlushAsyncLoading(338): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.47.32:832][322]LogAudio: Display: Audio Device (ID: 6) registered with world 'LightVersion'.
+[2026.02.18-14.47.32:832][322]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.47.32:834][322]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2026.02.18-14.47.32:834][322]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.47.32:835][322]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.18-14.47.32
+[2026.02.18-14.47.32:835][322]LogWorld: Bringing up level for play took: 0.001023
+[2026.02.18-14.47.32:839][322]LogLoad: Took 0.055820 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.02.18-14.47.32:839][322]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.02.18-14.47.34:427][513]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.02.18-14.47.34:427][513]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.02.18-14.47.34:427][513]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.02.18-14.47.34:427][513]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.47.34:428][513]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.47.34:428][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.47.34:467][513]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.47.34:469][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.18-14.47.34:470][513]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.47.34:471][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001436s)
+[2026.02.18-14.47.34:471][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.001473s)
+[2026.02.18-14.47.34:471][513]LogAudio: Display: Audio Device (ID: 6) registered with world 'DarkVersion'.
+[2026.02.18-14.47.34:471][513]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.18-14.47.34:472][513]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2026.02.18-14.47.34:472][513]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.47.34:472][513]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.18-14.47.34
+[2026.02.18-14.47.34:472][513]LogWorld: Bringing up level for play took: 0.000449
+[2026.02.18-14.47.34:477][513]LogLoad: Took 0.048849 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_DarkVersion)
+[2026.02.18-14.47.34:477][513]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.47.36:155][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.47.36:155][710]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.47.36:155][710]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.47.36:156][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.47.36:158][710]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.18-14.47.36:159][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.47.36:171][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.47.36:171][710]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.18-14.47.36:172][710]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.02.18-14.47.36:173][710]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.02.18-14.47.36:178][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.18-14.47.36:223][712]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.02.18-14.47.37:803][874]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.02.18-14.47.37:840][876]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.02.18-14.48.15:779][820]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.18-14.48.15:785][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.18-14.48.15:814][820]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.48.15:816][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001801s)
+[2026.02.18-14.48.15:816][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.001839s)
+[2026.02.18-14.48.15:830][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.18-14.48.15:831][820]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.18-14.48.15:832][820]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2026.02.18-14.48.15:832][820]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.02.18-14.48.15:832][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.18-14.48.15:832][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.18-14.48.15:832][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.18-14.48.15:832][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.18-14.48.15:832][820]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.18-14.48.15:832][820]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.18-14.48.15:832][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.18-14.48.15:832][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.18-14.48.15:832][820]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.18-14.48.15:832][820]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.18-14.48.15:832][820]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.18-14.48.15:834][820]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.18-14.48.15:857][820]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.18-14.48.15:857][820]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.18-14.48.15:857][820]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.18-14.48.15:857][820]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.18-14.48.15:857][820]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.02.18-14.48.15:857][820]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.02.18-14.48.15:859][820]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.02.18-14.48.15:859][820]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.02.18-14.48.15:859][820]LogInit: FAudioDevice initialized with ID 7.
+[2026.02.18-14.48.15:859][820]LogAudio: Display: Audio Device (ID: 7) registered with world 'DarkVersion'.
+[2026.02.18-14.48.15:859][820]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.18-14.48.15:862][820]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.48.15:864][820]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.18-14.48.15
+[2026.02.18-14.48.15:864][820]LogWorld: Bringing up level for play took: 0.000621
+[2026.02.18-14.48.15:866][820]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2026.02.18-14.48.15:870][820]PIE: Server logged in
+[2026.02.18-14.48.15:872][820]PIE: Play in editor total start time 0.087 seconds.
+[2026.02.18-14.48.19:449][249]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.18-14.48.19:449][249]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.18-14.48.19:449][249]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.18-14.48.19:449][249]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.48.19:449][249]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.48.19:449][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.48.19:501][249]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.48.19:502][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.18-14.48.19:503][249]LogStreaming: Display: FlushAsyncLoading(339): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.48.19:506][249]LogAudio: Display: Audio Device (ID: 7) registered with world 'LightVersion'.
+[2026.02.18-14.48.19:506][249]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.48.19:507][249]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2026.02.18-14.48.19:507][249]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.48.19:508][249]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.18-14.48.19
+[2026.02.18-14.48.19:508][249]LogWorld: Bringing up level for play took: 0.001033
+[2026.02.18-14.48.19:511][249]LogLoad: Took 0.062987 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.02.18-14.48.19:511][249]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.02.18-14.48.21:326][467]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.02.18-14.48.21:326][467]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.02.18-14.48.21:326][467]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.02.18-14.48.21:326][467]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.48.21:327][467]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.48.21:327][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.48.21:381][467]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.48.21:382][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.18-14.48.21:383][467]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.48.21:385][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001657s)
+[2026.02.18-14.48.21:385][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.001712s)
+[2026.02.18-14.48.21:385][467]LogAudio: Display: Audio Device (ID: 7) registered with world 'DarkVersion'.
+[2026.02.18-14.48.21:385][467]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.18-14.48.21:386][467]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2026.02.18-14.48.21:386][467]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.48.21:386][467]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.18-14.48.21
+[2026.02.18-14.48.21:387][467]LogWorld: Bringing up level for play took: 0.000485
+[2026.02.18-14.48.21:391][467]LogLoad: Took 0.064022 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_DarkVersion)
+[2026.02.18-14.48.21:391][467]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.48.22:795][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.48.22:795][633]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.48.22:795][633]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.48.22:796][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.48.22:797][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.18-14.48.22:798][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.48.22:810][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.48.22:811][633]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.18-14.48.22:811][633]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.02.18-14.48.22:812][633]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.02.18-14.48.22:819][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.18-14.48.22:879][634]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.02.18-14.48.30:738][505]Cmd: DELETE
+[2026.02.18-14.48.30:738][505]Cmd: ACTOR DELETE
+[2026.02.18-14.48.30:741][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.18-14.48.30:754][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.18-14.48.30:756][505]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.02.18-14.48.42:615][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.18-14.48.43:909][797]LogSlate: Window 'Save Content' being destroyed
+[2026.02.18-14.48.43:922][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-14.48.43:980][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2026.02.18-14.48.43:992][797]LogSavePackage: Moving output files for package: /Game/Dimensions/DarkVersion
+[2026.02.18-14.48.43:992][797]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/DarkVersionA76F58BB49A191A8200863886FCBA622.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap'
+[2026.02.18-14.48.43:999][797]LogFileHelpers: Saving map 'DarkVersion' took 0.046
+[2026.02.18-14.48.44:071][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.274 ms
+[2026.02.18-14.48.44:071][797]LogStreaming: Display: FlushAsyncLoading(340): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.48.44:072][797]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.48.44:074][797]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.02.18-14.48.44:074][797]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.18-14.48.44:124][797]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.48.44:124][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.48.44:136][797]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.48.44:137][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.02.18-14.48.44:138][797]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.48.44:138][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.48.44:150][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.18-14.48.44:160][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.18-14.48.44:162][797]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.02.18-14.48.44:162][797]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.48.44:170][797]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.18-14.48.44:186][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.02.18-14.48.44:193][797]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.18-14.48.44:193][797]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.059ms to complete.
+[2026.02.18-14.48.44:275][797]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-14.48.44:275][797]LogContentValidation: Enabled validators:
+[2026.02.18-14.48.44:275][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-14.48.44:275][797]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-14.48.44:275][797]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-14.48.44:275][797]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-14.48.44:275][797]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-14.48.44:275][797]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-14.48.52:473][761]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.18-14.48.52:480][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.18-14.48.52:504][761]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.48.52:506][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001736s)
+[2026.02.18-14.48.52:506][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.001771s)
+[2026.02.18-14.48.52:519][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.18-14.48.52:520][761]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.48.52:521][761]LogPlayLevel: PIE: World Init took: (0.001211s)
+[2026.02.18-14.48.52:521][761]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.02.18-14.48.52:521][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.18-14.48.52:521][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.18-14.48.52:521][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.18-14.48.52:521][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.18-14.48.52:521][761]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.18-14.48.52:521][761]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.18-14.48.52:521][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.18-14.48.52:521][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.18-14.48.52:521][761]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.18-14.48.52:521][761]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.18-14.48.52:521][761]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.18-14.48.52:523][761]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.18-14.48.52:547][761]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.18-14.48.52:547][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.18-14.48.52:547][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.18-14.48.52:547][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.18-14.48.52:547][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.02.18-14.48.52:547][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.02.18-14.48.52:549][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.02.18-14.48.52:549][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.02.18-14.48.52:549][761]LogInit: FAudioDevice initialized with ID 8.
+[2026.02.18-14.48.52:549][761]LogAudio: Display: Audio Device (ID: 8) registered with world 'LightVersion'.
+[2026.02.18-14.48.52:549][761]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.18-14.48.52:553][761]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.48.52:554][761]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.18-14.48.52
+[2026.02.18-14.48.52:554][761]LogWorld: Bringing up level for play took: 0.000720
+[2026.02.18-14.48.52:555][761]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2026.02.18-14.48.52:559][761]PIE: Server logged in
+[2026.02.18-14.48.52:561][761]PIE: Play in editor total start time 0.082 seconds.
+[2026.02.18-14.48.55:670][133]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.02.18-14.48.55:670][133]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.02.18-14.48.55:670][133]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.02.18-14.48.55:670][133]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.48.55:671][133]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.48.55:671][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.48.55:722][133]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.48.55:724][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.02.18-14.48.55:725][133]LogStreaming: Display: FlushAsyncLoading(342): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.48.55:727][133]LogAudio: Display: Audio Device (ID: 8) registered with world 'DarkVersion'.
+[2026.02.18-14.48.55:727][133]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.18-14.48.55:729][133]LogPlayLevel: PIE: World Init took: (0.001246s)
+[2026.02.18-14.48.55:729][133]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.48.55:730][133]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.18-14.48.55
+[2026.02.18-14.48.55:730][133]LogWorld: Bringing up level for play took: 0.001044
+[2026.02.18-14.48.55:733][133]LogLoad: Took 0.063962 seconds to LoadMap(/Game/Dimensions/DarkVersion)
+[2026.02.18-14.48.55:733][133]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/DarkVersion
+[2026.02.18-14.48.58:150][423]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.18-14.48.58:150][423]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.18-14.48.58:150][423]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.18-14.48.58:150][423]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.48.58:150][423]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.48.58:150][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.48.58:199][423]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.48.58:200][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.02.18-14.48.58:201][423]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.48.58:203][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001580s)
+[2026.02.18-14.48.58:203][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.001618s)
+[2026.02.18-14.48.58:204][423]LogAudio: Display: Audio Device (ID: 8) registered with world 'LightVersion'.
+[2026.02.18-14.48.58:204][423]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.48.58:205][423]LogPlayLevel: PIE: World Init took: (0.001100s)
+[2026.02.18-14.48.58:205][423]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.48.58:205][423]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.18-14.48.58
+[2026.02.18-14.48.58:205][423]LogWorld: Bringing up level for play took: 0.000498
+[2026.02.18-14.48.58:209][423]LogLoad: Took 0.059800 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_LightVersion)
+[2026.02.18-14.48.58:209][423]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.49.38:589][268]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.02.18-14.49.38:589][268]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.02.18-14.49.38:589][268]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.02.18-14.49.38:589][268]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.49.38:590][268]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.49.38:590][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.49.38:640][268]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.49.38:642][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.18-14.49.38:642][268]LogStreaming: Display: FlushAsyncLoading(343): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.49.38:645][268]LogAudio: Display: Audio Device (ID: 8) registered with world 'DarkVersion'.
+[2026.02.18-14.49.38:645][268]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.18-14.49.38:646][268]LogPlayLevel: PIE: World Init took: (0.001190s)
+[2026.02.18-14.49.38:646][268]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.49.38:647][268]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.18-14.49.38
+[2026.02.18-14.49.38:647][268]LogWorld: Bringing up level for play took: 0.001011
+[2026.02.18-14.49.38:651][268]LogLoad: Took 0.062312 seconds to LoadMap(/Game/Dimensions/DarkVersion)
+[2026.02.18-14.49.38:651][268]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/DarkVersion
+[2026.02.18-14.49.41:416][600]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.18-14.49.41:416][600]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.18-14.49.41:416][600]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.18-14.49.41:416][600]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.49.41:417][600]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.49.41:417][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.49.41:458][600]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.49.41:459][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.18-14.49.41:460][600]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.49.41:462][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001615s)
+[2026.02.18-14.49.41:462][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.001653s)
+[2026.02.18-14.49.41:462][600]LogAudio: Display: Audio Device (ID: 8) registered with world 'LightVersion'.
+[2026.02.18-14.49.41:462][600]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.49.41:463][600]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2026.02.18-14.49.41:463][600]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.49.41:463][600]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.18-14.49.41
+[2026.02.18-14.49.41:463][600]LogWorld: Bringing up level for play took: 0.000598
+[2026.02.18-14.49.41:468][600]LogLoad: Took 0.052125 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_LightVersion)
+[2026.02.18-14.49.41:468][600]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.49.44:525][967]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.02.18-14.49.44:525][967]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.02.18-14.49.44:525][967]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.02.18-14.49.44:525][967]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.49.44:525][967]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.49.44:525][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.49.44:581][967]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.49.44:582][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.02.18-14.49.44:583][967]LogStreaming: Display: FlushAsyncLoading(344): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.49.44:584][967]LogAudio: Display: Audio Device (ID: 8) registered with world 'DarkVersion'.
+[2026.02.18-14.49.44:584][967]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.18-14.49.44:585][967]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2026.02.18-14.49.44:585][967]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.49.44:587][967]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.18-14.49.44
+[2026.02.18-14.49.44:587][967]LogWorld: Bringing up level for play took: 0.001025
+[2026.02.18-14.49.44:591][967]LogLoad: Took 0.065462 seconds to LoadMap(/Game/Dimensions/DarkVersion)
+[2026.02.18-14.49.44:591][967]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/DarkVersion
+[2026.02.18-14.49.47:281][290]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.18-14.49.47:281][290]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.18-14.49.47:281][290]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.18-14.49.47:281][290]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.49.47:281][290]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.49.47:281][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.49.47:327][290]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.49.47:328][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.02.18-14.49.47:329][290]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.49.47:331][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001603s)
+[2026.02.18-14.49.47:331][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.001643s)
+[2026.02.18-14.49.47:331][290]LogAudio: Display: Audio Device (ID: 8) registered with world 'LightVersion'.
+[2026.02.18-14.49.47:331][290]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.49.47:332][290]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2026.02.18-14.49.47:332][290]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.49.47:333][290]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.18-14.49.47
+[2026.02.18-14.49.47:333][290]LogWorld: Bringing up level for play took: 0.000614
+[2026.02.18-14.49.47:337][290]LogLoad: Took 0.056668 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_LightVersion)
+[2026.02.18-14.49.47:338][290]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.49.49:576][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.49.49:576][554]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.49.49:576][554]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.49.49:577][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.49.49:578][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.18-14.49.49:580][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.49.49:593][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.49.49:593][554]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.18-14.49.49:593][554]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.02.18-14.49.49:595][554]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.02.18-14.49.49:600][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.02.18-14.49.49:647][556]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2026.02.18-14.50.01:441][908]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.02.18-14.50.03:328][104]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ChangeLevel.ChangeLevel
+[2026.02.18-14.50.03:328][104]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.02.18-14.50.03:476][104]LogStreaming: Display: FlushAsyncLoading(345): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.50.05:146][104]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.18-14.50.22:092][ 67]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2094.502197
+[2026.02.18-14.50.22:219][ 82]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-14.50.22:219][ 82]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2094.623535, Update Interval: 328.114868
+[2026.02.18-14.50.35:191][619]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-14.50.35:265][619]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ChangeLevel] ([2] browsable assets)...
+[2026.02.18-14.50.35:265][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/ChangeLevel]
+[2026.02.18-14.50.35:265][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChangeLevel" FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/ChangeLevel.uasset" SILENT=true
+[2026.02.18-14.50.35:277][619]LogSavePackage: Moving output files for package: /Game/ChangeLevel
+[2026.02.18-14.50.35:277][619]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/ChangeLevel3A01002F466EBA20F828FDAC497ABDBF.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/ChangeLevel.uasset'
+[2026.02.18-14.50.35:282][619]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.181 ms (total: 240.455 ms)
+[2026.02.18-14.50.35:337][619]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-14.50.35:337][619]LogContentValidation: Enabled validators:
+[2026.02.18-14.50.35:337][619]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-14.50.35:337][619]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-14.50.35:337][619]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-14.50.35:337][619]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-14.50.35:337][619]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-14.50.35:337][619]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-14.50.35:337][619]AssetCheck: /Game/ChangeLevel Validating asset
+[2026.02.18-14.50.35:353][619]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.18-14.52.10:396][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.18-14.52.10:397][899]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.02.18-14.52.10:397][899]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.18-14.52.10:415][899]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.52.10:415][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.52.10:432][899]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.52.10:435][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.02.18-14.52.10:436][899]LogStreaming: Display: FlushAsyncLoading(542): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.52.10:439][899]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.02.18-14.52.10:439][899]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.52.10:450][899]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.18-14.52.10:472][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.02.18-14.52.10:545][899]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.18-14.52.10:545][899]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.056ms to complete.
+[2026.02.18-14.52.14:118][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.18-14.52.14:119][282]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.02.18-14.52.14:119][282]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.18-14.52.14:176][282]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.52.14:176][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.52.14:198][282]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.52.14:199][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.02.18-14.52.14:200][282]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.52.14:202][282]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.02.18-14.52.14:202][282]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.52.14:291][282]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.18-14.52.14:312][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.02.18-14.52.14:320][282]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.18-14.52.14:320][282]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.053ms to complete.
+[2026.02.18-14.52.20:450][878]LogSlate: Window 'ChangeLevel' being destroyed
+[2026.02.18-14.54.09:563][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-14.54.09:619][933]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ChangeLevel] ([2] browsable assets)...
+[2026.02.18-14.54.09:619][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/ChangeLevel]
+[2026.02.18-14.54.09:619][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ChangeLevel" FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/ChangeLevel.uasset" SILENT=true
+[2026.02.18-14.54.09:630][933]LogSavePackage: Moving output files for package: /Game/ChangeLevel
+[2026.02.18-14.54.09:631][933]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/ChangeLevelAC17ACAF4C2F3541C0051D9DFCBDAAB3.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/ChangeLevel.uasset'
+[2026.02.18-14.54.09:638][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.564 ms (total: 315.019 ms)
+[2026.02.18-14.54.09:697][933]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-14.54.09:697][933]LogContentValidation: Enabled validators:
+[2026.02.18-14.54.09:697][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-14.54.09:697][933]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-14.54.09:697][933]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-14.54.09:697][933]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-14.54.09:697][933]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-14.54.09:697][933]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-14.54.09:698][933]AssetCheck: /Game/ChangeLevel Validating asset
+[2026.02.18-14.54.31:125][810]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.18-14.54.31:134][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.18-14.54.31:154][810]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.54.31:156][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001966s)
+[2026.02.18-14.54.31:156][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.002011s)
+[2026.02.18-14.54.31:177][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.02.18-14.54.31:178][810]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.54.31:180][810]LogPlayLevel: PIE: World Init took: (0.001427s)
+[2026.02.18-14.54.31:181][810]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.02.18-14.54.31:181][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.18-14.54.31:181][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.18-14.54.31:181][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.18-14.54.31:181][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.18-14.54.31:181][810]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.18-14.54.31:181][810]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.18-14.54.31:181][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.18-14.54.31:181][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.18-14.54.31:181][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.18-14.54.31:181][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.18-14.54.31:181][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.18-14.54.31:182][810]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.18-14.54.31:207][810]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.18-14.54.31:207][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.18-14.54.31:207][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.18-14.54.31:207][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.18-14.54.31:208][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.02.18-14.54.31:208][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.02.18-14.54.31:210][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.02.18-14.54.31:210][810]LogInit: FAudioDevice initialized with ID 9.
+[2026.02.18-14.54.31:210][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.02.18-14.54.31:210][810]LogAudio: Display: Audio Device (ID: 9) registered with world 'LightVersion'.
+[2026.02.18-14.54.31:210][810]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.18-14.54.31:213][810]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.54.31:214][810]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.18-14.54.31
+[2026.02.18-14.54.31:214][810]LogWorld: Bringing up level for play took: 0.000737
+[2026.02.18-14.54.31:216][810]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.02.18-14.54.31:221][810]PIE: Server logged in
+[2026.02.18-14.54.31:223][810]PIE: Play in editor total start time 0.091 seconds.
+[2026.02.18-14.54.33:496][ 81]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.02.18-14.54.33:496][ 81]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.02.18-14.54.33:496][ 81]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.02.18-14.54.33:496][ 81]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.54.33:497][ 81]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.54.33:497][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.54.33:555][ 81]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.54.33:557][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.02.18-14.54.33:558][ 81]LogStreaming: Display: FlushAsyncLoading(544): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.54.33:560][ 81]LogAudio: Display: Audio Device (ID: 9) registered with world 'DarkVersion'.
+[2026.02.18-14.54.33:560][ 81]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.18-14.54.33:561][ 81]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2026.02.18-14.54.33:562][ 81]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.54.33:563][ 81]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.18-14.54.33
+[2026.02.18-14.54.33:563][ 81]LogWorld: Bringing up level for play took: 0.001041
+[2026.02.18-14.54.33:567][ 81]LogLoad: Took 0.070479 seconds to LoadMap(/Game/Dimensions/DarkVersion)
+[2026.02.18-14.54.33:567][ 81]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/DarkVersion
+[2026.02.18-14.54.35:658][332]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.18-14.54.35:658][332]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.18-14.54.35:658][332]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.18-14.54.35:658][332]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.54.35:659][332]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.54.35:659][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.54.35:702][332]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.54.35:704][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.18-14.54.35:705][332]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.54.35:707][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001849s)
+[2026.02.18-14.54.35:707][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.001891s)
+[2026.02.18-14.54.35:707][332]LogAudio: Display: Audio Device (ID: 9) registered with world 'LightVersion'.
+[2026.02.18-14.54.35:707][332]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.54.35:708][332]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2026.02.18-14.54.35:708][332]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.54.35:709][332]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.18-14.54.35
+[2026.02.18-14.54.35:709][332]LogWorld: Bringing up level for play took: 0.000553
+[2026.02.18-14.54.35:714][332]LogLoad: Took 0.055723 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_LightVersion)
+[2026.02.18-14.54.35:714][332]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.54.37:596][558]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.02.18-14.54.37:596][558]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.02.18-14.54.37:596][558]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.02.18-14.54.37:596][558]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.54.37:597][558]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.54.37:597][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.54.37:656][558]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.54.37:658][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.02.18-14.54.37:659][558]LogStreaming: Display: FlushAsyncLoading(545): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.54.37:661][558]LogAudio: Display: Audio Device (ID: 9) registered with world 'DarkVersion'.
+[2026.02.18-14.54.37:661][558]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.18-14.54.37:662][558]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2026.02.18-14.54.37:662][558]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.54.37:663][558]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.18-14.54.37
+[2026.02.18-14.54.37:663][558]LogWorld: Bringing up level for play took: 0.001051
+[2026.02.18-14.54.37:668][558]LogLoad: Took 0.071091 seconds to LoadMap(/Game/Dimensions/DarkVersion)
+[2026.02.18-14.54.37:668][558]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/DarkVersion
+[2026.02.18-14.54.40:307][875]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.18-14.54.40:307][875]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.18-14.54.40:307][875]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.18-14.54.40:307][875]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.54.40:308][875]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.54.40:308][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.54.40:364][875]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.54.40:365][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.02.18-14.54.40:366][875]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.54.40:368][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001973s)
+[2026.02.18-14.54.40:368][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.002011s)
+[2026.02.18-14.54.40:368][875]LogAudio: Display: Audio Device (ID: 9) registered with world 'LightVersion'.
+[2026.02.18-14.54.40:368][875]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.54.40:369][875]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2026.02.18-14.54.40:369][875]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.54.40:370][875]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.18-14.54.40
+[2026.02.18-14.54.40:370][875]LogWorld: Bringing up level for play took: 0.000528
+[2026.02.18-14.54.40:374][875]LogLoad: Took 0.066753 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_LightVersion)
+[2026.02.18-14.54.40:374][875]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.54.40:834][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.54.40:834][926]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.54.40:834][926]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.54.40:835][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.54.40:836][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.18-14.54.40:838][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.54.40:855][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.54.40:855][926]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.18-14.54.40:855][926]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.02.18-14.54.40:857][926]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.02.18-14.54.40:862][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.02.18-14.54.40:906][927]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.02.18-14.54.51:019][940]Cmd: DELETE
+[2026.02.18-14.54.51:019][940]Cmd: ACTOR DELETE
+[2026.02.18-14.54.51:020][940]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.18-14.54.51:042][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.18-14.54.51:043][940]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.02.18-14.56.32:737][310]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2465.136230
+[2026.02.18-14.56.33:734][313]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-14.56.33:734][313]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2465.802246, Update Interval: 336.937164
+[2026.02.18-14.56.58:051][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.02.18-14.56.59:375][549]LogSlate: Window 'Save Content' being destroyed
+[2026.02.18-14.56.59:391][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-14.56.59:464][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.02.18-14.56.59:477][549]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.02.18-14.56.59:477][549]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersionC3536E6349FBA936CC1EE19F52AA0556.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.02.18-14.56.59:485][549]LogFileHelpers: Saving map 'LightVersion' took 0.055
+[2026.02.18-14.56.59:533][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.955 ms (total: 456.975 ms)
+[2026.02.18-14.56.59:533][549]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.02.18-14.56.59:534][549]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.18-14.56.59:595][549]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.56.59:595][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.56.59:610][549]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.56.59:611][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.02.18-14.56.59:612][549]LogStreaming: Display: FlushAsyncLoading(546): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.56.59:614][549]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.02.18-14.56.59:614][549]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.56.59:622][549]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.18-14.56.59:642][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.02.18-14.56.59:650][549]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.18-14.56.59:650][549]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.051ms to complete.
+[2026.02.18-14.56.59:727][549]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-14.56.59:727][549]LogContentValidation: Enabled validators:
+[2026.02.18-14.56.59:727][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-14.56.59:727][549]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-14.56.59:727][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-14.56.59:727][549]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-14.56.59:727][549]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-14.56.59:727][549]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-14.56.59:727][549]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.02.18-14.57.02:280][849]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.18-14.57.02:286][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.18-14.57.02:324][849]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.57.02:327][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002147s)
+[2026.02.18-14.57.02:327][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.002192s)
+[2026.02.18-14.57.02:350][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.02.18-14.57.02:352][849]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.57.02:352][849]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2026.02.18-14.57.02:353][849]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.02.18-14.57.02:353][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.18-14.57.02:353][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.18-14.57.02:353][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.18-14.57.02:353][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.18-14.57.02:353][849]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.18-14.57.02:353][849]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.18-14.57.02:353][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.18-14.57.02:353][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.18-14.57.02:353][849]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.18-14.57.02:353][849]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.18-14.57.02:353][849]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.18-14.57.02:355][849]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.18-14.57.02:374][849]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.18-14.57.02:374][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.18-14.57.02:374][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.18-14.57.02:374][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.18-14.57.02:376][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.02.18-14.57.02:376][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.02.18-14.57.02:377][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.02.18-14.57.02:377][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.02.18-14.57.02:377][849]LogInit: FAudioDevice initialized with ID 10.
+[2026.02.18-14.57.02:377][849]LogAudio: Display: Audio Device (ID: 10) registered with world 'LightVersion'.
+[2026.02.18-14.57.02:377][849]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.02.18-14.57.02:380][849]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.57.02:381][849]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.18-14.57.02
+[2026.02.18-14.57.02:381][849]LogWorld: Bringing up level for play took: 0.000555
+[2026.02.18-14.57.02:382][849]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.02.18-14.57.02:387][849]PIE: Server logged in
+[2026.02.18-14.57.02:388][849]PIE: Play in editor total start time 0.102 seconds.
+[2026.02.18-14.57.05:138][179]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.02.18-14.57.05:138][179]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.02.18-14.57.05:138][179]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.02.18-14.57.05:138][179]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.57.05:138][179]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.57.05:138][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.57.05:193][179]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.57.05:195][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.02.18-14.57.05:196][179]LogStreaming: Display: FlushAsyncLoading(547): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-14.57.05:197][179]LogAudio: Display: Audio Device (ID: 10) registered with world 'DarkVersion'.
+[2026.02.18-14.57.05:197][179]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.18-14.57.05:198][179]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2026.02.18-14.57.05:198][179]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.57.05:199][179]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.18-14.57.05
+[2026.02.18-14.57.05:200][179]LogWorld: Bringing up level for play took: 0.000947
+[2026.02.18-14.57.05:203][179]LogLoad: Took 0.065124 seconds to LoadMap(/Game/Dimensions/DarkVersion)
+[2026.02.18-14.57.05:203][179]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/DarkVersion
+[2026.02.18-14.57.07:534][459]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.18-14.57.07:534][459]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.18-14.57.07:534][459]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.18-14.57.07:534][459]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.18-14.57.07:535][459]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.57.07:535][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.57.07:579][459]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-14.57.07:581][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.02.18-14.57.07:582][459]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.57.07:584][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001494s)
+[2026.02.18-14.57.07:584][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.001533s)
+[2026.02.18-14.57.07:584][459]LogAudio: Display: Audio Device (ID: 10) registered with world 'LightVersion'.
+[2026.02.18-14.57.07:584][459]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.18-14.57.07:585][459]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2026.02.18-14.57.07:585][459]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.18-14.57.07:585][459]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.18-14.57.07
+[2026.02.18-14.57.07:586][459]LogWorld: Bringing up level for play took: 0.000462
+[2026.02.18-14.57.07:588][459]LogLoad: Took 0.054241 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_LightVersion)
+[2026.02.18-14.57.07:588][459]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.57.09:845][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.57.09:845][726]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.18-14.57.09:845][726]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-14.57.09:846][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.57.09:847][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.18-14.57.09:850][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-14.57.09:867][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-14.57.09:867][726]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.02.18-14.57.09:867][726]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.02.18-14.57.09:869][726]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.02.18-14.57.09:873][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.02.18-14.57.09:919][728]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.02.18-14.57.42:219][497]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.02.18-14.57.43:240][576]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2026.02.18-14.57.43:240][576]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.02.18-14.57.43:778][580]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.02.18-14.58.29:473][549]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.02.18-14.58.29:486][549]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.02.18-14.58.29:493][549]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.02.18-14.58.29:515][550]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.02.18-14.58.37:653][522]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BP_UI
+[2026.02.18-14.58.37:658][522]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.02.18-14.58.39:341][696]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP_UI.BP_UI
+[2026.02.18-14.58.39:341][696]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.02.18-14.58.39:349][696]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.02.18-14.58.39:356][696]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.02.18-14.58.39:788][696]LogSlate: Took 0.006597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: ================================================
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Total job queries 411, among them cache hits 29 (7.06%), DDC hits 322 (78.35%), Duplicates 59 (14.36%)
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Tracking 323 distinct input hashes that result in 234 distinct outputs (72.45%)
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: RAM used: 3.24 MiB of 3.20 GiB budget. Usage: 0.10%
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Shaders Compiled: 1
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Job execution time: average 0.72 s, max 0.72 s
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Job life time (pending + execution): average 0.74 s, max 0.74
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Shader code size: total 8.145 KiB, numShaders 1, average 8.145 KiB, min 8.145 KiB, max 8.145 KiB
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.74 s
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Average processing rate: 1.35 jobs/sec
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Total thread time: 0.311 s
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Total thread preprocess time: 4.876 s
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Percentage time preprocessing: 1569.06%
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Effective parallelization: 0.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.026251
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: === Material stats ===
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Materials Translated:    143
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Material Translation Only: 0.03 s (28%)
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: Material Cache Hits: 13 (9%)
+[2026.02.18-15.00.30:919][989]LogShaderCompilers: Display: ================================================
+[2026.02.18-15.02.48:278][401]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2840.663818
+[2026.02.18-15.02.49:272][404]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-15.02.49:272][405]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2841.324951, Update Interval: 306.288025
+[2026.02.18-15.07.05:773][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.18-15.07.05:774][173]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.046
+[2026.02.18-15.07.05:774][173]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_UI] ([2] browsable assets)...
+[2026.02.18-15.07.05:778][173]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP_UI.BP_UI]
+[2026.02.18-15.07.05:778][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_UI]
+[2026.02.18-15.07.05:778][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_UI" FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/BP_UI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.02.18-15.07.05:789][173]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_UI_Auto1
+[2026.02.18-15.07.05:789][173]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/BP_UI_Auto11A50EE0544361EBE3C352CB4204B0763.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/BP_UI_Auto1.uasset'
+[2026.02.18-15.07.05:790][173]LogFileHelpers: Auto-saving content packages took 0.016
+[2026.02.18-15.08.47:659][479]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3200.045654
+[2026.02.18-15.08.48:659][482]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-15.08.48:660][482]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3200.716064, Update Interval: 348.174683
+[2026.02.18-15.14.29:921][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.02.18-15.14.30:312][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+>>>>>>> Stashed changes
