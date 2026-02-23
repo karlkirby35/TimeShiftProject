@@ -2017,3 +2017,467 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.23-14.36.44:882][545]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2026.02.23-14.36.44:883][545]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Collections/' because it could not be accessed. Aborting watch request...
 [2026.02.23-14.36.44:883][545]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Developers/N00235865/Collections/' because it could not be accessed. Aborting watch request...
+[2026.02.23-14.38.13:610][ 64]LogFab: Display: Asset Type = unreal-engine
+[2026.02.23-14.38.13:610][ 64]LogFab: Display: Is Quixel = 0
+[2026.02.23-14.38.13:610][ 64]LogFab: Display: Base Url https://egdownload.fastly-edge.com/Builds/Rocket/Automated/SciFIHald35af27c825eV1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/SciFIHald35af27c825eV1/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/SciFIHald35af27c825eV1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/SciFIHald35af27c825eV1/CloudDir
+[2026.02.23-14.38.24:138][ 95]Cmd: DELETE
+[2026.02.23-14.38.24:138][ 95]Cmd: ACTOR DELETE
+[2026.02.23-14.38.24:141][ 95]LogEditorActor: Deleted Actor: PlayerStart
+[2026.02.23-14.38.24:162][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.02.23-14.38.24:166][ 95]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2026.02.23-14.38.25:424][230]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.23-14.38.25:434][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.23-14.38.25:464][230]LogStreaming: Display: FlushAsyncLoading(402): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.38.25:464][230]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.23-14.38.25:473][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009128s)
+[2026.02.23-14.38.25:473][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.009168s)
+[2026.02.23-14.38.25:488][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.23-14.38.25:489][230]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.23-14.38.25:490][230]LogPlayLevel: PIE: World Init took: (0.001395s)
+[2026.02.23-14.38.25:491][230]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.02.23-14.38.25:491][230]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.23-14.38.25:491][230]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.23-14.38.25:491][230]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.23-14.38.25:491][230]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.23-14.38.25:491][230]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.23-14.38.25:491][230]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.23-14.38.25:491][230]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.23-14.38.25:491][230]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.23-14.38.25:491][230]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.23-14.38.25:491][230]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.23-14.38.25:491][230]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.23-14.38.25:493][230]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.23-14.38.25:519][230]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.23-14.38.25:520][230]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.23-14.38.25:520][230]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.23-14.38.25:520][230]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.23-14.38.25:520][230]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.02.23-14.38.25:520][230]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.02.23-14.38.25:522][230]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.02.23-14.38.25:522][230]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.02.23-14.38.25:522][230]LogInit: FAudioDevice initialized with ID 6.
+[2026.02.23-14.38.25:522][230]LogAudio: Display: Audio Device (ID: 6) registered with world 'DarkVersion'.
+[2026.02.23-14.38.25:522][230]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.23-14.38.25:526][230]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.23-14.38.25:529][230]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.23-14.38.25
+[2026.02.23-14.38.25:529][230]LogWorld: Bringing up level for play took: 0.002272
+[2026.02.23-14.38.25:531][230]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.02.23-14.38.25:538][230]PIE: Server logged in
+[2026.02.23-14.38.25:539][230]PIE: Play in editor total start time 0.105 seconds.
+[2026.02.23-14.38.27:525][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.38.27:525][460]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.23-14.38.27:525][460]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.38.27:526][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.38.27:527][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.23-14.38.27:529][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.38.27:546][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.38.27:546][460]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.23-14.38.27:546][460]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.02.23-14.38.27:548][460]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.02.23-14.38.27:554][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.02.23-14.38.27:594][461]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.02.23-14.38.50:158][370]LogStreaming: Display: FlushAsyncLoading(403): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.38.50:165][370]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2026.02.23-14.38.50:177][370]LogStaticMesh: Display: Building static mesh SM_Door_half_01 (Required Memory Estimate: 3.921425 MB)...
+[2026.02.23-14.38.50:188][370]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Door_half_01_Metallic.T_Door_half_01_Metallic (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.38.50:193][370]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Door_half_01_Roughness.T_Door_half_01_Roughness (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.38.50:204][370]LogStaticMesh: Built static mesh [0.03s] /Game/Sci_fi_hallway/Models/SM_Door_half_01.SM_Door_half_01
+[2026.02.23-14.38.50:218][370]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Door_half_01_BaseColor.T_Door_half_01_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.38.50:220][370]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Door_half_01_Normal.T_Door_half_01_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.38.50:300][371]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sci_fi_hallway/Models/SM_Door_half_01.SM_Door_half_01
+[2026.02.23-14.38.50:300][371]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sci_fi_hallway/Models/SM_Door_half_01.SM_Door_half_01
+[2026.02.23-14.38.50:300][371]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sci_fi_hallway/Models/SM_Door_half_01.SM_Door_half_01 as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_1
+[2026.02.23-14.38.51:160][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.02.23-14.38.51:162][445]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.02.23-14.38.51:170][445]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sci_fi_hallway/Models/SM_Door_half_01.SM_Door_half_01
+[2026.02.23-14.38.51:170][445]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sci_fi_hallway/Models/SM_Door_half_01.SM_Door_half_01
+[2026.02.23-14.38.51:171][445]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sci_fi_hallway/Models/SM_Door_half_01.SM_Door_half_01 as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_2
+[2026.02.23-14.38.59:804][224]Cmd: DELETE
+[2026.02.23-14.38.59:804][224]Cmd: ACTOR DELETE
+[2026.02.23-14.38.59:807][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.38.59:822][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.02.23-14.38.59:824][224]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.02.23-14.39.05:889][728]LogStreaming: Display: FlushAsyncLoading(404): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.39.05:894][728]LogStaticMesh: Display: Building static mesh SM_Sci_fi_wall_straight_01 (Required Memory Estimate: 0.139249 MB)...
+[2026.02.23-14.39.05:898][728]LogStaticMesh: Built static mesh [0.01s] /Game/Sci_fi_hallway/Models/SM_Sci_fi_wall_straight_01.SM_Sci_fi_wall_straight_01
+[2026.02.23-14.39.05:907][728]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Sci_fi_wall_straight_02_Metallic.T_Sci_fi_wall_straight_02_Metallic (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.39.05:912][728]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Sci_fi_wall_straight_02_Roughness.T_Sci_fi_wall_straight_02_Roughness (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.39.05:934][728]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Sci_fi_wall_straight_02_BaseColor.T_Sci_fi_wall_straight_02_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.39.05:943][728]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Sci_fi_wall_straight_02_Normal.T_Sci_fi_wall_straight_02_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.39.06:396][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sci_fi_hallway/Models/SM_Sci_fi_wall_straight_01.SM_Sci_fi_wall_straight_01
+[2026.02.23-14.39.06:396][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sci_fi_hallway/Models/SM_Sci_fi_wall_straight_01.SM_Sci_fi_wall_straight_01
+[2026.02.23-14.39.06:397][760]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sci_fi_hallway/Models/SM_Sci_fi_wall_straight_01.SM_Sci_fi_wall_straight_01 as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_3
+[2026.02.23-14.39.07:594][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.23-14.39.07:597][878]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.02.23-14.39.07:602][878]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sci_fi_hallway/Models/SM_Sci_fi_wall_straight_01.SM_Sci_fi_wall_straight_01
+[2026.02.23-14.39.07:603][878]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Sci_fi_hallway/Models/SM_Sci_fi_wall_straight_01.SM_Sci_fi_wall_straight_01
+[2026.02.23-14.39.07:603][878]LogActorFactory: Actor Factory spawned StaticMesh /Game/Sci_fi_hallway/Models/SM_Sci_fi_wall_straight_01.SM_Sci_fi_wall_straight_01 as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_4
+[2026.02.23-14.39.10:644][163]Cmd: DELETE
+[2026.02.23-14.39.10:644][163]Cmd: ACTOR DELETE
+[2026.02.23-14.39.10:647][163]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.39.10:662][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.02.23-14.39.10:663][163]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.23-14.39.23:186][283]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.02.23-14.39.53:618][660]LogSlate: Window 'Loading Many Assets' being destroyed
+[2026.02.23-14.39.53:628][660]Message dialog closed, result: No, title: Loading Many Assets, text: About to load 97 assets. Are you sure you want to continue?
+[2026.02.23-14.39.58:789][139]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 689.161865
+[2026.02.23-14.39.58:947][154]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-14.39.58:948][154]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 689.310547, Update Interval: 357.467590
+[2026.02.23-14.40.01:201][218]LogSlate: Window 'Loading Many Assets' being destroyed
+[2026.02.23-14.40.01:210][218]Message dialog closed, result: No, title: Loading Many Assets, text: About to load 74 assets. Are you sure you want to continue?
+[2026.02.23-14.40.17:036][758]LogSlate: Window 'Loading Many Assets' being destroyed
+[2026.02.23-14.40.17:046][758]Message dialog closed, result: Yes, title: Loading Many Assets, text: About to load 97 assets. Are you sure you want to continue?
+[2026.02.23-14.40.17:080][758]LogStreaming: Display: FlushAsyncLoading(405): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.40.17:100][758]LogStaticMesh: Display: Building static mesh SM_Roof_edge_Straight_01 (Required Memory Estimate: 0.841668 MB)...
+[2026.02.23-14.40.17:106][758]LogStaticMesh: Built static mesh [0.01s] /Game/Sci_fi_hallway/Models/SM_Roof_edge_Straight_01.SM_Roof_edge_Straight_01
+[2026.02.23-14.40.17:108][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/SM_Roof_edge_Straight_01_0_Metallic.SM_Roof_edge_Straight_01_0_Metallic (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:111][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/SM_Roof_edge_Straight_01_0_Roughness.SM_Roof_edge_Straight_01_0_Roughness (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:115][758]LogStaticMesh: Display: Building static mesh SM_floor_Trim_02 (Required Memory Estimate: 1.612727 MB)...
+[2026.02.23-14.40.17:128][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/SM_floor_Trim_02_Metallic.SM_floor_Trim_02_Metallic (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:131][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/SM_Roof_edge_Straight_01_0_BaseColor.SM_Roof_edge_Straight_01_0_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:133][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/SM_floor_Trim_02_Roughness.SM_floor_Trim_02_Roughness (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:134][758]LogStaticMesh: Built static mesh [0.02s] /Game/Sci_fi_hallway/Models/SM_floor_Trim_02.SM_floor_Trim_02
+[2026.02.23-14.40.17:150][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/SM_Roof_edge_Straight_01_0_Normal.SM_Roof_edge_Straight_01_0_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:180][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/SM_floor_Trim_02_BaseColor.SM_floor_Trim_02_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:184][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/SM_floor_Trim_02_Normal.SM_floor_Trim_02_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:235][758]LogStaticMesh: Display: Building static mesh Sci_fi_wall_pillar (Required Memory Estimate: 3.952427 MB)...
+[2026.02.23-14.40.17:239][758]LogStaticMesh: Display: Building static mesh SM_Ceiling_light_01 (Required Memory Estimate: 1.836631 MB)...
+[2026.02.23-14.40.17:266][758]LogStaticMesh: Built static mesh [0.03s] /Game/Sci_fi_hallway/Models/SM_Ceiling_light_01.SM_Ceiling_light_01
+[2026.02.23-14.40.17:269][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Ceiling_light_01_Metallic.T_Ceiling_light_01_Metallic (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:275][758]LogStaticMesh: Display: Building static mesh SM_Comm_Terminal_01 (Required Memory Estimate: 3.990926 MB)...
+[2026.02.23-14.40.17:282][758]LogStaticMesh: Display: Building static mesh SM_Comm_Terminal_02 (Required Memory Estimate: 19.304968 MB)...
+[2026.02.23-14.40.17:282][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Ceiling_light_01_Roughness.T_Ceiling_light_01_Roughness (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:285][758]LogChaosDD: Creating Chaos Debug Draw Scene for world Sci_fi_hallway_assets
+[2026.02.23-14.40.17:308][758]LogStaticMesh: Built static mesh [0.08s] /Game/Sci_fi_hallway/Models/Sci_fi_wall_pillar.Sci_fi_wall_pillar
+[2026.02.23-14.40.17:309][758]LogStaticMesh: Display: Building static mesh SM_curved_wall_01 (Required Memory Estimate: 3.752295 MB)...
+[2026.02.23-14.40.17:313][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Ceiling_light_01_Emissive.T_Ceiling_light_01_Emissive (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:315][758]LogStreaming: Display: Flushing package /Engine/Maps/Templates/HLODs/HLODLayer_Merged (state: WaitingForIo) recursively from another package /Engine/Maps/Templates/HLODs/HLODLayer_Instanced (state: PreloadLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.02.23-14.40.17:316][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/SM_Comm_Terminal_01_Emissive.SM_Comm_Terminal_01_Emissive (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:316][758]LogStreaming: Display: Package /Engine/Maps/Templates/HLODs/HLODLayer_Instanced is adding a dynamic import to package /Engine/Maps/Templates/HLODs/HLODLayer_Merged because of a recursive sync load
+[2026.02.23-14.40.17:316][758]LogStreaming: Display: Flushing package /Engine/Maps/Templates/HLODs/HLODLayer_Merged (state: DeferredPostLoad) recursively from another package /Engine/Maps/Templates/HLODs/HLODLayer_Instanced (state: PreloadLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.02.23-14.40.17:321][758]LogStaticMesh: Display: Building static mesh SM_Curved_wall_02 (Required Memory Estimate: 1.691928 MB)...
+[2026.02.23-14.40.17:330][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Ceiling_light_01_BaseColor.T_Ceiling_light_01_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:337][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/SM_Comm_Terminal_01_BaseColor.SM_Comm_Terminal_01_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:341][758]LogStaticMesh: Built static mesh [0.07s] /Game/Sci_fi_hallway/Models/SM_Comm_Terminal_01.SM_Comm_Terminal_01
+[2026.02.23-14.40.17:350][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Ceiling_light_01_Normal.T_Ceiling_light_01_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:359][758]LogStaticMesh: Display: Building static mesh SM_Doorway_01 (Required Memory Estimate: 7.396832 MB)...
+[2026.02.23-14.40.17:362][758]LogStaticMesh: Built static mesh [0.04s] /Game/Sci_fi_hallway/Models/SM_Curved_wall_02.SM_Curved_wall_02
+[2026.02.23-14.40.17:366][758]LogStaticMesh: Built static mesh [0.06s] /Game/Sci_fi_hallway/Models/SM_curved_wall_01.SM_curved_wall_01
+[2026.02.23-14.40.17:368][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Sci_fi_wall_Pillar_01_Roughness.T_Sci_fi_wall_Pillar_01_Roughness (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 528.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:372][758]LogStaticMesh: Display: Building static mesh SM_floor_tile_01 (Required Memory Estimate: 0.377045 MB)...
+[2026.02.23-14.40.17:376][758]LogStaticMesh: Display: Building static mesh SM_Roof_panel (Required Memory Estimate: 0.07882 MB)...
+[2026.02.23-14.40.17:377][758]LogStaticMesh: Display: Building static mesh SM_Sci_fi_wall (Required Memory Estimate: 20.971047 MB)...
+[2026.02.23-14.40.17:382][758]LogStaticMesh: Built static mesh [0.01s] /Game/Sci_fi_hallway/Models/SM_Roof_panel.SM_Roof_panel
+[2026.02.23-14.40.17:391][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Sci_fi_wall_Pillar_01_Metallic.T_Sci_fi_wall_Pillar_01_Metallic (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 528.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:407][758]LogStaticMesh: Built static mesh [0.04s] /Game/Sci_fi_hallway/Models/SM_floor_tile_01.SM_floor_tile_01
+[2026.02.23-14.40.17:464][758]LogStaticMesh: Display: Building static mesh SM_Wall_hatch_Entry (Required Memory Estimate: 5.177742 MB)...
+[2026.02.23-14.40.17:464][758]LogStaticMesh: Display: Building static mesh SM_Wall_hatch_Door_Left (Required Memory Estimate: 1.405199 MB)...
+[2026.02.23-14.40.17:468][758]LogStaticMesh: Display: Building static mesh SM_Wall_hatch_Door_bottom (Required Memory Estimate: 2.009258 MB)...
+[2026.02.23-14.40.17:469][758]LogStaticMesh: Display: Building static mesh SM_Wall_hatch_Door_Right (Required Memory Estimate: 1.405252 MB)...
+[2026.02.23-14.40.17:472][758]LogStaticMesh: Built static mesh [0.11s] /Game/Sci_fi_hallway/Models/SM_Doorway_01.SM_Doorway_01
+[2026.02.23-14.40.17:476][758]LogStaticMesh: Display: Building static mesh SM_Straight_pillar_02 (Required Memory Estimate: 0.434963 MB)...
+[2026.02.23-14.40.17:490][758]LogStaticMesh: Built static mesh [0.03s] /Game/Sci_fi_hallway/Models/SM_Straight_pillar_02.SM_Straight_pillar_02
+[2026.02.23-14.40.17:494][758]LogStaticMesh: Built static mesh [0.03s] /Game/Sci_fi_hallway/Models/SM_Wall_hatch_Door_Right.SM_Wall_hatch_Door_Right
+[2026.02.23-14.40.17:497][758]LogStaticMesh: Built static mesh [0.03s] /Game/Sci_fi_hallway/Models/SM_Wall_hatch_Door_Left.SM_Wall_hatch_Door_Left
+[2026.02.23-14.40.17:501][758]LogStaticMesh: Built static mesh [0.04s] /Game/Sci_fi_hallway/Models/SM_Wall_hatch_Door_bottom.SM_Wall_hatch_Door_bottom
+[2026.02.23-14.40.17:526][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/SM_Comm_Terminal_01_Metallic.SM_Comm_Terminal_01_Metallic (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:532][758]LogStaticMesh: Built static mesh [0.07s] /Game/Sci_fi_hallway/Models/SM_Wall_hatch_Entry.SM_Wall_hatch_Entry
+[2026.02.23-14.40.17:537][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/SM_Comm_Terminal_01_Roughness.SM_Comm_Terminal_01_Roughness (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:578][758]LogStaticMesh: Built static mesh [0.30s] /Game/Sci_fi_hallway/Models/SM_Comm_Terminal_02.SM_Comm_Terminal_02
+[2026.02.23-14.40.17:588][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/SM_Comm_Terminal_01_Normal.SM_Comm_Terminal_01_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:594][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Sci_fi_wall_Pillar_01_Normal.T_Sci_fi_wall_Pillar_01_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:607][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Sci_fi_wall_Pillar_01_BaseColor.T_Sci_fi_wall_Pillar_01_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:649][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Comm_Terminal_02_Roughness.T_Comm_Terminal_02_Roughness (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 528.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:651][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Comm_Terminal_02_Metallic.T_Comm_Terminal_02_Metallic (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 528.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:699][758]LogStaticMesh: Built static mesh [0.32s] /Game/Sci_fi_hallway/Models/SM_Sci_fi_wall.SM_Sci_fi_wall
+[2026.02.23-14.40.17:844][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Comm_Terminal_02_Emissive.T_Comm_Terminal_02_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:874][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_curved_wall_01_Metallic.T_curved_wall_01_Metallic (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 528.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:895][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Comm_Terminal_02_BaseColor.T_Comm_Terminal_02_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:923][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Curved_wall_02_Metallic.T_Curved_wall_02_Metallic (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:926][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Comm_Terminal_02_Normal.T_Comm_Terminal_02_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:955][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_curved_wall_01_BaseColor.T_curved_wall_01_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:965][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_curved_wall_01_Roughness.T_curved_wall_01_Roughness (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 528.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.17:965][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Curved_wall_02_BaseColor.T_Curved_wall_02_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.18:020][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_curved_wall_01_Emissive.T_curved_wall_01_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.18:129][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Curved_wall_02_Roughness.T_Curved_wall_02_Roughness (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.18:152][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Curved_wall_02_Normal.T_Curved_wall_02_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.18:172][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_curved_wall_01_Normal.T_curved_wall_01_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.18:580][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_floor_tile_01_Metallic.T_floor_tile_01_Metallic (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.18:582][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_floor_tile_01_BaseColor.T_floor_tile_01_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 339.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.18:596][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Doorway_01_BaseColor.T_Doorway_01_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.18:704][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Roof_panel_01_Metallic.T_Roof_panel_01_Metallic (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.18:710][758]LogChaosDD: Creating Chaos Debug Draw Scene for world Sci_fi_hallway
+[2026.02.23-14.40.18:711][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_floor_tile_01_Roughness.T_floor_tile_01_Roughness (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.18:712][758]LogWorldPartition: ULevel::OnLevelLoaded(Sci_fi_hallway)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.23-14.40.18:713][758]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.23-14.40.18:713][758]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Sci_fi_hallway/Demo/Maps/Sci_fi_hallway.Sci_fi_hallway, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.23-14.40.18:725][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Doorway_01_Roughness.T_Doorway_01_Roughness (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 528.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.18:741][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Doorway_01_Metallic.T_Doorway_01_Metallic (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 528.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.18:763][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Roof_panel_01_Roughness.T_Roof_panel_01_Roughness (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.18:771][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_floor_tile_01_Normal.T_floor_tile_01_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.18:783][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Roof_panel_01_BaseColor.T_Roof_panel_01_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.18:825][758]LogWorldPartition: Display: WorldPartition initialize took 112.111 ms
+[2026.02.23-14.40.18:833][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Roof_panel_01_Normal.T_Roof_panel_01_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.18:898][758]LogObjectTools: Deleting 2 worlds: /Game/Sci_fi_hallway/Demo/Maps/Sci_fi_hallway_assets.Sci_fi_hallway_assets, /Game/Sci_fi_hallway/Demo/Maps/Sci_fi_hallway.Sci_fi_hallway
+[2026.02.23-14.40.18:898][758]LogObjectTools: Currently 4 active worlds: /Game/Dimensions/DarkVersion.DarkVersion, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2026.02.23-14.40.18:939][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.23-14.40.18:966][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/Sci_fi_wall_Wall_01_Metallic.Sci_fi_wall_Wall_01_Metallic (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 528.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.19:062][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Straight_pillar_02_Metallic.T_Straight_pillar_02_Metallic (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.19:063][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/Sci_fi_wall_Wall_01_Roughness.Sci_fi_wall_Wall_01_Roughness (BGRA8, 4096x4096 x1x1x1) (Required Memory Estimate: 528.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.19:130][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/SM_Wall_hatch_01_Metallic.SM_Wall_hatch_01_Metallic (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.19:151][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Straight_pillar_02_Roughness.T_Straight_pillar_02_Roughness (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.19:166][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Straight_pillar_02_BaseColor.T_Straight_pillar_02_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.19:204][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/SM_Wall_hatch_01_Normal.SM_Wall_hatch_01_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.19:211][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Doorway_01_Normal.T_Doorway_01_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.19:226][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/T_Straight_pillar_02_Normal.T_Straight_pillar_02_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.19:230][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/SM_Wall_hatch_01_BaseColor.SM_Wall_hatch_01_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.19:284][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/Sci_fi_wall_Wall_01_Emissive.Sci_fi_wall_Wall_01_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.19:299][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/Sci_fi_wall_Wall_01_Normal.Sci_fi_wall_Wall_01_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.19:311][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/SM_Wall_hatch_01_Roughness.SM_Wall_hatch_01_Roughness (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 132.999992 MB), EncodeSpeed: Fast
+[2026.02.23-14.40.19:331][758]LogTexture: Display: Building textures: /Game/Sci_fi_hallway/Textures/Sci_fi_wall_Wall_01_BaseColor.Sci_fi_wall_Wall_01_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.42.16:891][758]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.23-14.42.16:935][758]LogUObjectGlobals: Force Deleting 1380 Package(s):
+	Asset Name: /Game/Sci_fi_hallway/Textures/T_Sci_fi_wall_straight_02_BaseColor.T_Sci_fi_wall_straight_02_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/Sci_fi_hallway/Models/SM_Sci_fi_wall_straight_01.SM_Sci_fi_wall_straight_01
+	Asset Type: StaticMesh
+	Asset Name: /Game/Sci_fi_hallway/Materials/M_Sci_fi_wall_straight_02.M_Sci_fi_wall_straight_02
+	Asset Type: Material
+	Asset Name: /Game/Sci_fi_hallway/Textures/T_Sci_fi_wall_straight_02_Roughness.T_Sci_fi_wall_straight_02_Roughness
+	Asset Type: Texture2D
+	Asset Name: /Game/Sci_fi_hallway/Textures/T_Sci_fi_wall_straight_02_Normal.T_Sci_fi_wall_straight_02_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/Sci_fi_hallway/Textures/T_Sci_fi_wall_straight_02_Metallic.T_Sci_fi_wall_straight_02_Metallic
+	Asset Type: Texture2D
+	Asset Name: /Game/Sci_fi_hallway/Models/SM_Door_half_01.SM_Door_half_01
+	Asset Type: StaticMesh
+	Asset Name: /Game/Sci_fi_hallway/Materials/M_Door_half_01.M_Door_half_01
+	Asset Type: Material
+	Asset Name: /Game/Sci_fi_hallway/Textures/T_Door_half_01_Roughness.T_Door_half_01_Roughness
+	Asset Type: Texture2D
+	Asset Name: /Game/Sci_fi_hallway/Textures/T_Door_half_01_Normal.T_Door_half_01_Normal
+	Asset Type: Texture2D
+[2026.02.23-14.42.18:327][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_Roof_edge_Straight_01.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.18:327][758]LogMaterial: Warning: M_Roof_edge_Straight_01: Requesting an invalid TextureIndex! (2 / 1)
+[2026.02.23-14.42.18:330][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_Roof_edge_Straight_01.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.18:331][758]LogStaticMesh: Display: Building static mesh SM_Roof_edge_Straight_01 (Required Memory Estimate: 0.841668 MB)...
+[2026.02.23-14.42.18:332][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_Sci_fi_wall_straight_02.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.18:333][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_Sci_fi_wall_straight_02.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.18:335][758]LogStaticMesh: Display: Building static mesh SM_Sci_fi_wall_straight_01 (Required Memory Estimate: 0.139249 MB)...
+[2026.02.23-14.42.18:335][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_Door_half_01.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.18:337][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_Door_half_01.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.18:338][758]LogStaticMesh: Built static mesh [0.01s] /Game/Sci_fi_hallway/Models/SM_Roof_edge_Straight_01.SM_Roof_edge_Straight_01
+[2026.02.23-14.42.18:338][758]LogStaticMesh: Display: Building static mesh SM_Door_half_01 (Required Memory Estimate: 3.921425 MB)...
+[2026.02.23-14.42.18:339][758]LogStaticMesh: Built static mesh [0.00s] /Game/Sci_fi_hallway/Models/SM_Sci_fi_wall_straight_01.SM_Sci_fi_wall_straight_01
+[2026.02.23-14.42.18:339][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_floor_Trim_02.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.18:341][758]LogStaticMesh: Display: Building static mesh SM_floor_Trim_02 (Required Memory Estimate: 1.612727 MB)...
+[2026.02.23-14.42.18:351][758]LogStaticMesh: Built static mesh [0.01s] /Game/Sci_fi_hallway/Models/SM_floor_Trim_02.SM_floor_Trim_02
+[2026.02.23-14.42.18:358][758]LogStaticMesh: Built static mesh [0.02s] /Game/Sci_fi_hallway/Models/SM_Door_half_01.SM_Door_half_01
+[2026.02.23-14.42.18:365][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_wall_pillar.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.18:367][758]LogStaticMesh: Display: Building static mesh Sci_fi_wall_pillar (Required Memory Estimate: 3.952427 MB)...
+[2026.02.23-14.42.18:384][758]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Sci_fi_hallway/Models/Sci_fi_wall_pillar) ...
+[2026.02.23-14.42.18:390][758]LogStaticMesh: Built static mesh [0.02s] /Game/Sci_fi_hallway/Models/Sci_fi_wall_pillar.Sci_fi_wall_pillar
+[2026.02.23-14.42.18:395][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_Ceiling_light_01.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.18:397][758]LogStaticMesh: Display: Building static mesh SM_Ceiling_light_01 (Required Memory Estimate: 1.836631 MB)...
+[2026.02.23-14.42.18:408][758]LogStaticMesh: Built static mesh [0.01s] /Game/Sci_fi_hallway/Models/SM_Ceiling_light_01.SM_Ceiling_light_01
+[2026.02.23-14.42.18:422][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_Comm_Terminal_01.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.18:423][758]LogStaticMesh: Display: Building static mesh SM_Comm_Terminal_01 (Required Memory Estimate: 3.990926 MB)...
+[2026.02.23-14.42.18:439][758]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Sci_fi_hallway/Models/SM_Comm_Terminal_01) ...
+[2026.02.23-14.42.18:446][758]LogStaticMesh: Built static mesh [0.02s] /Game/Sci_fi_hallway/Models/SM_Comm_Terminal_01.SM_Comm_Terminal_01
+[2026.02.23-14.42.18:466][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_Comm_Terminal_02.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.18:468][758]LogStaticMesh: Display: Building static mesh SM_Comm_Terminal_02 (Required Memory Estimate: 19.304968 MB)...
+[2026.02.23-14.42.18:485][758]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Sci_fi_hallway/Models/SM_Comm_Terminal_02) ...
+[2026.02.23-14.42.18:575][758]LogStaticMesh: Built static mesh [0.11s] /Game/Sci_fi_hallway/Models/SM_Comm_Terminal_02.SM_Comm_Terminal_02
+[2026.02.23-14.42.18:620][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_curved_wall_01.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.18:622][758]LogStaticMesh: Display: Building static mesh SM_curved_wall_01 (Required Memory Estimate: 3.752295 MB)...
+[2026.02.23-14.42.18:639][758]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Sci_fi_hallway/Models/SM_curved_wall_01) ...
+[2026.02.23-14.42.18:645][758]LogStaticMesh: Built static mesh [0.02s] /Game/Sci_fi_hallway/Models/SM_curved_wall_01.SM_curved_wall_01
+[2026.02.23-14.42.18:688][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_Curved_wall_02.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.18:691][758]LogStaticMesh: Display: Building static mesh SM_Curved_wall_02 (Required Memory Estimate: 1.691928 MB)...
+[2026.02.23-14.42.18:705][758]LogStaticMesh: Built static mesh [0.02s] /Game/Sci_fi_hallway/Models/SM_Curved_wall_02.SM_Curved_wall_02
+[2026.02.23-14.42.18:706][758]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Sci_fi_hallway/Models/SM_Curved_wall_02) ...
+[2026.02.23-14.42.18:741][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_Doorway_01.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.18:743][758]LogStaticMesh: Display: Building static mesh SM_Doorway_01 (Required Memory Estimate: 7.396832 MB)...
+[2026.02.23-14.42.18:759][758]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Sci_fi_hallway/Models/SM_Doorway_01) ...
+[2026.02.23-14.42.18:791][758]LogStaticMesh: Built static mesh [0.05s] /Game/Sci_fi_hallway/Models/SM_Doorway_01.SM_Doorway_01
+[2026.02.23-14.42.18:850][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_Floor_tile_01.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.18:852][758]LogStaticMesh: Display: Building static mesh SM_floor_tile_01 (Required Memory Estimate: 0.377045 MB)...
+[2026.02.23-14.42.18:864][758]LogStaticMesh: Built static mesh [0.01s] /Game/Sci_fi_hallway/Models/SM_floor_tile_01.SM_floor_tile_01
+[2026.02.23-14.42.18:880][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_Roof_panel_01.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.18:883][758]LogStaticMesh: Display: Building static mesh SM_Roof_panel (Required Memory Estimate: 0.07882 MB)...
+[2026.02.23-14.42.18:884][758]LogStaticMesh: Built static mesh [0.00s] /Game/Sci_fi_hallway/Models/SM_Roof_panel.SM_Roof_panel
+[2026.02.23-14.42.18:897][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_Sci_fi_wall_01.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.18:899][758]LogStaticMesh: Display: Building static mesh SM_Sci_fi_wall (Required Memory Estimate: 20.971047 MB)...
+[2026.02.23-14.42.18:915][758]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Sci_fi_hallway/Models/SM_Sci_fi_wall) ...
+[2026.02.23-14.42.19:016][758]LogStaticMesh: Built static mesh [0.12s] /Game/Sci_fi_hallway/Models/SM_Sci_fi_wall.SM_Sci_fi_wall
+[2026.02.23-14.42.19:157][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_Straight_pillar_02.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.19:170][758]LogStaticMesh: Display: Building static mesh SM_Straight_pillar_02 (Required Memory Estimate: 0.434963 MB)...
+[2026.02.23-14.42.19:175][758]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Sci_fi_hallway/Models/SM_Straight_pillar_02) ...
+[2026.02.23-14.42.19:177][758]LogStaticMesh: Built static mesh [0.02s] /Game/Sci_fi_hallway/Models/SM_Straight_pillar_02.SM_Straight_pillar_02
+[2026.02.23-14.42.19:201][758]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Sci_fi_hallway\Materials\M_Wall_hatch.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.23-14.42.19:203][758]LogStaticMesh: Display: Building static mesh SM_Wall_hatch_Door_bottom (Required Memory Estimate: 2.009258 MB)...
+[2026.02.23-14.42.19:219][758]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Sci_fi_hallway/Models/SM_Wall_hatch_Door_bottom) ...
+[2026.02.23-14.42.19:220][758]LogStaticMesh: Built static mesh [0.02s] /Game/Sci_fi_hallway/Models/SM_Wall_hatch_Door_bottom.SM_Wall_hatch_Door_bottom
+[2026.02.23-14.42.19:238][758]LogStaticMesh: Display: Building static mesh SM_Wall_hatch_Door_Left (Required Memory Estimate: 1.405199 MB)...
+[2026.02.23-14.42.19:251][758]LogStaticMesh: Built static mesh [0.01s] /Game/Sci_fi_hallway/Models/SM_Wall_hatch_Door_Left.SM_Wall_hatch_Door_Left
+[2026.02.23-14.42.19:266][758]LogStaticMesh: Display: Building static mesh SM_Wall_hatch_Door_Right (Required Memory Estimate: 1.405252 MB)...
+[2026.02.23-14.42.19:280][758]LogStaticMesh: Built static mesh [0.01s] /Game/Sci_fi_hallway/Models/SM_Wall_hatch_Door_Right.SM_Wall_hatch_Door_Right
+[2026.02.23-14.42.19:294][758]LogStaticMesh: Display: Building static mesh SM_Wall_hatch_Entry (Required Memory Estimate: 5.177742 MB)...
+[2026.02.23-14.42.19:311][758]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Sci_fi_hallway/Models/SM_Wall_hatch_Entry) ...
+[2026.02.23-14.42.19:319][758]LogStaticMesh: Built static mesh [0.03s] /Game/Sci_fi_hallway/Models/SM_Wall_hatch_Entry.SM_Wall_hatch_Entry
+[2026.02.23-14.42.19:417][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.23-14.42.19:585][758]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2026.02.23-14.42.20:087][758]LogWorld: UWorld::CleanupWorld for Sci_fi_hallway_assets, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.42.20:087][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.42.20:140][758]LogWorld: UWorld::CleanupWorld for Sci_fi_hallway, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.42.20:141][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.42.20:141][758]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Sci_fi_hallway/Demo/Maps/Sci_fi_hallway.Sci_fi_hallway
+[2026.02.23-14.43.20:321][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.02.23-14.43.20:345][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.02.23-14.43.20:363][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.23-14.43.20:799][758]LogShaderCompilers: Display: ================================================
+[2026.02.23-14.43.20:799][758]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.23-14.43.20:799][758]LogShaderCompilers: Display: Total job queries 467, among them cache hits 65 (13.92%), DDC hits 329 (70.45%), Duplicates 63 (13.49%)
+[2026.02.23-14.43.20:799][758]LogShaderCompilers: Display: Tracking 339 distinct input hashes that result in 250 distinct outputs (73.75%)
+[2026.02.23-14.43.20:799][758]LogShaderCompilers: Display: RAM used: 3.36 MiB of 3.20 GiB budget. Usage: 0.10%
+[2026.02.23-14.43.20:799][758]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.23-14.43.20:799][758]LogShaderCompilers: Display: Shaders Compiled: 10
+[2026.02.23-14.43.20:799][758]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2026.02.23-14.43.20:799][758]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.04 s
+[2026.02.23-14.43.20:799][758]LogShaderCompilers: Display: Job execution time: average 1.00 s, max 1.50 s
+[2026.02.23-14.43.20:799][758]LogShaderCompilers: Display: Job life time (pending + execution): average 1.03 s, max 1.53
+[2026.02.23-14.43.20:799][758]LogShaderCompilers: Display: Shader code size: total 84.648 KiB, numShaders 11, average 7.695 KiB, min 2.691 KiB, max 12.051 KiB
+[2026.02.23-14.43.20:799][758]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.54 s
+[2026.02.23-14.43.20:799][758]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.02.23-14.43.20:799][758]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.23-14.43.20:799][758]LogShaderCompilers: Display: Average processing rate: 6.50 jobs/sec
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display: Total thread time: 6.123 s
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display: Total thread preprocess time: 6.438 s
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display: Percentage time preprocessing: 105.15%
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display: Effective parallelization: 3.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.248692
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.12 sec, max 1.12 sec, min 1.12 sec)
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.89 sec, max 0.89 sec, min 0.89 sec)
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.58 sec, max 0.58 sec, min 0.58 sec)
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.55 sec, max 0.55 sec, min 0.55 sec)
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 18.32% of total time (compiled    1 times, average 1.12 sec, max 1.12 sec, min 1.12 sec)
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.52% of total time (compiled    1 times, average 0.89 sec, max 0.89 sec, min 0.89 sec)
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display:                                                  FHitProxyPS - 13.09% of total time (compiled    2 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display:                                                  FHitProxyVS - 12.67% of total time (compiled    2 times, average 0.39 sec, max 0.41 sec, min 0.37 sec)
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display:                                                  FVelocityPS - 11.55% of total time (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display: === Material stats ===
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display: Materials Translated:    222
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display: Material Translation Only: 0.07 s (42%)
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display: Material Cache Hits: 42 (19%)
+[2026.02.23-14.43.20:800][758]LogShaderCompilers: Display: ================================================
+[2026.02.23-14.43.20:885][758]LogStreaming: Display: FlushAsyncLoading(1682): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.43.20:986][758]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.23-14.43.24:309][873]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.02.23-14.43.24:637][874]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.02.23-14.43.24:972][875]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.02.23-14.43.27:663][884]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
