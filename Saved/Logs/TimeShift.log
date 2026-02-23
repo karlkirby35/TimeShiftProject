@@ -1427,3 +1427,593 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.23-14.28.36:096][ 40]LogFab: Display: User logged in
 [2026.02.23-14.28.36:096][ 40]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2026.02.23-14.28.36:228][ 55]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-yPgDtTe_AEGCEd_jmegCsw-GtP8WatBGU2gwc9y4WbeLA]
+[2026.02.23-14.29.10:581][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.23-14.29.10:582][658]LogStreaming: Display: FlushAsyncLoading(330): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.29.10:602][658]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenu
+[2026.02.23-14.29.10:603][658]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StartMenuDesign/StartMenu.StartMenu
+[2026.02.23-14.29.10:603][658]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/StartMenuDesign/StartMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.23-14.29.10:630][658]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.29.10:630][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.29.10:645][658]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-14.29.10:647][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.23-14.29.10:648][658]LogWorld: UWorld::CleanupWorld for StartMenu, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.29.10:648][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.29.10:664][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.23-14.29.10:747][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.23-14.29.10:757][658]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartMenu'.
+[2026.02.23-14.29.10:757][658]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenu
+[2026.02.23-14.29.10:768][658]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.23-14.29.10:784][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.23-14.29.10:796][658]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.23-14.29.10:796][658]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.048ms to complete.
+[2026.02.23-14.29.11:945][788]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.23-14.29.11:953][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.23-14.29.11:957][788]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.02.23-14.29.11:957][788]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.02.23-14.29.11:957][788]LogStreaming: Display: FlushAsyncLoading(332): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.29.11:959][788]LogPlayLevel: Creating play world package: /Game/StartMenuDesign/UEDPIE_0_StartMenu
+[2026.02.23-14.29.11:960][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001022s)
+[2026.02.23-14.29.11:960][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMenuDesign/StartMenu.StartMenu to /Game/StartMenuDesign/UEDPIE_0_StartMenu.StartMenu (0.001066s)
+[2026.02.23-14.29.11:975][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.23-14.29.11:976][788]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenu
+[2026.02.23-14.29.11:978][788]LogPlayLevel: PIE: World Init took: (0.001370s)
+[2026.02.23-14.29.11:978][788]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.02.23-14.29.11:978][788]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.23-14.29.11:978][788]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.23-14.29.11:978][788]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.23-14.29.11:978][788]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.23-14.29.11:978][788]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.23-14.29.11:979][788]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.23-14.29.11:979][788]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.23-14.29.11:979][788]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.23-14.29.11:979][788]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.23-14.29.11:979][788]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.23-14.29.11:979][788]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.23-14.29.11:981][788]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.23-14.29.12:008][788]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.23-14.29.12:008][788]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.23-14.29.12:008][788]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.23-14.29.12:008][788]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.23-14.29.12:008][788]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.02.23-14.29.12:008][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.02.23-14.29.12:011][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.02.23-14.29.12:011][788]LogInit: FAudioDevice initialized with ID 2.
+[2026.02.23-14.29.12:011][788]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.02.23-14.29.12:011][788]LogAudio: Display: Audio Device (ID: 2) registered with world 'StartMenu'.
+[2026.02.23-14.29.12:011][788]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.23-14.29.12:014][788]LogLoad: Game class is 'startmenumode_C'
+[2026.02.23-14.29.12:015][788]LogWorld: Bringing World /Game/StartMenuDesign/UEDPIE_0_StartMenu.StartMenu up for play (max tick rate 0) at 2026.02.23-14.29.12
+[2026.02.23-14.29.12:015][788]LogWorld: Bringing up level for play took: 0.000350
+[2026.02.23-14.29.12:017][788]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2026.02.23-14.29.12:020][788]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.02.23-14.29.12:020][788]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.02.23-14.29.12:021][788]PIE: Server logged in
+[2026.02.23-14.29.12:023][788]PIE: Play in editor total start time 0.07 seconds.
+[2026.02.23-14.29.12:773][876]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.02.23-14.29.12:773][876]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.02.23-14.29.12:774][876]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.23-14.29.12:774][876]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.23-14.29.12:774][876]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.23-14.29.12:774][876]LogWorld: BeginTearingDown for /Game/StartMenuDesign/UEDPIE_0_StartMenu
+[2026.02.23-14.29.12:774][876]LogWorld: UWorld::CleanupWorld for StartMenu, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.29.12:774][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.29.12:843][876]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-14.29.12:843][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.23-14.29.12:844][876]LogStreaming: Display: FlushAsyncLoading(334): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.29.12:856][876]LogAudio: Display: Audio Device (ID: 2) registered with world 'LightVersion'.
+[2026.02.23-14.29.12:856][876]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.23-14.29.12:858][876]LogPlayLevel: PIE: World Init took: (0.001313s)
+[2026.02.23-14.29.12:868][876]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.23-14.29.12:876][876]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.23-14.29.12
+[2026.02.23-14.29.12:876][876]LogWorld: Bringing up level for play took: 0.008195
+[2026.02.23-14.29.12:883][876]LogLoad: Took 0.108201 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.02.23-14.29.12:883][876]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.02.23-14.29.15:801][223]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.02.23-14.29.15:801][223]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.02.23-14.29.15:801][223]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.02.23-14.29.15:801][223]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.23-14.29.15:802][223]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.29.15:803][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.29.15:842][223]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-14.29.15:843][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.23-14.29.15:844][223]LogStreaming: Display: FlushAsyncLoading(336): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.29.15:859][223]LogAudio: Display: Audio Device (ID: 2) registered with world 'DarkVersion'.
+[2026.02.23-14.29.15:859][223]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.23-14.29.15:860][223]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2026.02.23-14.29.15:860][223]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.23-14.29.15:868][223]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.23-14.29.15
+[2026.02.23-14.29.15:868][223]LogWorld: Bringing up level for play took: 0.007772
+[2026.02.23-14.29.15:874][223]LogLoad: Took 0.072682 seconds to LoadMap(/Game/Dimensions/DarkVersion)
+[2026.02.23-14.29.15:874][223]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/DarkVersion
+[2026.02.23-14.29.18:663][555]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.23-14.29.18:663][555]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.23-14.29.18:663][555]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.23-14.29.18:663][555]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.23-14.29.18:664][555]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.29.18:664][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.29.18:720][555]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-14.29.18:722][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.23-14.29.18:723][555]LogStreaming: Display: FlushAsyncLoading(337): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.29.18:738][555]LogAudio: Display: Audio Device (ID: 2) registered with world 'LightVersion'.
+[2026.02.23-14.29.18:738][555]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.23-14.29.18:740][555]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2026.02.23-14.29.18:740][555]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.23-14.29.18:748][555]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.23-14.29.18
+[2026.02.23-14.29.18:748][555]LogWorld: Bringing up level for play took: 0.007690
+[2026.02.23-14.29.18:752][555]LogLoad: Took 0.089214 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.02.23-14.29.18:752][555]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.02.23-14.29.21:285][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.29.21:285][853]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.23-14.29.21:285][853]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.29.21:286][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.29.21:287][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.23-14.29.21:289][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.29.21:308][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.29.21:309][853]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.23-14.29.21:309][853]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.02.23-14.29.21:311][853]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.02.23-14.29.21:316][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.23-14.29.21:365][855]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2026.02.23-14.29.46:697][655]LogFab: Display: Asset Type = glb
+[2026.02.23-14.29.46:697][655]LogFab: Display: Is Quixel = 0
+[2026.02.23-14.29.46:920][659]LogStreaming: Display: FlushAsyncLoading(338): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.29.47:324][659]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.02.23-14.29.47:324][659]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/07e9a972-ceac-4ba9-84cc-e17b3c1b4f22/sci_fi_door.glb]
+[2026.02.23-14.29.47:432][661]LogStreaming: Display: FlushAsyncLoading(381): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.29.47:782][697]LogStreaming: Display: FlushAsyncLoading(385): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.29.47:816][701]LogStreaming: Display: FlushAsyncLoading(386): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.29.47:862][702]LogStaticMesh: Display: Building static mesh sci_fi_door (Required Memory Estimate: 9.184556 MB)...
+[2026.02.23-14.29.47:940][710]LogStaticMesh: Built static mesh [0.08s] /Game/Fab/Sci-Fi_Door/sci_fi_door/StaticMeshes/sci_fi_door.sci_fi_door
+[2026.02.23-14.29.48:149][712]LogInterchangeEngine: Display: Interchange import completed [C:/Users/N00235865/A...a9-84cc-e17b3c1b4f22/sci_fi_door.glb]
+[2026.02.23-14.30.22:328][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.23-14.30.23:499][ 83]LogSlate: Window 'Save Content' being destroyed
+[2026.02.23-14.30.23:513][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-14.30.23:567][ 83]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door/Materials/Sci-fi-door] ([1] browsable assets)...
+[2026.02.23-14.30.23:567][ 83]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.02.23-14.30.23:592][ 83]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci-Fi_Door/sci_fi_door/Materials/Sci-fi-door.Sci-fi-door]
+[2026.02.23-14.30.23:592][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door/Materials/Sci-fi-door]
+[2026.02.23-14.30.23:603][ 83]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Door/sci_fi_door/Materials/Sci-fi-door
+[2026.02.23-14.30.23:603][ 83]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Sci-fi-door4300C96E4CDA1972A31ECAA44A253095.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Door/sci_fi_door/Materials/Sci-fi-door.uasset'
+[2026.02.23-14.30.23:605][ 83]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door/StaticMeshes/sci_fi_door] ([1] browsable assets)...
+[2026.02.23-14.30.23:605][ 83]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.02.23-14.30.23:621][ 83]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Sci-Fi_Door/sci_fi_door/StaticMeshes/sci_fi_door.sci_fi_door]
+[2026.02.23-14.30.23:621][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door/StaticMeshes/sci_fi_door]
+[2026.02.23-14.30.23:635][ 83]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Door/sci_fi_door/StaticMeshes/sci_fi_door
+[2026.02.23-14.30.23:635][ 83]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_door044C37C24DC79974623458A9F14714AC.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Door/sci_fi_door/StaticMeshes/sci_fi_door.uasset'
+[2026.02.23-14.30.23:636][ 83]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_0] ([1] browsable assets)...
+[2026.02.23-14.30.23:638][ 83]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_0.sci_fi_door_texture_0]
+[2026.02.23-14.30.23:638][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_0]
+[2026.02.23-14.30.23:732][ 83]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_0
+[2026.02.23-14.30.23:732][ 83]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_door_texture_091EE5D7C46817EB646F4FC8433405FFF.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_0.uasset'
+[2026.02.23-14.30.23:733][ 83]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_1] ([1] browsable assets)...
+[2026.02.23-14.30.23:737][ 83]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_1.sci_fi_door_texture_1]
+[2026.02.23-14.30.23:737][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_1]
+[2026.02.23-14.30.23:856][ 83]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_1
+[2026.02.23-14.30.23:856][ 83]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_door_texture_198D4517144FE06DCAD91278B9314CF78.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_1.uasset'
+[2026.02.23-14.30.23:857][ 83]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_2] ([1] browsable assets)...
+[2026.02.23-14.30.23:860][ 83]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_2.sci_fi_door_texture_2]
+[2026.02.23-14.30.23:860][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_2]
+[2026.02.23-14.30.23:935][ 83]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_2
+[2026.02.23-14.30.23:935][ 83]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_door_texture_2C649D2D74F978EE4C82010BA6BCF85FE.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_2.uasset'
+[2026.02.23-14.30.23:938][ 83]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_3] ([1] browsable assets)...
+[2026.02.23-14.30.23:940][ 83]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_3.sci_fi_door_texture_3]
+[2026.02.23-14.30.23:940][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_3]
+[2026.02.23-14.30.24:039][ 83]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_3
+[2026.02.23-14.30.24:039][ 83]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_door_texture_3E6DB715E45EC415817B909886B18AE8F.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_3.uasset'
+[2026.02.23-14.30.24:135][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave took 622.633 ms
+[2026.02.23-14.30.24:135][ 83]LogStreaming: Display: FlushAsyncLoading(387): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.30.24:148][ 83]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.23-14.30.24:152][ 83]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.02.23-14.30.24:152][ 83]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.23-14.30.24:182][ 83]LogWorld: UWorld::CleanupWorld for StartMenu, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.30.24:182][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.30.24:198][ 83]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-14.30.24:199][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.23-14.30.24:201][ 83]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.30.24:201][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.30.24:221][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.23-14.30.24:237][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.23-14.30.24:250][ 83]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.02.23-14.30.24:250][ 83]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.23-14.30.24:272][ 83]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.23-14.30.24:290][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.23-14.30.24:302][ 83]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.23-14.30.24:302][ 83]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.058ms to complete.
+[2026.02.23-14.30.24:384][ 83]LogContentValidation: Display: Starting to validate 6 assets
+[2026.02.23-14.30.24:384][ 83]LogContentValidation: Enabled validators:
+[2026.02.23-14.30.24:384][ 83]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-14.30.24:384][ 83]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-14.30.24:384][ 83]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-14.30.24:384][ 83]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-14.30.24:384][ 83]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-14.30.24:384][ 83]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-14.30.24:384][ 83]AssetCheck: /Game/Fab/Sci-Fi_Door/sci_fi_door/Materials/Sci-fi-door Validating asset
+[2026.02.23-14.30.24:384][ 83]AssetCheck: /Game/Fab/Sci-Fi_Door/sci_fi_door/StaticMeshes/sci_fi_door Validating asset
+[2026.02.23-14.30.24:385][ 83]AssetCheck: /Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_0 Validating asset
+[2026.02.23-14.30.24:385][ 83]AssetCheck: /Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_1 Validating asset
+[2026.02.23-14.30.24:385][ 83]AssetCheck: /Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_2 Validating asset
+[2026.02.23-14.30.24:385][ 83]AssetCheck: /Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_3 Validating asset
+[2026.02.23-14.30.24:430][ 83]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.23-14.30.24:884][135]LogDerivedDataCache: C:/Users/N00235865/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.23-14.32.30:132][ 39]Cmd: DELETE
+[2026.02.23-14.32.30:133][ 39]Cmd: ACTOR DELETE
+[2026.02.23-14.32.30:137][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.32.30:154][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.02.23-14.32.30:156][ 39]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.02.23-14.32.31:152][151]Cmd: DELETE
+[2026.02.23-14.32.31:152][151]Cmd: ACTOR DELETE
+[2026.02.23-14.32.31:155][151]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.32.31:170][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.23-14.32.31:171][151]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.23-14.32.32:768][336]Cmd: DELETE
+[2026.02.23-14.32.32:768][336]Cmd: ACTOR DELETE
+[2026.02.23-14.32.32:771][336]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.32.32:787][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.02.23-14.32.32:789][336]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.02.23-14.32.33:656][433]Cmd: DELETE
+[2026.02.23-14.32.33:656][433]Cmd: ACTOR DELETE
+[2026.02.23-14.32.33:660][433]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.32.33:675][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.02.23-14.32.33:676][433]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.02.23-14.32.34:579][534]Cmd: DELETE
+[2026.02.23-14.32.34:579][534]Cmd: ACTOR DELETE
+[2026.02.23-14.32.34:582][534]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.32.34:597][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.02.23-14.32.34:598][534]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.23-14.32.35:456][630]Cmd: DELETE
+[2026.02.23-14.32.35:456][630]Cmd: ACTOR DELETE
+[2026.02.23-14.32.35:458][630]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.32.35:473][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.23-14.32.35:474][630]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.23-14.32.36:888][793]Cmd: DELETE
+[2026.02.23-14.32.36:888][793]Cmd: ACTOR DELETE
+[2026.02.23-14.32.36:891][793]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.32.36:906][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.02.23-14.32.36:907][793]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.23-14.32.38:036][922]Cmd: DELETE
+[2026.02.23-14.32.38:036][922]Cmd: ACTOR DELETE
+[2026.02.23-14.32.38:039][922]LogEditorActor: Deleted Actor: Landscape
+[2026.02.23-14.32.38:082][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.02.23-14.32.38:084][922]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2026.02.23-14.32.39:420][ 80]Cmd: TRANSACTION UNDO
+[2026.02.23-14.32.39:420][ 80]LogEditorTransaction: Undo Delete Elements
+[2026.02.23-14.32.47:101][913]Cmd: DELETE
+[2026.02.23-14.32.47:101][913]Cmd: ACTOR DELETE
+[2026.02.23-14.32.47:105][913]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.32.47:105][913]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.32.47:106][913]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.32.47:106][913]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.32.47:123][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.02.23-14.32.47:125][913]LogEditorActor: Deleted 4 Actors (0.024 secs)
+[2026.02.23-14.33.06:260][ 25]Cmd: DELETE
+[2026.02.23-14.33.06:260][ 25]Cmd: ACTOR DELETE
+[2026.02.23-14.33.06:262][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.33.06:263][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.33.06:263][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.33.06:264][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.33.06:264][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.33.06:265][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.33.06:265][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.33.06:266][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.33.06:266][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.33.06:267][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.33.06:267][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.33.06:284][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.02.23-14.33.06:286][ 25]LogEditorActor: Deleted 11 Actors (0.026 secs)
+[2026.02.23-14.33.08:222][231]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.23-14.33.08:232][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.23-14.33.08:254][231]LogStreaming: Display: FlushAsyncLoading(389): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.33.08:255][231]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.23-14.33.08:264][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008660s)
+[2026.02.23-14.33.08:264][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.008696s)
+[2026.02.23-14.33.08:279][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.23-14.33.08:281][231]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.23-14.33.08:282][231]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2026.02.23-14.33.08:282][231]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.02.23-14.33.08:282][231]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.23-14.33.08:282][231]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.23-14.33.08:282][231]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.23-14.33.08:282][231]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.23-14.33.08:282][231]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.23-14.33.08:282][231]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.23-14.33.08:282][231]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.23-14.33.08:282][231]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.23-14.33.08:282][231]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.23-14.33.08:282][231]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.23-14.33.08:282][231]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.23-14.33.08:284][231]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.23-14.33.08:310][231]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.23-14.33.08:310][231]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.23-14.33.08:310][231]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.23-14.33.08:310][231]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.23-14.33.08:311][231]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.02.23-14.33.08:311][231]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.02.23-14.33.08:312][231]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.02.23-14.33.08:312][231]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.02.23-14.33.08:312][231]LogInit: FAudioDevice initialized with ID 3.
+[2026.02.23-14.33.08:312][231]LogAudio: Display: Audio Device (ID: 3) registered with world 'LightVersion'.
+[2026.02.23-14.33.08:312][231]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.23-14.33.08:316][231]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.23-14.33.08:319][231]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.23-14.33.08
+[2026.02.23-14.33.08:319][231]LogWorld: Bringing up level for play took: 0.002268
+[2026.02.23-14.33.08:321][231]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.02.23-14.33.08:327][231]PIE: Server logged in
+[2026.02.23-14.33.08:328][231]PIE: Play in editor total start time 0.097 seconds.
+[2026.02.23-14.33.09:545][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.33.09:545][364]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.23-14.33.09:546][364]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.33.09:546][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.33.09:548][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.23-14.33.09:550][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.33.09:564][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.33.09:564][364]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.23-14.33.09:564][364]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.02.23-14.33.09:566][364]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.02.23-14.33.09:571][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.23-14.33.09:629][366]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.02.23-14.33.25:618][104]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.23-14.33.25:627][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.23-14.33.25:664][104]LogStreaming: Display: FlushAsyncLoading(391): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.33.25:664][104]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.23-14.33.25:673][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008879s)
+[2026.02.23-14.33.25:673][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.008920s)
+[2026.02.23-14.33.25:688][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.23-14.33.25:689][104]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.23-14.33.25:690][104]LogPlayLevel: PIE: World Init took: (0.001364s)
+[2026.02.23-14.33.25:691][104]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.02.23-14.33.25:691][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.23-14.33.25:691][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.23-14.33.25:691][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.23-14.33.25:691][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.23-14.33.25:691][104]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.23-14.33.25:691][104]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.23-14.33.25:691][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.23-14.33.25:691][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.23-14.33.25:691][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.23-14.33.25:691][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.23-14.33.25:691][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.23-14.33.25:692][104]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.23-14.33.25:718][104]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.23-14.33.25:718][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.23-14.33.25:718][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.23-14.33.25:718][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.23-14.33.25:718][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.02.23-14.33.25:719][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.02.23-14.33.25:721][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.02.23-14.33.25:721][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.02.23-14.33.25:721][104]LogInit: FAudioDevice initialized with ID 4.
+[2026.02.23-14.33.25:721][104]LogAudio: Display: Audio Device (ID: 4) registered with world 'LightVersion'.
+[2026.02.23-14.33.25:721][104]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.02.23-14.33.25:724][104]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.23-14.33.25:727][104]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.23-14.33.25
+[2026.02.23-14.33.25:727][104]LogWorld: Bringing up level for play took: 0.002348
+[2026.02.23-14.33.25:729][104]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2026.02.23-14.33.25:734][104]PIE: Server logged in
+[2026.02.23-14.33.25:736][104]PIE: Play in editor total start time 0.109 seconds.
+[2026.02.23-14.33.28:326][411]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.02.23-14.33.28:326][411]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.02.23-14.33.28:326][411]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.02.23-14.33.28:326][411]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.23-14.33.28:327][411]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.33.28:327][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.33.28:379][411]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-14.33.28:380][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.23-14.33.28:382][411]LogStreaming: Display: FlushAsyncLoading(392): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.33.28:395][411]LogAudio: Display: Audio Device (ID: 4) registered with world 'DarkVersion'.
+[2026.02.23-14.33.28:395][411]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.23-14.33.28:396][411]LogPlayLevel: PIE: World Init took: (0.001459s)
+[2026.02.23-14.33.28:396][411]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.23-14.33.28:404][411]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.23-14.33.28
+[2026.02.23-14.33.28:405][411]LogWorld: Bringing up level for play took: 0.007518
+[2026.02.23-14.33.28:409][411]LogLoad: Took 0.083135 seconds to LoadMap(/Game/Dimensions/DarkVersion)
+[2026.02.23-14.33.28:409][411]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/DarkVersion
+[2026.02.23-14.33.29:454][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.33.29:455][530]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.23-14.33.29:455][530]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.33.29:455][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.33.29:457][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.23-14.33.29:458][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.33.29:475][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.33.29:476][530]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.02.23-14.33.29:476][530]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.02.23-14.33.29:478][530]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.02.23-14.33.29:483][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.02.23-14.33.29:552][531]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.02.23-14.33.34:434][978]LogContentBrowser: Attempting asset rename: DarkVersion -> DarkVersion
+[2026.02.23-14.33.34:595][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.23-14.33.36:083][989]LogSlate: Window 'Save Content' being destroyed
+[2026.02.23-14.33.36:094][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-14.33.36:189][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.02.23-14.33.36:285][989]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.02.23-14.33.36:286][989]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion2AEE84144C1B4A2E0BEB08BB7C000643.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.02.23-14.33.36:298][989]LogFileHelpers: Saving map 'LightVersion' took 0.146
+[2026.02.23-14.33.36:366][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 272.890 ms (total: 895.523 ms)
+[2026.02.23-14.33.36:366][989]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.33.36:377][989]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.23-14.33.36:381][989]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/DarkVersion.DarkVersion
+[2026.02.23-14.33.36:381][989]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.23-14.33.36:408][989]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.33.36:408][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.33.36:422][989]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-14.33.36:424][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.23-14.33.36:426][989]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.33.36:427][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.33.36:444][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.23-14.33.36:459][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.23-14.33.36:472][989]LogAudio: Display: Audio Device (ID: 1) registered with world 'DarkVersion'.
+[2026.02.23-14.33.36:472][989]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.23-14.33.36:492][989]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.23-14.33.36:510][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.23-14.33.36:523][989]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.23-14.33.36:523][989]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.053ms to complete.
+[2026.02.23-14.33.36:600][989]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-14.33.36:601][989]LogContentValidation: Enabled validators:
+[2026.02.23-14.33.36:601][989]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-14.33.36:601][989]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-14.33.36:601][989]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-14.33.36:601][989]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-14.33.36:601][989]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-14.33.36:601][989]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-14.33.47:231][201]Cmd: DELETE
+[2026.02.23-14.33.47:231][201]Cmd: ACTOR DELETE
+[2026.02.23-14.33.47:234][201]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.33.47:235][201]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.33.47:235][201]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.33.47:236][201]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.33.47:236][201]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.33.47:252][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.23-14.33.47:254][201]LogEditorActor: Deleted 5 Actors (0.023 secs)
+[2026.02.23-14.34.00:542][637]Cmd: DELETE
+[2026.02.23-14.34.00:542][637]Cmd: ACTOR DELETE
+[2026.02.23-14.34.00:545][637]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.34.00:545][637]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.34.00:546][637]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.34.00:546][637]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.34.00:547][637]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.34.00:547][637]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.34.00:563][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.02.23-14.34.00:564][637]LogEditorActor: Deleted 6 Actors (0.023 secs)
+[2026.02.23-14.34.08:255][528]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 338.629395
+[2026.02.23-14.34.08:419][538]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-14.34.08:419][538]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 338.776611, Update Interval: 346.766571
+[2026.02.23-14.34.20:488][899]Cmd: DELETE
+[2026.02.23-14.34.20:488][899]Cmd: ACTOR DELETE
+[2026.02.23-14.34.20:491][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.34.20:492][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.34.20:492][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.34.20:492][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.34.20:493][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.34.20:493][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.34.20:494][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.34.20:495][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.34.20:495][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.34.20:496][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.34.20:513][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.02.23-14.34.20:516][899]LogEditorActor: Deleted 10 Actors (0.027 secs)
+[2026.02.23-14.34.38:574][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.02.23-14.34.39:812][  2]LogSlate: Window 'Save Content' being destroyed
+[2026.02.23-14.34.39:820][  2]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-14.34.39:914][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.23-14.34.40:011][  2]LogSavePackage: Moving output files for package: /Game/Dimensions/DarkVersion
+[2026.02.23-14.34.40:011][  2]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/DarkVersion387F5B544E4C42A7FD255FB14FF0432E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap'
+[2026.02.23-14.34.40:023][  2]LogFileHelpers: Saving map 'DarkVersion' took 0.144
+[2026.02.23-14.34.40:097][  2]LogFileHelpers: InternalPromptForCheckoutAndSave took 276.936 ms (total: 1.17 sec)
+[2026.02.23-14.34.40:097][  2]LogStreaming: Display: FlushAsyncLoading(395): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.34.40:107][  2]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.23-14.34.40:111][  2]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.02.23-14.34.40:111][  2]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.23-14.34.40:137][  2]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.34.40:137][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.34.40:152][  2]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-14.34.40:155][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.23-14.34.40:157][  2]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.34.40:157][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.34.40:177][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.23-14.34.40:192][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.23-14.34.40:203][  2]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.02.23-14.34.40:203][  2]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.23-14.34.40:222][  2]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.23-14.34.40:240][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.23-14.34.40:251][  2]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.23-14.34.40:251][  2]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.053ms to complete.
+[2026.02.23-14.34.40:332][  2]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-14.34.40:332][  2]LogContentValidation: Enabled validators:
+[2026.02.23-14.34.40:332][  2]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-14.34.40:332][  2]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-14.34.40:332][  2]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-14.34.40:332][  2]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-14.34.40:332][  2]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-14.34.40:332][  2]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-14.34.48:846][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.23-14.34.48:848][819]LogStreaming: Display: FlushAsyncLoading(397): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.34.48:858][819]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.23-14.34.48:862][819]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/DarkVersion.DarkVersion
+[2026.02.23-14.34.48:862][819]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.23-14.34.48:926][819]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.34.48:926][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.34.48:941][819]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-14.34.48:942][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.23-14.34.49:009][819]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.34.49:009][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.34.49:027][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.23-14.34.49:040][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.23-14.34.49:052][819]LogAudio: Display: Audio Device (ID: 1) registered with world 'DarkVersion'.
+[2026.02.23-14.34.49:052][819]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.23-14.34.49:070][819]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.23-14.34.49:087][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.23-14.34.49:098][819]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.23-14.34.49:099][819]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.053ms to complete.
+[2026.02.23-14.35.08:926][118]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.23-14.35.08:935][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.23-14.35.08:935][118]LogStreaming: Display: FlushAsyncLoading(399): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.35.08:935][118]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.23-14.35.08:944][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008878s)
+[2026.02.23-14.35.08:944][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.008915s)
+[2026.02.23-14.35.08:958][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.23-14.35.08:961][118]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.23-14.35.08:962][118]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2026.02.23-14.35.08:962][118]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.02.23-14.35.08:962][118]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.23-14.35.08:962][118]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.23-14.35.08:962][118]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.23-14.35.08:962][118]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.23-14.35.08:962][118]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.23-14.35.08:962][118]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.23-14.35.08:962][118]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.23-14.35.08:962][118]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.23-14.35.08:962][118]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.23-14.35.08:962][118]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.23-14.35.08:962][118]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.23-14.35.08:964][118]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.23-14.35.08:990][118]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.23-14.35.08:991][118]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.23-14.35.08:991][118]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.23-14.35.08:991][118]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.23-14.35.08:991][118]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.02.23-14.35.08:991][118]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.02.23-14.35.08:993][118]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.02.23-14.35.08:993][118]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.02.23-14.35.08:993][118]LogInit: FAudioDevice initialized with ID 5.
+[2026.02.23-14.35.08:993][118]LogAudio: Display: Audio Device (ID: 5) registered with world 'DarkVersion'.
+[2026.02.23-14.35.08:993][118]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.02.23-14.35.08:997][118]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.23-14.35.08:999][118]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.23-14.35.08
+[2026.02.23-14.35.08:999][118]LogWorld: Bringing up level for play took: 0.002278
+[2026.02.23-14.35.09:001][118]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2026.02.23-14.35.09:007][118]PIE: Server logged in
+[2026.02.23-14.35.09:008][118]PIE: Play in editor total start time 0.074 seconds.
+[2026.02.23-14.35.11:817][435]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.23-14.35.11:817][435]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.23-14.35.11:817][435]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.23-14.35.11:817][435]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.23-14.35.11:818][435]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.35.11:819][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.35.11:861][435]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-14.35.11:863][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.23-14.35.11:865][435]LogStreaming: Display: FlushAsyncLoading(401): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.35.11:877][435]LogAudio: Display: Audio Device (ID: 5) registered with world 'LightVersion'.
+[2026.02.23-14.35.11:877][435]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.23-14.35.11:879][435]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2026.02.23-14.35.11:879][435]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.23-14.35.11:886][435]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.23-14.35.11
+[2026.02.23-14.35.11:886][435]LogWorld: Bringing up level for play took: 0.006850
+[2026.02.23-14.35.11:890][435]LogLoad: Took 0.073580 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.02.23-14.35.11:890][435]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.02.23-14.35.14:135][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.35.14:135][699]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.23-14.35.14:135][699]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.35.14:136][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.35.14:137][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.23-14.35.14:138][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.35.14:156][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.35.14:157][699]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.02.23-14.35.14:157][699]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.02.23-14.35.14:159][699]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.02.23-14.35.14:163][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.23-14.35.14:231][700]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.02.23-14.36.40:319][ 87]LogFab: Display: Asset Type = unreal-engine
+[2026.02.23-14.36.40:319][ 87]LogFab: Display: Is Quixel = 0
+[2026.02.23-14.36.40:319][ 87]LogFab: Display: Base Url https://download.epicgames.com/Builds/Rocket/Automated/SciFiCrac58207be2950V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/SciFiCrac58207be2950V1/CloudDir,https://egdownload.fastly-edge.com/Builds/Rocket/Automated/SciFiCrac58207be2950V1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/SciFiCrac58207be2950V1/CloudDir
+[2026.02.23-14.36.44:882][545]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2026.02.23-14.36.44:883][545]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2026.02.23-14.36.44:883][545]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Developers/N00235865/Collections/' because it could not be accessed. Aborting watch request...
