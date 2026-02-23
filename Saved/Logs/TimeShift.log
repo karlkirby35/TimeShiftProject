@@ -2481,3 +2481,350 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.23-14.43.24:637][874]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
 [2026.02.23-14.43.24:972][875]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
 [2026.02.23-14.43.27:663][884]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.02.23-14.43.52:900][435]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.23-14.43.52:908][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.23-14.43.52:908][435]LogStreaming: Display: FlushAsyncLoading(1683): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.43.52:908][435]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.23-14.43.52:917][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009114s)
+[2026.02.23-14.43.52:917][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.009152s)
+[2026.02.23-14.43.52:944][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.02.23-14.43.52:946][435]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.23-14.43.52:948][435]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2026.02.23-14.43.52:949][435]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.02.23-14.43.52:949][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.23-14.43.52:949][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.23-14.43.52:949][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.23-14.43.52:949][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.23-14.43.52:949][435]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.23-14.43.52:949][435]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.23-14.43.52:949][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.23-14.43.52:949][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.23-14.43.52:949][435]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.23-14.43.52:949][435]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.23-14.43.52:949][435]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.23-14.43.52:951][435]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.23-14.43.52:977][435]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.23-14.43.52:977][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.23-14.43.52:977][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.23-14.43.52:977][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.23-14.43.52:978][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.02.23-14.43.52:978][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.02.23-14.43.52:980][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.02.23-14.43.52:980][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.02.23-14.43.52:980][435]LogInit: FAudioDevice initialized with ID 7.
+[2026.02.23-14.43.52:980][435]LogAudio: Display: Audio Device (ID: 7) registered with world 'DarkVersion'.
+[2026.02.23-14.43.52:980][435]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.23-14.43.52:984][435]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.23-14.43.52:987][435]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.23-14.43.52
+[2026.02.23-14.43.52:987][435]LogWorld: Bringing up level for play took: 0.002361
+[2026.02.23-14.43.52:989][435]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.02.23-14.43.52:995][435]PIE: Server logged in
+[2026.02.23-14.43.52:997][435]PIE: Play in editor total start time 0.089 seconds.
+[2026.02.23-14.43.56:508][855]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.23-14.43.56:508][855]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.23-14.43.56:508][855]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.23-14.43.56:508][855]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.23-14.43.56:508][855]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.43.56:509][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.43.56:563][855]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-14.43.56:566][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.23-14.43.56:567][855]LogStreaming: Display: FlushAsyncLoading(1684): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.43.56:578][855]LogAudio: Display: Audio Device (ID: 7) registered with world 'LightVersion'.
+[2026.02.23-14.43.56:578][855]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.23-14.43.56:580][855]LogPlayLevel: PIE: World Init took: (0.001394s)
+[2026.02.23-14.43.56:580][855]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.23-14.43.56:587][855]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.23-14.43.56
+[2026.02.23-14.43.56:587][855]LogWorld: Bringing up level for play took: 0.006705
+[2026.02.23-14.43.56:592][855]LogLoad: Took 0.083468 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.02.23-14.43.56:592][855]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.02.23-14.43.57:546][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.43.57:546][965]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.23-14.43.57:546][965]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.43.57:547][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.43.57:548][965]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.23-14.43.57:550][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.43.57:566][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.23-14.43.57:566][965]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.23-14.43.57:566][965]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.02.23-14.43.57:568][965]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.02.23-14.43.57:572][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.02.23-14.43.57:631][967]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.02.23-14.44.48:747][674]LogFab: Display: Asset Type = unreal-engine
+[2026.02.23-14.44.48:747][674]LogFab: Display: Is Quixel = 0
+[2026.02.23-14.44.48:747][674]LogFab: Display: Base Url https://egdownload.fastly-edge.com/Builds/Rocket/Automated/SCIFIMat3af3ea085f82V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/SCIFIMat3af3ea085f82V1/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/SCIFIMat3af3ea085f82V1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/SCIFIMat3af3ea085f82V1/CloudDir
+[2026.02.23-14.44.52:906][ 13]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.02.23-14.44.57:144][335]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.23-14.44.57:144][335]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.23-14.44.57:146][335]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_5
+[2026.02.23-14.44.57:146][335]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_5
+[2026.02.23-14.45.06:513][983]LogStreaming: Display: FlushAsyncLoading(1685): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.45.06:525][983]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_basecolor.T_Sci_Fi_Material1_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 388.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.45.25:415][749]Cmd: DELETE
+[2026.02.23-14.45.25:415][749]Cmd: ACTOR DELETE
+[2026.02.23-14.45.25:418][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.45.25:436][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.02.23-14.45.25:438][749]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.02.23-14.45.33:854][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.02.23-14.45.34:850][553]LogSlate: Window 'Save Content' being destroyed
+[2026.02.23-14.45.34:860][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-14.45.34:955][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.02.23-14.45.35:054][553]LogSavePackage: Moving output files for package: /Game/Dimensions/DarkVersion
+[2026.02.23-14.45.35:055][553]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/DarkVersionF46C1B804513F9E6650F6A9E658B13AD.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap'
+[2026.02.23-14.45.35:068][553]LogFileHelpers: Saving map 'DarkVersion' took 0.152
+[2026.02.23-14.45.35:068][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_basecolor_Mat] ([1] browsable assets)...
+[2026.02.23-14.45.35:074][553]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_basecolor_Mat.T_Sci_Fi_Material1_basecolor_Mat]
+[2026.02.23-14.45.35:074][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_basecolor_Mat]
+[2026.02.23-14.45.35:082][553]LogSavePackage: Moving output files for package: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_basecolor_Mat
+[2026.02.23-14.45.35:082][553]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Sci_Fi_Material1_basecolor_Mat85464F93499F1552DA1935865B29040C.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_basecolor_Mat.uasset'
+[2026.02.23-14.45.35:127][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 267.419 ms (total: 1.43 sec)
+[2026.02.23-14.45.35:127][553]LogStreaming: Display: FlushAsyncLoading(1686): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.45.35:138][553]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.23-14.45.35:141][553]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.02.23-14.45.35:141][553]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.23-14.45.35:168][553]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.45.35:168][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.45.35:185][553]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.23-14.45.35:187][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.23-14.45.35:189][553]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-14.45.35:189][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-14.45.35:208][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.23-14.45.35:223][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.23-14.45.35:235][553]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.02.23-14.45.35:235][553]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.23-14.45.35:254][553]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.23-14.45.35:272][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.23-14.45.35:284][553]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.23-14.45.35:284][553]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.052ms to complete.
+[2026.02.23-14.45.35:364][553]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.23-14.45.35:364][553]LogContentValidation: Enabled validators:
+[2026.02.23-14.45.35:364][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-14.45.35:364][553]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-14.45.35:364][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-14.45.35:364][553]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-14.45.35:364][553]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-14.45.35:364][553]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-14.45.35:364][553]AssetCheck: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_basecolor_Mat Validating asset
+[2026.02.23-14.45.35:394][553]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.23-14.45.46:170][698]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.23-14.45.46:170][698]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.23-14.45.46:171][698]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_1
+[2026.02.23-14.45.46:171][698]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_1
+[2026.02.23-14.45.59:553][106]LogStreaming: Display: FlushAsyncLoading(1688): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.45.59:570][106]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_basecolor.T_Sci_Fi_Material6_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 404.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.46.01:060][211]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1051.432373
+[2026.02.23-14.46.01:194][227]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-14.46.01:194][227]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1051.557739, Update Interval: 308.895538
+[2026.02.23-14.46.07:910][958]Cmd: DELETE
+[2026.02.23-14.46.07:910][958]Cmd: ACTOR DELETE
+[2026.02.23-14.46.07:913][958]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.46.07:931][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.23-14.46.07:934][958]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.02.23-14.46.20:801][440]LogShaderCompilers: Display: ================================================
+[2026.02.23-14.46.20:801][440]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.23-14.46.20:801][440]LogShaderCompilers: Display: Total job queries 505, among them cache hits 85 (16.83%), DDC hits 337 (66.73%), Duplicates 65 (12.87%)
+[2026.02.23-14.46.20:801][440]LogShaderCompilers: Display: Tracking 355 distinct input hashes that result in 263 distinct outputs (74.08%)
+[2026.02.23-14.46.20:801][440]LogShaderCompilers: Display: RAM used: 3.47 MiB of 3.20 GiB budget. Usage: 0.11%
+[2026.02.23-14.46.20:801][440]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.23-14.46.20:801][440]LogShaderCompilers: Display: Shaders Compiled: 18
+[2026.02.23-14.46.20:801][440]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100%)
+[2026.02.23-14.46.20:801][440]LogShaderCompilers: Display: Average time worker was idle: 281.80 s
+[2026.02.23-14.46.20:801][440]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.07 s
+[2026.02.23-14.46.20:801][440]LogShaderCompilers: Display: Job execution time: average 0.91 s, max 1.50 s
+[2026.02.23-14.46.20:801][440]LogShaderCompilers: Display: Job life time (pending + execution): average 0.95 s, max 1.53
+[2026.02.23-14.46.20:801][440]LogShaderCompilers: Display: Shader code size: total 163.479 KiB, numShaders 19, average 8.604 KiB, min 2.691 KiB, max 13.288 KiB
+[2026.02.23-14.46.20:801][440]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.69 s
+[2026.02.23-14.46.20:801][440]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display: Average processing rate: 4.87 jobs/sec
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display: Total thread time: 10.737 s
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display: Total thread preprocess time: 6.902 s
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display: Percentage time preprocessing: 64.28%
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display: Effective parallelization: 2.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.181617
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.12 sec, max 1.12 sec, min 1.12 sec)
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.79 sec, max 0.89 sec, min 0.69 sec)
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 22.05% of total time (compiled    3 times, average 0.79 sec, max 0.89 sec, min 0.69 sec)
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.24% of total time (compiled    3 times, average 0.44 sec, max 0.55 sec, min 0.36 sec)
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 10.45% of total time (compiled    1 times, average 1.12 sec, max 1.12 sec, min 1.12 sec)
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.22% of total time (compiled    2 times, average 0.50 sec, max 0.58 sec, min 0.41 sec)
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.76% of total time (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display: === Material stats ===
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display: Materials Translated:    225
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display: Material Translation Only: 0.07 s (42%)
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display: Material Cache Hits: 42 (19%)
+[2026.02.23-14.46.20:802][440]LogShaderCompilers: Display: ================================================
+[2026.02.23-14.46.34:671][625]LogStreaming: Display: FlushAsyncLoading(1689): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.46.34:691][625]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material3_basecolor.T_Sci_Fi_Material3_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 404.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.46.40:126][229]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.23-14.46.40:126][229]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.23-14.46.40:127][229]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_2
+[2026.02.23-14.46.40:128][229]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_2
+[2026.02.23-14.47.03:592][570]Cmd: DELETE
+[2026.02.23-14.47.03:592][570]Cmd: ACTOR DELETE
+[2026.02.23-14.47.03:595][570]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.47.03:613][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.23-14.47.03:615][570]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2026.02.23-14.47.47:371][439]LogFab: Display: Asset Type = unreal-engine
+[2026.02.23-14.47.47:371][439]LogFab: Display: Is Quixel = 0
+[2026.02.23-14.47.47:371][439]LogFab: Display: Base Url https://download.epicgames.com/Builds/Rocket/Automated/SciFiShe33a554d7bc46V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/SciFiShe33a554d7bc46V1/CloudDir,https://egdownload.fastly-edge.com/Builds/Rocket/Automated/SciFiShe33a554d7bc46V1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/SciFiShe33a554d7bc46V1/CloudDir
+[2026.02.23-14.47.55:168][928]LogSlate: Window 'Loading Many Assets' being destroyed
+[2026.02.23-14.47.55:180][928]Message dialog closed, result: Yes, title: Loading Many Assets, text: About to load 51 assets. Are you sure you want to continue?
+[2026.02.23-14.47.55:244][928]LogStreaming: Display: FlushAsyncLoading(1690): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.47.55:267][928]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material3_metallic.T_Sci_Fi_Material3_metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 376.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:276][928]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material4_metallic.T_Sci_Fi_Material4_metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 376.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:281][928]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material4_roughness.T_Sci_Fi_Material4_roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:281][928]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material4_AO.T_Sci_Fi_Material4_AO (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:285][928]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material4_height.T_Sci_Fi_Material4_height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:287][928]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material3_height.T_Sci_Fi_Material3_height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:287][928]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material3_roughness.T_Sci_Fi_Material3_roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:289][928]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material5_metallic.T_Sci_Fi_Material5_metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:292][928]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material5_height.T_Sci_Fi_Material5_height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:293][928]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material5_basecolor.T_Sci_Fi_Material5_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 388.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:296][928]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material5_AO.T_Sci_Fi_Material5_AO (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:296][928]LogChaosDD: Creating Chaos Debug Draw Scene for world DEMO
+[2026.02.23-14.47.55:301][928]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material3_AO.T_Sci_Fi_Material3_AO (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:355][928]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material4_normal.T_Sci_Fi_Material4_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 578.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:363][928]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material4_basecolor.T_Sci_Fi_Material4_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 404.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:364][928]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material3_normal.T_Sci_Fi_Material3_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 578.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:372][928]LoadErrors: Warning: While trying to load package /Game/Sci-FiMaterial/Map/DEMO, a dependent package /Game/Sci-FiMaterial/Map/DEMO_BuiltData was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Sci-FiMaterial/Map/DEMO_BuiltData has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Sci-FiMaterial/Map/DEMO_BuiltData'. Perhaps it has been deleted or was not synced?
+
+[2026.02.23-14.47.55:833][963]LogStaticMesh: Display: Building static mesh SM_Demo (Required Memory Estimate: 813.740253 MB)...
+[2026.02.23-14.47.55:874][966]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material5_roughness.T_Sci_Fi_Material5_roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:875][966]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_height.T_Sci_Fi_Material6_height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:890][967]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_ambientocclusion.T_Sci_Fi_Material6_ambientocclusion (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:894][967]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_metallic.T_Sci_Fi_Material6_metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 376.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:909][968]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_metallic.T_Sci_Fi_Material7_metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:909][968]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_roughness.T_Sci_Fi_Material6_roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 376.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:917][968]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_roughness.T_Sci_Fi_Material7_roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:920][968]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_ambientocclusion.T_Sci_Fi_Material7_ambientocclusion (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:923][968]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_normal.T_Sci_Fi_Material6_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:925][968]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_height.T_Sci_Fi_Material7_height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:952][969]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_basecolor.T_Sci_Fi_Material7_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 388.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:972][970]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material2_AO.T_Sci_Fi_Material2_AO (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.55:975][970]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material5_normal.T_Sci_Fi_Material5_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 578.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.56:008][972]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_normal.T_Sci_Fi_Material7_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 578.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.56:299][994]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material2_metallic.T_Sci_Fi_Material2_metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 376.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.56:320][995]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material2_roughness.T_Sci_Fi_Material2_roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 376.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.56:323][996]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material2_height.T_Sci_Fi_Material2_height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 376.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.56:326][996]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_ambientocclusion.T_Sci_Fi_Material1_ambientocclusion (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.56:339][997]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material2_normal.T_Sci_Fi_Material2_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.56:362][998]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_metallic.T_Sci_Fi_Material1_metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.56:363][998]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_normal.T_Sci_Fi_Material1_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.56:373][998]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_height.T_Sci_Fi_Material1_height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.56:382][998]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_Emmisive.T_Sci_Fi_Material1_Emmisive (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 404.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.56:391][999]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material2_basecolor.T_Sci_Fi_Material2_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 404.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.56:417][  0]LogTexture: Display: Building textures: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_roughness.T_Sci_Fi_Material1_roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 380.083323 MB), EncodeSpeed: Fast
+[2026.02.23-14.47.59:221][231]LogStaticMesh: Built static mesh [3.39s] /Game/Sci-FiMaterial/Map/_GENERATED/STONEMOCAP/SM_Demo.SM_Demo
+[2026.02.23-14.48.41:754][679]LogStreaming: Display: FlushAsyncLoading(1691): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.48.41:762][679]LogStaticMesh: Display: Building static mesh SM_Scifi_Wall_A (Required Memory Estimate: 0.239592 MB)...
+[2026.02.23-14.48.41:765][679]LogStaticMesh: Built static mesh [0.00s] /Game/SciFiShelter/Meshes/SM_Scifi_Wall_A.SM_Scifi_Wall_A
+[2026.02.23-14.48.42:109][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Wall_A.SM_Scifi_Wall_A
+[2026.02.23-14.48.42:109][696]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Wall_A.SM_Scifi_Wall_A
+[2026.02.23-14.48.42:110][696]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Wall_A.SM_Scifi_Wall_A as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_3
+[2026.02.23-14.48.42:843][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.23-14.48.42:847][758]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.02.23-14.48.42:853][758]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Wall_A.SM_Scifi_Wall_A
+[2026.02.23-14.48.42:853][758]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Wall_A.SM_Scifi_Wall_A
+[2026.02.23-14.48.42:854][758]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Wall_A.SM_Scifi_Wall_A as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_4
+[2026.02.23-14.48.56:185][ 18]Cmd: DELETE
+[2026.02.23-14.48.56:185][ 18]Cmd: ACTOR DELETE
+[2026.02.23-14.48.56:188][ 18]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.48.56:204][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.02.23-14.48.56:205][ 18]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.02.23-14.49.12:904][186]LogStreaming: Display: FlushAsyncLoading(1692): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.49.12:905][186]LogStaticMesh: Display: Building static mesh SM_Scifi_Wall_L (Required Memory Estimate: 0.493176 MB)...
+[2026.02.23-14.49.12:912][186]LogStaticMesh: Built static mesh [0.01s] /Game/SciFiShelter/Meshes/SM_Scifi_Wall_L.SM_Scifi_Wall_L
+[2026.02.23-14.49.13:061][190]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Wall_L.SM_Scifi_Wall_L
+[2026.02.23-14.49.13:061][190]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Wall_L.SM_Scifi_Wall_L
+[2026.02.23-14.49.13:061][190]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Wall_L.SM_Scifi_Wall_L as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_5
+[2026.02.23-14.49.13:708][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.23-14.49.13:712][248]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.02.23-14.49.13:719][248]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Wall_L.SM_Scifi_Wall_L
+[2026.02.23-14.49.13:719][248]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Wall_L.SM_Scifi_Wall_L
+[2026.02.23-14.49.13:720][248]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Wall_L.SM_Scifi_Wall_L as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_6
+[2026.02.23-14.49.17:859][625]Cmd: DELETE
+[2026.02.23-14.49.17:859][625]Cmd: ACTOR DELETE
+[2026.02.23-14.49.17:863][625]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.23-14.49.17:878][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.02.23-14.49.17:880][625]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: ================================================
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Total job queries 542, among them cache hits 100 (18.45%), DDC hits 337 (62.18%), Duplicates 65 (11.99%)
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Tracking 377 distinct input hashes that result in 282 distinct outputs (74.80%)
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: RAM used: 3.62 MiB of 3.20 GiB budget. Usage: 0.11%
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Shaders Compiled: 40
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Jobs assigned 40, completed 40 (100%)
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Average time worker was idle: 233.79 s
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 1.82 s
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Job execution time: average 1.48 s, max 3.19 s
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Job life time (pending + execution): average 1.61 s, max 3.28
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Shader code size: total 358.64 KiB, numShaders 43, average 8.34 KiB, min 2.691 KiB, max 13.288 KiB
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.04 s
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Jobs were issued in 40 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Average processing rate: 4.97 jobs/sec
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Total thread time: 25.517 s
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Total thread preprocess time: 7.552 s
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Percentage time preprocessing: 29.60%
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Effective parallelization: 3.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.198249
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.12 sec, max 1.12 sec, min 1.12 sec)
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 0.91 sec, max 1.28 sec, min 0.69 sec)
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    3 times, average 0.87 sec, max 0.99 sec, min 0.71 sec)
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 24.89% of total time (compiled    7 times, average 0.91 sec, max 1.28 sec, min 0.69 sec)
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.33% of total time (compiled    7 times, average 0.52 sec, max 0.76 sec, min 0.36 sec)
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display:                                                  FVelocityPS - 10.25% of total time (compiled    3 times, average 0.87 sec, max 0.99 sec, min 0.71 sec)
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display:                                                  FHitProxyVS - 7.05% of total time (compiled    4 times, average 0.45 sec, max 0.52 sec, min 0.37 sec)
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display:                                                  FHitProxyPS - 7.01% of total time (compiled    4 times, average 0.45 sec, max 0.52 sec, min 0.40 sec)
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: === Material stats ===
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Materials Translated:    230
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Material Translation Only: 0.07 s (42%)
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: Material Cache Hits: 42 (18%)
+[2026.02.23-14.49.20:808][895]LogShaderCompilers: Display: ================================================
+[2026.02.23-14.50.00:512][112]LogStreaming: Display: FlushAsyncLoading(1693): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.23-14.50.00:521][112]LogStaticMesh: Display: Building static mesh SM_Scifi_Floor_A (Required Memory Estimate: 0.113173 MB)...
+[2026.02.23-14.50.00:527][112]LogStaticMesh: Built static mesh [0.01s] /Game/SciFiShelter/Meshes/SM_Scifi_Floor_A.SM_Scifi_Floor_A
+[2026.02.23-14.50.00:564][112]LogTexture: Display: Building textures: /Game/SciFiShelter/Textures/T_Scifi_Floor_Mat_A_Roughness.T_Scifi_Floor_Mat_A_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.50.00:564][112]LogTexture: Display: Building textures: /Game/SciFiShelter/Textures/T_Scifi_Floor_Mat_A_Metallic.T_Scifi_Floor_Mat_A_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.50.00:605][112]LogTexture: Display: Building textures: /Game/SciFiShelter/Textures/T_Scifi_Floor_Mat_A_BaseColor.T_Scifi_Floor_Mat_A_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2026.02.23-14.50.00:849][121]LogTexture: Display: Building textures: /Game/SciFiShelter/Textures/T_Scifi_Floor_Mat_A_Normal.T_Scifi_Floor_Mat_A_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.02.23-14.50.00:943][125]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Floor_A.SM_Scifi_Floor_A
+[2026.02.23-14.50.00:943][125]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Floor_A.SM_Scifi_Floor_A
+[2026.02.23-14.50.00:944][125]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Floor_A.SM_Scifi_Floor_A as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_7
+[2026.02.23-14.50.01:582][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.23-14.50.01:585][180]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.02.23-14.50.01:591][180]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Floor_A.SM_Scifi_Floor_A
+[2026.02.23-14.50.01:591][180]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Floor_A.SM_Scifi_Floor_A
+[2026.02.23-14.50.01:593][180]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Floor_A.SM_Scifi_Floor_A as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_8
+[2026.02.23-14.50.06:224][680]Cmd: EDIT COPY
+[2026.02.23-14.50.06:843][752]Cmd: EDIT PASTE
+[2026.02.23-14.50.15:622][775]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.23-14.50.15:741][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.02.23-14.50.15:842][775]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.02.23-14.50.15:843][775]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersionA9D3DDF84A77E5A52FD5ABA4285B19A0.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.02.23-14.50.15:856][775]LogFileHelpers: Saving map 'LightVersion' took 0.154
+[2026.02.23-14.50.15:864][775]LogFileHelpers: InternalPromptForCheckoutAndSave took 242.145 ms (total: 1.68 sec)
+[2026.02.23-14.50.15:928][775]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.23-14.50.15:928][775]LogContentValidation: Enabled validators:
+[2026.02.23-14.50.15:928][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.23-14.50.15:928][775]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.23-14.50.15:928][775]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.23-14.50.15:928][775]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.23-14.50.15:928][775]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.23-14.50.15:928][775]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.23-14.50.15:928][775]AssetCheck: /Game/Dimensions/LightVersion Validating asset
