@@ -1,6 +1,4 @@
-*.uasset
-*.uasset
-Content/BP_TimeShiftManager.uasset
+
 # Unreal Engine
 Binaries/
 DerivedDataCache/
