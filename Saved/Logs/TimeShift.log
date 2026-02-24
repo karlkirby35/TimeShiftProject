@@ -1780,3 +1780,614 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.24-11.29.39:247][ 43]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.24-11.29.39:247][ 43]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.24-11.29.39:247][ 43]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.02.24-11.30.52:415][816]LogStreaming: Display: FlushAsyncLoading(341): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-11.30.52:724][839]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.02.24-11.30.53:465][924]LogStreaming: Display: FlushAsyncLoading(342): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-11.31.02:696][882]Cmd: TRANSACTION UNDO
+[2026.02.24-11.31.02:696][882]LogEditorTransaction: Undo Place Objects
+[2026.02.24-11.31.10:230][628]Cmd: TRANSACTION UNDO
+[2026.02.24-11.31.10:230][628]LogEditorTransaction: Undo Place Objects
+[2026.02.24-11.31.11:243][693]Cmd: TRANSACTION UNDO
+[2026.02.24-11.31.11:243][693]LogEditorTransaction: Undo Place Objects
+[2026.02.24-11.31.18:941][527]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.24-11.31.18:941][527]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.24-11.31.18:942][527]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_120
+[2026.02.24-11.31.18:942][527]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_120
+[2026.02.24-11.32.04:405][663]Cmd: TRANSACTION UNDO
+[2026.02.24-11.32.04:405][663]LogEditorTransaction: Undo Scale Elements
+[2026.02.24-11.32.59:838][129]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1027.795654
+[2026.02.24-11.32.59:986][147]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-11.32.59:986][147]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1027.935181, Update Interval: 345.490295
+[2026.02.24-11.34.01:038][196]Cmd: TRANSACTION UNDO
+[2026.02.24-11.34.01:038][196]LogEditorTransaction: Undo Set Rotation
+[2026.02.24-11.34.16:272][928]Cmd: TRANSACTION UNDO
+[2026.02.24-11.34.16:272][928]LogEditorTransaction: Undo Set Rotation
+[2026.02.24-11.34.33:912][907]Cmd: DELETE
+[2026.02.24-11.34.33:912][907]Cmd: ACTOR DELETE
+[2026.02.24-11.34.33:917][907]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-11.34.33:935][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.02.24-11.34.33:938][907]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.02.24-11.35.14:306][714]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.24-11.35.14:306][714]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.24-11.35.14:307][714]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_121
+[2026.02.24-11.35.14:307][714]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_121
+[2026.02.24-11.35.38:845][351]LogStreaming: Display: FlushAsyncLoading(343): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-11.35.38:853][351]LogStaticMesh: Display: Building static mesh GizmoArrowHandle (Required Memory Estimate: 0.208897 MB)...
+[2026.02.24-11.35.38:854][351]LogStaticMesh: Built static mesh [0.00s] /Engine/InteractiveToolsFramework/Meshes/GizmoArrowHandle.GizmoArrowHandle
+[2026.02.24-11.35.38:870][351]LogStaticMesh: Display: Building static mesh GizmoPlaneHandle (Required Memory Estimate: 0.080549 MB)...
+[2026.02.24-11.35.38:872][351]LogStaticMesh: Built static mesh [0.00s] /Engine/InteractiveToolsFramework/Meshes/GizmoPlaneHandle.GizmoPlaneHandle
+[2026.02.24-11.35.38:881][351]LogStaticMesh: Display: Building static mesh GizmoSphereHandle (Required Memory Estimate: 4.785744 MB)...
+[2026.02.24-11.35.38:888][351]LogStaticMesh: Built static mesh [0.01s] /Engine/InteractiveToolsFramework/Meshes/GizmoSphereHandle.GizmoSphereHandle
+[2026.02.24-11.35.38:901][351]LogStaticMesh: Display: Building static mesh GizmoQuarterCircleHandle (Required Memory Estimate: 0.364347 MB)...
+[2026.02.24-11.35.38:901][351]LogStaticMesh: Built static mesh [0.00s] /Engine/InteractiveToolsFramework/Meshes/GizmoQuarterCircleHandle.GizmoQuarterCircleHandle
+[2026.02.24-11.35.38:909][351]LogStaticMesh: Display: Building static mesh GizmoFullCircleHandle (Required Memory Estimate: 1.246918 MB)...
+[2026.02.24-11.35.38:912][351]LogStaticMesh: Built static mesh [0.00s] /Engine/InteractiveToolsFramework/Meshes/GizmoFullCircleHandle.GizmoFullCircleHandle
+[2026.02.24-11.35.38:924][351]LogStaticMesh: Display: Building static mesh GizmoBoxHandle (Required Memory Estimate: 0.080549 MB)...
+[2026.02.24-11.35.38:925][351]LogStaticMesh: Built static mesh [0.00s] /Engine/InteractiveToolsFramework/Meshes/GizmoBoxHandle.GizmoBoxHandle
+[2026.02.24-11.35.38:934][351]LogStaticMesh: Display: Building static mesh GizmoBoxArrowHandle (Required Memory Estimate: 0.230252 MB)...
+[2026.02.24-11.35.38:935][351]LogStaticMesh: Built static mesh [0.00s] /Engine/InteractiveToolsFramework/Meshes/GizmoBoxArrowHandle.GizmoBoxArrowHandle
+[2026.02.24-11.35.38:943][351]LogStaticMesh: Display: Building static mesh GizmoCornerHandle (Required Memory Estimate: 0.138775 MB)...
+[2026.02.24-11.35.38:944][351]LogStaticMesh: Built static mesh [0.00s] /Engine/InteractiveToolsFramework/Meshes/GizmoCornerHandle.GizmoCornerHandle
+[2026.02.24-11.36.10:831][856]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.02.24-11.36.10:832][856]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.02.24-11.36.13:701][112]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.02.24-11.36.20:079][771]Cmd: TRANSACTION UNDO
+[2026.02.24-11.36.20:079][771]LogEditorTransaction: Undo Place Mesh
+[2026.02.24-11.36.20:079][771]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.02.24-11.36.23:877][131]Cmd: TRANSACTION UNDO
+[2026.02.24-11.36.23:877][131]LogEditorTransaction: Undo Activate Tool
+[2026.02.24-11.36.28:671][571]Cmd: DELETE
+[2026.02.24-11.36.28:671][571]Cmd: ACTOR DELETE
+[2026.02.24-11.36.28:675][571]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-11.36.28:706][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.24-11.36.28:709][571]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: ================================================
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Total job queries 455, among them cache hits 52 (11.43%), DDC hits 331 (72.75%), Duplicates 65 (14.29%)
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Tracking 338 distinct input hashes that result in 248 distinct outputs (73.37%)
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: RAM used: 3.35 MiB of 3.20 GiB budget. Usage: 0.10%
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Shaders Compiled: 7
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Average time worker was idle: 569.91 s
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Job execution time: average 1.08 s, max 1.38 s
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Job life time (pending + execution): average 1.14 s, max 1.49
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Shader code size: total 67.414 KiB, numShaders 8, average 8.427 KiB, min 3.09 KiB, max 12.055 KiB
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.97 s
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Average processing rate: 1.76 jobs/sec
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Total thread time: 4.332 s
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Total thread preprocess time: 7.162 s
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Percentage time preprocessing: 165.32%
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Effective parallelization: 1.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.068195
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.79 sec, max 0.88 sec, min 0.70 sec)
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.51 sec, max 0.58 sec, min 0.39 sec)
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 36.52% of total time (compiled    2 times, average 0.79 sec, max 0.88 sec, min 0.70 sec)
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 35.38% of total time (compiled    3 times, average 0.51 sec, max 0.58 sec, min 0.39 sec)
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 15.78% of total time (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.16% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 6.16% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: === Material stats ===
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Materials Translated:    149
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Material Translation Only: 0.03 s (37%)
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: Material Cache Hits: 17 (11%)
+[2026.02.24-11.36.56:289][531]LogShaderCompilers: Display: ================================================
+[2026.02.24-11.37.21:138][121]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.24-11.37.21:138][121]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.24-11.37.21:139][121]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_122
+[2026.02.24-11.37.21:140][121]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_122
+[2026.02.24-11.38.01:732][567]Cmd: DELETE
+[2026.02.24-11.38.01:732][567]Cmd: ACTOR DELETE
+[2026.02.24-11.38.01:736][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-11.38.01:766][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.24-11.38.01:768][567]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.02.24-11.38.07:460][166]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2026.02.24-11.38.07:461][166]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
+[2026.02.24-11.38.07:462][166]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_123
+[2026.02.24-11.38.07:462][166]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_123
+[2026.02.24-11.38.09:522][393]Cmd: DELETE
+[2026.02.24-11.38.09:523][393]Cmd: ACTOR DELETE
+[2026.02.24-11.38.09:526][393]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-11.38.09:545][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.24-11.38.09:547][393]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.02.24-11.38.14:227][900]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.02.24-11.38.14:227][900]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.02.24-11.38.14:228][900]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_124
+[2026.02.24-11.38.14:229][900]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_124
+[2026.02.24-11.38.17:005][221]Cmd: DELETE
+[2026.02.24-11.38.17:005][221]Cmd: ACTOR DELETE
+[2026.02.24-11.38.17:008][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-11.38.17:027][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.24-11.38.17:029][221]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.02.24-11.38.41:845][108]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.24-11.38.41:845][108]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.24-11.38.41:845][108]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_125
+[2026.02.24-11.38.41:846][108]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_125
+[2026.02.24-11.38.43:468][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.24-11.38.43:470][298]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.02.24-11.38.43:476][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.24-11.38.43:476][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.24-11.38.43:477][298]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_126
+[2026.02.24-11.38.43:478][298]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_126
+[2026.02.24-11.39.01:359][349]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1389.323853
+[2026.02.24-11.39.01:514][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-11.39.01:514][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1389.470459, Update Interval: 300.466919
+[2026.02.24-11.39.23:871][919]Cmd: EDIT COPY
+[2026.02.24-11.39.23:871][919]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2026.02.24-11.39.24:105][947]Cmd: EDIT PASTE
+[2026.02.24-11.39.57:200][747]Cmd: TRANSACTION UNDO
+[2026.02.24-11.39.57:201][747]LogEditorTransaction: Undo Set Rotation
+[2026.02.24-11.41.01:911][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.02.24-11.41.01:998][190]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto1
+[2026.02.24-11.41.01:999][190]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion_Auto17F32573148EEF847CFD1A09C7F0A7A23.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Dimensions/LightVersion_Auto1.umap'
+[2026.02.24-11.41.02:000][190]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.105
+[2026.02.24-11.41.02:000][190]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.105
+[2026.02.24-11.41.23:342][624]Cmd: EDIT COPY
+[2026.02.24-11.41.24:126][718]Cmd: EDIT PASTE
+[2026.02.24-11.41.49:007][538]Cmd: DELETE
+[2026.02.24-11.41.49:007][538]Cmd: ACTOR DELETE
+[2026.02.24-11.41.49:010][538]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-11.41.49:027][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.24-11.41.49:029][538]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.02.24-11.41.50:713][725]Cmd: EDIT COPY
+[2026.02.24-11.41.51:643][835]Cmd: EDIT PASTE
+[2026.02.24-11.42.08:768][720]Cmd: EDIT COPY
+[2026.02.24-11.42.09:648][815]Cmd: EDIT PASTE
+[2026.02.24-11.42.50:007][244]Cmd: EDIT COPY
+[2026.02.24-11.42.51:133][379]Cmd: EDIT PASTE
+[2026.02.24-11.43.29:935][613]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.24-11.43.29:944][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-11.43.29:968][613]LogStreaming: Display: FlushAsyncLoading(354): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-11.43.29:968][613]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-11.43.29:982][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013828s)
+[2026.02.24-11.43.29:982][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.013868s)
+[2026.02.24-11.43.29:998][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.24-11.43.29:999][613]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.24-11.43.30:001][613]LogPlayLevel: PIE: World Init took: (0.001497s)
+[2026.02.24-11.43.30:001][613]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.02.24-11.43.30:001][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-11.43.30:001][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-11.43.30:001][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-11.43.30:001][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-11.43.30:001][613]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-11.43.30:001][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-11.43.30:001][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-11.43.30:001][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-11.43.30:001][613]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-11.43.30:001][613]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-11.43.30:001][613]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-11.43.30:004][613]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-11.43.30:029][613]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.24-11.43.30:029][613]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-11.43.30:029][613]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-11.43.30:029][613]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-11.43.30:030][613]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.02.24-11.43.30:030][613]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.02.24-11.43.30:031][613]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.02.24-11.43.30:031][613]LogInit: FAudioDevice initialized with ID 5.
+[2026.02.24-11.43.30:032][613]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.02.24-11.43.30:032][613]LogAudio: Display: Audio Device (ID: 5) registered with world 'LightVersion'.
+[2026.02.24-11.43.30:032][613]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.02.24-11.43.30:035][613]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.24-11.43.30:040][613]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.24-11.43.30
+[2026.02.24-11.43.30:040][613]LogWorld: Bringing up level for play took: 0.004058
+[2026.02.24-11.43.30:042][613]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.02.24-11.43.30:048][613]PIE: Server logged in
+[2026.02.24-11.43.30:049][613]PIE: Play in editor total start time 0.106 seconds.
+[2026.02.24-11.43.34:278][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-11.43.34:279][116]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-11.43.34:279][116]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-11.43.34:280][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-11.43.34:282][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-11.43.34:283][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-11.43.34:300][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-11.43.34:300][116]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.02.24-11.43.34:300][116]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.02.24-11.43.34:302][116]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.02.24-11.43.34:308][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.24-11.43.34:380][117]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.02.24-11.43.46:814][409]Cmd: EDIT COPY
+[2026.02.24-11.43.48:383][568]Cmd: EDIT PASTE
+[2026.02.24-11.44.01:412][  6]Cmd: TRANSACTION UNDO
+[2026.02.24-11.44.01:412][  6]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.24-11.44.01:888][ 14]Cmd: TRANSACTION UNDO
+[2026.02.24-11.44.01:888][ 14]LogEditorTransaction: Undo Set Rotation
+[2026.02.24-11.44.18:385][856]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1706.348389
+[2026.02.24-11.44.18:532][867]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-11.44.18:533][867]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1706.479736, Update Interval: 353.356720
+[2026.02.24-11.45.30:849][759]Cmd: EDIT COPY
+[2026.02.24-11.45.32:153][914]Cmd: EDIT PASTE
+[2026.02.24-11.46.20:503][223]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.24-11.46.20:512][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-11.46.20:512][223]LogStreaming: Display: FlushAsyncLoading(355): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-11.46.20:512][223]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-11.46.20:528][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015518s)
+[2026.02.24-11.46.20:528][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.015555s)
+[2026.02.24-11.46.20:546][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.24-11.46.20:547][223]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.24-11.46.20:548][223]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2026.02.24-11.46.20:548][223]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.02.24-11.46.20:548][223]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-11.46.20:548][223]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-11.46.20:548][223]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-11.46.20:548][223]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-11.46.20:548][223]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-11.46.20:549][223]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-11.46.20:549][223]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-11.46.20:549][223]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-11.46.20:549][223]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-11.46.20:549][223]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-11.46.20:549][223]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-11.46.20:550][223]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-11.46.20:577][223]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.24-11.46.20:577][223]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-11.46.20:577][223]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-11.46.20:577][223]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-11.46.20:577][223]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.02.24-11.46.20:577][223]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.02.24-11.46.20:580][223]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.02.24-11.46.20:580][223]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.02.24-11.46.20:580][223]LogInit: FAudioDevice initialized with ID 6.
+[2026.02.24-11.46.20:580][223]LogAudio: Display: Audio Device (ID: 6) registered with world 'LightVersion'.
+[2026.02.24-11.46.20:581][223]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.24-11.46.20:584][223]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.24-11.46.20:589][223]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.24-11.46.20
+[2026.02.24-11.46.20:589][223]LogWorld: Bringing up level for play took: 0.004460
+[2026.02.24-11.46.20:591][223]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.02.24-11.46.20:596][223]PIE: Server logged in
+[2026.02.24-11.46.20:598][223]PIE: Play in editor total start time 0.086 seconds.
+[2026.02.24-11.46.23:270][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-11.46.23:270][531]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-11.46.23:270][531]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-11.46.23:273][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-11.46.23:274][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-11.46.23:275][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-11.46.23:292][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-11.46.23:293][531]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.24-11.46.23:293][531]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.02.24-11.46.23:295][531]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.02.24-11.46.23:300][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.24-11.46.23:369][532]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.02.24-11.46.28:711][103]Cmd: DELETE
+[2026.02.24-11.46.28:711][103]Cmd: ACTOR DELETE
+[2026.02.24-11.46.28:714][103]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-11.46.28:729][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.02.24-11.46.28:731][103]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.02.24-11.46.29:472][183]Cmd: DELETE
+[2026.02.24-11.46.29:472][183]Cmd: ACTOR DELETE
+[2026.02.24-11.46.29:476][183]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-11.46.29:492][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.02.24-11.46.29:494][183]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.02.24-11.46.58:274][161]LogSlate: Window 'Loading Many Assets' being destroyed
+[2026.02.24-11.46.58:287][161]Message dialog closed, result: Yes, title: Loading Many Assets, text: About to load 90 assets. Are you sure you want to continue?
+[2026.02.24-11.46.58:337][161]LogStreaming: Display: FlushAsyncLoading(356): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-11.46.58:352][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Maps/Pack_Bonus_BuiltData.Pack_Bonus_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 64x64 x1x1x1) (Required Memory Estimate: 1.651002 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:352][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Maps/Pack_Bonus_BuiltData.Pack_Bonus_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 64x64 x1x1x1) (Required Memory Estimate: 1.471324 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:352][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Maps/Pack_Bonus_BuiltData.Pack_Bonus_BuiltData:ShadowMapTexture2D_1 (BGRA8, 32x32 x1x1x1) (Required Memory Estimate: 1.032544 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:352][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Maps/Pack_Bonus_BuiltData.Pack_Bonus_BuiltData:ShadowMapTexture2D_0 (BGRA8, 1024x128 x1x1x1) (Required Memory Estimate: 5.166656 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:354][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Maps/Pack_Bonus_BuiltData.Pack_Bonus_BuiltData:NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128x128 x6x1x1) (Required Memory Estimate: 4.499992 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:355][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Maps/Pack_Bonus_BuiltData.Pack_Bonus_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.416656 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:356][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Maps/Pack_Bonus_BuiltData.Pack_Bonus_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 31.166582 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:827][161]LogChaosDD: Creating Chaos Debug Draw Scene for world Pack_Bonus
+[2026.02.24-11.46.58:846][161]LogObjectTools: Deleting 1 worlds: /Game/Pack_Bonus/Maps/Pack_Bonus.Pack_Bonus
+[2026.02.24-11.46.58:847][161]LogObjectTools: Currently 9 active worlds: /Game/Dimensions/LightVersion.LightVersion, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7
+[2026.02.24-11.46.58:849][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Grass_2/T_Pack_Bonus_Grass_2_height.T_Pack_Bonus_Grass_2_height (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:855][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Grass_2/T_Pack_Bonus_Grass_2_roughness.T_Pack_Bonus_Grass_2_roughness (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:857][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Grass_3/T_Pack_Bonus_Grass_3_roughness.T_Pack_Bonus_Grass_3_roughness (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:860][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Grass_3/T_Pack_Bonus_Grass_3_height.T_Pack_Bonus_Grass_3_height (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:864][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_1/T_Pack_Bonus_Stone_1_ambientocclusion.T_Pack_Bonus_Stone_1_ambientocclusion (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:865][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Grass_2/T_Pack_Bonus_Grass_2_ambientocclusion.T_Pack_Bonus_Grass_2_ambientocclusion (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:871][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Grass_3/T_Pack_Bonus_Grass_3_ambientocclusion.T_Pack_Bonus_Grass_3_ambientocclusion (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:877][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.24-11.46.58:940][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Grass_1/T_Pack_Bonus_Grass_1_height.T_Pack_Bonus_Grass_1_height (G8, 4096x4096 x1x1x1) (Required Memory Estimate: 464.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:976][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Grass_3/T_Pack_Bonus_Grass_3_basecolor.T_Pack_Bonus_Grass_3_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:976][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Grass_2/T_Pack_Bonus_Grass_2_basecolor.T_Pack_Bonus_Grass_2_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:982][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Grass_1/T_Pack_Bonus_Grass_1_roughness.T_Pack_Bonus_Grass_1_roughness (G8, 4096x4096 x1x1x1) (Required Memory Estimate: 464.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.58:995][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_1/T_Pack_Bonus_Stone_1_height.T_Pack_Bonus_Stone_1_height (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:006][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_1/T_Pack_Bonus_Stone_1_roughness.T_Pack_Bonus_Stone_1_roughness (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:007][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Grass_2/T_Pack_Bonus_Grass_2_normal.T_Pack_Bonus_Grass_2_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:016][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Grass_3/T_Pack_Bonus_Grass_3_normal.T_Pack_Bonus_Grass_3_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:022][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_2/T_Pack_Bonus_Stone_2_height.T_Pack_Bonus_Stone_2_height (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:032][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_2/T_Pack_Bonus_Stone_2_ambientocclusion.T_Pack_Bonus_Stone_2_ambientocclusion (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:104][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_1/T_Pack_Bonus_Stone_1_basecolor.T_Pack_Bonus_Stone_1_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:190][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_2/T_Pack_Bonus_Stone_2_basecolor.T_Pack_Bonus_Stone_2_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:243][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_1/T_Pack_Bonus_Stone_1_normal.T_Pack_Bonus_Stone_1_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:602][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Grass_1/T_Pack_Bonus_Grass_1_basecolor.T_Pack_Bonus_Grass_1_basecolor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:632][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Tile_1/T_Pack_Bonus_Tile_1_height.T_Pack_Bonus_Tile_1_height (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:663][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_3/T_Pack_Bonus_Stone_3_ambientocclusion.T_Pack_Bonus_Stone_3_ambientocclusion (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:665][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_3/T_Pack_Bonus_Stone_3_height.T_Pack_Bonus_Stone_3_height (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:681][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_2/T_Pack_Bonus_Stone_2_roughness.T_Pack_Bonus_Stone_2_roughness (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:682][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_3/T_Pack_Bonus_Stone_3_roughness.T_Pack_Bonus_Stone_3_roughness (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:697][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Tile_1/T_Pack_Bonus_Tile_1_roughness.T_Pack_Bonus_Tile_1_roughness (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:706][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Tile_2/T_Pack_Bonus_Tile_2_ambientocclusion.T_Pack_Bonus_Tile_2_ambientocclusion (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:741][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Grass_1/T_Pack_Bonus_Grass_1_normal.T_Pack_Bonus_Grass_1_normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:783][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_3/T_Pack_Bonus_Stone_3_basecolor.T_Pack_Bonus_Stone_3_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:820][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Tile_1/T_Pack_Bonus_Tile_1_basecolor.T_Pack_Bonus_Tile_1_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:830][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_2/T_Pack_Bonus_Stone_2_normal.T_Pack_Bonus_Stone_2_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:864][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_3/T_Pack_Bonus_Stone_3_normal.T_Pack_Bonus_Stone_3_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:871][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Tile_2/T_Pack_Bonus_Tile_2_basecolor.T_Pack_Bonus_Tile_2_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.24-11.46.59:893][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Tile_1/T_Pack_Bonus_Tile_1_normal.T_Pack_Bonus_Tile_1_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:489][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Tile_2/T_Pack_Bonus_Tile_2_height.T_Pack_Bonus_Tile_2_height (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:495][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Tile_3/T_Pack_Bonus_Tile_3_height.T_Pack_Bonus_Tile_3_height (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:504][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Tile_3/T_Pack_Bonus_Tile_3_roughness.T_Pack_Bonus_Tile_3_roughness (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:528][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Tile_3/T_Pack_Bonus_Tile_3_ambientocclusion.T_Pack_Bonus_Tile_3_ambientocclusion (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:532][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wall_1/T_Pack_Bonus_Wall_1_ambientocclusion.T_Pack_Bonus_Wall_1_ambientocclusion (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:536][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wall_1/T_Pack_Bonus_Wall_1_height.T_Pack_Bonus_Wall_1_height (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:541][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Tile_2/T_Pack_Bonus_Tile_2_roughness.T_Pack_Bonus_Tile_2_roughness (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:593][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wall_1/T_Pack_Bonus_Wall_1_roughness.T_Pack_Bonus_Wall_1_roughness (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:636][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wall_2/T_Pack_Bonus_Wall_2_ambientocclusion.T_Pack_Bonus_Wall_2_ambientocclusion (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:673][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wall_2/T_Pack_Bonus_Wall_2_roughness.T_Pack_Bonus_Wall_2_roughness (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:679][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wall_2/T_Pack_Bonus_Wall_2_height.T_Pack_Bonus_Wall_2_height (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:686][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Tile_3/T_Pack_Bonus_Tile_3_basecolor.T_Pack_Bonus_Tile_3_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:688][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wall_3/T_Pack_Bonus_Wall_3_height.T_Pack_Bonus_Wall_3_height (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:707][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Tile_2/T_Pack_Bonus_Tile_2_normal.T_Pack_Bonus_Tile_2_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:714][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wall_3/T_Pack_Bonus_Wall_3_ambientocclusion.T_Pack_Bonus_Wall_3_ambientocclusion (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:719][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wall_1/T_Pack_Bonus_Wall_1_basecolor.T_Pack_Bonus_Wall_1_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:734][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wall_1/T_Pack_Bonus_Wall_1_normal.T_Pack_Bonus_Wall_1_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:747][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Tile_3/T_Pack_Bonus_Tile_3_normal.T_Pack_Bonus_Tile_3_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:777][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wall_3/T_Pack_Bonus_Wall_3_roughness.T_Pack_Bonus_Wall_3_roughness (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:785][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wooden_Floor_1/T_Pack_Bonus_Wooden_Floor_1_ambientocclusion.T_Pack_Bonus_Wooden_Floor_1_ambientocclusion (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:817][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wall_2/T_Pack_Bonus_Wall_2_normal.T_Pack_Bonus_Wall_2_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:896][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wall_2/T_Pack_Bonus_Wall_2_basecolor.T_Pack_Bonus_Wall_2_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:913][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wall_3/T_Pack_Bonus_Wall_3_basecolor.T_Pack_Bonus_Wall_3_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.00:942][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wall_3/T_Pack_Bonus_Wall_3_normal.T_Pack_Bonus_Wall_3_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.01:336][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wooden_Floor_1/T_Pack_Bonus_Wooden_Floor_1_roughness.T_Pack_Bonus_Wooden_Floor_1_roughness (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.01:339][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wooden_Floor_2/T_Pack_Bonus_Wooden_Floor_2_height.T_Pack_Bonus_Wooden_Floor_2_height (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.01:344][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wooden_Floor_2/T_Pack_Bonus_Wooden_Floor_2_roughness.T_Pack_Bonus_Wooden_Floor_2_roughness (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.01:345][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wooden_Floor_1/T_Pack_Bonus_Wooden_Floor_1_height.T_Pack_Bonus_Wooden_Floor_1_height (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.01:363][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wooden_Floor_3/T_Pack_Bonus_Wooden_Floor_3_ambientocclusion.T_Pack_Bonus_Wooden_Floor_3_ambientocclusion (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.01:393][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wooden_Floor_2/T_Pack_Bonus_Wooden_Floor_2_ambientocclusion.T_Pack_Bonus_Wooden_Floor_2_ambientocclusion (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.01:402][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wooden_Floor_3/T_Pack_Bonus_Wooden_Floor_3_height.T_Pack_Bonus_Wooden_Floor_3_height (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.01:418][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wooden_Floor_3/T_Pack_Bonus_Wooden_Floor_3_roughness.T_Pack_Bonus_Wooden_Floor_3_roughness (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.01:463][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wooden_Floor_1/T_Pack_Bonus_Wooden_Floor_1_basecolor.T_Pack_Bonus_Wooden_Floor_1_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.01:498][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wooden_Floor_2/T_Pack_Bonus_Wooden_Floor_2_normal.T_Pack_Bonus_Wooden_Floor_2_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.01:512][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wooden_Floor_3/T_Pack_Bonus_Wooden_Floor_3_basecolor.T_Pack_Bonus_Wooden_Floor_3_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.01:520][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wooden_Floor_3/T_Pack_Bonus_Wooden_Floor_3_normal.T_Pack_Bonus_Wooden_Floor_3_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.01:548][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wooden_Floor_1/T_Pack_Bonus_Wooden_Floor_1_normal.T_Pack_Bonus_Wooden_Floor_1_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.01:595][161]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Wooden_Floor_2/T_Pack_Bonus_Wooden_Floor_2_basecolor.T_Pack_Bonus_Wooden_Floor_2_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.02.24-11.47.15:124][161]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.24-11.47.15:175][161]LogUObjectGlobals: Force Deleting 92 Package(s):
+	Asset Name: /Game/Pack_Bonus/Textures/Tile_1/T_Pack_Bonus_Tile_1_ambientocclusion.T_Pack_Bonus_Tile_1_ambientocclusion
+	Asset Type: Texture2D
+	Asset Name: /Game/Pack_Bonus/Textures/Grass_1/T_Pack_Bonus_Grass_1_ambientocclusion.T_Pack_Bonus_Grass_1_ambientocclusion
+	Asset Type: Texture2D
+	Asset Name: /Game/Pack_Bonus/Maps/Pack_Bonus_BuiltData.Pack_Bonus_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/Pack_Bonus/Maps/Pack_Bonus.Pack_Bonus
+	Asset Type: World
+	Asset Name: /Game/Pack_Bonus/Materials/M_Pack_Bonus_Wooden_Floor_3.M_Pack_Bonus_Wooden_Floor_3
+	Asset Type: Material
+	Asset Name: /Game/Pack_Bonus/Materials/M_Pack_Bonus_Wooden_Floor_2.M_Pack_Bonus_Wooden_Floor_2
+	Asset Type: Material
+	Asset Name: /Game/Pack_Bonus/Materials/M_Pack_Bonus_Wooden_Floor_1.M_Pack_Bonus_Wooden_Floor_1
+	Asset Type: Material
+	Asset Name: /Game/Pack_Bonus/Materials/M_Pack_Bonus_Wall_3.M_Pack_Bonus_Wall_3
+	Asset Type: Material
+	Asset Name: /Game/Pack_Bonus/Materials/M_Pack_Bonus_Wall_2.M_Pack_Bonus_Wall_2
+	Asset Type: Material
+	Asset Name: /Game/Pack_Bonus/Materials/M_Pack_Bonus_Wall_1.M_Pack_Bonus_Wall_1
+	Asset Type: Material
+[2026.02.24-11.47.15:272][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\MyMaterials\Floor.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:272][161]LogMaterial: Warning: Floor: Requesting an invalid TextureIndex! (1 / 1)
+[2026.02.24-11.47.15:274][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\MyMaterials\Floor.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:276][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\MyMaterials\Floor.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:277][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\MyMaterials\Floor.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:279][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Wooden_Floor_3.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:280][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Wooden_Floor_3.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:281][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Wooden_Floor_2.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:282][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Wooden_Floor_2.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:283][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Wooden_Floor_1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:284][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Wooden_Floor_1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:286][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Wall_3.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:287][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Wall_3.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:289][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Wall_2.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:289][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Wall_2.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:291][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Wall_1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:292][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Wall_1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:293][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Tile_3.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:295][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Tile_3.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:298][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Tile_2.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:299][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Tile_2.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:301][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Tile_1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:302][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Tile_1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:304][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Stone_3.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:305][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Stone_3.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:307][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Stone_2.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:308][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Stone_2.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:309][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Stone_1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:311][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Stone_1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:312][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Grass_3.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:314][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Grass_3.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:315][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Grass_2.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:318][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Grass_2.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:320][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Grass_1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:321][161]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Pack_Bonus\Materials\M_Pack_Bonus_Grass_1.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-11.47.15:354][161]LogWorld: UWorld::CleanupWorld for Pack_Bonus, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-11.47.15:355][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-11.47.18:109][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.24-11.47.18:128][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.24-11.47.18:145][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.02.24-11.47.18:281][161]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.24-11.47.19:459][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-11.47.19:576][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.02.24-11.47.19:663][297]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.02.24-11.47.19:664][297]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion8D2FFCAC4D459A0439EA788E7DFE9F17.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.02.24-11.47.19:677][297]LogFileHelpers: Saving map 'LightVersion' took 0.144
+[2026.02.24-11.47.19:684][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 224.785 ms (total: 489.556 ms)
+[2026.02.24-11.47.19:770][297]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-11.47.19:770][297]LogContentValidation: Enabled validators:
+[2026.02.24-11.47.19:770][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-11.47.19:770][297]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-11.47.19:770][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-11.47.19:770][297]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-11.47.19:770][297]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-11.47.19:770][297]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-11.47.19:770][297]AssetCheck: /Game/Dimensions/LightVersion Validating asset
