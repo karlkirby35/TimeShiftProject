@@ -3784,3 +3784,702 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.24-13.15.59:547][131]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.24-13.15.59:547][131]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.24-13.15.59:547][131]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.02.24-13.16.45:737][942]Cmd: EDIT COPY
+[2026.02.24-13.16.46:479][ 28]Cmd: EDIT PASTE
+[2026.02.24-13.17.48:856][572]LogDerivedDataCache: C:/Users/N00235865/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.24-13.17.56:054][157]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7324.041504
+[2026.02.24-13.17.56:226][171]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-13.17.56:226][171]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7324.201172, Update Interval: 313.799255
+[2026.02.24-13.17.58:307][340]LogFab: Display: Asset Type = glb
+[2026.02.24-13.17.58:307][340]LogFab: Display: Is Quixel = 0
+[2026.02.24-13.17.59:495][398]LogStreaming: Display: FlushAsyncLoading(448): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.17.59:496][398]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.02.24-13.17.59:496][398]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/df70cd7f-aad7-4fe6-a00e-311ffa005416/sci_fi_console_game_fbx.glb]
+[2026.02.24-13.17.59:530][400]LogStreaming: Display: FlushAsyncLoading(449): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.17.59:551][402]LogStreaming: Display: FlushAsyncLoading(453): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.17.59:583][405]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2026.02.24-13.17.59:602][407]LogStreaming: Display: FlushAsyncLoading(454): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.17.59:619][409]LogStreaming: Display: FlushAsyncLoading(455): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.17.59:669][410]LogTexture: Display: Building textures: /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_3.sci_fi_console_game_fbx_texture_3 (BGRA8, 1459x820 x1x1x1) (Required Memory Estimate: 42.07444 MB), EncodeSpeed: Fast
+[2026.02.24-13.17.59:671][410]LogTexture: Display: Building textures: /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_0.sci_fi_console_game_fbx_texture_0 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1072.999983 MB), EncodeSpeed: Fast
+[2026.02.24-13.17.59:689][410]LogTexture: Display: Building textures: /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_2.sci_fi_console_game_fbx_texture_2 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.02.24-13.17.59:689][410]LogTexture: Display: Building textures: /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_1.sci_fi_console_game_fbx_texture_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.02.24-13.17.59:723][411]LogStaticMesh: Display: Building static mesh sci_fi_console_game_fbx (Required Memory Estimate: 4.717678 MB)...
+[2026.02.24-13.17.59:788][415]LogStaticMesh: Built static mesh [0.07s] /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/StaticMeshes/sci_fi_console_game_fbx.sci_fi_console_game_fbx
+[2026.02.24-13.18.00:110][440]LogInterchangeEngine: Display: Interchange import completed [C:/Users/N00235865/A...e6-a00e-311ffa005416/sci_fi_console_game_fbx.glb]
+[2026.02.24-13.18.05:176][816]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/StaticMeshes/sci_fi_console_game_fbx.sci_fi_console_game_fbx
+[2026.02.24-13.18.05:176][816]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/StaticMeshes/sci_fi_console_game_fbx.sci_fi_console_game_fbx
+[2026.02.24-13.18.05:176][816]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/StaticMeshes/sci_fi_console_game_fbx.sci_fi_console_game_fbx as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_334
+[2026.02.24-13.18.06:147][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.02.24-13.18.06:151][893]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.02.24-13.18.06:158][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/StaticMeshes/sci_fi_console_game_fbx.sci_fi_console_game_fbx
+[2026.02.24-13.18.06:158][893]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/StaticMeshes/sci_fi_console_game_fbx.sci_fi_console_game_fbx
+[2026.02.24-13.18.06:159][893]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/StaticMeshes/sci_fi_console_game_fbx.sci_fi_console_game_fbx as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_335
+[2026.02.24-13.18.32:939][534]Cmd: EDIT COPY
+[2026.02.24-13.18.33:687][611]Cmd: EDIT PASTE
+[2026.02.24-13.18.37:449][996]Cmd: EDIT PASTE
+[2026.02.24-13.18.40:996][339]Cmd: EDIT PASTE
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: ================================================
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Total job queries 658, among them cache hits 170 (25.84%), DDC hits 363 (55.17%), Duplicates 72 (10.94%)
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Tracking 416 distinct input hashes that result in 302 distinct outputs (72.60%)
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: RAM used: 3.76 MiB of 3.20 GiB budget. Usage: 0.11%
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Shaders Compiled: 53
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Jobs assigned 53, completed 53 (100%)
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Average time worker was idle: 1539.63 s
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.47 s
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Job execution time: average 0.93 s, max 1.73 s
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Job life time (pending + execution): average 1.02 s, max 1.83
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Shader code size: total 484.672 KiB, numShaders 59, average 8.214 KiB, min 2.691 KiB, max 16.766 KiB
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.42 s
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Jobs were issued in 53 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Average processing rate: 4.64 jobs/sec
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Total thread time: 32.854 s
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Total thread preprocess time: 9.605 s
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Percentage time preprocessing: 29.24%
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Effective parallelization: 2.88 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.179836
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.39 sec, max 1.39 sec, min 1.39 sec)
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 1.03 sec, max 1.23 sec, min 0.91 sec)
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 0.81 sec, max 1.02 sec, min 0.63 sec)
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 0.74 sec, max 0.80 sec, min 0.68 sec)
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.24% of total time (compiled    7 times, average 0.81 sec, max 1.02 sec, min 0.63 sec)
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.64% of total time (compiled    9 times, average 0.50 sec, max 0.66 sec, min 0.36 sec)
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.41% of total time (compiled    3 times, average 1.03 sec, max 1.23 sec, min 0.91 sec)
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display:                                                  FVelocityPS - 8.81% of total time (compiled    4 times, average 0.72 sec, max 0.85 sec, min 0.50 sec)
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 4.52% of total time (compiled    2 times, average 0.74 sec, max 0.80 sec, min 0.68 sec)
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: === Material stats ===
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Materials Translated:    252
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Material Translation Only: 0.07 s (47%)
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: Material Cache Hits: 47 (19%)
+[2026.02.24-13.18.56:491][773]LogShaderCompilers: Display: ================================================
+[2026.02.24-13.19.52:312][336]LogFab: Display: Asset Type = glb
+[2026.02.24-13.19.52:312][336]LogFab: Display: Is Quixel = 0
+[2026.02.24-13.19.56:400][688]LogStreaming: Display: FlushAsyncLoading(456): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.19.56:401][688]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.02.24-13.19.56:401][688]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/74c67668-2f32-40a6-a44d-fae9875abe50/scifi_fan_convector_heater.glb]
+[2026.02.24-13.19.56:466][694]LogStreaming: Display: FlushAsyncLoading(457): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.19.56:672][708]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.02.24-13.19.56:854][727]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.02.24-13.19.56:972][739]LogStreaming: Display: FlushAsyncLoading(466): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.19.57:057][748]LogStreaming: Display: FlushAsyncLoading(467): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.19.57:085][751]LogStreaming: Display: FlushAsyncLoading(469): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.19.57:206][754]LogTexture: Display: Building textures: /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_4.scifi_fan_convector_heater_texture_4 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.24-13.19.57:208][754]LogTexture: Display: Building textures: /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_1.scifi_fan_convector_heater_texture_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.02.24-13.19.57:208][754]LogTexture: Display: Building textures: /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_3.scifi_fan_convector_heater_texture_3 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.02.24-13.19.57:209][754]LogTexture: Display: Building textures: /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_8.scifi_fan_convector_heater_texture_8 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.02.24-13.19.57:211][754]LogTexture: Display: Building textures: /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_0.scifi_fan_convector_heater_texture_0 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.02.24-13.19.57:211][754]LogTexture: Display: Building textures: /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_5.scifi_fan_convector_heater_texture_5 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.02.24-13.19.57:212][754]LogTexture: Display: Building textures: /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_2.scifi_fan_convector_heater_texture_2 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.02.24-13.19.57:212][754]LogTexture: Display: Building textures: /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_6.scifi_fan_convector_heater_texture_6 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.02.24-13.19.57:214][754]LogTexture: Display: Building textures: /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_7.scifi_fan_convector_heater_texture_7 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.24-13.19.57:318][755]LogStaticMesh: Display: Building static mesh scifi_fan_convector_heater (Required Memory Estimate: 45.493591 MB)...
+[2026.02.24-13.19.57:796][787]LogStaticMesh: Built static mesh [0.50s] /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/StaticMeshes/scifi_fan_convector_heater.scifi_fan_convector_heater
+[2026.02.24-13.19.58:587][849]LogInterchangeEngine: Display: Interchange import completed [C:/Users/N00235865/A...a6-a44d-fae9875abe50/scifi_fan_convector_heater.glb]
+[2026.02.24-13.20.24:764][495]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.24-13.20.24:772][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-13.20.24:814][495]LogStreaming: Display: FlushAsyncLoading(470): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.20.24:814][495]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-13.20.24:837][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022039s)
+[2026.02.24-13.20.24:837][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.022081s)
+[2026.02.24-13.20.24:858][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.24-13.20.24:861][495]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.24-13.20.24:864][495]LogPlayLevel: PIE: World Init took: (0.001676s)
+[2026.02.24-13.20.24:864][495]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.02.24-13.20.24:864][495]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-13.20.24:864][495]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-13.20.24:864][495]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-13.20.24:864][495]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-13.20.24:864][495]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-13.20.24:864][495]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-13.20.24:864][495]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-13.20.24:864][495]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-13.20.24:864][495]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-13.20.24:864][495]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-13.20.24:864][495]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-13.20.24:867][495]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-13.20.24:894][495]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.24-13.20.24:894][495]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-13.20.24:894][495]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-13.20.24:894][495]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-13.20.24:894][495]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.02.24-13.20.24:894][495]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.02.24-13.20.24:897][495]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.02.24-13.20.24:897][495]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.02.24-13.20.24:897][495]LogInit: FAudioDevice initialized with ID 15.
+[2026.02.24-13.20.24:897][495]LogAudio: Display: Audio Device (ID: 15) registered with world 'LightVersion'.
+[2026.02.24-13.20.24:897][495]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.02.24-13.20.24:901][495]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.24-13.20.24:910][495]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.24-13.20.24
+[2026.02.24-13.20.24:910][495]LogWorld: Bringing up level for play took: 0.008191
+[2026.02.24-13.20.24:912][495]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2026.02.24-13.20.24:918][495]PIE: Server logged in
+[2026.02.24-13.20.24:920][495]PIE: Play in editor total start time 0.148 seconds.
+[2026.02.24-13.20.33:486][501]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.02.24-13.20.33:486][501]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.02.24-13.20.33:486][501]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.02.24-13.20.33:486][501]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-13.20.33:489][501]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-13.20.33:492][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-13.20.33:532][501]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.24-13.20.33:535][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.24-13.20.33:538][501]LogStreaming: Display: FlushAsyncLoading(471): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.20.33:549][501]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Dimensions\DarkVersion.umap: Failed to compile Material Instance with Base Floor for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.20.33:550][501]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Dimensions\DarkVersion.umap: Failed to compile Material Instance with Base Floor for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.20.33:551][501]LogAudio: Display: Audio Device (ID: 15) registered with world 'DarkVersion'.
+[2026.02.24-13.20.33:551][501]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.02.24-13.20.33:552][501]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2026.02.24-13.20.33:552][501]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.24-13.20.33:560][501]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.02.24-13.20.33
+[2026.02.24-13.20.33:560][501]LogWorld: Bringing up level for play took: 0.007071
+[2026.02.24-13.20.33:565][501]LogLoad: Took 0.078418 seconds to LoadMap(/Game/Dimensions/DarkVersion)
+[2026.02.24-13.20.33:565][501]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/DarkVersion
+[2026.02.24-13.20.36:377][836]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.02.24-13.20.36:377][836]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.02.24-13.20.36:377][836]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.02.24-13.20.36:377][836]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.02.24-13.20.36:379][836]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-13.20.36:380][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-13.20.36:435][836]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.24-13.20.36:437][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.02.24-13.20.36:438][836]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-13.20.36:460][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021508s)
+[2026.02.24-13.20.36:460][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.021556s)
+[2026.02.24-13.20.36:460][836]LogAudio: Display: Audio Device (ID: 15) registered with world 'LightVersion'.
+[2026.02.24-13.20.36:460][836]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.24-13.20.36:461][836]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2026.02.24-13.20.36:461][836]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.24-13.20.36:466][836]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.24-13.20.36
+[2026.02.24-13.20.36:466][836]LogWorld: Bringing up level for play took: 0.005694
+[2026.02.24-13.20.36:471][836]LogLoad: Took 0.094089 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_LightVersion)
+[2026.02.24-13.20.36:471][836]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-13.20.38:366][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-13.20.38:366][ 57]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-13.20.38:366][ 57]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-13.20.38:369][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-13.20.38:370][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-13.20.38:372][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-13.20.38:389][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-13.20.38:390][ 57]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.02.24-13.20.38:390][ 57]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.02.24-13.20.38:392][ 57]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.02.24-13.20.38:399][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.24-13.20.38:476][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2026.02.24-13.22.33:966][266]LogFab: Display: Asset Type = glb
+[2026.02.24-13.22.33:966][266]LogFab: Display: Is Quixel = 0
+[2026.02.24-13.22.46:015][439]LogStreaming: Display: FlushAsyncLoading(472): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.22.46:016][439]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.02.24-13.22.46:016][439]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/523b64c0-028c-4dc8-9488-a910677fb185/loft_dining_table.glb]
+[2026.02.24-13.22.46:059][442]LogStreaming: Display: FlushAsyncLoading(473): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.22.46:504][487]LogStreaming: Display: FlushAsyncLoading(476): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.22.46:521][489]LogStreaming: Display: FlushAsyncLoading(477): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.22.46:573][491]LogStaticMesh: Display: Building static mesh loft_dining_table (Required Memory Estimate: 1.807064 MB)...
+[2026.02.24-13.22.46:589][493]LogTexture: Display: Building textures: /Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_1.loft_dining_table_texture_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.02.24-13.22.46:591][493]LogTexture: Display: Building textures: /Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_0.loft_dining_table_texture_0 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.02.24-13.22.46:593][493]LogTexture: Display: Building textures: /Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_2.loft_dining_table_texture_2 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.02.24-13.22.46:607][493]LogStaticMesh: Built static mesh [0.04s] /Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table.loft_dining_table
+[2026.02.24-13.22.46:615][493]LogStaticMesh: Warning: loft_dining_table has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2026.02.24-13.22.46:615][493]LogStaticMesh: Warning: loft_dining_table has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.02.24-13.22.47:149][524]LogInterchangeEngine: Display: Interchange import completed [C:/Users/N00235865/A...c8-9488-a910677fb185/loft_dining_table.glb]
+[2026.02.24-13.23.03:722][135]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table.loft_dining_table
+[2026.02.24-13.23.03:722][135]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table.loft_dining_table
+[2026.02.24-13.23.03:722][135]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table.loft_dining_table as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_339
+[2026.02.24-13.23.04:791][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.02.24-13.23.04:794][234]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.02.24-13.23.04:801][234]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table.loft_dining_table
+[2026.02.24-13.23.04:801][234]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table.loft_dining_table
+[2026.02.24-13.23.04:802][234]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table.loft_dining_table as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_340
+[2026.02.24-13.23.23:524][980]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table.loft_dining_table
+[2026.02.24-13.23.23:524][980]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table.loft_dining_table
+[2026.02.24-13.23.23:524][980]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table.loft_dining_table as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_341
+[2026.02.24-13.23.24:796][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.24-13.23.24:799][102]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.02.24-13.23.24:807][102]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table.loft_dining_table
+[2026.02.24-13.23.24:807][102]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table.loft_dining_table
+[2026.02.24-13.23.24:808][102]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table.loft_dining_table as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_342
+[2026.02.24-13.24.04:748][881]Cmd: EDIT COPY
+[2026.02.24-13.24.05:443][950]Cmd: EDIT PASTE
+[2026.02.24-13.24.09:885][352]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7697.877930
+[2026.02.24-13.24.10:061][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-13.24.10:061][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7698.045410, Update Interval: 351.452393
+[2026.02.24-13.24.35:004][697]Cmd: EDIT COPY
+[2026.02.24-13.24.35:761][776]Cmd: EDIT PASTE
+[2026.02.24-13.25.55:788][538]Cmd: EDIT COPY
+[2026.02.24-13.25.56:472][599]Cmd: EDIT PASTE
+[2026.02.24-13.26.32:344][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.24-13.26.32:456][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto7
+[2026.02.24-13.26.32:456][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion_Auto71147612B41584E7E4E0E098D752CBBA4.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Dimensions/LightVersion_Auto7.umap'
+[2026.02.24-13.26.32:457][ 55]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.133
+[2026.02.24-13.26.32:457][ 55]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.133
+[2026.02.24-13.26.32:458][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyMaterials/Floor] ([1] browsable assets)...
+[2026.02.24-13.26.32:458][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMaterials/Floor]
+[2026.02.24-13.26.32:465][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMaterials/Floor_Auto7
+[2026.02.24-13.26.32:465][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Floor_Auto71987F3064AD4D9826380C3B8927319D8.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/MyMaterials/Floor_Auto7.uasset'
+[2026.02.24-13.26.32:466][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_body] ([1] browsable assets)...
+[2026.02.24-13.26.32:466][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_body]
+[2026.02.24-13.26.32:473][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_body_Auto7
+[2026.02.24-13.26.32:473][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/reactor_body_Auto7A3D4C4F74A092180FDA38BAE51348210.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_body_Auto7.uasset'
+[2026.02.24-13.26.32:474][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/display] ([1] browsable assets)...
+[2026.02.24-13.26.32:474][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/display]
+[2026.02.24-13.26.32:481][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/display_Auto7
+[2026.02.24-13.26.32:481][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/display_Auto762DD1B574CA7D8EA82E25CBE76DD7F91.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/display_Auto7.uasset'
+[2026.02.24-13.26.32:482][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/copper] ([1] browsable assets)...
+[2026.02.24-13.26.32:482][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/copper]
+[2026.02.24-13.26.32:488][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/copper_Auto7
+[2026.02.24-13.26.32:488][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/copper_Auto7C310FE714C41B695C7274CBE2444A71E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/copper_Auto7.uasset'
+[2026.02.24-13.26.32:489][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_light] ([1] browsable assets)...
+[2026.02.24-13.26.32:489][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_light]
+[2026.02.24-13.26.32:497][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_light_Auto7
+[2026.02.24-13.26.32:497][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/frame_light_Auto732AAA5F842F58388A7263E926F4AD6A1.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_light_Auto7.uasset'
+[2026.02.24-13.26.32:498][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/pipes] ([1] browsable assets)...
+[2026.02.24-13.26.32:498][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/pipes]
+[2026.02.24-13.26.32:505][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/pipes_Auto7
+[2026.02.24-13.26.32:505][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/pipes_Auto762FCA5EA4BD4C64B45B2E4BDBAC297E5.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/pipes_Auto7.uasset'
+[2026.02.24-13.26.32:506][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/outter_pipes] ([1] browsable assets)...
+[2026.02.24-13.26.32:506][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/outter_pipes]
+[2026.02.24-13.26.32:513][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/outter_pipes_Auto7
+[2026.02.24-13.26.32:513][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/outter_pipes_Auto7E479D3BC408F6F48A766BEA84213A588.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/outter_pipes_Auto7.uasset'
+[2026.02.24-13.26.32:513][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_body] ([1] browsable assets)...
+[2026.02.24-13.26.32:513][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_body]
+[2026.02.24-13.26.32:520][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_body_Auto7
+[2026.02.24-13.26.32:520][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/frame_body_Auto7BCFC455F448424B0A415CAAF063F6B5D.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_body_Auto7.uasset'
+[2026.02.24-13.26.32:521][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_cooling_fluid] ([1] browsable assets)...
+[2026.02.24-13.26.32:521][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_cooling_fluid]
+[2026.02.24-13.26.32:528][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_cooling_fluid_Auto7
+[2026.02.24-13.26.32:528][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/reactor_cooling_fluid_Auto7EBAB54AA4C607BE0E349449061607025.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_cooling_fluid_Auto7.uasset'
+[2026.02.24-13.26.32:529][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/glass] ([1] browsable assets)...
+[2026.02.24-13.26.32:529][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/glass]
+[2026.02.24-13.26.32:538][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/glass_Auto7
+[2026.02.24-13.26.32:538][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/glass_Auto7B65D97194472ED61E5691587B7F07F39.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/glass_Auto7.uasset'
+[2026.02.24-13.26.32:539][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/Nuclear] ([1] browsable assets)...
+[2026.02.24-13.26.32:539][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/Nuclear]
+[2026.02.24-13.26.32:545][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/Nuclear_Auto7
+[2026.02.24-13.26.32:545][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Nuclear_Auto7AC5E54344D11F3AB90B1F4B1883B9259.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/Nuclear_Auto7.uasset'
+[2026.02.24-13.26.32:546][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor] ([1] browsable assets)...
+[2026.02.24-13.26.32:546][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor]
+[2026.02.24-13.26.32:573][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor_Auto7
+[2026.02.24-13.26.32:573][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/reactor_Auto7A6F6D1A346AC38072AAFB595E94FB3FD.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor_Auto7.uasset'
+[2026.02.24-13.26.32:575][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_ambientocclusion_Mat] ([1] browsable assets)...
+[2026.02.24-13.26.32:575][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_ambientocclusion_Mat]
+[2026.02.24-13.26.32:583][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_ambientocclusion_Mat_Auto7
+[2026.02.24-13.26.32:583][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Sci_Fi_Material6_ambientocclus512F79CF4142719516E2099C1BBD65B2.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_ambientocclusion_Mat_Auto7.uasset'
+[2026.02.24-13.26.32:583][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Panels/Textures/Main/T_4k_SciFi_Panels_BaseColor_Mat] ([1] browsable assets)...
+[2026.02.24-13.26.32:583][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Panels/Textures/Main/T_4k_SciFi_Panels_BaseColor_Mat]
+[2026.02.24-13.26.32:591][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SciFi_Panels/Textures/Main/T_4k_SciFi_Panels_BaseColor_Mat_Auto7
+[2026.02.24-13.26.32:591][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_4k_SciFi_Panels_BaseColor_Mat_F7AB2BD24BD058193DCC87B9CAA5AF98.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/SciFi_Panels/Textures/Main/T_4k_SciFi_Panels_BaseColor_Mat_Auto7.uasset'
+[2026.02.24-13.26.32:592][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Convex_Mat] ([1] browsable assets)...
+[2026.02.24-13.26.32:592][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Convex_Mat]
+[2026.02.24-13.26.32:598][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Convex_Mat_Auto7
+[2026.02.24-13.26.32:598][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_4k_SciFi_Panels_Convex_Mat_Aut121B76604ED725D194511A8EF908866F.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Convex_Mat_Auto7.uasset'
+[2026.02.24-13.26.32:599][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Displacement_Mat] ([1] browsable assets)...
+[2026.02.24-13.26.32:599][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Displacement_Mat]
+[2026.02.24-13.26.32:605][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Displacement_Mat_Auto7
+[2026.02.24-13.26.32:605][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_4k_SciFi_Panels_Displacement_M3F1B271348BCDBC830ED8FB4D2658CA1.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Displacement_Mat_Auto7.uasset'
+[2026.02.24-13.26.32:606][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Normal_Clean_Mat] ([1] browsable assets)...
+[2026.02.24-13.26.32:606][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Normal_Clean_Mat]
+[2026.02.24-13.26.32:613][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Normal_Clean_Mat_Auto7
+[2026.02.24-13.26.32:613][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_4k_SciFi_Panels_Normal_Clean_M8C5F87244F93B6BB0C4740BD084B53A2.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Normal_Clean_Mat_Auto7.uasset'
+[2026.02.24-13.26.32:614][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Curve_Mat] ([1] browsable assets)...
+[2026.02.24-13.26.32:614][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Curve_Mat]
+[2026.02.24-13.26.32:621][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Curve_Mat_Auto7
+[2026.02.24-13.26.32:621][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_4k_SciFi_Panels_Curve_Mat_Auto0B9BA63B4E2F8A7FD6F7C0818FDEE3DC.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Curve_Mat_Auto7.uasset'
+[2026.02.24-13.26.32:622][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_AO_Clean_Mat] ([1] browsable assets)...
+[2026.02.24-13.26.32:622][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_AO_Clean_Mat]
+[2026.02.24-13.26.32:631][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_AO_Clean_Mat_Auto7
+[2026.02.24-13.26.32:631][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_4k_SciFi_Panels_AO_Clean_Mat_AB22CC48843D403AE6A19BFB984767C5A.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_AO_Clean_Mat_Auto7.uasset'
+[2026.02.24-13.26.32:632][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_Emmisive_Mat] ([1] browsable assets)...
+[2026.02.24-13.26.32:632][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_Emmisive_Mat]
+[2026.02.24-13.26.32:637][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_Emmisive_Mat_Auto7
+[2026.02.24-13.26.32:637][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Sci_Fi_Material1_Emmisive_Mat_353E63204B524AED5A3A74B698F2B18E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_Emmisive_Mat_Auto7.uasset'
+[2026.02.24-13.26.32:638][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_height_Mat] ([1] browsable assets)...
+[2026.02.24-13.26.32:638][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_height_Mat]
+[2026.02.24-13.26.32:645][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_height_Mat_Auto7
+[2026.02.24-13.26.32:645][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Sci_Fi_Material7_height_Mat_AuE745586B42B0FEF28B412383F879DD27.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_height_Mat_Auto7.uasset'
+[2026.02.24-13.26.32:646][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material4_metallic_Mat] ([1] browsable assets)...
+[2026.02.24-13.26.32:646][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material4_metallic_Mat]
+[2026.02.24-13.26.32:653][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material4_metallic_Mat_Auto7
+[2026.02.24-13.26.32:653][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Sci_Fi_Material4_metallic_Mat_E4C643CE4EBA44075F05CFA88DBADE32.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material4_metallic_Mat_Auto7.uasset'
+[2026.02.24-13.26.32:653][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material2_metallic_Mat] ([1] browsable assets)...
+[2026.02.24-13.26.32:653][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material2_metallic_Mat]
+[2026.02.24-13.26.32:659][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material2_metallic_Mat_Auto7
+[2026.02.24-13.26.32:659][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Sci_Fi_Material2_metallic_Mat_F7E5E32942D7E3F59165C88FDA2EDF2D.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material2_metallic_Mat_Auto7.uasset'
+[2026.02.24-13.26.32:660][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_height_Mat] ([1] browsable assets)...
+[2026.02.24-13.26.32:660][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_height_Mat]
+[2026.02.24-13.26.32:668][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_height_Mat_Auto7
+[2026.02.24-13.26.32:668][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Sci_Fi_Material1_height_Mat_Au8947150240370603EB94D5B5864FA703.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_height_Mat_Auto7.uasset'
+[2026.02.24-13.26.32:670][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_0] ([1] browsable assets)...
+[2026.02.24-13.26.32:671][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_0.sci_fi_console_game_fbx_texture_0]
+[2026.02.24-13.26.32:671][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_0]
+[2026.02.24-13.26.32:689][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_0_Auto7
+[2026.02.24-13.26.32:690][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_console_game_fbx_texture_29C0E99241560590F3CE708792924328.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_0_Auto7.uasset'
+[2026.02.24-13.26.32:690][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_1] ([1] browsable assets)...
+[2026.02.24-13.26.32:692][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_1.sci_fi_console_game_fbx_texture_1]
+[2026.02.24-13.26.32:692][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_1]
+[2026.02.24-13.26.32:754][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_1_Auto7
+[2026.02.24-13.26.32:754][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_console_game_fbx_texture_8858BA774EB429A95B309DB134313C1A.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_1_Auto7.uasset'
+[2026.02.24-13.26.32:755][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_2] ([1] browsable assets)...
+[2026.02.24-13.26.32:756][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_2.sci_fi_console_game_fbx_texture_2]
+[2026.02.24-13.26.32:756][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_2]
+[2026.02.24-13.26.32:817][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_2_Auto7
+[2026.02.24-13.26.32:817][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_console_game_fbx_texture_B35CE559436BA8DEFFE25CB5E782C01A.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_2_Auto7.uasset'
+[2026.02.24-13.26.32:819][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_3] ([1] browsable assets)...
+[2026.02.24-13.26.32:820][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_3.sci_fi_console_game_fbx_texture_3]
+[2026.02.24-13.26.32:820][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_3]
+[2026.02.24-13.26.32:829][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_3_Auto7
+[2026.02.24-13.26.32:829][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_console_game_fbx_texture_DAA44CBF41A6212BAEEA67B8C5EDD581.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_3_Auto7.uasset'
+[2026.02.24-13.26.32:831][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Monitor] ([1] browsable assets)...
+[2026.02.24-13.26.32:835][ 55]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Monitor.Monitor]
+[2026.02.24-13.26.32:835][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Monitor]
+[2026.02.24-13.26.32:843][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Monitor_Auto7
+[2026.02.24-13.26.32:843][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Monitor_Auto735802BF7429E056CF20928BE1A382C53.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Monitor_Auto7.uasset'
+[2026.02.24-13.26.32:844][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Console] ([1] browsable assets)...
+[2026.02.24-13.26.32:848][ 55]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Console.Console]
+[2026.02.24-13.26.32:848][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Console]
+[2026.02.24-13.26.32:857][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Console_Auto7
+[2026.02.24-13.26.32:857][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Console_Auto7AEA9F0F94816B6B1D87F789FC15F3A91.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Console_Auto7.uasset'
+[2026.02.24-13.26.32:858][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/StaticMeshes/sci_fi_console_game_fbx] ([1] browsable assets)...
+[2026.02.24-13.26.32:862][ 55]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/StaticMeshes/sci_fi_console_game_fbx.sci_fi_console_game_fbx]
+[2026.02.24-13.26.32:862][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/StaticMeshes/sci_fi_console_game_fbx]
+[2026.02.24-13.26.32:871][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/StaticMeshes/sci_fi_console_game_fbx_Auto7
+[2026.02.24-13.26.32:871][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_console_game_fbx_Auto7D03D0604413907F02A365FA4A4B7AABB.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/StaticMeshes/sci_fi_console_game_fbx_Auto7.uasset'
+[2026.02.24-13.26.32:873][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_0] ([1] browsable assets)...
+[2026.02.24-13.26.32:875][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_0.scifi_fan_convector_heater_texture_0]
+[2026.02.24-13.26.32:875][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_0]
+[2026.02.24-13.26.32:934][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_0_Auto7
+[2026.02.24-13.26.32:934][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textuDAFEC7174046FC2F9E29B1886B482508.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_0_Auto7.uasset'
+[2026.02.24-13.26.32:935][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_1] ([1] browsable assets)...
+[2026.02.24-13.26.32:937][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_1.scifi_fan_convector_heater_texture_1]
+[2026.02.24-13.26.32:937][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_1]
+[2026.02.24-13.26.32:999][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_1_Auto7
+[2026.02.24-13.26.32:999][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textu63B0163A45EAD6F01185DD82DBCBE730.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_1_Auto7.uasset'
+[2026.02.24-13.26.33:000][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_2] ([1] browsable assets)...
+[2026.02.24-13.26.33:001][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_2.scifi_fan_convector_heater_texture_2]
+[2026.02.24-13.26.33:001][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_2]
+[2026.02.24-13.26.33:059][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_2_Auto7
+[2026.02.24-13.26.33:059][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textuEADB8B304C65ABC6A6CBF28A5CCB5943.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_2_Auto7.uasset'
+[2026.02.24-13.26.33:060][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_3] ([1] browsable assets)...
+[2026.02.24-13.26.33:062][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_3.scifi_fan_convector_heater_texture_3]
+[2026.02.24-13.26.33:062][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_3]
+[2026.02.24-13.26.33:119][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_3_Auto7
+[2026.02.24-13.26.33:119][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textuAD05564A4DAD37680493DC9A63E6BD5E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_3_Auto7.uasset'
+[2026.02.24-13.26.33:120][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_4] ([1] browsable assets)...
+[2026.02.24-13.26.33:121][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_4.scifi_fan_convector_heater_texture_4]
+[2026.02.24-13.26.33:121][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_4]
+[2026.02.24-13.26.33:183][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_4_Auto7
+[2026.02.24-13.26.33:183][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textu723DEA7748C101062324078F6B454624.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_4_Auto7.uasset'
+[2026.02.24-13.26.33:183][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_5] ([1] browsable assets)...
+[2026.02.24-13.26.33:185][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_5.scifi_fan_convector_heater_texture_5]
+[2026.02.24-13.26.33:185][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_5]
+[2026.02.24-13.26.33:248][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_5_Auto7
+[2026.02.24-13.26.33:248][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textu6AF548FB4519B492F4929AB0C40B68D8.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_5_Auto7.uasset'
+[2026.02.24-13.26.33:249][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_6] ([1] browsable assets)...
+[2026.02.24-13.26.33:250][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_6.scifi_fan_convector_heater_texture_6]
+[2026.02.24-13.26.33:250][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_6]
+[2026.02.24-13.26.33:313][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_6_Auto7
+[2026.02.24-13.26.33:313][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textu079F91EA4EEE5631961224820EC4A3E8.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_6_Auto7.uasset'
+[2026.02.24-13.26.33:313][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_7] ([1] browsable assets)...
+[2026.02.24-13.26.33:316][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_7.scifi_fan_convector_heater_texture_7]
+[2026.02.24-13.26.33:316][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_7]
+[2026.02.24-13.26.33:380][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_7_Auto7
+[2026.02.24-13.26.33:380][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textu7E361E7043E5D0B5DE487AB0166992D2.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_7_Auto7.uasset'
+[2026.02.24-13.26.33:382][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_8] ([1] browsable assets)...
+[2026.02.24-13.26.33:384][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_8.scifi_fan_convector_heater_texture_8]
+[2026.02.24-13.26.33:384][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_8]
+[2026.02.24-13.26.33:446][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_8_Auto7
+[2026.02.24-13.26.33:446][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textu83B180664A24BB822AEF8AAF6F38EF6E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_8_Auto7.uasset'
+[2026.02.24-13.26.33:447][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/emit] ([1] browsable assets)...
+[2026.02.24-13.26.33:452][ 55]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/emit.emit]
+[2026.02.24-13.26.33:452][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/emit]
+[2026.02.24-13.26.33:461][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/emit_Auto7
+[2026.02.24-13.26.33:461][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/emit_Auto7EC1D094145329FF01F940CAE4DF88632.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/emit_Auto7.uasset'
+[2026.02.24-13.26.33:462][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/grond] ([1] browsable assets)...
+[2026.02.24-13.26.33:468][ 55]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/grond.grond]
+[2026.02.24-13.26.33:468][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/grond]
+[2026.02.24-13.26.33:477][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/grond_Auto7
+[2026.02.24-13.26.33:477][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/grond_Auto70F9993DB489D7DC34AA00CBE00B6202E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/grond_Auto7.uasset'
+[2026.02.24-13.26.33:478][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/material] ([1] browsable assets)...
+[2026.02.24-13.26.33:485][ 55]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/material.material]
+[2026.02.24-13.26.33:485][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/material]
+[2026.02.24-13.26.33:496][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/material_Auto7
+[2026.02.24-13.26.33:496][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/material_Auto748B918F540070A50B0C8F2BC4F3C32C3.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/material_Auto7.uasset'
+[2026.02.24-13.26.33:498][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/StaticMeshes/scifi_fan_convector_heater] ([1] browsable assets)...
+[2026.02.24-13.26.33:505][ 55]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/StaticMeshes/scifi_fan_convector_heater.scifi_fan_convector_heater]
+[2026.02.24-13.26.33:505][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/StaticMeshes/scifi_fan_convector_heater]
+[2026.02.24-13.26.33:525][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/StaticMeshes/scifi_fan_convector_heater_Auto7
+[2026.02.24-13.26.33:525][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_Auto74AE0E1744237CB961F6E5DB1F9867985.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/StaticMeshes/scifi_fan_convector_heater_Auto7.uasset'
+[2026.02.24-13.26.33:527][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_0] ([1] browsable assets)...
+[2026.02.24-13.26.33:529][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_0.loft_dining_table_texture_0]
+[2026.02.24-13.26.33:529][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_0]
+[2026.02.24-13.26.33:605][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_0_Auto7
+[2026.02.24-13.26.33:605][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/loft_dining_table_texture_0_AutoC598EAFC4C3D2EF7D3AAA88B3EE3B32E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_0_Auto7.uasset'
+[2026.02.24-13.26.33:606][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_1] ([1] browsable assets)...
+[2026.02.24-13.26.33:609][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_1.loft_dining_table_texture_1]
+[2026.02.24-13.26.33:609][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_1]
+[2026.02.24-13.26.33:714][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_1_Auto7
+[2026.02.24-13.26.33:714][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/loft_dining_table_texture_1_AutoFB3A1A2741CAB3D2579AD2A3EBBB55F3.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_1_Auto7.uasset'
+[2026.02.24-13.26.33:716][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_2] ([1] browsable assets)...
+[2026.02.24-13.26.33:718][ 55]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_2.loft_dining_table_texture_2]
+[2026.02.24-13.26.33:718][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_2]
+[2026.02.24-13.26.33:819][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_2_Auto7
+[2026.02.24-13.26.33:819][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/loft_dining_table_texture_2_Auto281BFA174E977B073307E4AE37F2AC96.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_2_Auto7.uasset'
+[2026.02.24-13.26.33:822][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Loft_Dining_Table/loft_dining_table/Materials/Scene_-_Root] ([1] browsable assets)...
+[2026.02.24-13.26.33:829][ 55]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Loft_Dining_Table/loft_dining_table/Materials/Scene_-_Root.Scene_-_Root]
+[2026.02.24-13.26.33:829][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Loft_Dining_Table/loft_dining_table/Materials/Scene_-_Root]
+[2026.02.24-13.26.33:842][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/Materials/Scene_-_Root_Auto7
+[2026.02.24-13.26.33:842][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Scene_-_Root_Auto7EB39C24148BA74D448DA918EEB80EC3B.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/Materials/Scene_-_Root_Auto7.uasset'
+[2026.02.24-13.26.33:843][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table] ([1] browsable assets)...
+[2026.02.24-13.26.33:850][ 55]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table.loft_dining_table]
+[2026.02.24-13.26.33:850][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table]
+[2026.02.24-13.26.33:869][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table_Auto7
+[2026.02.24-13.26.33:869][ 55]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/loft_dining_table_Auto7B90C39954C8B2B9B0E79C4A58666C8C5.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table_Auto7.uasset'
+[2026.02.24-13.26.33:870][ 55]LogFileHelpers: Auto-saving content packages took 1.413
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: ================================================
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Total job queries 674, among them cache hits 172 (25.52%), DDC hits 363 (53.86%), Duplicates 72 (10.68%)
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Tracking 430 distinct input hashes that result in 309 distinct outputs (71.86%)
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: RAM used: 3.87 MiB of 3.20 GiB budget. Usage: 0.12%
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Shaders Compiled: 67
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Jobs assigned 67, completed 67 (100%)
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Average time worker was idle: 1410.04 s
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.47 s
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Job execution time: average 1.00 s, max 1.80 s
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Job life time (pending + execution): average 1.08 s, max 1.91
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Shader code size: total 676.145 KiB, numShaders 74, average 9.137 KiB, min 2.691 KiB, max 31.977 KiB
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.34 s
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Jobs were issued in 67 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Average processing rate: 5.02 jobs/sec
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Total thread time: 45.199 s
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Total thread preprocess time: 9.786 s
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Percentage time preprocessing: 21.65%
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Effective parallelization: 3.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.211722
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.47 sec, max 1.54 sec, min 1.39 sec)
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 1.03 sec, max 1.23 sec, min 0.91 sec)
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    8 times, average 0.85 sec, max 1.17 sec, min 0.63 sec)
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    5 times, average 0.78 sec, max 1.26 sec, min 0.40 sec)
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 15.12% of total time (compiled    8 times, average 0.85 sec, max 1.17 sec, min 0.63 sec)
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.57% of total time (compiled   10 times, average 0.52 sec, max 0.75 sec, min 0.36 sec)
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 9.72% of total time (compiled    3 times, average 1.47 sec, max 1.54 sec, min 1.39 sec)
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.68% of total time (compiled    5 times, average 0.78 sec, max 1.26 sec, min 0.40 sec)
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display:                                                  FVelocityPS - 8.67% of total time (compiled    5 times, average 0.78 sec, max 1.02 sec, min 0.50 sec)
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: === Material stats ===
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Materials Translated:    257
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Material Translation Only: 0.08 s (49%)
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: Material Cache Hits: 47 (18%)
+[2026.02.24-13.27.56:503][627]LogShaderCompilers: Display: ================================================
+[2026.02.24-13.28.40:377][620]LogFab: Display: Asset Type = unreal-engine
+[2026.02.24-13.28.40:377][620]LogFab: Display: Is Quixel = 0
+[2026.02.24-13.28.40:377][620]LogFab: Display: Base Url https://egdownload.fastly-edge.com/Builds/Rocket/Automated/SciFiShe33a554d7bc46V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/SciFiShe33a554d7bc46V1/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/SciFiShe33a554d7bc46V1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/SciFiShe33a554d7bc46V1/CloudDir
+[2026.02.24-13.28.48:771][498]Cmd: DELETE
+[2026.02.24-13.28.48:772][498]Cmd: ACTOR DELETE
+[2026.02.24-13.28.48:786][498]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.28.48:804][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.24-13.28.48:807][498]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.02.24-13.28.49:445][564]Cmd: DELETE
+[2026.02.24-13.28.49:445][564]Cmd: ACTOR DELETE
+[2026.02.24-13.28.49:445][564]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2026.02.24-13.28.49:452][564]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.28.49:467][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.24-13.28.49:468][564]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2026.02.24-13.28.50:224][646]Cmd: DELETE
+[2026.02.24-13.28.50:224][646]Cmd: ACTOR DELETE
+[2026.02.24-13.28.50:230][646]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.28.50:247][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.24-13.28.50:249][646]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.02.24-13.28.50:750][695]Cmd: DELETE
+[2026.02.24-13.28.50:750][695]Cmd: ACTOR DELETE
+[2026.02.24-13.28.50:757][695]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.28.50:774][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.02.24-13.28.50:777][695]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.02.24-13.29.28:086][654]LogStreaming: Display: FlushAsyncLoading(478): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.29.28:088][654]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2026.02.24-13.29.28:314][660]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Pipe_Wall.SM_Pipe_Wall
+[2026.02.24-13.29.28:314][660]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Pipe_Wall.SM_Pipe_Wall
+[2026.02.24-13.29.28:314][660]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiShelter/Meshes/SM_Pipe_Wall.SM_Pipe_Wall as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_371
+[2026.02.24-13.29.29:694][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.24-13.29.29:697][770]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.02.24-13.29.29:704][770]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Pipe_Wall.SM_Pipe_Wall
+[2026.02.24-13.29.29:704][770]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Pipe_Wall.SM_Pipe_Wall
+[2026.02.24-13.29.29:705][770]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiShelter/Meshes/SM_Pipe_Wall.SM_Pipe_Wall as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_372
+[2026.02.24-13.29.32:981][ 56]Cmd: DELETE
+[2026.02.24-13.29.32:981][ 56]Cmd: ACTOR DELETE
+[2026.02.24-13.29.32:986][ 56]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.29.33:002][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.24-13.29.33:003][ 56]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2026.02.24-13.29.36:882][375]LogStreaming: Display: FlushAsyncLoading(479): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.29.37:113][384]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Pipe_Wall_B.SM_Pipe_Wall_B
+[2026.02.24-13.29.37:113][384]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Pipe_Wall_B.SM_Pipe_Wall_B
+[2026.02.24-13.29.37:114][384]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiShelter/Meshes/SM_Pipe_Wall_B.SM_Pipe_Wall_B as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_373
+[2026.02.24-13.29.37:207][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.24-13.29.37:210][393]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.02.24-13.29.37:236][394]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Pipe_Wall_B.SM_Pipe_Wall_B
+[2026.02.24-13.29.37:236][394]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Pipe_Wall_B.SM_Pipe_Wall_B
+[2026.02.24-13.29.37:237][394]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiShelter/Meshes/SM_Pipe_Wall_B.SM_Pipe_Wall_B as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_374
+[2026.02.24-13.29.38:104][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.02.24-13.29.38:105][478]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.02.24-13.29.38:111][478]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Pipe_Wall_B.SM_Pipe_Wall_B
+[2026.02.24-13.29.38:111][478]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Pipe_Wall_B.SM_Pipe_Wall_B
+[2026.02.24-13.29.38:113][478]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiShelter/Meshes/SM_Pipe_Wall_B.SM_Pipe_Wall_B as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_375
+[2026.02.24-13.30.09:479][930]Cmd: EDIT COPY
+[2026.02.24-13.30.10:158][  0]Cmd: EDIT PASTE
+[2026.02.24-13.30.13:600][341]Cmd: EDIT PASTE
+[2026.02.24-13.30.18:940][879]Cmd: EDIT PASTE
+[2026.02.24-13.30.26:952][711]Cmd: EDIT PASTE
+[2026.02.24-13.30.30:333][999]Cmd: EDIT PASTE
+[2026.02.24-13.30.32:951][232]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8080.960449
+[2026.02.24-13.30.33:114][248]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-13.30.33:114][248]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8081.113770, Update Interval: 325.976135
+[2026.02.24-13.30.33:749][309]Cmd: EDIT PASTE
+[2026.02.24-13.30.41:318][952]Cmd: EDIT COPY
+[2026.02.24-13.30.42:058][ 19]Cmd: EDIT PASTE
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: ================================================
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Total job queries 678, among them cache hits 173 (25.52%), DDC hits 363 (53.54%), Duplicates 72 (10.62%)
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Tracking 433 distinct input hashes that result in 311 distinct outputs (71.82%)
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: RAM used: 3.89 MiB of 3.20 GiB budget. Usage: 0.12%
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Shaders Compiled: 70
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Jobs assigned 70, completed 70 (100%)
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Average time worker was idle: 1341.35 s
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.47 s
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Job execution time: average 0.98 s, max 1.80 s
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Job life time (pending + execution): average 1.07 s, max 1.91
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Shader code size: total 704.93 KiB, numShaders 77, average 9.154 KiB, min 2.691 KiB, max 31.977 KiB
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.35 s
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Jobs were issued in 70 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Average processing rate: 4.88 jobs/sec
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Total thread time: 46.508 s
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Total thread preprocess time: 9.834 s
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Percentage time preprocessing: 21.14%
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Effective parallelization: 3.24 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.202532
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.47 sec, max 1.54 sec, min 1.39 sec)
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 1.03 sec, max 1.23 sec, min 0.91 sec)
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    9 times, average 0.83 sec, max 1.17 sec, min 0.63 sec)
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    5 times, average 0.78 sec, max 1.26 sec, min 0.40 sec)
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.15% of total time (compiled    9 times, average 0.83 sec, max 1.17 sec, min 0.63 sec)
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.05% of total time (compiled   11 times, average 0.51 sec, max 0.75 sec, min 0.36 sec)
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 9.45% of total time (compiled    3 times, average 1.47 sec, max 1.54 sec, min 1.39 sec)
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.43% of total time (compiled    5 times, average 0.78 sec, max 1.26 sec, min 0.40 sec)
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display:                                                  FVelocityPS - 8.42% of total time (compiled    5 times, average 0.78 sec, max 1.02 sec, min 0.50 sec)
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: === Material stats ===
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Materials Translated:    258
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Material Translation Only: 0.08 s (49%)
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: Material Cache Hits: 47 (18%)
+[2026.02.24-13.30.56:511][486]LogShaderCompilers: Display: ================================================
+[2026.02.24-13.31.00:272][872]Cmd: EDIT COPY
+[2026.02.24-13.31.00:950][944]Cmd: EDIT PASTE
+[2026.02.24-13.31.05:055][373]Cmd: EDIT PASTE
+[2026.02.24-13.31.08:270][646]Cmd: EDIT PASTE
+[2026.02.24-13.31.12:007][991]Cmd: EDIT PASTE
+[2026.02.24-13.31.39:446][764]Cmd: EDIT COPY
+[2026.02.24-13.31.40:025][832]Cmd: EDIT PASTE
+[2026.02.24-13.31.43:923][278]Cmd: EDIT PASTE
+[2026.02.24-13.31.52:360][245]Cmd: EDIT COPY
+[2026.02.24-13.31.52:978][306]Cmd: EDIT PASTE
+[2026.02.24-13.32.03:063][412]Cmd: EDIT COPY
+[2026.02.24-13.32.03:790][499]Cmd: EDIT PASTE
+[2026.02.24-13.32.23:030][700]Cmd: EDIT COPY
+[2026.02.24-13.32.23:694][778]Cmd: EDIT PASTE
+[2026.02.24-13.32.29:617][467]Cmd: EDIT PASTE
+[2026.02.24-13.32.33:138][833]Cmd: EDIT PASTE
+[2026.02.24-13.32.40:239][642]Cmd: EDIT COPY
+[2026.02.24-13.32.40:943][725]Cmd: EDIT PASTE
+[2026.02.24-13.32.58:241][724]Cmd: EDIT COPY
+[2026.02.24-13.32.58:901][803]Cmd: EDIT PASTE
+[2026.02.24-13.33.04:719][481]Cmd: EDIT PASTE
+[2026.02.24-13.33.09:255][985]Cmd: EDIT PASTE
+[2026.02.24-13.33.12:697][387]Cmd: EDIT PASTE
+[2026.02.24-13.33.32:667][530]LogStreaming: Display: FlushAsyncLoading(480): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.33.32:857][532]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Ceiling.SM_Ceiling
+[2026.02.24-13.33.32:857][532]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Ceiling.SM_Ceiling
+[2026.02.24-13.33.32:857][532]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiShelter/Meshes/SM_Ceiling.SM_Ceiling as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_399
+[2026.02.24-13.33.34:392][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.02.24-13.33.34:393][703]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.02.24-13.33.34:401][703]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Ceiling.SM_Ceiling
+[2026.02.24-13.33.34:401][703]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Ceiling.SM_Ceiling
+[2026.02.24-13.33.34:403][703]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiShelter/Meshes/SM_Ceiling.SM_Ceiling as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_400
+[2026.02.24-13.33.35:310][804]Cmd: DELETE
+[2026.02.24-13.33.35:310][804]Cmd: ACTOR DELETE
+[2026.02.24-13.33.35:315][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.33.35:336][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.02.24-13.33.35:338][804]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2026.02.24-13.33.40:909][334]LogStreaming: Display: FlushAsyncLoading(481): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.33.41:287][360]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Barrel_Skeleton.SM_Scifi_Barrel_Skeleton
+[2026.02.24-13.33.41:287][360]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Barrel_Skeleton.SM_Scifi_Barrel_Skeleton
+[2026.02.24-13.33.41:288][360]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Barrel_Skeleton.SM_Scifi_Barrel_Skeleton as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_401
+[2026.02.24-13.33.42:121][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.02.24-13.33.42:122][452]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2026.02.24-13.33.42:130][452]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Barrel_Skeleton.SM_Scifi_Barrel_Skeleton
+[2026.02.24-13.33.42:130][452]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Barrel_Skeleton.SM_Scifi_Barrel_Skeleton
+[2026.02.24-13.33.42:130][452]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiShelter/Meshes/SM_Scifi_Barrel_Skeleton.SM_Scifi_Barrel_Skeleton as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_402
+[2026.02.24-13.33.46:149][923]Cmd: DELETE
+[2026.02.24-13.33.46:149][923]Cmd: ACTOR DELETE
+[2026.02.24-13.33.46:155][923]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.33.46:173][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.24-13.33.46:175][923]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.02.24-13.33.56:580][372]LogShaderCompilers: Display: ================================================
+[2026.02.24-13.33.56:580][372]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.24-13.33.56:580][372]LogShaderCompilers: Display: Total job queries 685, among them cache hits 175 (25.55%), DDC hits 364 (53.14%), Duplicates 72 (10.51%)
+[2026.02.24-13.33.56:580][372]LogShaderCompilers: Display: Tracking 438 distinct input hashes that result in 315 distinct outputs (71.92%)
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: RAM used: 3.92 MiB of 3.20 GiB budget. Usage: 0.12%
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Shaders Compiled: 74
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Jobs assigned 74, completed 74 (100%)
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Average time worker was idle: 1257.51 s
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.47 s
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 1.80 s
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Job life time (pending + execution): average 1.05 s, max 1.91
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Shader code size: total 746.492 KiB, numShaders 81, average 9.216 KiB, min 2.691 KiB, max 31.977 KiB
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.15 s
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Jobs were issued in 74 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Average processing rate: 4.58 jobs/sec
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Total thread time: 48.597 s
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Total thread preprocess time: 9.926 s
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Percentage time preprocessing: 20.43%
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Effective parallelization: 3.01 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.188038
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 1.47 sec, max 1.54 sec, min 1.39 sec)
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 1.31 sec, max 1.31 sec, min 1.31 sec)
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 1.03 sec, max 1.23 sec, min 0.91 sec)
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   11 times, average 0.81 sec, max 1.17 sec, min 0.63 sec)
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    5 times, average 0.78 sec, max 1.26 sec, min 0.40 sec)
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.27% of total time (compiled   11 times, average 0.81 sec, max 1.17 sec, min 0.63 sec)
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.02% of total time (compiled   13 times, average 0.49 sec, max 0.75 sec, min 0.35 sec)
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 9.04% of total time (compiled    3 times, average 1.47 sec, max 1.54 sec, min 1.39 sec)
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.07% of total time (compiled    5 times, average 0.78 sec, max 1.26 sec, min 0.40 sec)
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display:                                                  FVelocityPS - 8.06% of total time (compiled    5 times, average 0.78 sec, max 1.02 sec, min 0.50 sec)
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: === Material stats ===
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Materials Translated:    260
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Material Translation Only: 0.08 s (49%)
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Material Cache Hits: 47 (18%)
+[2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: ================================================
