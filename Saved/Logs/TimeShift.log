@@ -4483,3 +4483,994 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
 [2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: Material Cache Hits: 47 (18%)
 [2026.02.24-13.33.56:581][372]LogShaderCompilers: Display: ================================================
+[2026.02.24-13.35.02:493][563]Cmd: DELETE
+[2026.02.24-13.35.02:493][563]Cmd: ACTOR DELETE
+[2026.02.24-13.35.02:499][563]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.35.02:518][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.24-13.35.02:521][563]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2026.02.24-13.35.03:184][635]Cmd: DELETE
+[2026.02.24-13.35.03:184][635]Cmd: ACTOR DELETE
+[2026.02.24-13.35.03:190][635]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.35.03:210][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.24-13.35.03:213][635]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2026.02.24-13.35.15:349][988]Cmd: EDIT COPY
+[2026.02.24-13.35.16:114][ 78]Cmd: EDIT PASTE
+[2026.02.24-13.35.35:833][186]Cmd: DELETE
+[2026.02.24-13.35.35:833][186]Cmd: ACTOR DELETE
+[2026.02.24-13.35.35:839][186]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.35.35:856][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.02.24-13.35.35:858][186]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.02.24-13.35.38:007][417]Cmd: EDIT COPY
+[2026.02.24-13.35.38:638][486]Cmd: EDIT PASTE
+[2026.02.24-13.35.59:209][658]Cmd: EDIT COPY
+[2026.02.24-13.35.59:965][747]Cmd: EDIT PASTE
+[2026.02.24-13.36.38:879][632]Cmd: EDIT COPY
+[2026.02.24-13.36.39:833][732]Cmd: EDIT PASTE
+[2026.02.24-13.36.52:153][942]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8460.060547
+[2026.02.24-13.36.52:318][958]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-13.36.52:318][958]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8460.213867, Update Interval: 357.441956
+[2026.02.24-13.37.11:957][786]Cmd: EDIT COPY
+[2026.02.24-13.37.12:729][868]Cmd: EDIT PASTE
+[2026.02.24-13.37.29:597][475]Cmd: EDIT COPY
+[2026.02.24-13.37.30:289][543]Cmd: EDIT PASTE
+[2026.02.24-13.37.44:440][764]Cmd: EDIT COPY
+[2026.02.24-13.37.48:256][104]Cmd: EDIT PASTE
+[2026.02.24-13.37.53:947][577]Cmd: TRANSACTION UNDO
+[2026.02.24-13.37.53:947][577]LogEditorTransaction: Undo Move Elements
+[2026.02.24-13.38.53:561][676]Cmd: EDIT COPY
+[2026.02.24-13.38.54:498][767]Cmd: EDIT PASTE
+[2026.02.24-13.39.13:279][523]Cmd: TRANSACTION UNDO
+[2026.02.24-13.39.13:279][523]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.24-13.39.14:234][580]Cmd: TRANSACTION UNDO
+[2026.02.24-13.39.14:234][580]LogEditorTransaction: Undo Move Elements
+[2026.02.24-13.39.14:571][618]Cmd: TRANSACTION UNDO
+[2026.02.24-13.39.14:571][618]LogEditorTransaction: Undo Set Rotation
+[2026.02.24-13.39.14:953][660]Cmd: TRANSACTION UNDO
+[2026.02.24-13.39.14:953][660]LogEditorTransaction: Undo Move Elements
+[2026.02.24-13.42.11:492][894]LogStreaming: Display: FlushAsyncLoading(482): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.43.34:393][152]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8862.140625
+[2026.02.24-13.43.34:733][192]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-13.43.34:733][192]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8862.471680, Update Interval: 323.220306
+[2026.02.24-13.43.46:863][335]LogStreaming: Display: FlushAsyncLoading(483): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.43.54:366][ 97]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.24-13.43.54:375][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-13.43.54:419][ 97]LogStreaming: Display: FlushAsyncLoading(484): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.43.54:420][ 97]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-13.43.54:450][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030399s)
+[2026.02.24-13.43.54:450][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.030459s)
+[2026.02.24-13.43.54:471][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.02.24-13.43.54:475][ 97]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.24-13.43.54:476][ 97]LogPlayLevel: PIE: World Init took: (0.001590s)
+[2026.02.24-13.43.54:478][ 97]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.02.24-13.43.54:478][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-13.43.54:478][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-13.43.54:478][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-13.43.54:478][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-13.43.54:478][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-13.43.54:478][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-13.43.54:478][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-13.43.54:478][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-13.43.54:478][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-13.43.54:478][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-13.43.54:478][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-13.43.54:479][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-13.43.54:505][ 97]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.24-13.43.54:505][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-13.43.54:505][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-13.43.54:505][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-13.43.54:506][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.02.24-13.43.54:506][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.02.24-13.43.54:508][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.02.24-13.43.54:508][ 97]LogInit: FAudioDevice initialized with ID 16.
+[2026.02.24-13.43.54:508][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.02.24-13.43.54:508][ 97]LogAudio: Display: Audio Device (ID: 16) registered with world 'LightVersion'.
+[2026.02.24-13.43.54:508][ 97]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.02.24-13.43.54:512][ 97]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.24-13.43.54:523][ 97]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.24-13.43.54
+[2026.02.24-13.43.54:523][ 97]LogWorld: Bringing up level for play took: 0.010776
+[2026.02.24-13.43.54:525][ 97]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.02.24-13.43.54:530][ 97]PIE: Server logged in
+[2026.02.24-13.43.54:532][ 97]PIE: Play in editor total start time 0.157 seconds.
+[2026.02.24-13.43.57:510][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-13.43.57:510][442]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-13.43.57:511][442]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-13.43.57:515][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-13.43.57:516][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-13.43.57:518][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-13.43.57:535][442]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.24-13.43.57:535][442]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.02.24-13.43.57:535][442]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2026.02.24-13.43.57:537][442]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2026.02.24-13.43.57:541][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-13.43.57:545][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.24-13.43.57:622][443]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.02.24-13.45.09:779][590]Cmd: EDIT COPY
+[2026.02.24-13.45.10:585][676]Cmd: EDIT PASTE
+[2026.02.24-13.45.17:028][250]Cmd: TRANSACTION UNDO
+[2026.02.24-13.45.17:028][250]LogEditorTransaction: Undo Move Elements
+[2026.02.24-13.45.30:996][438]Cmd: TRANSACTION UNDO
+[2026.02.24-13.45.30:996][438]LogEditorTransaction: Undo Set Rotation
+[2026.02.24-13.45.31:461][446]Cmd: TRANSACTION UNDO
+[2026.02.24-13.45.31:461][446]LogEditorTransaction: Undo Move Elements
+[2026.02.24-13.45.32:400][519]Cmd: DELETE
+[2026.02.24-13.45.32:400][519]Cmd: ACTOR DELETE
+[2026.02.24-13.45.32:407][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.45.32:407][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.45.32:408][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.45.32:408][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.45.32:409][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.45.32:409][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.45.32:409][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.45.32:410][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.45.32:410][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.45.32:411][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.45.32:430][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.02.24-13.45.32:432][519]LogEditorActor: Deleted 10 Actors (0.032 secs)
+[2026.02.24-13.45.40:519][185]Cmd: EDIT COPY
+[2026.02.24-13.45.41:170][245]Cmd: EDIT PASTE
+[2026.02.24-13.46.16:144][488]Cmd: EDIT COPY
+[2026.02.24-13.46.16:935][568]Cmd: EDIT PASTE
+[2026.02.24-13.46.46:848][ 11]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.24-13.46.46:857][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-13.46.46:900][ 11]LogStreaming: Display: FlushAsyncLoading(485): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.46.46:900][ 11]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-13.46.46:931][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030734s)
+[2026.02.24-13.46.46:931][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.030804s)
+[2026.02.24-13.46.46:951][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.24-13.46.46:953][ 11]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.24-13.46.46:954][ 11]LogPlayLevel: PIE: World Init took: (0.001493s)
+[2026.02.24-13.46.46:955][ 11]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.02.24-13.46.46:955][ 11]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-13.46.46:955][ 11]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-13.46.46:955][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-13.46.46:955][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-13.46.46:955][ 11]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-13.46.46:955][ 11]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-13.46.46:955][ 11]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-13.46.46:955][ 11]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-13.46.46:955][ 11]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-13.46.46:955][ 11]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-13.46.46:955][ 11]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-13.46.46:957][ 11]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-13.46.46:981][ 11]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.24-13.46.46:981][ 11]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-13.46.46:981][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-13.46.46:981][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-13.46.46:982][ 11]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.02.24-13.46.46:982][ 11]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.02.24-13.46.46:983][ 11]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.02.24-13.46.46:983][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.02.24-13.46.46:983][ 11]LogInit: FAudioDevice initialized with ID 17.
+[2026.02.24-13.46.46:983][ 11]LogAudio: Display: Audio Device (ID: 17) registered with world 'LightVersion'.
+[2026.02.24-13.46.46:983][ 11]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.02.24-13.46.46:988][ 11]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.24-13.46.47:000][ 11]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.24-13.46.47
+[2026.02.24-13.46.47:001][ 11]LogWorld: Bringing up level for play took: 0.011719
+[2026.02.24-13.46.47:003][ 11]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.02.24-13.46.47:008][ 11]PIE: Server logged in
+[2026.02.24-13.46.47:011][ 11]PIE: Play in editor total start time 0.153 seconds.
+[2026.02.24-13.46.50:273][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-13.46.50:273][394]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-13.46.50:273][394]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-13.46.50:279][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-13.46.50:280][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-13.46.50:282][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-13.46.50:302][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-13.46.50:303][394]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.02.24-13.46.50:303][394]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.02.24-13.46.50:305][394]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.02.24-13.46.50:312][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.24-13.46.50:392][395]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.02.24-13.47.10:578][347]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Ceiling.SM_Ceiling
+[2026.02.24-13.47.10:578][347]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Ceiling.SM_Ceiling
+[2026.02.24-13.47.10:578][347]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiShelter/Meshes/SM_Ceiling.SM_Ceiling as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_564
+[2026.02.24-13.47.12:260][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.24-13.47.12:263][541]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2026.02.24-13.47.12:270][541]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Ceiling.SM_Ceiling
+[2026.02.24-13.47.12:270][541]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiShelter/Meshes/SM_Ceiling.SM_Ceiling
+[2026.02.24-13.47.12:272][541]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiShelter/Meshes/SM_Ceiling.SM_Ceiling as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_565
+[2026.02.24-13.49.00:549][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.02.24-13.49.00:688][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto8
+[2026.02.24-13.49.00:689][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion_Auto8CC569A9B4293D1710988A994FDA6284D.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Dimensions/LightVersion_Auto8.umap'
+[2026.02.24-13.49.00:691][754]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.161
+[2026.02.24-13.49.00:691][754]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.161
+[2026.02.24-13.49.00:691][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyMaterials/Floor] ([1] browsable assets)...
+[2026.02.24-13.49.00:691][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMaterials/Floor]
+[2026.02.24-13.49.00:698][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMaterials/Floor_Auto8
+[2026.02.24-13.49.00:698][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Floor_Auto88C54A03F4F9B07CBED128F99C8597D2C.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/MyMaterials/Floor_Auto8.uasset'
+[2026.02.24-13.49.00:699][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_body] ([1] browsable assets)...
+[2026.02.24-13.49.00:699][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_body]
+[2026.02.24-13.49.00:706][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_body_Auto8
+[2026.02.24-13.49.00:706][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/reactor_body_Auto8B8092EDF48059C00AF466A846C027A08.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_body_Auto8.uasset'
+[2026.02.24-13.49.00:707][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/display] ([1] browsable assets)...
+[2026.02.24-13.49.00:707][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/display]
+[2026.02.24-13.49.00:714][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/display_Auto8
+[2026.02.24-13.49.00:714][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/display_Auto8F14AC1B84FFF52DAE611E88A99A10DC5.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/display_Auto8.uasset'
+[2026.02.24-13.49.00:715][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/copper] ([1] browsable assets)...
+[2026.02.24-13.49.00:715][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/copper]
+[2026.02.24-13.49.00:721][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/copper_Auto8
+[2026.02.24-13.49.00:721][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/copper_Auto8E78EE29645A1053909BD9AB11D609B02.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/copper_Auto8.uasset'
+[2026.02.24-13.49.00:722][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_light] ([1] browsable assets)...
+[2026.02.24-13.49.00:722][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_light]
+[2026.02.24-13.49.00:730][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_light_Auto8
+[2026.02.24-13.49.00:730][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/frame_light_Auto8454C03D545D6EBB950F09FA98E3BC66A.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_light_Auto8.uasset'
+[2026.02.24-13.49.00:732][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/pipes] ([1] browsable assets)...
+[2026.02.24-13.49.00:732][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/pipes]
+[2026.02.24-13.49.00:739][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/pipes_Auto8
+[2026.02.24-13.49.00:739][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/pipes_Auto8EBCC1EBD4005A916A1869B909906559F.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/pipes_Auto8.uasset'
+[2026.02.24-13.49.00:740][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/outter_pipes] ([1] browsable assets)...
+[2026.02.24-13.49.00:740][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/outter_pipes]
+[2026.02.24-13.49.00:748][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/outter_pipes_Auto8
+[2026.02.24-13.49.00:748][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/outter_pipes_Auto87AE46116410F616F0A65F785CECD5B55.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/outter_pipes_Auto8.uasset'
+[2026.02.24-13.49.00:749][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_body] ([1] browsable assets)...
+[2026.02.24-13.49.00:749][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_body]
+[2026.02.24-13.49.00:756][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_body_Auto8
+[2026.02.24-13.49.00:756][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/frame_body_Auto847EDE11040B2B9317F241BB82699A19C.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_body_Auto8.uasset'
+[2026.02.24-13.49.00:758][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_cooling_fluid] ([1] browsable assets)...
+[2026.02.24-13.49.00:758][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_cooling_fluid]
+[2026.02.24-13.49.00:764][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_cooling_fluid_Auto8
+[2026.02.24-13.49.00:765][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/reactor_cooling_fluid_Auto8437ECBA1437BDD342692E8A1ED08A7BC.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_cooling_fluid_Auto8.uasset'
+[2026.02.24-13.49.00:766][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/glass] ([1] browsable assets)...
+[2026.02.24-13.49.00:766][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/glass]
+[2026.02.24-13.49.00:773][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/glass_Auto8
+[2026.02.24-13.49.00:773][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/glass_Auto83AE122404BBA14F406401EA740E9267E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/glass_Auto8.uasset'
+[2026.02.24-13.49.00:774][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/Nuclear] ([1] browsable assets)...
+[2026.02.24-13.49.00:775][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/Nuclear]
+[2026.02.24-13.49.00:781][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/Nuclear_Auto8
+[2026.02.24-13.49.00:781][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Nuclear_Auto8776878C241D3FE7FBC450BA4B7C47E96.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/Nuclear_Auto8.uasset'
+[2026.02.24-13.49.00:781][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor] ([1] browsable assets)...
+[2026.02.24-13.49.00:781][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor]
+[2026.02.24-13.49.00:809][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor_Auto8
+[2026.02.24-13.49.00:809][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/reactor_Auto8A39DF05C4FFE4B16B5C98298892477E1.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor_Auto8.uasset'
+[2026.02.24-13.49.00:811][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_ambientocclusion_Mat] ([1] browsable assets)...
+[2026.02.24-13.49.00:811][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_ambientocclusion_Mat]
+[2026.02.24-13.49.00:819][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_ambientocclusion_Mat_Auto8
+[2026.02.24-13.49.00:819][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Sci_Fi_Material6_ambientocclus1B7EDACB47B84AD963C41B933EC008B4.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_ambientocclusion_Mat_Auto8.uasset'
+[2026.02.24-13.49.00:819][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Panels/Textures/Main/T_4k_SciFi_Panels_BaseColor_Mat] ([1] browsable assets)...
+[2026.02.24-13.49.00:819][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Panels/Textures/Main/T_4k_SciFi_Panels_BaseColor_Mat]
+[2026.02.24-13.49.00:826][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SciFi_Panels/Textures/Main/T_4k_SciFi_Panels_BaseColor_Mat_Auto8
+[2026.02.24-13.49.00:826][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_4k_SciFi_Panels_BaseColor_Mat_20CFAC9E404876ACA7DD1E81F276D3D1.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/SciFi_Panels/Textures/Main/T_4k_SciFi_Panels_BaseColor_Mat_Auto8.uasset'
+[2026.02.24-13.49.00:827][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Convex_Mat] ([1] browsable assets)...
+[2026.02.24-13.49.00:827][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Convex_Mat]
+[2026.02.24-13.49.00:835][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Convex_Mat_Auto8
+[2026.02.24-13.49.00:835][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_4k_SciFi_Panels_Convex_Mat_Aut8FC4946143BFA4EF5A17B2ABA984FBC3.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Convex_Mat_Auto8.uasset'
+[2026.02.24-13.49.00:836][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Displacement_Mat] ([1] browsable assets)...
+[2026.02.24-13.49.00:836][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Displacement_Mat]
+[2026.02.24-13.49.00:842][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Displacement_Mat_Auto8
+[2026.02.24-13.49.00:842][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_4k_SciFi_Panels_Displacement_MD1C4A6DF48760455E1D171878A1A19A1.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Displacement_Mat_Auto8.uasset'
+[2026.02.24-13.49.00:842][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Normal_Clean_Mat] ([1] browsable assets)...
+[2026.02.24-13.49.00:842][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Normal_Clean_Mat]
+[2026.02.24-13.49.00:850][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Normal_Clean_Mat_Auto8
+[2026.02.24-13.49.00:850][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_4k_SciFi_Panels_Normal_Clean_M9F15BB774CF08CDF77BF2B8A87C84B63.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Normal_Clean_Mat_Auto8.uasset'
+[2026.02.24-13.49.00:851][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Curve_Mat] ([1] browsable assets)...
+[2026.02.24-13.49.00:851][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Curve_Mat]
+[2026.02.24-13.49.00:858][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Curve_Mat_Auto8
+[2026.02.24-13.49.00:858][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_4k_SciFi_Panels_Curve_Mat_Auto4E52E0784A293C1FC3E8A19629242F9A.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Curve_Mat_Auto8.uasset'
+[2026.02.24-13.49.00:859][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_AO_Clean_Mat] ([1] browsable assets)...
+[2026.02.24-13.49.00:859][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_AO_Clean_Mat]
+[2026.02.24-13.49.00:866][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_AO_Clean_Mat_Auto8
+[2026.02.24-13.49.00:866][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_4k_SciFi_Panels_AO_Clean_Mat_AA9FE92A14209D3823F25DBB0FDF755E3.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_AO_Clean_Mat_Auto8.uasset'
+[2026.02.24-13.49.00:867][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_Emmisive_Mat] ([1] browsable assets)...
+[2026.02.24-13.49.00:867][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_Emmisive_Mat]
+[2026.02.24-13.49.00:874][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_Emmisive_Mat_Auto8
+[2026.02.24-13.49.00:874][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Sci_Fi_Material1_Emmisive_Mat_B40F922D4BFF6A5437C709897908A27D.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_Emmisive_Mat_Auto8.uasset'
+[2026.02.24-13.49.00:875][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_height_Mat] ([1] browsable assets)...
+[2026.02.24-13.49.00:875][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_height_Mat]
+[2026.02.24-13.49.00:883][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_height_Mat_Auto8
+[2026.02.24-13.49.00:883][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Sci_Fi_Material7_height_Mat_Au8C716FEF4F6A22CBAC6E70BFD0A7A119.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_height_Mat_Auto8.uasset'
+[2026.02.24-13.49.00:883][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material4_metallic_Mat] ([1] browsable assets)...
+[2026.02.24-13.49.00:883][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material4_metallic_Mat]
+[2026.02.24-13.49.00:891][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material4_metallic_Mat_Auto8
+[2026.02.24-13.49.00:891][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Sci_Fi_Material4_metallic_Mat_208C7EC34B0C97349B208FAE9B25D2DF.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material4_metallic_Mat_Auto8.uasset'
+[2026.02.24-13.49.00:892][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material2_metallic_Mat] ([1] browsable assets)...
+[2026.02.24-13.49.00:892][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material2_metallic_Mat]
+[2026.02.24-13.49.00:898][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material2_metallic_Mat_Auto8
+[2026.02.24-13.49.00:898][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Sci_Fi_Material2_metallic_Mat_C6A5B7134439CE1BF2A8169DD6432597.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material2_metallic_Mat_Auto8.uasset'
+[2026.02.24-13.49.00:899][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_height_Mat] ([1] browsable assets)...
+[2026.02.24-13.49.00:899][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_height_Mat]
+[2026.02.24-13.49.00:906][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_height_Mat_Auto8
+[2026.02.24-13.49.00:906][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Sci_Fi_Material1_height_Mat_Au001F387A4078F5C0DF5951A4A06F2E43.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_height_Mat_Auto8.uasset'
+[2026.02.24-13.49.00:907][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_0] ([1] browsable assets)...
+[2026.02.24-13.49.00:907][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_0]
+[2026.02.24-13.49.00:925][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_0_Auto8
+[2026.02.24-13.49.00:925][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_console_game_fbx_texture_AF682CD846BB76636AC7199E1769AE70.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_0_Auto8.uasset'
+[2026.02.24-13.49.00:925][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_1] ([1] browsable assets)...
+[2026.02.24-13.49.00:925][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_1]
+[2026.02.24-13.49.00:987][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_1_Auto8
+[2026.02.24-13.49.00:987][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_console_game_fbx_texture_0F3B8B9C46CE1F52E04184A4504D2E13.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_1_Auto8.uasset'
+[2026.02.24-13.49.00:988][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_2] ([1] browsable assets)...
+[2026.02.24-13.49.00:988][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_2]
+[2026.02.24-13.49.01:048][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_2_Auto8
+[2026.02.24-13.49.01:048][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_console_game_fbx_texture_975696E047EE1F6CDE6F9680FC5D2B8D.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_2_Auto8.uasset'
+[2026.02.24-13.49.01:049][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_3] ([1] browsable assets)...
+[2026.02.24-13.49.01:049][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_3]
+[2026.02.24-13.49.01:058][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_3_Auto8
+[2026.02.24-13.49.01:058][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_console_game_fbx_texture_01A6A973465170026C7BD084C959E071.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Textures/sci_fi_console_game_fbx_texture_3_Auto8.uasset'
+[2026.02.24-13.49.01:059][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Monitor] ([1] browsable assets)...
+[2026.02.24-13.49.01:059][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Monitor]
+[2026.02.24-13.49.01:067][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Monitor_Auto8
+[2026.02.24-13.49.01:067][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Monitor_Auto8695CD44F49900B2E8B533BAB061BAFBB.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Monitor_Auto8.uasset'
+[2026.02.24-13.49.01:068][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Console] ([1] browsable assets)...
+[2026.02.24-13.49.01:068][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Console]
+[2026.02.24-13.49.01:075][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Console_Auto8
+[2026.02.24-13.49.01:075][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Console_Auto8BEC5938B4197BB937A997AA21E79A467.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/Materials/Console_Auto8.uasset'
+[2026.02.24-13.49.01:076][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/StaticMeshes/sci_fi_console_game_fbx] ([1] browsable assets)...
+[2026.02.24-13.49.01:076][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/StaticMeshes/sci_fi_console_game_fbx]
+[2026.02.24-13.49.01:084][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/StaticMeshes/sci_fi_console_game_fbx_Auto8
+[2026.02.24-13.49.01:086][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_console_game_fbx_Auto86674114A48FF04CCDE2D20B937C9A4B3.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_Console_Game/sci_fi_console_game_fbx/StaticMeshes/sci_fi_console_game_fbx_Auto8.uasset'
+[2026.02.24-13.49.01:086][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_0] ([1] browsable assets)...
+[2026.02.24-13.49.01:087][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_0]
+[2026.02.24-13.49.01:144][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_0_Auto8
+[2026.02.24-13.49.01:144][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textu3F0CA7034B28225ECA3221B50FF0D013.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_0_Auto8.uasset'
+[2026.02.24-13.49.01:145][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_1] ([1] browsable assets)...
+[2026.02.24-13.49.01:145][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_1]
+[2026.02.24-13.49.01:206][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_1_Auto8
+[2026.02.24-13.49.01:206][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textu62C8D35E4D60F6BE5DE10C92537EBC3B.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_1_Auto8.uasset'
+[2026.02.24-13.49.01:206][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_2] ([1] browsable assets)...
+[2026.02.24-13.49.01:206][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_2]
+[2026.02.24-13.49.01:265][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_2_Auto8
+[2026.02.24-13.49.01:265][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textu688DCD434358BCE8B2AB9C91CE3E4888.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_2_Auto8.uasset'
+[2026.02.24-13.49.01:266][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_3] ([1] browsable assets)...
+[2026.02.24-13.49.01:266][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_3]
+[2026.02.24-13.49.01:324][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_3_Auto8
+[2026.02.24-13.49.01:324][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textuE4732FCD4B639DB4B92EC1AE15641440.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_3_Auto8.uasset'
+[2026.02.24-13.49.01:324][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_4] ([1] browsable assets)...
+[2026.02.24-13.49.01:325][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_4]
+[2026.02.24-13.49.01:384][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_4_Auto8
+[2026.02.24-13.49.01:384][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textuB566A26149E0792C9332D28C1C5FD7BB.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_4_Auto8.uasset'
+[2026.02.24-13.49.01:385][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_5] ([1] browsable assets)...
+[2026.02.24-13.49.01:385][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_5]
+[2026.02.24-13.49.01:442][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_5_Auto8
+[2026.02.24-13.49.01:443][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textu889C2FB148F27A67D93A1F805FA9936B.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_5_Auto8.uasset'
+[2026.02.24-13.49.01:443][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_6] ([1] browsable assets)...
+[2026.02.24-13.49.01:443][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_6]
+[2026.02.24-13.49.01:499][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_6_Auto8
+[2026.02.24-13.49.01:499][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textuCE2A9EBF47A05D888DEAF0972B9B3E1D.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_6_Auto8.uasset'
+[2026.02.24-13.49.01:500][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_7] ([1] browsable assets)...
+[2026.02.24-13.49.01:500][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_7]
+[2026.02.24-13.49.01:559][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_7_Auto8
+[2026.02.24-13.49.01:559][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textu08525F4147617977B192DC8A8F7C056D.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_7_Auto8.uasset'
+[2026.02.24-13.49.01:561][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_8] ([1] browsable assets)...
+[2026.02.24-13.49.01:561][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_8]
+[2026.02.24-13.49.01:629][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_8_Auto8
+[2026.02.24-13.49.01:629][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_textuA81350C44FBBF85429E5BC9CF7E30679.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Textures/scifi_fan_convector_heater_texture_8_Auto8.uasset'
+[2026.02.24-13.49.01:629][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/emit] ([1] browsable assets)...
+[2026.02.24-13.49.01:629][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/emit]
+[2026.02.24-13.49.01:638][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/emit_Auto8
+[2026.02.24-13.49.01:638][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/emit_Auto88E7703BA49F41EE1C38B22AD9A12A2A5.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/emit_Auto8.uasset'
+[2026.02.24-13.49.01:639][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/grond] ([1] browsable assets)...
+[2026.02.24-13.49.01:639][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/grond]
+[2026.02.24-13.49.01:646][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/grond_Auto8
+[2026.02.24-13.49.01:646][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/grond_Auto8C0CFED5749053C203CFC369FA7EE9936.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/grond_Auto8.uasset'
+[2026.02.24-13.49.01:646][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/material] ([1] browsable assets)...
+[2026.02.24-13.49.01:646][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/material]
+[2026.02.24-13.49.01:654][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/material_Auto8
+[2026.02.24-13.49.01:654][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/material_Auto892C316BC459B4C14344D3C93A5626772.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/Materials/material_Auto8.uasset'
+[2026.02.24-13.49.01:655][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/StaticMeshes/scifi_fan_convector_heater] ([1] browsable assets)...
+[2026.02.24-13.49.01:655][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/StaticMeshes/scifi_fan_convector_heater]
+[2026.02.24-13.49.01:671][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/StaticMeshes/scifi_fan_convector_heater_Auto8
+[2026.02.24-13.49.01:671][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scifi_fan_convector_heater_Auto84990044E492303414CF04789933F6904.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/SciFi_Fan_Convector_Heater/scifi_fan_convector_heater/StaticMeshes/scifi_fan_convector_heater_Auto8.uasset'
+[2026.02.24-13.49.01:672][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_0] ([1] browsable assets)...
+[2026.02.24-13.49.01:672][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_0]
+[2026.02.24-13.49.01:739][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_0_Auto8
+[2026.02.24-13.49.01:739][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/loft_dining_table_texture_0_AutoE5537ABE4280BCF4C4E919839A5257D2.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_0_Auto8.uasset'
+[2026.02.24-13.49.01:739][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_1] ([1] browsable assets)...
+[2026.02.24-13.49.01:739][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_1]
+[2026.02.24-13.49.01:809][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_1_Auto8
+[2026.02.24-13.49.01:809][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/loft_dining_table_texture_1_Auto44962E07468E8EFB32CCE1AFAFFB6AD0.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_1_Auto8.uasset'
+[2026.02.24-13.49.01:810][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_2] ([1] browsable assets)...
+[2026.02.24-13.49.01:810][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_2]
+[2026.02.24-13.49.01:877][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_2_Auto8
+[2026.02.24-13.49.01:877][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/loft_dining_table_texture_2_AutoFA25976847EF7F43924CE1BE00D893E6.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/Textures/loft_dining_table_texture_2_Auto8.uasset'
+[2026.02.24-13.49.01:877][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Loft_Dining_Table/loft_dining_table/Materials/Scene_-_Root] ([1] browsable assets)...
+[2026.02.24-13.49.01:877][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Loft_Dining_Table/loft_dining_table/Materials/Scene_-_Root]
+[2026.02.24-13.49.01:885][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/Materials/Scene_-_Root_Auto8
+[2026.02.24-13.49.01:885][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Scene_-_Root_Auto832C086E6487DA160D162399F23BF169B.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/Materials/Scene_-_Root_Auto8.uasset'
+[2026.02.24-13.49.01:886][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table] ([1] browsable assets)...
+[2026.02.24-13.49.01:887][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table]
+[2026.02.24-13.49.01:896][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table_Auto8
+[2026.02.24-13.49.01:896][754]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/loft_dining_table_Auto8D92BCBB64E470B68A12814B89FC1692C.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Loft_Dining_Table/loft_dining_table/StaticMeshes/loft_dining_table_Auto8.uasset'
+[2026.02.24-13.49.01:897][754]LogFileHelpers: Auto-saving content packages took 1.206
+[2026.02.24-13.49.05:783][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-13.49.05:879][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.02.24-13.49.05:994][884]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.02.24-13.49.05:994][884]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion8F1B9BD44EE151EE819800AC6DF55D51.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.02.24-13.49.06:007][884]LogFileHelpers: Saving map 'LightVersion' took 0.165
+[2026.02.24-13.49.06:015][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 231.409 ms (total: 1.12 sec)
+[2026.02.24-13.49.06:060][884]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-13.49.06:060][884]LogContentValidation: Enabled validators:
+[2026.02.24-13.49.06:060][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-13.49.06:060][884]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-13.49.06:060][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-13.49.06:060][884]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-13.49.06:060][884]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-13.49.06:060][884]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-13.49.06:062][884]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.02.24-13.49.12:418][572]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.24-13.49.12:427][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-13.49.12:452][572]LogStreaming: Display: FlushAsyncLoading(486): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.49.12:452][572]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-13.49.12:483][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032243s)
+[2026.02.24-13.49.12:484][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.032284s)
+[2026.02.24-13.49.12:500][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.02.24-13.49.12:503][572]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.24-13.49.12:503][572]LogPlayLevel: PIE: World Init took: (0.001436s)
+[2026.02.24-13.49.12:504][572]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.02.24-13.49.12:504][572]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-13.49.12:504][572]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-13.49.12:504][572]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-13.49.12:504][572]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-13.49.12:504][572]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-13.49.12:504][572]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-13.49.12:504][572]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-13.49.12:504][572]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-13.49.12:504][572]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-13.49.12:504][572]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-13.49.12:504][572]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-13.49.12:507][572]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-13.49.12:532][572]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.24-13.49.12:532][572]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-13.49.12:532][572]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-13.49.12:532][572]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-13.49.12:533][572]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.02.24-13.49.12:533][572]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.02.24-13.49.12:535][572]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.02.24-13.49.12:535][572]LogInit: FAudioDevice initialized with ID 18.
+[2026.02.24-13.49.12:535][572]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.02.24-13.49.12:535][572]LogAudio: Display: Audio Device (ID: 18) registered with world 'LightVersion'.
+[2026.02.24-13.49.12:535][572]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.02.24-13.49.12:539][572]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.24-13.49.12:552][572]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.24-13.49.12
+[2026.02.24-13.49.12:552][572]LogWorld: Bringing up level for play took: 0.012221
+[2026.02.24-13.49.12:554][572]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.02.24-13.49.12:560][572]PIE: Server logged in
+[2026.02.24-13.49.12:561][572]PIE: Play in editor total start time 0.134 seconds.
+[2026.02.24-13.49.25:192][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-13.49.25:193][ 74]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-13.49.25:193][ 74]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-13.49.25:197][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-13.49.25:198][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-13.49.25:200][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-13.49.25:219][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-13.49.25:219][ 74]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.02.24-13.49.25:219][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2026.02.24-13.49.25:221][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2026.02.24-13.49.25:229][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.24-13.49.25:307][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.02.24-13.49.52:593][127]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9240.279297
+[2026.02.24-13.49.52:753][146]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-13.49.52:753][146]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9240.429688, Update Interval: 302.631317
+[2026.02.24-13.51.33:822][627]LogSlate: Window 'Loading Many Assets' being destroyed
+[2026.02.24-13.51.33:834][627]Message dialog closed, result: Yes, title: Loading Many Assets, text: About to load 268 assets. Are you sure you want to continue?
+[2026.02.24-13.51.33:884][627]LogStreaming: Display: FlushAsyncLoading(487): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.51.34:030][627]LogChaosDD: Creating Chaos Debug Draw Scene for world SciFiShelter_Props
+[2026.02.24-13.51.34:064][627]LogChaosDD: Creating Chaos Debug Draw Scene for world SciFiShelter_Scene
+[2026.02.24-13.51.34:086][627]LogObjectTools: Deleting 2 worlds: /Game/SciFiShelter/Maps/SciFiShelter_Props.SciFiShelter_Props, /Game/SciFiShelter/Maps/SciFiShelter_Scene.SciFiShelter_Scene
+[2026.02.24-13.51.34:086][627]LogObjectTools: Currently 9 active worlds: /Game/Dimensions/LightVersion.LightVersion, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7
+[2026.02.24-13.51.34:107][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.02.24-13.52.03:380][627]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.24-13.52.03:441][627]LogUObjectGlobals: Force Deleting 294 Package(s):
+	Asset Name: /Game/SciFiShelter/Materials/M_Scifi_Floor_A.M_Scifi_Floor_A
+	Asset Type: Material
+	Asset Name: /Game/SciFiShelter/Textures/T_Scifi_Floor_Mat_A_Roughness.T_Scifi_Floor_Mat_A_Roughness
+	Asset Type: Texture2D
+	Asset Name: /Game/SciFiShelter/Textures/T_Scifi_Floor_Mat_A_Normal.T_Scifi_Floor_Mat_A_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/SciFiShelter/Textures/T_Scifi_Floor_Mat_A_Metallic.T_Scifi_Floor_Mat_A_Metallic
+	Asset Type: Texture2D
+	Asset Name: /Game/SciFiShelter/Textures/T_Scifi_Floor_Mat_A_BaseColor.T_Scifi_Floor_Mat_A_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/SciFiShelter/Materials/M_Wall.M_Wall
+	Asset Type: Material
+	Asset Name: /Game/SciFiShelter/Meshes/SM_Ceiling.SM_Ceiling
+	Asset Type: StaticMesh
+	Asset Name: /Game/SciFiShelter/Materials/M_Ceiling.M_Ceiling
+	Asset Type: Material
+	Asset Name: /Game/SciFiShelter/Textures/T_Ceiling_Roughness.T_Ceiling_Roughness
+	Asset Type: Texture2D
+	Asset Name: /Game/SciFiShelter/Textures/T_Ceiling_Metallic.T_Ceiling_Metallic
+	Asset Type: Texture2D
+[2026.02.24-13.52.04:587][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Healty_Kit.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:588][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Healty_Kit.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:592][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Healty_Cabinet.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:594][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Healty_Cabinet.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:596][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Gas_Canister.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:598][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Gas_Canister.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:600][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Garbage.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:602][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Garbage.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:604][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Fuse.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:606][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Fuse.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:608][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Floor_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureObject) Texture Object> Requires valid texture
+	(Node TextureObject) Texture Object> Requires valid texture
+	(Node TextureObject) Texture Object> Requires valid texture
+	(Node TextureObject) Texture Object> Requires valid texture
+
+[2026.02.24-13.52.04:611][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Floor_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureObject) Texture Object> Requires valid texture
+	(Node TextureObject) Texture Object> Requires valid texture
+	(Node TextureObject) Texture Object> Requires valid texture
+	(Node TextureObject) Texture Object> Requires valid texture
+
+[2026.02.24-13.52.04:613][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Door_V2.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:615][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Door_V2.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:617][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Door_Open.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:620][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Door_Open.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:622][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Door_Closed.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:624][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Door_Closed.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:627][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Cup.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:629][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Cup.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:632][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Cabinet_VA.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:634][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Cabinet_VA.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:636][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Cabinet_2.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:638][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Cabinet_2.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:641][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Cabinet.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:643][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Cabinet.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:645][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_AirPipe.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:646][627]LogStaticMesh: Warning: SM_Cabinet_VA has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.02.24-13.52.04:646][627]LogStaticMesh: Warning: SM_Cabinet_VA has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.02.24-13.52.04:647][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_AirPipe.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:656][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Platform.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:659][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Platform.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:662][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Mini_Controller.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:665][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Mini_Controller.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:679][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Ceiling.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:683][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Ceiling.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:688][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Pipe_Wall.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:692][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Pipe_Wall.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:710][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Barrel_Skeleton.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:714][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Barrel_Skeleton.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:737][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Props_Car.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:751][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Barrel.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:758][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Barrel_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:778][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_SciFi_Box.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:793][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Box_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:805][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_cabin.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:828][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Conroller.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:837][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Container.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:847][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Desk.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:857][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Floresant.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:867][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Panel.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:875][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Table.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:887][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Tool.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:895][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Tool_Emmisive.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.04:917][627]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SciFiShelter/Meshes/SM_Scifi_Tool) ...
+[2026.02.24-13.52.05:128][627]LogStaticMesh: Warning: SM_Scifi_Tool has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.02.24-13.52.05:128][627]LogStaticMesh: Warning: SM_Scifi_Tool has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.02.24-13.52.05:137][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Tool_A-pack.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.05:144][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Tool_A.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.05:168][627]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SciFiShelter/Meshes/SM_Scifi_Tool_A) ...
+[2026.02.24-13.52.05:842][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Tool_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.05:866][627]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SciFiShelter/Meshes/SM_Scifi_Tool_B) ...
+[2026.02.24-13.52.05:907][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Tool_C.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.05:922][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Tube.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.05:935][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Scifi_Tube_B.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.05:954][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Server.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.05:966][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Server_2.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.05:978][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Shelf_3x.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.05:986][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Shelf_5x.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.05:998][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Sign.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.06:007][627]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFiShelter\Materials\M_Vase.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.02.24-13.52.06:039][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.24-13.52.06:372][627]LogWorld: UWorld::CleanupWorld for SciFiShelter_Props, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-13.52.06:372][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-13.52.06:394][627]LogWorld: UWorld::CleanupWorld for SciFiShelter_Scene, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-13.52.06:395][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-13.52.15:760][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.02.24-13.52.15:785][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.24-13.52.15:803][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.02.24-13.52.16:003][627]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.24-13.52.25:759][703]LogFab: Display: Asset Type = unreal-engine
+[2026.02.24-13.52.25:759][703]LogFab: Display: Is Quixel = 0
+[2026.02.24-13.52.25:759][703]LogFab: Display: Base Url https://download.epicgames.com/Builds/Rocket/Automated/Futuristb731d832b6f5V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/Futuristb731d832b6f5V1/CloudDir,https://egdownload.fastly-edge.com/Builds/Rocket/Automated/Futuristb731d832b6f5V1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/Futuristb731d832b6f5V1/CloudDir
+[2026.02.24-13.53.14:160][861]LogStreaming: Display: FlushAsyncLoading(494): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.53.14:261][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/SM_Entrance_Ground.SM_Entrance_Ground
+[2026.02.24-13.53.14:261][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/SM_Entrance_Ground.SM_Entrance_Ground
+[2026.02.24-13.53.14:262][862]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/SM_Entrance_Ground.SM_Entrance_Ground as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_566
+[2026.02.24-13.53.16:588][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.24-13.53.16:612][128]LogEditorActor: Deleted 0 Actors (0.044 secs)
+[2026.02.24-13.53.16:620][128]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/SM_Entrance_Ground.SM_Entrance_Ground
+[2026.02.24-13.53.16:620][128]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/SM_Entrance_Ground.SM_Entrance_Ground
+[2026.02.24-13.53.16:621][128]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/SM_Entrance_Ground.SM_Entrance_Ground as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_567
+[2026.02.24-13.54.03:747][259]Cmd: EDIT COPY
+[2026.02.24-13.54.04:534][348]Cmd: EDIT PASTE
+[2026.02.24-13.54.58:080][306]Cmd: TRANSACTION UNDO
+[2026.02.24-13.54.58:081][306]LogEditorTransaction: Undo Set Scale
+[2026.02.24-13.55.23:259][744]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.02.24-13.55.26:243][988]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.02.24-13.55.27:631][115]Cmd: DELETE
+[2026.02.24-13.55.27:631][115]Cmd: ACTOR DELETE
+[2026.02.24-13.55.27:647][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.24-13.55.27:664][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.02.24-13.55.27:668][115]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2026.02.24-13.55.27:840][133]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9575.379883
+[2026.02.24-13.55.27:987][146]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-13.55.27:988][146]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9575.518555, Update Interval: 312.588898
+[2026.02.24-13.55.30:451][379]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.24-13.55.30:462][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-13.55.30:483][379]LogStreaming: Display: FlushAsyncLoading(495): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-13.55.30:483][379]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-13.55.30:515][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031999s)
+[2026.02.24-13.55.30:515][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.032040s)
+[2026.02.24-13.55.30:530][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.24-13.55.30:532][379]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.24-13.55.30:533][379]LogPlayLevel: PIE: World Init took: (0.001524s)
+[2026.02.24-13.55.30:534][379]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.02.24-13.55.30:534][379]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-13.55.30:534][379]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-13.55.30:534][379]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-13.55.30:534][379]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-13.55.30:534][379]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-13.55.30:534][379]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-13.55.30:534][379]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-13.55.30:534][379]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-13.55.30:534][379]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-13.55.30:534][379]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-13.55.30:534][379]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-13.55.30:536][379]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-13.55.30:560][379]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.24-13.55.30:561][379]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-13.55.30:561][379]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-13.55.30:561][379]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-13.55.30:561][379]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.02.24-13.55.30:561][379]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.02.24-13.55.30:564][379]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.02.24-13.55.30:564][379]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.02.24-13.55.30:564][379]LogInit: FAudioDevice initialized with ID 19.
+[2026.02.24-13.55.30:564][379]LogAudio: Display: Audio Device (ID: 19) registered with world 'LightVersion'.
+[2026.02.24-13.55.30:564][379]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.02.24-13.55.30:568][379]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.24-13.55.30:579][379]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.24-13.55.30
+[2026.02.24-13.55.30:580][379]LogWorld: Bringing up level for play took: 0.012286
+[2026.02.24-13.55.30:582][379]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.02.24-13.55.30:588][379]PIE: Server logged in
+[2026.02.24-13.55.30:589][379]PIE: Play in editor total start time 0.128 seconds.
+[2026.02.24-13.55.33:474][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-13.55.33:474][699]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-13.55.33:474][699]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-13.55.33:478][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-13.55.33:480][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-13.55.33:481][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-13.55.33:500][699]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.24-13.55.33:500][699]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.02.24-13.55.33:500][699]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.02.24-13.55.33:502][699]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.02.24-13.55.33:505][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-13.55.33:510][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.24-13.55.33:552][700]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.02.24-13.57.18:075][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-13.57.18:189][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.24-13.57.18:321][981]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.02.24-13.57.18:322][981]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersionD3DCC08D4E1036D80FB36C8DD16D9F09.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.02.24-13.57.18:336][981]LogFileHelpers: Saving map 'LightVersion' took 0.188
+[2026.02.24-13.57.18:341][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 264.678 ms (total: 1.38 sec)
+[2026.02.24-13.57.18:379][981]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-13.57.18:379][981]LogContentValidation: Enabled validators:
+[2026.02.24-13.57.18:379][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-13.57.18:379][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-13.57.18:379][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-13.57.18:379][981]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-13.57.18:379][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-13.57.18:379][981]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-13.57.18:379][981]AssetCheck: /Game/Dimensions/LightVersion Validating asset
