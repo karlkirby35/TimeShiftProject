@@ -2391,3 +2391,613 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.24-11.47.19:770][297]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.24-11.47.19:770][297]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.24-11.47.19:770][297]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.02.24-11.47.35:678][487]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.24-11.47.35:685][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-11.47.35:711][487]LogStreaming: Display: FlushAsyncLoading(358): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-11.47.35:711][487]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-11.47.35:723][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012681s)
+[2026.02.24-11.47.35:723][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.012716s)
+[2026.02.24-11.47.35:737][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.02.24-11.47.35:737][487]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.24-11.47.35:738][487]LogPlayLevel: PIE: World Init took: (0.001248s)
+[2026.02.24-11.47.35:739][487]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.02.24-11.47.35:739][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-11.47.35:739][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-11.47.35:739][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-11.47.35:739][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-11.47.35:739][487]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-11.47.35:739][487]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-11.47.35:739][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-11.47.35:739][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-11.47.35:739][487]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-11.47.35:739][487]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-11.47.35:739][487]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-11.47.35:740][487]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-11.47.35:760][487]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.24-11.47.35:760][487]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-11.47.35:760][487]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-11.47.35:760][487]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-11.47.35:761][487]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.02.24-11.47.35:761][487]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.02.24-11.47.35:763][487]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.02.24-11.47.35:763][487]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.02.24-11.47.35:763][487]LogInit: FAudioDevice initialized with ID 7.
+[2026.02.24-11.47.35:763][487]LogAudio: Display: Audio Device (ID: 7) registered with world 'LightVersion'.
+[2026.02.24-11.47.35:763][487]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.24-11.47.35:766][487]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.24-11.47.35:771][487]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.24-11.47.35
+[2026.02.24-11.47.35:771][487]LogWorld: Bringing up level for play took: 0.003380
+[2026.02.24-11.47.35:772][487]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.02.24-11.47.35:777][487]PIE: Server logged in
+[2026.02.24-11.47.35:778][487]PIE: Play in editor total start time 0.093 seconds.
+[2026.02.24-11.47.44:060][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-11.47.44:060][478]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-11.47.44:060][478]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-11.47.44:062][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-11.47.44:063][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-11.47.44:066][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-11.47.44:082][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-11.47.44:082][478]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.24-11.47.44:082][478]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.02.24-11.47.44:084][478]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.02.24-11.47.44:091][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.24-11.47.44:145][480]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.02.24-11.48.54:200][462]LogFab: Display: Asset Type = glb
+[2026.02.24-11.48.54:200][462]LogFab: Display: Is Quixel = 0
+[2026.02.24-11.48.57:913][846]LogStreaming: Display: FlushAsyncLoading(359): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-11.48.58:561][846]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.02.24-11.48.58:561][846]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/3352d113-6156-40ce-900f-6b183db7de83/reactor.glb]
+[2026.02.24-11.48.58:591][848]LogStreaming: Display: FlushAsyncLoading(402): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-11.48.58:685][859]LogStreaming: Display: FlushAsyncLoading(412): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-11.48.59:050][879]LogStaticMesh: Display: Building static mesh reactor (Required Memory Estimate: 162.294576 MB)...
+[2026.02.24-11.48.59:669][953]LogStaticMesh: Built static mesh [0.62s] /Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor.reactor
+[2026.02.24-11.49.00:475][968]LogInterchangeEngine: Display: Interchange import completed [C:/Users/N00235865/A...ce-900f-6b183db7de83/reactor.glb]
+[2026.02.24-11.49.12:147][166]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.24-11.49.12:147][166]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.02.24-11.49.12:148][166]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_146
+[2026.02.24-11.49.12:149][166]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_146
+[2026.02.24-11.49.16:406][548]LogStreaming: Display: FlushAsyncLoading(413): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-11.50.04:694][  8]Cmd: EDIT COPY
+[2026.02.24-11.50.05:581][113]Cmd: EDIT PASTE
+[2026.02.24-11.50.10:601][701]Cmd: EDIT PASTE
+[2026.02.24-11.50.17:220][481]Cmd: EDIT PASTE
+[2026.02.24-11.50.21:860][999]Cmd: EDIT PASTE
+[2026.02.24-11.50.27:549][668]Cmd: TRANSACTION UNDO
+[2026.02.24-11.50.27:549][668]LogEditorTransaction: Undo Set Scale
+[2026.02.24-11.50.44:010][539]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2091.973877
+[2026.02.24-11.50.44:152][556]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-11.50.44:152][556]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2092.106689, Update Interval: 314.341248
+[2026.02.24-11.50.58:070][ 81]Cmd: EDIT COPY
+[2026.02.24-11.50.58:882][177]Cmd: EDIT PASTE
+[2026.02.24-11.51.05:155][913]Cmd: EDIT PASTE
+[2026.02.24-11.51.15:533][104]Cmd: EDIT PASTE
+[2026.02.24-11.51.20:882][697]Cmd: EDIT PASTE
+[2026.02.24-11.51.41:383][ 49]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.24-11.51.41:392][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-11.51.41:413][ 49]LogStreaming: Display: FlushAsyncLoading(414): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-11.51.41:413][ 49]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-11.51.41:430][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017299s)
+[2026.02.24-11.51.41:430][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.017343s)
+[2026.02.24-11.51.41:449][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.24-11.51.41:451][ 49]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.24-11.51.41:452][ 49]LogPlayLevel: PIE: World Init took: (0.001487s)
+[2026.02.24-11.51.41:452][ 49]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.02.24-11.51.41:452][ 49]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-11.51.41:452][ 49]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-11.51.41:452][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-11.51.41:452][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-11.51.41:452][ 49]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-11.51.41:452][ 49]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-11.51.41:452][ 49]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-11.51.41:452][ 49]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-11.51.41:452][ 49]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-11.51.41:452][ 49]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-11.51.41:452][ 49]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-11.51.41:455][ 49]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-11.51.41:482][ 49]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.24-11.51.41:482][ 49]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-11.51.41:482][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-11.51.41:482][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-11.51.41:483][ 49]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.02.24-11.51.41:483][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.02.24-11.51.41:485][ 49]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.02.24-11.51.41:485][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.02.24-11.51.41:485][ 49]LogInit: FAudioDevice initialized with ID 8.
+[2026.02.24-11.51.41:485][ 49]LogAudio: Display: Audio Device (ID: 8) registered with world 'LightVersion'.
+[2026.02.24-11.51.41:485][ 49]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.24-11.51.41:489][ 49]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.24-11.51.41:494][ 49]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.24-11.51.41
+[2026.02.24-11.51.41:494][ 49]LogWorld: Bringing up level for play took: 0.005111
+[2026.02.24-11.51.41:496][ 49]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.02.24-11.51.41:502][ 49]PIE: Server logged in
+[2026.02.24-11.51.41:503][ 49]PIE: Play in editor total start time 0.112 seconds.
+[2026.02.24-11.51.48:954][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-11.51.48:954][938]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-11.51.48:954][938]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-11.51.48:955][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-11.51.48:957][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-11.51.48:958][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-11.51.48:976][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-11.51.48:976][938]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.02.24-11.51.48:976][938]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.02.24-11.51.48:979][938]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.02.24-11.51.48:985][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.02.24-11.51.49:056][939]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: ================================================
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Total job queries 466, among them cache hits 52 (11.16%), DDC hits 339 (72.75%), Duplicates 65 (13.95%)
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Tracking 349 distinct input hashes that result in 257 distinct outputs (73.64%)
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: RAM used: 3.43 MiB of 3.20 GiB budget. Usage: 0.10%
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Shaders Compiled: 10
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Average time worker was idle: 823.37 s
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Job execution time: average 0.99 s, max 1.38 s
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Job life time (pending + execution): average 1.05 s, max 1.49
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Shader code size: total 100.211 KiB, numShaders 12, average 8.351 KiB, min 3.09 KiB, max 12.055 KiB
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.93 s
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Average processing rate: 2.03 jobs/sec
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Total thread time: 6.08 s
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Total thread preprocess time: 7.291 s
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Percentage time preprocessing: 119.92%
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Effective parallelization: 1.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.077132
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.74 sec, max 0.88 sec, min 0.63 sec)
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.47 sec, max 0.58 sec, min 0.36 sec)
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 36.38% of total time (compiled    3 times, average 0.74 sec, max 0.88 sec, min 0.63 sec)
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.15% of total time (compiled    4 times, average 0.47 sec, max 0.58 sec, min 0.36 sec)
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 11.25% of total time (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display:                                                  FVelocityPS - 8.15% of total time (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.39% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: === Material stats ===
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Materials Translated:    232
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Material Translation Only: 0.06 s (45%)
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: Material Cache Hits: 47 (20%)
+[2026.02.24-11.51.56:311][759]LogShaderCompilers: Display: ================================================
+[2026.02.24-11.52.27:662][121]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.24-11.52.27:671][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-11.52.27:702][121]LogStreaming: Display: FlushAsyncLoading(415): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-11.52.27:702][121]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-11.52.27:718][121]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015836s)
+[2026.02.24-11.52.27:718][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.015876s)
+[2026.02.24-11.52.27:735][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.02.24-11.52.27:737][121]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.24-11.52.27:738][121]LogPlayLevel: PIE: World Init took: (0.001324s)
+[2026.02.24-11.52.27:739][121]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.02.24-11.52.27:739][121]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-11.52.27:739][121]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-11.52.27:739][121]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-11.52.27:739][121]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-11.52.27:739][121]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-11.52.27:739][121]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-11.52.27:739][121]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-11.52.27:739][121]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-11.52.27:739][121]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-11.52.27:739][121]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-11.52.27:739][121]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-11.52.27:740][121]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-11.52.27:765][121]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.24-11.52.27:765][121]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-11.52.27:765][121]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-11.52.27:765][121]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-11.52.27:765][121]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.02.24-11.52.27:765][121]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.02.24-11.52.27:768][121]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.02.24-11.52.27:768][121]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.02.24-11.52.27:768][121]LogInit: FAudioDevice initialized with ID 9.
+[2026.02.24-11.52.27:768][121]LogAudio: Display: Audio Device (ID: 9) registered with world 'LightVersion'.
+[2026.02.24-11.52.27:768][121]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.24-11.52.27:772][121]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.24-11.52.27:778][121]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.24-11.52.27
+[2026.02.24-11.52.27:778][121]LogWorld: Bringing up level for play took: 0.005440
+[2026.02.24-11.52.27:780][121]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.02.24-11.52.27:786][121]PIE: Server logged in
+[2026.02.24-11.52.27:788][121]PIE: Play in editor total start time 0.117 seconds.
+[2026.02.24-11.52.32:883][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-11.52.32:883][727]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-11.52.32:883][727]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-11.52.32:886][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-11.52.32:888][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-11.52.32:889][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-11.52.32:904][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-11.52.32:905][727]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.02.24-11.52.32:905][727]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.02.24-11.52.32:907][727]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.02.24-11.52.32:913][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.24-11.52.32:981][728]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.02.24-11.53.06:230][405]Cmd: TRANSACTION UNDO
+[2026.02.24-11.53.06:230][405]LogEditorTransaction: Undo Move Elements
+[2026.02.24-11.53.24:594][339]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.24-11.53.24:603][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-11.53.24:643][339]LogStreaming: Display: FlushAsyncLoading(416): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-11.53.24:643][339]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-11.53.24:659][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016517s)
+[2026.02.24-11.53.24:659][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.016567s)
+[2026.02.24-11.53.24:673][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.24-11.53.24:674][339]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.24-11.53.24:676][339]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2026.02.24-11.53.24:677][339]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.02.24-11.53.24:677][339]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-11.53.24:677][339]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-11.53.24:677][339]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-11.53.24:677][339]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-11.53.24:677][339]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-11.53.24:677][339]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-11.53.24:677][339]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-11.53.24:677][339]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-11.53.24:677][339]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-11.53.24:677][339]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-11.53.24:677][339]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-11.53.24:679][339]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-11.53.24:703][339]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.24-11.53.24:703][339]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-11.53.24:703][339]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-11.53.24:703][339]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-11.53.24:704][339]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.02.24-11.53.24:704][339]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.02.24-11.53.24:706][339]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.02.24-11.53.24:706][339]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.02.24-11.53.24:706][339]LogInit: FAudioDevice initialized with ID 10.
+[2026.02.24-11.53.24:706][339]LogAudio: Display: Audio Device (ID: 10) registered with world 'LightVersion'.
+[2026.02.24-11.53.24:706][339]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.02.24-11.53.24:710][339]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.24-11.53.24:715][339]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.24-11.53.24
+[2026.02.24-11.53.24:715][339]LogWorld: Bringing up level for play took: 0.005250
+[2026.02.24-11.53.24:717][339]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.02.24-11.53.24:722][339]PIE: Server logged in
+[2026.02.24-11.53.24:724][339]PIE: Play in editor total start time 0.121 seconds.
+[2026.02.24-11.53.34:074][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-11.53.34:074][455]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-11.53.34:074][455]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-11.53.34:076][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-11.53.34:078][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-11.53.34:079][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-11.53.34:096][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-11.53.34:097][455]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.02.24-11.53.34:097][455]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.02.24-11.53.34:099][455]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.02.24-11.53.34:104][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.24-11.53.34:174][456]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.02.24-11.53.48:423][994]Cmd: TRANSACTION UNDO
+[2026.02.24-11.53.48:423][994]LogEditorTransaction: Undo Move Elements
+[2026.02.24-11.53.54:842][684]Cmd: TRANSACTION UNDO
+[2026.02.24-11.53.54:842][684]LogEditorTransaction: Undo Move Elements
+[2026.02.24-11.53.56:598][839]Cmd: TRANSACTION UNDO
+[2026.02.24-11.53.56:598][839]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.24-11.53.57:458][935]Cmd: TRANSACTION UNDO
+[2026.02.24-11.53.57:458][935]LogEditorTransaction: Undo Move Elements
+[2026.02.24-11.54.33:418][884]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.24-11.54.33:427][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-11.54.33:427][884]LogStreaming: Display: FlushAsyncLoading(417): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-11.54.33:427][884]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-11.54.33:444][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016910s)
+[2026.02.24-11.54.33:444][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.016945s)
+[2026.02.24-11.54.33:460][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.24-11.54.33:462][884]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.24-11.54.33:463][884]LogPlayLevel: PIE: World Init took: (0.001537s)
+[2026.02.24-11.54.33:464][884]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.02.24-11.54.33:464][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-11.54.33:464][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-11.54.33:464][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-11.54.33:464][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-11.54.33:464][884]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-11.54.33:464][884]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-11.54.33:464][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-11.54.33:464][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-11.54.33:464][884]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-11.54.33:464][884]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-11.54.33:464][884]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-11.54.33:466][884]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-11.54.33:492][884]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.24-11.54.33:492][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-11.54.33:493][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-11.54.33:493][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-11.54.33:493][884]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.02.24-11.54.33:493][884]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.02.24-11.54.33:495][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.02.24-11.54.33:495][884]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.02.24-11.54.33:495][884]LogInit: FAudioDevice initialized with ID 11.
+[2026.02.24-11.54.33:495][884]LogAudio: Display: Audio Device (ID: 11) registered with world 'LightVersion'.
+[2026.02.24-11.54.33:495][884]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.02.24-11.54.33:499][884]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.24-11.54.33:504][884]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.24-11.54.33
+[2026.02.24-11.54.33:504][884]LogWorld: Bringing up level for play took: 0.005594
+[2026.02.24-11.54.33:506][884]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.02.24-11.54.33:512][884]PIE: Server logged in
+[2026.02.24-11.54.33:514][884]PIE: Play in editor total start time 0.087 seconds.
+[2026.02.24-11.54.39:283][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-11.54.39:283][571]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-11.54.39:283][571]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-11.54.39:285][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-11.54.39:286][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-11.54.39:288][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-11.54.39:305][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-11.54.39:306][571]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.02.24-11.54.39:306][571]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.02.24-11.54.39:308][571]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.02.24-11.54.39:315][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.24-11.54.39:381][572]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.02.24-11.55.07:204][608]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor.reactor
+[2026.02.24-11.55.07:204][608]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor.reactor
+[2026.02.24-11.55.07:204][608]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor.reactor as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_175
+[2026.02.24-11.55.07:887][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.24-11.55.07:888][685]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2026.02.24-11.55.07:895][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor.reactor
+[2026.02.24-11.55.07:895][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor.reactor
+[2026.02.24-11.55.07:896][685]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor.reactor as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_176
+[2026.02.24-11.55.25:154][519]Cmd: EDIT COPY
+[2026.02.24-11.55.25:918][609]Cmd: EDIT PASTE
+[2026.02.24-11.55.31:460][259]Cmd: EDIT PASTE
+[2026.02.24-11.55.41:150][272]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.24-11.55.41:160][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-11.55.41:193][272]LogStreaming: Display: FlushAsyncLoading(418): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-11.55.41:193][272]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-11.55.41:209][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016171s)
+[2026.02.24-11.55.41:209][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.016211s)
+[2026.02.24-11.55.41:225][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.24-11.55.41:226][272]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.24-11.55.41:227][272]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2026.02.24-11.55.41:228][272]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.02.24-11.55.41:228][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-11.55.41:228][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-11.55.41:228][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-11.55.41:228][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-11.55.41:228][272]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-11.55.41:228][272]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-11.55.41:228][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-11.55.41:228][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-11.55.41:228][272]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-11.55.41:228][272]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-11.55.41:228][272]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-11.55.41:229][272]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-11.55.41:253][272]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.24-11.55.41:254][272]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-11.55.41:254][272]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-11.55.41:254][272]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-11.55.41:254][272]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.02.24-11.55.41:254][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.02.24-11.55.41:256][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.02.24-11.55.41:256][272]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.02.24-11.55.41:256][272]LogInit: FAudioDevice initialized with ID 12.
+[2026.02.24-11.55.41:256][272]LogAudio: Display: Audio Device (ID: 12) registered with world 'LightVersion'.
+[2026.02.24-11.55.41:256][272]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.02.24-11.55.41:260][272]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.24-11.55.41:265][272]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.24-11.55.41
+[2026.02.24-11.55.41:265][272]LogWorld: Bringing up level for play took: 0.005420
+[2026.02.24-11.55.41:268][272]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.02.24-11.55.41:273][272]PIE: Server logged in
+[2026.02.24-11.55.41:275][272]PIE: Play in editor total start time 0.116 seconds.
+[2026.02.24-11.55.47:103][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-11.55.47:103][959]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-11.55.47:103][959]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-11.55.47:105][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-11.55.47:106][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-11.55.47:107][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-11.55.47:126][959]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.24-11.55.47:126][959]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.02.24-11.55.47:126][959]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.02.24-11.55.47:128][959]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.02.24-11.55.47:133][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-11.55.47:135][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.02.24-11.55.47:205][960]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.02.24-11.56.12:331][796]Cmd: TRANSACTION UNDO
+[2026.02.24-11.56.12:331][796]LogEditorTransaction: Undo Rename Folder
+[2026.02.24-11.56.13:543][886]Cmd: TRANSACTION UNDO
+[2026.02.24-11.56.13:543][886]LogEditorTransaction: Undo Create Folder
+[2026.02.24-11.56.48:054][809]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2456.021729
+[2026.02.24-11.56.48:203][827]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-11.56.48:203][827]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2456.163330, Update Interval: 355.284882
+[2026.02.24-11.57.49:959][411]Cmd: TRANSACTION UNDO
+[2026.02.24-11.57.49:959][411]LogEditorTransaction: Undo Clicking on Actors
+[2026.02.24-11.57.50:446][420]Cmd: TRANSACTION UNDO
+[2026.02.24-11.57.50:446][420]LogEditorTransaction: Undo Attach actors
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: ================================================
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: Total job queries 468, among them cache hits 52 (11.11%), DDC hits 339 (72.44%), Duplicates 65 (13.89%)
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: Tracking 351 distinct input hashes that result in 257 distinct outputs (73.22%)
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: RAM used: 3.43 MiB of 3.20 GiB budget. Usage: 0.10%
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: Shaders Compiled: 12
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: Average time worker was idle: 718.22 s
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: Job execution time: average 0.90 s, max 1.38 s
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: Job life time (pending + execution): average 0.96 s, max 1.49
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: Shader code size: total 110.297 KiB, numShaders 14, average 7.878 KiB, min 2.691 KiB, max 12.055 KiB
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.44 s
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: Average processing rate: 2.21 jobs/sec
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: Total thread time: 6.525 s
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: Total thread preprocess time: 7.31 s
+[2026.02.24-11.57.56:316][ 56]LogShaderCompilers: Display: Percentage time preprocessing: 112.04%
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display: Effective parallelization: 1.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.074990
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.74 sec, max 0.88 sec, min 0.63 sec)
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.47 sec, max 0.58 sec, min 0.36 sec)
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 33.91% of total time (compiled    3 times, average 0.74 sec, max 0.88 sec, min 0.63 sec)
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.03% of total time (compiled    4 times, average 0.47 sec, max 0.58 sec, min 0.36 sec)
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 10.48% of total time (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display:                                                  FVelocityPS - 7.60% of total time (compiled    1 times, average 0.50 sec, max 0.50 sec, min 0.50 sec)
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.09% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display: === Material stats ===
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display: Materials Translated:    232
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display: Material Translation Only: 0.06 s (45%)
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display: Material Cache Hits: 47 (20%)
+[2026.02.24-11.57.56:317][ 56]LogShaderCompilers: Display: ================================================
+[2026.02.24-12.02.36:183][404]LogSlate: Window 'Batch Renamer' being destroyed
+[2026.02.24-12.02.39:305][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.02.24-12.02.39:388][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto2
+[2026.02.24-12.02.39:390][698]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion_Auto22E83518D49DB6E0D9FEBA483D9018084.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Dimensions/LightVersion_Auto2.umap'
+[2026.02.24-12.02.39:391][698]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.114
+[2026.02.24-12.02.39:391][698]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.114
+[2026.02.24-12.02.39:392][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MyMaterials/Floor] ([1] browsable assets)...
+[2026.02.24-12.02.39:397][698]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MyMaterials/Floor.Floor]
+[2026.02.24-12.02.39:397][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMaterials/Floor]
+[2026.02.24-12.02.39:405][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyMaterials/Floor_Auto2
+[2026.02.24-12.02.39:405][698]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Floor_Auto244D8A1344666082AD526848D0B91CAC6.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/MyMaterials/Floor_Auto2.uasset'
+[2026.02.24-12.02.39:407][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_body] ([1] browsable assets)...
+[2026.02.24-12.02.39:410][698]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_body.reactor_body]
+[2026.02.24-12.02.39:410][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_body]
+[2026.02.24-12.02.39:418][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_body_Auto2
+[2026.02.24-12.02.39:418][698]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/reactor_body_Auto23C25903E4D6E6CB2DB78FFB303A7F582.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_body_Auto2.uasset'
+[2026.02.24-12.02.39:420][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/display] ([1] browsable assets)...
+[2026.02.24-12.02.39:423][698]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci_fi_Reactor/reactor/Materials/display.display]
+[2026.02.24-12.02.39:423][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/display]
+[2026.02.24-12.02.39:429][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/display_Auto2
+[2026.02.24-12.02.39:429][698]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/display_Auto2D619A17D47D32087551146B9A5FBEC37.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/display_Auto2.uasset'
+[2026.02.24-12.02.39:430][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/copper] ([1] browsable assets)...
+[2026.02.24-12.02.39:433][698]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci_fi_Reactor/reactor/Materials/copper.copper]
+[2026.02.24-12.02.39:433][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/copper]
+[2026.02.24-12.02.39:441][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/copper_Auto2
+[2026.02.24-12.02.39:441][698]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/copper_Auto24A1C310B41C9FF70D00A2789F29489F9.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/copper_Auto2.uasset'
+[2026.02.24-12.02.39:443][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_light] ([1] browsable assets)...
+[2026.02.24-12.02.39:446][698]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_light.frame_light]
+[2026.02.24-12.02.39:446][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_light]
+[2026.02.24-12.02.39:455][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_light_Auto2
+[2026.02.24-12.02.39:455][698]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/frame_light_Auto2383A186240CCFADC0C1F98B5FDFF1A86.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_light_Auto2.uasset'
+[2026.02.24-12.02.39:456][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/pipes] ([1] browsable assets)...
+[2026.02.24-12.02.39:459][698]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci_fi_Reactor/reactor/Materials/pipes.pipes]
+[2026.02.24-12.02.39:459][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/pipes]
+[2026.02.24-12.02.39:467][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/pipes_Auto2
+[2026.02.24-12.02.39:468][698]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/pipes_Auto2BC67DC0F44D5055A611EFC8FE5F40640.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/pipes_Auto2.uasset'
+[2026.02.24-12.02.39:468][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/outter_pipes] ([1] browsable assets)...
+[2026.02.24-12.02.39:472][698]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci_fi_Reactor/reactor/Materials/outter_pipes.outter_pipes]
+[2026.02.24-12.02.39:472][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/outter_pipes]
+[2026.02.24-12.02.39:479][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/outter_pipes_Auto2
+[2026.02.24-12.02.39:479][698]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/outter_pipes_Auto281F4913A40CE1E56B0ADF4AB95FE3E86.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/outter_pipes_Auto2.uasset'
+[2026.02.24-12.02.39:482][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_body] ([1] browsable assets)...
+[2026.02.24-12.02.39:485][698]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_body.frame_body]
+[2026.02.24-12.02.39:485][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_body]
+[2026.02.24-12.02.39:492][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_body_Auto2
+[2026.02.24-12.02.39:492][698]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/frame_body_Auto2DDBB33A6454412E3A9A8DDBDA989003E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/frame_body_Auto2.uasset'
+[2026.02.24-12.02.39:493][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_cooling_fluid] ([1] browsable assets)...
+[2026.02.24-12.02.39:496][698]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_cooling_fluid.reactor_cooling_fluid]
+[2026.02.24-12.02.39:496][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_cooling_fluid]
+[2026.02.24-12.02.39:504][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_cooling_fluid_Auto2
+[2026.02.24-12.02.39:505][698]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/reactor_cooling_fluid_Auto20DC591E84B38B4E384AB779162FFB9E4.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/reactor_cooling_fluid_Auto2.uasset'
+[2026.02.24-12.02.39:506][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/glass] ([1] browsable assets)...
+[2026.02.24-12.02.39:509][698]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci_fi_Reactor/reactor/Materials/glass.glass]
+[2026.02.24-12.02.39:509][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/glass]
+[2026.02.24-12.02.39:516][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/glass_Auto2
+[2026.02.24-12.02.39:516][698]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/glass_Auto25DFD60C242BE96BC1F00C8B50CB21DD2.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/glass_Auto2.uasset'
+[2026.02.24-12.02.39:516][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/Nuclear] ([1] browsable assets)...
+[2026.02.24-12.02.39:520][698]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci_fi_Reactor/reactor/Materials/Nuclear.Nuclear]
+[2026.02.24-12.02.39:521][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/Materials/Nuclear]
+[2026.02.24-12.02.39:527][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/Nuclear_Auto2
+[2026.02.24-12.02.39:527][698]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Nuclear_Auto25004B27E44D6E0D42FEF6F9F75312CC1.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/Materials/Nuclear_Auto2.uasset'
+[2026.02.24-12.02.39:528][698]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor] ([1] browsable assets)...
+[2026.02.24-12.02.39:532][698]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor.reactor]
+[2026.02.24-12.02.39:532][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor]
+[2026.02.24-12.02.39:557][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor_Auto2
+[2026.02.24-12.02.39:557][698]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/reactor_Auto2032EA61A44012F2B0EA302BEDB3E903B.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci_fi_Reactor/reactor/StaticMeshes/reactor_Auto2.uasset'
+[2026.02.24-12.02.39:558][698]LogFileHelpers: Auto-saving content packages took 0.167
+[2026.02.24-12.03.32:562][531]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2860.538818
+[2026.02.24-12.03.32:741][547]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-12.03.32:741][547]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2860.710205, Update Interval: 307.676025
+[2026.02.24-12.05.26:413][  4]LogSlate: Window 'Batch Renamer' being destroyed
+[2026.02.24-12.05.52:139][720]Cmd: TRANSACTION UNDO
+[2026.02.24-12.05.52:139][720]LogEditorTransaction: Undo Place Objects
+[2026.02.24-12.06.15:897][103]LogStreaming: Display: FlushAsyncLoading(419): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-12.06.15:898][103]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_ambientocclusion.T_Sci_Fi_Material6_ambientocclusion
+[2026.02.24-12.06.16:311][103]LogDeviceProfileManager: Display: Deviceprofile Android_ASTC not found.
+[2026.02.24-12.06.16:311][103]LogDeviceProfileManager: Display: Deviceprofile Android_DXT not found.
+[2026.02.24-12.06.16:311][103]LogDeviceProfileManager: Display: Deviceprofile Android_ETC2 not found.
+[2026.02.24-12.06.16:311][103]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
+[2026.02.24-12.08.50:814][527]LogStreaming: Display: FlushAsyncLoading(420): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-12.09.08:524][424]Cmd: TRANSACTION UNDO
+[2026.02.24-12.09.08:524][424]LogEditorTransaction: Undo Move Elements
+[2026.02.24-12.09.32:951][142]Cmd: TRANSACTION UNDO
+[2026.02.24-12.09.32:951][142]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.24-12.09.34:188][226]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3222.185547
+[2026.02.24-12.09.34:355][246]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.24-12.09.34:355][246]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3222.343750, Update Interval: 302.517792
+[2026.02.24-12.09.39:243][770]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.24-12.09.39:252][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.24-12.09.39:279][770]LogStreaming: Display: FlushAsyncLoading(421): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.24-12.09.39:280][770]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-12.09.39:297][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017023s)
+[2026.02.24-12.09.39:297][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.017064s)
+[2026.02.24-12.09.39:326][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.02.24-12.09.39:328][770]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.24-12.09.39:329][770]LogPlayLevel: PIE: World Init took: (0.001543s)
+[2026.02.24-12.09.39:330][770]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.02.24-12.09.39:330][770]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.24-12.09.39:330][770]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.24-12.09.39:330][770]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.24-12.09.39:330][770]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.24-12.09.39:330][770]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.24-12.09.39:330][770]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.24-12.09.39:330][770]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.24-12.09.39:330][770]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.24-12.09.39:330][770]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.24-12.09.39:330][770]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.24-12.09.39:330][770]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.24-12.09.39:332][770]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.24-12.09.39:359][770]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.24-12.09.39:359][770]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.24-12.09.39:359][770]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.24-12.09.39:359][770]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.24-12.09.39:360][770]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.02.24-12.09.39:360][770]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.02.24-12.09.39:362][770]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.02.24-12.09.39:362][770]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.02.24-12.09.39:362][770]LogInit: FAudioDevice initialized with ID 13.
+[2026.02.24-12.09.39:362][770]LogAudio: Display: Audio Device (ID: 13) registered with world 'LightVersion'.
+[2026.02.24-12.09.39:362][770]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.02.24-12.09.39:366][770]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.24-12.09.39:372][770]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.24-12.09.39
+[2026.02.24-12.09.39:372][770]LogWorld: Bringing up level for play took: 0.005590
+[2026.02.24-12.09.39:374][770]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.02.24-12.09.39:380][770]PIE: Server logged in
+[2026.02.24-12.09.39:382][770]PIE: Play in editor total start time 0.131 seconds.
+[2026.02.24-12.09.48:370][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-12.09.48:370][841]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.24-12.09.48:370][841]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.24-12.09.48:372][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-12.09.48:373][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.24-12.09.48:375][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.24-12.09.48:393][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.24-12.09.48:393][841]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.02.24-12.09.48:393][841]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.02.24-12.09.48:395][841]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.02.24-12.09.48:401][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.24-12.09.48:475][842]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.02.24-12.10.19:780][977]LogFab: Display: Asset Type = unreal-engine
+[2026.02.24-12.10.19:780][977]LogFab: Display: Is Quixel = 0
+[2026.02.24-12.10.19:780][977]LogFab: Display: Base Url https://egdownload.fastly-edge.com/Builds/Rocket/Automated/ScifiPanb2e683b166b9V2/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/ScifiPanb2e683b166b9V2/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/ScifiPanb2e683b166b9V2/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/ScifiPanb2e683b166b9V2/CloudDir
+[2026.02.24-12.10.38:201][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.24-12.10.38:290][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.02.24-12.10.38:372][651]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.02.24-12.10.38:372][651]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersionD5A22E724018EC176C2AD08BD759241F.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.02.24-12.10.38:383][651]LogFileHelpers: Saving map 'LightVersion' took 0.129
+[2026.02.24-12.10.38:388][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.102 ms (total: 676.658 ms)
+[2026.02.24-12.10.38:449][651]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.24-12.10.38:449][651]LogContentValidation: Enabled validators:
+[2026.02.24-12.10.38:449][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.24-12.10.38:449][651]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.24-12.10.38:449][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.24-12.10.38:449][651]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.24-12.10.38:449][651]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.24-12.10.38:449][651]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.24-12.10.38:449][651]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.02.24-12.10.40:740][876]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2026.02.24-12.10.40:740][876]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2026.02.24-12.10.40:740][876]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Developers/N00235865/Collections/' because it could not be accessed. Aborting watch request...
