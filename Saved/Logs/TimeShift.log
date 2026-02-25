@@ -2083,3 +2083,462 @@ FPackageName: Skipped package /Game/Pack_Bonus/Textures/Tile_1/T_Pack_Bonus_Tile
 [2026.02.25-14.50.58:331][196]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.25-14.50.58:331][196]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.25-14.50.58:331][196]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.02.25-14.51.41:747][977]LogStreaming: Display: FlushAsyncLoading(344): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-14.51.41:753][977]LogStaticMesh: Display: Building static mesh SM_WorkStation_01 (Required Memory Estimate: 30.162633 MB)...
+[2026.02.25-14.51.41:790][977]LogTexture: Display: Building textures: /Game/SciFI_Lite_Assets/Textures/DecalsAtlasProps/T_zAtlasFinal_height.T_zAtlasFinal_height (BGRA8, 4151x4151 x1x1x1) (Required Memory Estimate: 543.27488 MB), EncodeSpeed: Fast
+[2026.02.25-14.51.41:809][977]LogTexture: Display: Building textures: /Game/SciFI_Lite_Assets/Textures/DecalsAtlasProps/T_zAtlasFinal_ao.T_zAtlasFinal_ao (BGRA8, 4151x4151 x1x1x1) (Required Memory Estimate: 543.27488 MB), EncodeSpeed: Fast
+[2026.02.25-14.51.41:875][978]LogTexture: Display: Building textures: /Game/SciFI_Lite_Assets/Textures/DecalsAtlasProps/T_zAtlasFinal_emission.T_zAtlasFinal_emission (BGRA8, 4151x4151 x1x1x1) (Required Memory Estimate: 592.572598 MB), EncodeSpeed: Fast
+[2026.02.25-14.51.41:900][978]LogTexture: Display: Building textures: /Game/SciFI_Lite_Assets/Textures/DecalsAtlasProps/T_zAtlasFinal_masks.T_zAtlasFinal_masks (BGRA8, 4151x4151 x1x1x1) (Required Memory Estimate: 592.572598 MB), EncodeSpeed: Fast
+[2026.02.25-14.51.41:923][978]LogTexture: Display: Building textures: /Game/SciFI_Lite_Assets/Textures/DecalsAtlasProps/T_zAtlasFinal_normal.T_zAtlasFinal_normal (BGRA8, 4151x4151 x1x1x1) (Required Memory Estimate: 592.572598 MB), EncodeSpeed: Fast
+[2026.02.25-14.51.41:940][978]LogStaticMesh: Built static mesh [0.19s] /Game/SciFI_Lite_Assets/StaticMeshes/SM_WorkStation_01.SM_WorkStation_01
+[2026.02.25-14.51.42:056][979]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_WorkStation_01.SM_WorkStation_01
+[2026.02.25-14.51.42:056][979]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_WorkStation_01.SM_WorkStation_01
+[2026.02.25-14.51.42:056][979]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_WorkStation_01.SM_WorkStation_01 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_140
+[2026.02.25-14.51.43:496][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.02.25-14.51.43:498][ 63]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2026.02.25-14.51.43:505][ 63]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_WorkStation_01.SM_WorkStation_01
+[2026.02.25-14.51.43:505][ 63]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_WorkStation_01.SM_WorkStation_01
+[2026.02.25-14.51.43:505][ 63]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_WorkStation_01.SM_WorkStation_01 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_142
+[2026.02.25-14.52.04:201][429]Cmd: EDIT COPY
+[2026.02.25-14.52.04:911][480]Cmd: EDIT PASTE
+[2026.02.25-14.52.44:846][113]LogStreaming: Display: FlushAsyncLoading(345): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-14.52.44:849][113]LogStaticMesh: Display: Building static mesh SM_Containers_01 (Required Memory Estimate: 124.652352 MB)...
+[2026.02.25-14.52.45:081][123]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Containers_01.SM_Containers_01
+[2026.02.25-14.52.45:081][123]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Containers_01.SM_Containers_01
+[2026.02.25-14.52.45:081][123]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Containers_01.SM_Containers_01 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_144
+[2026.02.25-14.52.45:098][123]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SciFI_Lite_Assets/StaticMeshes/SM_Containers_01) ...
+[2026.02.25-14.52.45:702][123]LogStaticMesh: Built static mesh [0.85s] /Game/SciFI_Lite_Assets/StaticMeshes/SM_Containers_01.SM_Containers_01
+[2026.02.25-14.52.47:078][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.25-14.52.47:081][205]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.02.25-14.52.47:088][205]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Containers_01.SM_Containers_01
+[2026.02.25-14.52.47:088][205]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Containers_01.SM_Containers_01
+[2026.02.25-14.52.47:089][205]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Containers_01.SM_Containers_01 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_145
+[2026.02.25-14.52.50:080][396]Cmd: DELETE
+[2026.02.25-14.52.50:080][396]Cmd: ACTOR DELETE
+[2026.02.25-14.52.50:086][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-14.52.50:103][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.02.25-14.52.50:105][396]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: ================================================
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Total job queries 658, among them cache hits 130 (19.76%), DDC hits 394 (59.88%), Duplicates 73 (11.09%)
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Tracking 455 distinct input hashes that result in 326 distinct outputs (71.65%)
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: RAM used: 3.91 MiB of 3.20 GiB budget. Usage: 0.12%
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Shaders Compiled: 61
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Jobs assigned 61, completed 61 (100%)
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Average time worker was idle: 247.16 s
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Time job spent in pending queue: average 0.27 s, longest 1.28 s
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 1.85 s
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Job life time (pending + execution): average 1.14 s, max 2.15
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Shader code size: total 478.551 KiB, numShaders 61, average 7.845 KiB, min 2.777 KiB, max 17.098 KiB
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.74 s
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.36%
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Jobs were issued in 61 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Average processing rate: 6.98 jobs/sec
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Total thread time: 28.102 s
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Total thread preprocess time: 10.143 s
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Percentage time preprocessing: 36.09%
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Effective parallelization: 3.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.200995
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 0.85 sec, max 1.08 sec, min 0.72 sec)
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display:                                                FMeshDecalsPS (compiled    1 times, average 0.56 sec, max 0.56 sec, min 0.56 sec)
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display:                                        FMeshDecalsEmissivePS (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.51 sec, max 0.68 sec, min 0.40 sec)
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display:                                                 FLumenCardPS - 30.67% of total time (compiled   22 times, average 0.39 sec, max 0.54 sec, min 0.26 sec)
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.11% of total time (compiled    7 times, average 0.85 sec, max 1.08 sec, min 0.72 sec)
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.43% of total time (compiled   15 times, average 0.36 sec, max 0.46 sec, min 0.22 sec)
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.93% of total time (compiled    6 times, average 0.51 sec, max 0.68 sec, min 0.40 sec)
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.88% of total time (compiled    5 times, average 0.33 sec, max 0.47 sec, min 0.22 sec)
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: === Material stats ===
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Materials Translated:    175
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Material Translation Only: 0.05 s (37%)
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: Material Cache Hits: 21 (12%)
+[2026.02.25-14.52.54:066][667]LogShaderCompilers: Display: ================================================
+[2026.02.25-14.53.00:799][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_4.SM_Box_4
+[2026.02.25-14.53.00:799][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_4.SM_Box_4
+[2026.02.25-14.53.00:800][ 98]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFi_Props/Models/SM_Box_4.SM_Box_4 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_146
+[2026.02.25-14.53.01:505][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.25-14.53.01:509][146]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.02.25-14.53.01:516][146]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_4.SM_Box_4
+[2026.02.25-14.53.01:516][146]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_4.SM_Box_4
+[2026.02.25-14.53.01:517][146]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFi_Props/Models/SM_Box_4.SM_Box_4 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_147
+[2026.02.25-14.53.16:443][252]Cmd: EDIT COPY
+[2026.02.25-14.53.17:949][357]Cmd: EDIT PASTE
+[2026.02.25-14.53.22:416][703]Cmd: EDIT PASTE
+[2026.02.25-14.53.27:596][107]Cmd: EDIT PASTE
+[2026.02.25-14.53.37:776][765]LogStreaming: Display: FlushAsyncLoading(346): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-14.53.38:025][774]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_2.SM_Box_2
+[2026.02.25-14.53.38:025][774]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_2.SM_Box_2
+[2026.02.25-14.53.38:025][774]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFi_Props/Models/SM_Box_2.SM_Box_2 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_152
+[2026.02.25-14.53.40:146][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.25-14.53.40:148][924]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.02.25-14.53.40:156][924]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_2.SM_Box_2
+[2026.02.25-14.53.40:156][924]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_2.SM_Box_2
+[2026.02.25-14.53.40:157][924]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFi_Props/Models/SM_Box_2.SM_Box_2 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_153
+[2026.02.25-14.53.55:725][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-14.53.55:846][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.02.25-14.53.55:943][ 14]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.02.25-14.53.55:944][ 14]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion31FEDCD74CC1B4ECBDADC98F2BCF8887.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.02.25-14.53.55:958][ 14]LogFileHelpers: Saving map 'LightVersion' took 0.150
+[2026.02.25-14.53.55:964][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 239.836 ms (total: 939.818 ms)
+[2026.02.25-14.53.56:017][ 14]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-14.53.56:017][ 14]LogContentValidation: Enabled validators:
+[2026.02.25-14.53.56:017][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-14.53.56:017][ 14]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-14.53.56:017][ 14]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-14.53.56:017][ 14]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-14.53.56:017][ 14]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-14.53.56:017][ 14]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-14.53.56:018][ 14]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.02.25-14.54.29:643][227]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1719.488892
+[2026.02.25-14.54.30:645][230]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-14.54.30:645][230]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1720.155762, Update Interval: 349.698181
+[2026.02.25-14.56.25:615][292]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiDoors/Meshes/SM_Frame.SM_Frame
+[2026.02.25-14.56.25:615][292]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiDoors/Meshes/SM_Frame.SM_Frame
+[2026.02.25-14.56.25:615][292]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiDoors/Meshes/SM_Frame.SM_Frame as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_154
+[2026.02.25-14.56.28:647][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.02.25-14.56.28:651][506]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.02.25-14.56.28:658][506]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiDoors/Meshes/SM_Frame.SM_Frame
+[2026.02.25-14.56.28:658][506]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiDoors/Meshes/SM_Frame.SM_Frame
+[2026.02.25-14.56.28:659][506]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiDoors/Meshes/SM_Frame.SM_Frame as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_155
+[2026.02.25-14.56.42:719][441]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/SciFiDoors/Meshes/SM_DoorRight.SM_DoorRight
+[2026.02.25-14.56.42:824][441]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.02.25-14.56.42:890][441]LogStreaming: Display: FlushAsyncLoading(347): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-14.56.46:600][602]LogSlate: Window 'SM_DoorRight' being destroyed
+[2026.02.25-14.56.46:686][602]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-14.56.46:686][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-14.56.46:722][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.25-14.56.49:238][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiDoors/Meshes/SM_DoorLeft.SM_DoorLeft
+[2026.02.25-14.56.49:238][760]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiDoors/Meshes/SM_DoorLeft.SM_DoorLeft
+[2026.02.25-14.56.49:239][760]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiDoors/Meshes/SM_DoorLeft.SM_DoorLeft as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_158
+[2026.02.25-14.56.52:628][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.02.25-14.56.52:629][  3]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2026.02.25-14.56.52:635][  3]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiDoors/Meshes/SM_DoorLeft.SM_DoorLeft
+[2026.02.25-14.56.52:635][  3]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiDoors/Meshes/SM_DoorLeft.SM_DoorLeft
+[2026.02.25-14.56.52:636][  3]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiDoors/Meshes/SM_DoorLeft.SM_DoorLeft as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_159
+[2026.02.25-14.56.54:616][116]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiDoors/Meshes/SM_DoorRight.SM_DoorRight
+[2026.02.25-14.56.54:616][116]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiDoors/Meshes/SM_DoorRight.SM_DoorRight
+[2026.02.25-14.56.54:616][116]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiDoors/Meshes/SM_DoorRight.SM_DoorRight as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_160
+[2026.02.25-14.56.56:125][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.25-14.56.56:128][227]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.02.25-14.56.56:145][227]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiDoors/Meshes/SM_DoorRight.SM_DoorRight
+[2026.02.25-14.56.56:145][227]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFiDoors/Meshes/SM_DoorRight.SM_DoorRight
+[2026.02.25-14.56.56:146][227]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFiDoors/Meshes/SM_DoorRight.SM_DoorRight as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_161
+[2026.02.25-14.57.39:328][216]Cmd: EDIT COPY
+[2026.02.25-14.57.40:434][298]Cmd: EDIT PASTE
+[2026.02.25-14.57.43:698][524]Cmd: TRANSACTION UNDO
+[2026.02.25-14.57.43:698][524]LogEditorTransaction: Undo Move Elements
+[2026.02.25-14.57.47:599][786]Cmd: EDIT COPY
+[2026.02.25-14.57.48:578][861]Cmd: EDIT PASTE
+[2026.02.25-14.58.04:821][101]Cmd: EDIT COPY
+[2026.02.25-14.58.05:689][168]Cmd: EDIT PASTE
+[2026.02.25-14.58.29:698][695]Cmd: EDIT COPY
+[2026.02.25-14.58.30:452][702]Cmd: EDIT PASTE
+[2026.02.25-14.58.38:660][ 53]Cmd: TRANSACTION UNDO
+[2026.02.25-14.58.38:660][ 53]LogEditorTransaction: Undo Set Scale
+[2026.02.25-14.59.16:531][ 18]Cmd: TRANSACTION UNDO
+[2026.02.25-14.59.16:532][ 18]LogEditorTransaction: Undo Set Location
+[2026.02.25-15.00.35:377][766]Cmd: EDIT COPY
+[2026.02.25-15.00.36:116][816]Cmd: EDIT PASTE
+[2026.02.25-15.00.40:774][144]Cmd: TRANSACTION UNDO
+[2026.02.25-15.00.40:774][144]LogEditorTransaction: Undo Set Scale
+[2026.02.25-15.00.43:353][304]Cmd: TRANSACTION UNDO
+[2026.02.25-15.00.43:353][304]LogEditorTransaction: Undo Set Scale
+[2026.02.25-15.01.15:546][494]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2125.385498
+[2026.02.25-15.01.15:740][508]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-15.01.15:740][508]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2125.566162, Update Interval: 348.725861
+[2026.02.25-15.02.16:171][ 95]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_CelingLight.SM_Entrance_CelingLight
+[2026.02.25-15.02.16:171][ 95]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_CelingLight.SM_Entrance_CelingLight
+[2026.02.25-15.02.16:171][ 95]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_CelingLight.SM_Entrance_CelingLight as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_172
+[2026.02.25-15.02.16:946][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.02.25-15.02.16:952][148]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.02.25-15.02.16:959][148]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_CelingLight.SM_Entrance_CelingLight
+[2026.02.25-15.02.16:959][148]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_CelingLight.SM_Entrance_CelingLight
+[2026.02.25-15.02.16:961][148]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_CelingLight.SM_Entrance_CelingLight as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_173
+[2026.02.25-15.02.42:349][ 20]Cmd: EDIT COPY
+[2026.02.25-15.02.43:076][ 75]Cmd: EDIT PASTE
+[2026.02.25-15.02.45:791][273]Cmd: TRANSACTION UNDO
+[2026.02.25-15.02.45:793][273]LogEditorTransaction: Undo Move Elements
+[2026.02.25-15.02.53:964][820]Cmd: EDIT PASTE
+[2026.02.25-15.03.15:750][459]LogContentBrowser: Attempting asset rename: SM_Entrance_CelingLight -> SM_Entrance_CelingLight
+[2026.02.25-15.03.17:974][593]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_FingersScreen.SM_Entrance_FingersScreen
+[2026.02.25-15.03.17:974][593]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_FingersScreen.SM_Entrance_FingersScreen
+[2026.02.25-15.03.17:975][593]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_FingersScreen.SM_Entrance_FingersScreen as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_179
+[2026.02.25-15.03.19:083][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.25-15.03.19:087][687]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.02.25-15.03.19:093][687]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_FingersScreen.SM_Entrance_FingersScreen
+[2026.02.25-15.03.19:093][687]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_FingersScreen.SM_Entrance_FingersScreen
+[2026.02.25-15.03.19:095][687]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_FingersScreen.SM_Entrance_FingersScreen as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_180
+[2026.02.25-15.03.34:609][965]LogStreaming: Display: FlushAsyncLoading(353): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-15.03.34:716][965]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_DoorBottom.SM_Entrance_DoorBottom
+[2026.02.25-15.03.34:716][965]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_DoorBottom.SM_Entrance_DoorBottom
+[2026.02.25-15.03.34:716][965]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_DoorBottom.SM_Entrance_DoorBottom as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_181
+[2026.02.25-15.03.35:550][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.02.25-15.03.35:553][ 35]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.02.25-15.03.35:561][ 35]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_DoorBottom.SM_Entrance_DoorBottom
+[2026.02.25-15.03.35:561][ 35]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_DoorBottom.SM_Entrance_DoorBottom
+[2026.02.25-15.03.35:562][ 35]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_DoorBottom.SM_Entrance_DoorBottom as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_182
+[2026.02.25-15.03.39:557][391]Cmd: DELETE
+[2026.02.25-15.03.39:557][391]Cmd: ACTOR DELETE
+[2026.02.25-15.03.39:563][391]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-15.03.39:580][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.02.25-15.03.39:582][391]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.02.25-15.04.45:163][153]LogStreaming: Display: FlushAsyncLoading(354): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-15.04.45:170][153]LogStaticMesh: Display: Building static mesh SM_High_SciFi_Panel_2x1m_v1 (Required Memory Estimate: 249.028664 MB)...
+[2026.02.25-15.04.45:426][162]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Panels/Static_Meshes/High/SM_High_SciFi_Panel_2x1m_v1.SM_High_SciFi_Panel_2x1m_v1
+[2026.02.25-15.04.45:426][162]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Panels/Static_Meshes/High/SM_High_SciFi_Panel_2x1m_v1.SM_High_SciFi_Panel_2x1m_v1
+[2026.02.25-15.04.45:427][162]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFi_Panels/Static_Meshes/High/SM_High_SciFi_Panel_2x1m_v1.SM_High_SciFi_Panel_2x1m_v1 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_187
+[2026.02.25-15.04.45:443][162]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SciFi_Panels/Static_Meshes/High/SM_High_SciFi_Panel_2x1m_v1) ...
+[2026.02.25-15.04.45:522][162]LogTexture: Display: Building textures: /Game/SciFi_Panels/Textures/Main/T_4k_SciFi_Panels_Normal.T_4k_SciFi_Panels_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1298.499988 MB), EncodeSpeed: Fast
+[2026.02.25-15.04.45:573][162]LogTexture: Display: Building textures: /Game/SciFi_Panels/Textures/Main/T_4k_SciFi_Panels_AO_Roughness_Metall.T_4k_SciFi_Panels_AO_Roughness_Metall (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1216.999984 MB), EncodeSpeed: Fast
+[2026.02.25-15.04.45:880][162]LogStaticMesh: Adjacency [0.01s], tris: 163216, UVs 2
+[2026.02.25-15.04.45:956][162]LogStaticMesh: Clustering [0.07s]. Ratio: 1.014890
+[2026.02.25-15.04.45:970][162]LogStaticMesh: Leaves [0.01s]
+[2026.02.25-15.04.46:750][162]LogStaticMesh: Reduce [0.78s]
+[2026.02.25-15.04.46:853][162]LogStaticMesh: Fallback [0.10s], num tris: 3053
+[2026.02.25-15.04.46:913][162]LogStaticMesh: Fallback [0.06s], num tris: 2341
+[2026.02.25-15.04.46:923][162]LogStaticMesh: ConstrainClusters:
+[2026.02.25-15.04.46:923][162]LogStaticMesh:   Input: 2654 Clusters, 334389 Triangles and 215171 Vertices
+[2026.02.25-15.04.46:923][162]LogStaticMesh:   Output without splits: 2654 Clusters, 334389 Triangles and 223520 Vertices
+[2026.02.25-15.04.46:923][162]LogStaticMesh:   Output with splits: 2654 Clusters, 334389 Triangles and 223520 Vertices
+[2026.02.25-15.04.46:924][162]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 2654, Slow Path Clusters: 0, 1 Material: 2654, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.02.25-15.04.46:933][162]LogStaticMesh: WritePages:
+[2026.02.25-15.04.46:933][162]LogStaticMesh:   Root: GPU size: 31724 bytes. 1 Pages. 31724.000 bytes per page (96.814% utilization).
+[2026.02.25-15.04.46:933][162]LogStaticMesh:   Streaming: GPU size: 3180948 bytes. 25 Pages (25 with relative encoding). 127237.922 bytes per page (97.075% utilization).
+[2026.02.25-15.04.46:933][162]LogStaticMesh:   Page data disk size: 2626272 bytes. Fixup data size: 15240 bytes.
+[2026.02.25-15.04.46:933][162]LogStaticMesh:   Total GPU size: 3212672 bytes, Total disk size: 2641512 bytes.
+[2026.02.25-15.04.46:933][162]LogStaticMesh: Encode [0.02s]
+[2026.02.25-15.04.46:933][162]LogStaticMesh: NaniteBuild [1.06s]
+[2026.02.25-15.04.47:023][162]LogStaticMesh: Built static mesh [1.85s] /Game/SciFi_Panels/Static_Meshes/High/SM_High_SciFi_Panel_2x1m_v1.SM_High_SciFi_Panel_2x1m_v1
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: ================================================
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Total job queries 679, among them cache hits 138 (20.32%), DDC hits 402 (59.20%), Duplicates 73 (10.75%)
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Tracking 468 distinct input hashes that result in 334 distinct outputs (71.37%)
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: RAM used: 3.98 MiB of 3.20 GiB budget. Usage: 0.12%
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Shaders Compiled: 66
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Jobs assigned 66, completed 66 (100%)
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Average time worker was idle: 269.67 s
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Time job spent in pending queue: average 0.26 s, longest 1.28 s
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 1.85 s
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Job life time (pending + execution): average 1.13 s, max 2.15
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Shader code size: total 544.199 KiB, numShaders 66, average 8.245 KiB, min 2.777 KiB, max 20.754 KiB
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.90 s
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.35%
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Jobs were issued in 66 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Average processing rate: 6.06 jobs/sec
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Total thread time: 31.924 s
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Total thread preprocess time: 10.356 s
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Percentage time preprocessing: 32.44%
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Effective parallelization: 2.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.183128
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.38 sec, max 1.38 sec, min 1.38 sec)
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    8 times, average 0.83 sec, max 1.08 sec, min 0.72 sec)
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display:                                                FMeshDecalsPS (compiled    1 times, average 0.56 sec, max 0.56 sec, min 0.56 sec)
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display:                                                 FLumenCardPS - 27.79% of total time (compiled   23 times, average 0.39 sec, max 0.54 sec, min 0.25 sec)
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.91% of total time (compiled    8 times, average 0.83 sec, max 1.08 sec, min 0.72 sec)
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.10% of total time (compiled   15 times, average 0.36 sec, max 0.46 sec, min 0.22 sec)
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.76% of total time (compiled    7 times, average 0.49 sec, max 0.68 sec, min 0.36 sec)
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.17% of total time (compiled    5 times, average 0.33 sec, max 0.47 sec, min 0.22 sec)
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: === Material stats ===
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Materials Translated:    179
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Material Translation Only: 0.05 s (36%)
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: Material Cache Hits: 21 (12%)
+[2026.02.25-15.04.54:093][631]LogShaderCompilers: Display: ================================================
+[2026.02.25-15.05.03:059][346]Cmd: TRANSACTION UNDO
+[2026.02.25-15.05.03:059][346]LogEditorTransaction: Undo Set Rotation
+[2026.02.25-15.06.08:369][479]Cmd: EDIT COPY
+[2026.02.25-15.06.09:134][541]Cmd: EDIT PASTE
+[2026.02.25-15.06.39:190][608]Cmd: EDIT COPY
+[2026.02.25-15.06.40:049][651]Cmd: EDIT PASTE
+[2026.02.25-15.07.01:669][ 11]Cmd: TRANSACTION UNDO
+[2026.02.25-15.07.01:669][ 11]LogEditorTransaction: Undo Move Elements
+[2026.02.25-15.07.02:032][ 16]Cmd: TRANSACTION UNDO
+[2026.02.25-15.07.02:032][ 16]LogEditorTransaction: Undo Set Rotation
+[2026.02.25-15.07.18:450][ 71]Cmd: TRANSACTION UNDO
+[2026.02.25-15.07.18:450][ 71]LogEditorTransaction: Undo Set Rotation
+[2026.02.25-15.07.19:613][127]Cmd: TRANSACTION UNDO
+[2026.02.25-15.07.19:613][127]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.25-15.07.21:700][272]Cmd: TRANSACTION UNDO
+[2026.02.25-15.07.21:700][272]LogEditorTransaction: Undo Clicking on Elements
+[2026.02.25-15.07.26:034][510]Cmd: DELETE
+[2026.02.25-15.07.26:034][510]Cmd: ACTOR DELETE
+[2026.02.25-15.07.26:038][510]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-15.07.26:058][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.02.25-15.07.26:062][510]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2026.02.25-15.07.39:968][449]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2509.804688
+[2026.02.25-15.07.40:134][461]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.25-15.07.40:134][461]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2509.956299, Update Interval: 350.584442
+[2026.02.25-15.07.54:949][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.02.25-15.07.55:056][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto1
+[2026.02.25-15.07.55:056][461]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion_Auto17E4FF3504FAE7A4694E4CB8540E0396E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Dimensions/LightVersion_Auto1.umap'
+[2026.02.25-15.07.55:057][461]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.125
+[2026.02.25-15.07.55:057][461]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.125
+[2026.02.25-15.07.55:058][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SciFi_Props/Materials/Textures/T_Box_1_B_Metallic_Mat] ([1] browsable assets)...
+[2026.02.25-15.07.55:093][461]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SciFi_Props/Materials/Textures/T_Box_1_B_Metallic_Mat.T_Box_1_B_Metallic_Mat]
+[2026.02.25-15.07.55:093][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Props/Materials/Textures/T_Box_1_B_Metallic_Mat]
+[2026.02.25-15.07.55:102][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SciFi_Props/Materials/Textures/T_Box_1_B_Metallic_Mat_Auto1
+[2026.02.25-15.07.55:102][461]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Box_1_B_Metallic_Mat_Auto16016406244A16AB573AF88A9DFE561CA.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/SciFi_Props/Materials/Textures/T_Box_1_B_Metallic_Mat_Auto1.uasset'
+[2026.02.25-15.07.55:103][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SciFi_Props/Materials/Textures/T_Box_8_Roughness_Mat] ([1] browsable assets)...
+[2026.02.25-15.07.55:109][461]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SciFi_Props/Materials/Textures/T_Box_8_Roughness_Mat.T_Box_8_Roughness_Mat]
+[2026.02.25-15.07.55:109][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Props/Materials/Textures/T_Box_8_Roughness_Mat]
+[2026.02.25-15.07.55:117][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SciFi_Props/Materials/Textures/T_Box_8_Roughness_Mat_Auto1
+[2026.02.25-15.07.55:117][461]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Box_8_Roughness_Mat_Auto172E7343A40F6BC6C71BCACB515595803.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/SciFi_Props/Materials/Textures/T_Box_8_Roughness_Mat_Auto1.uasset'
+[2026.02.25-15.07.55:118][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SciFi_Props/Materials/Textures/T_Box_9__Metallic_Mat] ([1] browsable assets)...
+[2026.02.25-15.07.55:126][461]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SciFi_Props/Materials/Textures/T_Box_9__Metallic_Mat.T_Box_9__Metallic_Mat]
+[2026.02.25-15.07.55:126][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Props/Materials/Textures/T_Box_9__Metallic_Mat]
+[2026.02.25-15.07.55:132][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SciFi_Props/Materials/Textures/T_Box_9__Metallic_Mat_Auto1
+[2026.02.25-15.07.55:132][461]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Box_9__Metallic_Mat_Auto151D35D5941E57C6ACD73C88CF6BEE4DE.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/SciFi_Props/Materials/Textures/T_Box_9__Metallic_Mat_Auto1.uasset'
+[2026.02.25-15.07.55:136][461]LogFileHelpers: Auto-saving content packages took 0.078
+[2026.02.25-15.08.24:261][330]Cmd: DELETE
+[2026.02.25-15.08.24:261][330]Cmd: ACTOR DELETE
+[2026.02.25-15.08.24:267][330]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.02.25-15.08.24:285][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.02.25-15.08.24:286][330]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.02.25-15.09.48:503][  7]LogStreaming: Display: FlushAsyncLoading(355): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-15.09.48:507][  7]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/CharacterSkins/Ch11_nonPBR_Anim.Ch11_nonPBR_Anim (Required Memory Estimate: 0.23 MB)
+[2026.02.25-15.09.48:508][  7]LogAnimationCompression: Display: Storing compressed animation data for /Game/CharacterSkins/Ch11_nonPBR_Anim.Ch11_nonPBR_Anim, at AnimationSequence/1eaed0b4836e5acb9f115f13e8a8d35176788500
+[2026.02.25-15.09.53:084][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-15.09.53:210][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.02.25-15.09.53:321][344]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.02.25-15.09.53:321][344]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion487CEB6648C4193991F82FBC1B436DCC.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.02.25-15.09.53:334][344]LogFileHelpers: Saving map 'LightVersion' took 0.167
+[2026.02.25-15.09.53:343][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 258.746 ms (total: 1.19 sec)
+[2026.02.25-15.09.53:393][344]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-15.09.53:393][344]LogContentValidation: Enabled validators:
+[2026.02.25-15.09.53:393][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-15.09.53:393][344]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-15.09.53:393][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-15.09.53:393][344]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-15.09.53:393][344]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-15.09.53:393][344]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-15.09.53:394][344]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.02.25-15.09.54:139][408]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.25-15.09.54:148][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.25-15.09.54:148][408]LogStreaming: Display: FlushAsyncLoading(356): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-15.09.54:148][408]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.25-15.09.54:173][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023984s)
+[2026.02.25-15.09.54:173][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.024028s)
+[2026.02.25-15.09.54:190][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.02.25-15.09.54:191][408]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.02.25-15.09.54:193][408]LogPlayLevel: PIE: World Init took: (0.001551s)
+[2026.02.25-15.09.54:193][408]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.02.25-15.09.54:193][408]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.25-15.09.54:194][408]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.25-15.09.54:194][408]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.25-15.09.54:194][408]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.25-15.09.54:194][408]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.25-15.09.54:194][408]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.25-15.09.54:194][408]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.25-15.09.54:194][408]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.25-15.09.54:194][408]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.25-15.09.54:194][408]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.25-15.09.54:194][408]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.25-15.09.54:196][408]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.25-15.09.54:226][408]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.25-15.09.54:227][408]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.25-15.09.54:227][408]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.25-15.09.54:227][408]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.25-15.09.54:227][408]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.02.25-15.09.54:227][408]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.02.25-15.09.54:230][408]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.02.25-15.09.54:230][408]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.02.25-15.09.54:230][408]LogInit: FAudioDevice initialized with ID 3.
+[2026.02.25-15.09.54:230][408]LogAudio: Display: Audio Device (ID: 3) registered with world 'LightVersion'.
+[2026.02.25-15.09.54:230][408]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.25-15.09.54:234][408]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.02.25-15.09.54:243][408]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.02.25-15.09.54
+[2026.02.25-15.09.54:243][408]LogWorld: Bringing up level for play took: 0.008490
+[2026.02.25-15.09.54:246][408]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.02.25-15.09.54:251][408]PIE: Server logged in
+[2026.02.25-15.09.54:252][408]PIE: Play in editor total start time 0.104 seconds.
+[2026.02.25-15.09.54:331][409]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.25-15.10.00:355][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.25-15.10.00:355][718]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.02.25-15.10.00:355][718]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-15.10.00:358][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-15.10.00:360][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.25-15.10.00:362][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-15.10.00:379][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.25-15.10.00:380][718]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.25-15.10.00:380][718]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.02.25-15.10.00:382][718]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.02.25-15.10.00:388][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.02.25-15.10.00:456][719]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.02.25-15.11.33:376][340]LogStreaming: Display: FlushAsyncLoading(357): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-15.11.33:379][340]LogStaticMesh: Display: Building static mesh SM_Box_6 (Required Memory Estimate: 4.901875 MB)...
+[2026.02.25-15.11.33:438][340]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_6_Metallic.T_Box_6_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2026.02.25-15.11.33:445][340]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_6_Roughness.T_Box_6_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2026.02.25-15.11.33:515][340]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_6_Emissive.T_Box_6_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.25-15.11.33:580][343]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_6_BaseColor.T_Box_6_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.25-15.11.33:647][345]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_6_Normal.T_Box_6_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.02.25-15.11.33:692][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2026.02.25-15.11.33:706][345]LogEditorActor: Deleted 0 Actors (0.058 secs)
+[2026.02.25-15.11.33:717][345]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_6.SM_Box_6
+[2026.02.25-15.11.33:717][345]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_6.SM_Box_6
+[2026.02.25-15.11.33:718][345]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFi_Props/Models/SM_Box_6.SM_Box_6 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_191
+[2026.02.25-15.11.33:735][345]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SciFi_Props/Models/SM_Box_6) ...
+[2026.02.25-15.11.34:184][345]LogStaticMesh: Built static mesh [0.81s] /Game/SciFi_Props/Models/SM_Box_6.SM_Box_6
+[2026.02.25-15.11.34:204][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.02.25-15.11.34:204][345]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2026.02.25-15.11.34:304][346]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_6.SM_Box_6
+[2026.02.25-15.11.34:304][346]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_6.SM_Box_6
+[2026.02.25-15.11.34:305][346]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFi_Props/Models/SM_Box_6.SM_Box_6 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_192
+[2026.02.25-15.11.35:531][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.02.25-15.11.35:532][439]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.02.25-15.11.35:540][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_6.SM_Box_6
+[2026.02.25-15.11.35:540][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_6.SM_Box_6
+[2026.02.25-15.11.35:541][439]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFi_Props/Models/SM_Box_6.SM_Box_6 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_193
+[2026.02.25-15.11.40:541][770]LogStreaming: Display: FlushAsyncLoading(358): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-15.11.40:544][770]LogStaticMesh: Display: Building static mesh SM_Box_5 (Required Memory Estimate: 0.984155 MB)...
+[2026.02.25-15.11.40:577][770]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_5_Metallic.T_Box_5_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2026.02.25-15.11.40:585][770]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_5_Roughness.T_Box_5_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2026.02.25-15.11.40:670][770]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_5_Emissive.T_Box_5_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.25-15.11.40:735][771]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_5.SM_Box_5
+[2026.02.25-15.11.40:735][771]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_5.SM_Box_5
+[2026.02.25-15.11.40:736][771]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFi_Props/Models/SM_Box_5.SM_Box_5 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_194
+[2026.02.25-15.11.40:736][771]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_5_BaseColor.T_Box_5_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.02.25-15.11.40:753][771]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SciFi_Props/Models/SM_Box_5) ...
+[2026.02.25-15.11.40:786][771]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_5_Normal.T_Box_5_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.02.25-15.11.40:788][771]LogStaticMesh: Built static mesh [0.24s] /Game/SciFi_Props/Models/SM_Box_5.SM_Box_5
+[2026.02.25-15.11.41:980][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.02.25-15.11.41:982][845]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.02.25-15.11.41:989][845]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_5.SM_Box_5
+[2026.02.25-15.11.41:989][845]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_5.SM_Box_5
+[2026.02.25-15.11.41:991][845]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFi_Props/Models/SM_Box_5.SM_Box_5 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_195
+[2026.02.25-15.12.01:874][216]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_3.SM_Box_3
+[2026.02.25-15.12.01:874][216]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_3.SM_Box_3
+[2026.02.25-15.12.01:875][216]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFi_Props/Models/SM_Box_3.SM_Box_3 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_196
+[2026.02.25-15.12.02:954][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.02.25-15.12.02:957][289]LogEditorActor: Deleted 0 Actors (0.020 secs)
+[2026.02.25-15.12.02:964][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_3.SM_Box_3
+[2026.02.25-15.12.02:965][289]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFi_Props/Models/SM_Box_3.SM_Box_3
+[2026.02.25-15.12.02:966][289]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFi_Props/Models/SM_Box_3.SM_Box_3 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_197
+[2026.02.25-15.12.42:352][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-15.12.42:519][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.02.25-15.12.42:628][ 20]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.02.25-15.12.42:628][ 20]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion5900CD9447F0EA6AAD91D884396A4177.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.02.25-15.12.42:641][ 20]LogFileHelpers: Saving map 'LightVersion' took 0.164
+[2026.02.25-15.12.42:649][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 296.783 ms (total: 1.49 sec)
+[2026.02.25-15.12.42:728][ 20]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-15.12.42:728][ 20]LogContentValidation: Enabled validators:
+[2026.02.25-15.12.42:728][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-15.12.42:728][ 20]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-15.12.42:728][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-15.12.42:728][ 20]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-15.12.42:728][ 20]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-15.12.42:728][ 20]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-15.12.42:728][ 20]AssetCheck: /Game/Dimensions/LightVersion Validating asset
