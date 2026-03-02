@@ -4409,3 +4409,277 @@ Sampler Limit: 32
 [2026.03.02-15.48.07:089][ 89]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.02-15.48.07:089][ 89]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.02-15.48.07:089][ 89]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.03.02-15.50.01:723][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5720.441895
+[2026.03.02-15.50.02:090][343]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-15.50.02:090][343]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5720.795898, Update Interval: 314.473083
+[2026.03.02-15.51.15:014][124]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.02-15.51.15:024][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.02-15.51.15:024][124]LogStreaming: Display: FlushAsyncLoading(436): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.02-15.51.15:024][124]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.02-15.51.15:073][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048793s)
+[2026.03.02-15.51.15:073][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.048851s)
+[2026.03.02-15.51.15:092][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.03.02-15.51.15:093][124]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.02-15.51.15:095][124]LogPlayLevel: PIE: World Init took: (0.001687s)
+[2026.03.02-15.51.15:095][124]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.03.02-15.51.15:095][124]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.02-15.51.15:095][124]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.02-15.51.15:095][124]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.02-15.51.15:095][124]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.02-15.51.15:095][124]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.02-15.51.15:095][124]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.02-15.51.15:095][124]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.02-15.51.15:095][124]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.02-15.51.15:095][124]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.02-15.51.15:095][124]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.02-15.51.15:095][124]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.02-15.51.15:098][124]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.02-15.51.15:125][124]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.02-15.51.15:125][124]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.02-15.51.15:125][124]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.02-15.51.15:125][124]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.02-15.51.15:125][124]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.03.02-15.51.15:125][124]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.03.02-15.51.15:127][124]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.03.02-15.51.15:127][124]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.03.02-15.51.15:127][124]LogInit: FAudioDevice initialized with ID 10.
+[2026.03.02-15.51.15:127][124]LogAudio: Display: Audio Device (ID: 10) registered with world 'LightVersion'.
+[2026.03.02-15.51.15:127][124]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.03.02-15.51.15:131][124]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.02-15.51.15:153][124]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.03.02-15.51.15
+[2026.03.02-15.51.15:154][124]LogWorld: Bringing up level for play took: 0.022005
+[2026.03.02-15.51.15:156][124]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2026.03.02-15.51.15:162][124]PIE: Server logged in
+[2026.03.02-15.51.15:164][124]PIE: Play in editor total start time 0.14 seconds.
+[2026.03.02-15.51.24:018][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-15.51.24:018][972]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.02-15.51.24:018][972]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.02-15.51.24:025][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-15.51.24:025][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.02-15.51.24:028][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.02-15.51.24:048][972]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.02-15.51.24:048][972]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.03.02-15.51.24:048][972]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.03.02-15.51.24:050][972]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.03.02-15.51.24:053][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.02-15.51.24:059][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.03.02-15.51.24:129][973]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2026.03.02-15.51.27:201][250]Cmd: DELETE
+[2026.03.02-15.51.27:201][250]Cmd: ACTOR DELETE
+[2026.03.02-15.51.27:213][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.02-15.51.27:231][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.03.02-15.51.27:234][250]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2026.03.02-15.51.28:421][348]Cmd: DELETE
+[2026.03.02-15.51.28:421][348]Cmd: ACTOR DELETE
+[2026.03.02-15.51.28:430][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.02-15.51.28:445][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.02-15.51.28:448][348]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.03.02-15.51.29:891][483]Cmd: DELETE
+[2026.03.02-15.51.29:891][483]Cmd: ACTOR DELETE
+[2026.03.02-15.51.29:899][483]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.02-15.51.29:914][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.03.02-15.51.29:917][483]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.03.02-15.51.31:173][598]Cmd: DELETE
+[2026.03.02-15.51.31:173][598]Cmd: ACTOR DELETE
+[2026.03.02-15.51.31:182][598]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.02-15.51.31:198][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.03.02-15.51.31:201][598]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2026.03.02-15.51.32:415][702]Cmd: DELETE
+[2026.03.02-15.51.32:415][702]Cmd: ACTOR DELETE
+[2026.03.02-15.51.32:423][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.02-15.51.32:439][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.03.02-15.51.32:442][702]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2026.03.02-15.51.33:017][746]Cmd: DELETE
+[2026.03.02-15.51.33:017][746]Cmd: ACTOR DELETE
+[2026.03.02-15.51.33:025][746]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.02-15.51.33:041][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.02-15.51.33:043][746]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.03.02-15.55.58:307][ 24]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6077.045410
+[2026.03.02-15.55.59:309][ 26]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-15.55.59:311][ 26]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6077.712891, Update Interval: 317.194122
+[2026.03.02-15.57.07:862][564]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.03.02-15.57.07:862][564]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.03.02-15.57.53:783][466]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.02-15.57.53:783][466]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.02-15.57.53:786][466]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_716
+[2026.03.02-15.57.53:786][466]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_716
+[2026.03.02-15.58.13:115][656]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.03.02-15.58.14:273][758]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.03.02-15.58.14:561][784]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.03.02-15.58.31:178][179]Cmd: ACTOR HIDE SELECTED
+[2026.03.02-15.58.34:326][445]Cmd: ACTOR HIDE SELECTED
+[2026.03.02-15.58.36:105][576]Cmd: ACTOR HIDE SELECTED
+[2026.03.02-15.58.38:893][813]Cmd: TRANSACTION UNDO
+[2026.03.02-15.58.38:893][813]LogEditorTransaction: Undo Hide Selected
+[2026.03.02-15.58.39:329][819]Cmd: TRANSACTION UNDO
+[2026.03.02-15.58.39:329][819]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.02-15.58.39:777][844]Cmd: TRANSACTION UNDO
+[2026.03.02-15.58.39:777][844]LogEditorTransaction: Undo Hide Selected
+[2026.03.02-15.58.44:422][201]Cmd: DELETE
+[2026.03.02-15.58.44:422][201]Cmd: ACTOR DELETE
+[2026.03.02-15.58.44:431][201]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.02-15.58.44:459][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.03.02-15.58.44:462][201]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.03.02-15.59.20:307][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.02-15.59.20:459][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto6
+[2026.03.02-15.59.20:460][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion_Auto6AA2D96704E495C4C25F63F950AB726FA.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Dimensions/LightVersion_Auto6.umap'
+[2026.03.02-15.59.20:461][239]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.171
+[2026.03.02-15.59.20:461][239]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.171
+[2026.03.02-15.59.20:461][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_baseColor] ([1] browsable assets)...
+[2026.03.02-15.59.20:461][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_baseColor]
+[2026.03.02-15.59.20:521][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_baseColor_Auto6
+[2026.03.02-15.59.20:521][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/M_Stairs_baseColor_Auto6598E8D2A4D8E4B5E723A62A570F22950.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_baseColor_Auto6.uasset'
+[2026.03.02-15.59.20:522][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_metallicRoughness] ([1] browsable assets)...
+[2026.03.02-15.59.20:523][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_metallicRoughness]
+[2026.03.02-15.59.20:576][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_metallicRoughness_Auto6
+[2026.03.02-15.59.20:576][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/M_Stairs_metallicRoughness_Auto695B0ACBA44F5B01577039FB3227FA9CA.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_metallicRoughness_Auto6.uasset'
+[2026.03.02-15.59.20:577][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_normal] ([1] browsable assets)...
+[2026.03.02-15.59.20:577][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_normal]
+[2026.03.02-15.59.20:640][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_normal_Auto6
+[2026.03.02-15.59.20:640][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/M_Stairs_normal_Auto6965D08D94EC3CE5450FA87BD98ACB407.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_normal_Auto6.uasset'
+[2026.03.02-15.59.20:641][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_specularf0] ([1] browsable assets)...
+[2026.03.02-15.59.20:641][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_specularf0]
+[2026.03.02-15.59.20:718][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_specularf0_Auto6
+[2026.03.02-15.59.20:718][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/M_Stairs_specularf0_Auto6F531A32746D98A97F4C1C0B9B60765DC.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_specularf0_Auto6.uasset'
+[2026.03.02-15.59.20:720][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/FREE_Industrial-Stairs/scene/Materials/M_Stairs] ([1] browsable assets)...
+[2026.03.02-15.59.20:720][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/FREE_Industrial-Stairs/scene/Materials/M_Stairs]
+[2026.03.02-15.59.20:726][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/FREE_Industrial-Stairs/scene/Materials/M_Stairs_Auto6
+[2026.03.02-15.59.20:726][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/M_Stairs_Auto673928CB740A9F6A575BC3D8A5324F755.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/FREE_Industrial-Stairs/scene/Materials/M_Stairs_Auto6.uasset'
+[2026.03.02-15.59.20:727][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/FREE_Industrial-Stairs/scene/StaticMeshes/scene] ([1] browsable assets)...
+[2026.03.02-15.59.20:727][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/FREE_Industrial-Stairs/scene/StaticMeshes/scene]
+[2026.03.02-15.59.20:755][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/FREE_Industrial-Stairs/scene/StaticMeshes/scene_Auto6
+[2026.03.02-15.59.20:755][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scene_Auto64953FD1942B41B4008542788EF8FA5A1.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/FREE_Industrial-Stairs/scene/StaticMeshes/scene_Auto6.uasset'
+[2026.03.02-15.59.20:755][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_baseColor_Mat] ([1] browsable assets)...
+[2026.03.02-15.59.20:755][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_baseColor_Mat]
+[2026.03.02-15.59.20:761][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_baseColor_Mat_Auto6
+[2026.03.02-15.59.20:761][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/M_Stairs_baseColor_Mat_Auto6E56F3EF5444E37EC4C620BAD20DCCD6E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/FREE_Industrial-Stairs/scene/Textures/M_Stairs_baseColor_Mat_Auto6.uasset'
+[2026.03.02-15.59.20:763][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Materials/Blue_Emi] ([1] browsable assets)...
+[2026.03.02-15.59.20:763][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Materials/Blue_Emi]
+[2026.03.02-15.59.20:769][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Materials/Blue_Emi_Auto6
+[2026.03.02-15.59.20:769][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Blue_Emi_Auto695CD1FCF48D5F94D19B8408BAD7C74DB.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Materials/Blue_Emi_Auto6.uasset'
+[2026.03.02-15.59.20:770][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Materials/Material_001] ([1] browsable assets)...
+[2026.03.02-15.59.20:770][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Materials/Material_001]
+[2026.03.02-15.59.20:776][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Materials/Material_001_Auto6
+[2026.03.02-15.59.20:776][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Material_001_Auto6E46013C54AC3565A07F75F93635C3BAE.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Materials/Material_001_Auto6.uasset'
+[2026.03.02-15.59.20:777][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Materials/Material_002] ([1] browsable assets)...
+[2026.03.02-15.59.20:777][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Materials/Material_002]
+[2026.03.02-15.59.20:783][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Materials/Material_002_Auto6
+[2026.03.02-15.59.20:783][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Material_002_Auto60FFEA1F249CBE867D55218A3B3D09172.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Materials/Material_002_Auto6.uasset'
+[2026.03.02-15.59.20:784][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Textures/Sci_Fi_Panel_16_emissive] ([1] browsable assets)...
+[2026.03.02-15.59.20:784][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Textures/Sci_Fi_Panel_16_emissive]
+[2026.03.02-15.59.20:799][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Textures/Sci_Fi_Panel_16_emissive_Auto6
+[2026.03.02-15.59.20:799][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Sci_Fi_Panel_16_emissive_Auto6A47BC61B4D3C3E8D67508A9FD2F305ED.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Textures/Sci_Fi_Panel_16_emissive_Auto6.uasset'
+[2026.03.02-15.59.20:800][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Textures/Sci_Fi_Panel_16_normal] ([1] browsable assets)...
+[2026.03.02-15.59.20:800][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Textures/Sci_Fi_Panel_16_normal]
+[2026.03.02-15.59.20:815][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Textures/Sci_Fi_Panel_16_normal_Auto6
+[2026.03.02-15.59.20:815][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Sci_Fi_Panel_16_normal_Auto6E7D38E5D475D2E1A335DDFB5738A8F75.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Textures/Sci_Fi_Panel_16_normal_Auto6.uasset'
+[2026.03.02-15.59.20:816][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Textures/Sci_Fi_Panel_16_basecolor] ([1] browsable assets)...
+[2026.03.02-15.59.20:816][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Textures/Sci_Fi_Panel_16_basecolor]
+[2026.03.02-15.59.20:831][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Textures/Sci_Fi_Panel_16_basecolor_Auto6
+[2026.03.02-15.59.20:831][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Sci_Fi_Panel_16_basecolor_Auto6C9D2201C44B63431132EA9956183D220.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Textures/Sci_Fi_Panel_16_basecolor_Auto6.uasset'
+[2026.03.02-15.59.20:832][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Textures/Sci_Fi_Panel_16_metallic-Sci_Fi_Panel_16_roughness] ([1] browsable assets)...
+[2026.03.02-15.59.20:832][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Textures/Sci_Fi_Panel_16_metallic-Sci_Fi_Panel_16_roughness]
+[2026.03.02-15.59.20:847][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Textures/Sci_Fi_Panel_16_metallic-Sci_Fi_Panel_16_roughness_Auto6
+[2026.03.02-15.59.20:847][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Sci_Fi_Panel_16_metallic-Sci_Fi_F8FF937642BA2AA167255B806D9B279A.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Textures/Sci_Fi_Panel_16_metallic-Sci_Fi_Panel_16_roughness_Auto6.uasset'
+[2026.03.02-15.59.20:848][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Materials/Sci-Fi_Floor_5] ([1] browsable assets)...
+[2026.03.02-15.59.20:848][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Materials/Sci-Fi_Floor_5]
+[2026.03.02-15.59.20:855][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Materials/Sci-Fi_Floor_5_Auto6
+[2026.03.02-15.59.20:855][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Sci-Fi_Floor_5_Auto64476F0304543261176C0D898F9275421.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/Materials/Sci-Fi_Floor_5_Auto6.uasset'
+[2026.03.02-15.59.20:855][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/StaticMeshes/sci-fi_railing] ([1] browsable assets)...
+[2026.03.02-15.59.20:855][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/StaticMeshes/sci-fi_railing]
+[2026.03.02-15.59.20:863][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/StaticMeshes/sci-fi_railing_Auto6
+[2026.03.02-15.59.20:863][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci-fi_railing_Auto6D5531D364029E7B6B983038A1E778F5D.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/StaticMeshes/sci-fi_railing_Auto6.uasset'
+[2026.03.02-15.59.20:864][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SciFI_Lite_Assets/Textures/T_DirtGrungeMask_01_Mat] ([1] browsable assets)...
+[2026.03.02-15.59.20:883][239]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SciFI_Lite_Assets/Textures/T_DirtGrungeMask_01_Mat.T_DirtGrungeMask_01_Mat]
+[2026.03.02-15.59.20:883][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFI_Lite_Assets/Textures/T_DirtGrungeMask_01_Mat]
+[2026.03.02-15.59.20:891][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SciFI_Lite_Assets/Textures/T_DirtGrungeMask_01_Mat_Auto6
+[2026.03.02-15.59.20:891][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_DirtGrungeMask_01_Mat_Auto63A54C3E14F52640AF325A59B5B78AD79.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/SciFI_Lite_Assets/Textures/T_DirtGrungeMask_01_Mat_Auto6.uasset'
+[2026.03.02-15.59.20:893][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_0] ([1] browsable assets)...
+[2026.03.02-15.59.20:896][239]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_0.industrial_wall_light_texture_0]
+[2026.03.02-15.59.20:896][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_0]
+[2026.03.02-15.59.20:910][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_0_Auto6
+[2026.03.02-15.59.20:910][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/industrial_wall_light_texture_0_D17BAAC1414B79FCA0257C843EF0EBB2.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_0_Auto6.uasset'
+[2026.03.02-15.59.20:912][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_1] ([1] browsable assets)...
+[2026.03.02-15.59.20:913][239]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_1.industrial_wall_light_texture_1]
+[2026.03.02-15.59.20:913][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_1]
+[2026.03.02-15.59.20:930][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_1_Auto6
+[2026.03.02-15.59.20:930][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/industrial_wall_light_texture_1_F086B4464FCAAAD7F317A69143BC8019.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_1_Auto6.uasset'
+[2026.03.02-15.59.20:931][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_2] ([1] browsable assets)...
+[2026.03.02-15.59.20:932][239]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_2.industrial_wall_light_texture_2]
+[2026.03.02-15.59.20:932][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_2]
+[2026.03.02-15.59.20:947][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_2_Auto6
+[2026.03.02-15.59.20:947][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/industrial_wall_light_texture_2_23E181FA459B3C01DED875A240DF5E9A.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_2_Auto6.uasset'
+[2026.03.02-15.59.20:951][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_3] ([1] browsable assets)...
+[2026.03.02-15.59.20:954][239]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_3.industrial_wall_light_texture_3]
+[2026.03.02-15.59.20:954][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_3]
+[2026.03.02-15.59.20:961][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_3_Auto6
+[2026.03.02-15.59.20:961][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/industrial_wall_light_texture_3_EC9874864C2F6D028B8835BCA324774E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_3_Auto6.uasset'
+[2026.03.02-15.59.20:963][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_4] ([1] browsable assets)...
+[2026.03.02-15.59.20:964][239]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_4.industrial_wall_light_texture_4]
+[2026.03.02-15.59.20:964][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_4]
+[2026.03.02-15.59.20:979][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_4_Auto6
+[2026.03.02-15.59.20:979][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/industrial_wall_light_texture_4_BE4B59DE463EEA040A626191615CF5CB.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_4_Auto6.uasset'
+[2026.03.02-15.59.20:980][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_5] ([1] browsable assets)...
+[2026.03.02-15.59.20:982][239]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_5.industrial_wall_light_texture_5]
+[2026.03.02-15.59.20:982][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_5]
+[2026.03.02-15.59.20:991][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_5_Auto6
+[2026.03.02-15.59.20:991][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/industrial_wall_light_texture_5_C3E1C88B44CDCBE6FD823B8CB308C78D.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_5_Auto6.uasset'
+[2026.03.02-15.59.20:991][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_6] ([1] browsable assets)...
+[2026.03.02-15.59.20:993][239]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_6.industrial_wall_light_texture_6]
+[2026.03.02-15.59.20:993][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_6]
+[2026.03.02-15.59.21:008][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_6_Auto6
+[2026.03.02-15.59.21:009][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/industrial_wall_light_texture_6_A058B1F845983398D5AA50B3D0BFBF5F.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_6_Auto6.uasset'
+[2026.03.02-15.59.21:010][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_7] ([1] browsable assets)...
+[2026.03.02-15.59.21:011][239]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_7.industrial_wall_light_texture_7]
+[2026.03.02-15.59.21:011][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_7]
+[2026.03.02-15.59.21:025][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_7_Auto6
+[2026.03.02-15.59.21:025][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/industrial_wall_light_texture_7_59B023784E2E5884CBBD8F9CCA609303.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_7_Auto6.uasset'
+[2026.03.02-15.59.21:027][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_8] ([1] browsable assets)...
+[2026.03.02-15.59.21:028][239]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_8.industrial_wall_light_texture_8]
+[2026.03.02-15.59.21:028][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_8]
+[2026.03.02-15.59.21:043][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_8_Auto6
+[2026.03.02-15.59.21:043][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/industrial_wall_light_texture_8_335342DD4E3C0F272AA36DA8B41B5233.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_8_Auto6.uasset'
+[2026.03.02-15.59.21:045][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_9] ([1] browsable assets)...
+[2026.03.02-15.59.21:046][239]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_9.industrial_wall_light_texture_9]
+[2026.03.02-15.59.21:046][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_9]
+[2026.03.02-15.59.21:060][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_9_Auto6
+[2026.03.02-15.59.21:060][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/industrial_wall_light_texture_9_A282D0434490F48854CBE99C59E18E07.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Textures/industrial_wall_light_texture_9_Auto6.uasset'
+[2026.03.02-15.59.21:062][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Materials/lambert3SG] ([1] browsable assets)...
+[2026.03.02-15.59.21:069][239]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Industrial_Wall_Light/industrial_wall_light/Materials/lambert3SG.lambert3SG]
+[2026.03.02-15.59.21:069][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Materials/lambert3SG]
+[2026.03.02-15.59.21:076][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Materials/lambert3SG_Auto6
+[2026.03.02-15.59.21:076][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/lambert3SG_Auto6D029F46B4DA7D4FB5D590B9F3647ECF8.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Materials/lambert3SG_Auto6.uasset'
+[2026.03.02-15.59.21:077][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Materials/lambert2SG] ([1] browsable assets)...
+[2026.03.02-15.59.21:083][239]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Industrial_Wall_Light/industrial_wall_light/Materials/lambert2SG.lambert2SG]
+[2026.03.02-15.59.21:084][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Materials/lambert2SG]
+[2026.03.02-15.59.21:092][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Materials/lambert2SG_Auto6
+[2026.03.02-15.59.21:093][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/lambert2SG_Auto62D78B90F432A8F2C1ADC19887C6E9339.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Materials/lambert2SG_Auto6.uasset'
+[2026.03.02-15.59.21:094][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Materials/lambert4SG] ([1] browsable assets)...
+[2026.03.02-15.59.21:094][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Materials/lambert4SG]
+[2026.03.02-15.59.21:099][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Materials/lambert4SG_Auto6
+[2026.03.02-15.59.21:099][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/lambert4SG_Auto6851896D74E9D8DE0DB3D788E4FC19ABD.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/Materials/lambert4SG_Auto6.uasset'
+[2026.03.02-15.59.21:101][239]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/StaticMeshes/industrial_wall_light] ([1] browsable assets)...
+[2026.03.02-15.59.21:108][239]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Industrial_Wall_Light/industrial_wall_light/StaticMeshes/industrial_wall_light.industrial_wall_light]
+[2026.03.02-15.59.21:109][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Industrial_Wall_Light/industrial_wall_light/StaticMeshes/industrial_wall_light]
+[2026.03.02-15.59.21:122][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/StaticMeshes/industrial_wall_light_Auto6
+[2026.03.02-15.59.21:122][239]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/industrial_wall_light_Auto6733A16964BB862BCECA37DA18181E2AF.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Industrial_Wall_Light/industrial_wall_light/StaticMeshes/industrial_wall_light_Auto6.uasset'
+[2026.03.02-15.59.21:123][239]LogFileHelpers: Auto-saving content packages took 0.662
+[2026.03.02-15.59.28:733][593]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.02-15.59.28:733][593]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.02-15.59.28:734][593]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_717
+[2026.03.02-15.59.28:735][593]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_717
+[2026.03.02-15.59.33:451][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-15.59.33:583][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.02-15.59.33:734][825]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.03.02-15.59.33:734][825]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion424F44A741BD49C6EE312CB0634F535C.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.03.02-15.59.33:753][825]LogFileHelpers: Saving map 'LightVersion' took 0.213
+[2026.03.02-15.59.33:757][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 305.555 ms (total: 14.2 sec)
+[2026.03.02-15.59.33:821][825]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-15.59.33:821][825]LogContentValidation: Enabled validators:
+[2026.03.02-15.59.33:821][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-15.59.33:821][825]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-15.59.33:821][825]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-15.59.33:821][825]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-15.59.33:821][825]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-15.59.33:821][825]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-15.59.33:822][825]AssetCheck: /Game/Dimensions/LightVersion Validating asset
