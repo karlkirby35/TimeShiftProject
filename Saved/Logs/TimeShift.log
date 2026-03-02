@@ -1437,3 +1437,58 @@ FPackageName: Skipped package /Game/Pack_Bonus/Textures/Tile_1/T_Pack_Bonus_Tile
 [2026.03.02-21.29.59:328][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7.575523, Update Interval: 302.442688
 [2026.03.02-21.30.00:695][ 42]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
 [2026.03.02-21.30.00:695][ 42]LogFab: Error: User auth token is invalid - unable to get auth token
+[2026.03.02-21.31.26:814][637]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.03.02-21.31.30:305][812]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.03.02-21.31.30:305][812]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.03.02-21.31.30:308][812]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_122
+[2026.03.02-21.31.30:309][812]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_122
+[2026.03.02-21.31.36:571][174]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.03.02-21.31.36:632][177]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.03.02-21.31.46:736][781]LogDerivedDataCache: C:/Users/karlk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.02-21.32.08:973][110]Cmd: TRANSACTION UNDO
+[2026.03.02-21.32.08:973][110]LogEditorTransaction: Undo Set Scale
+[2026.03.02-21.32.09:869][144]Cmd: TRANSACTION UNDO
+[2026.03.02-21.32.09:869][144]LogEditorTransaction: Undo Set Scale
+[2026.03.02-21.32.10:256][167]Cmd: TRANSACTION UNDO
+[2026.03.02-21.32.10:256][167]LogEditorTransaction: Undo Set Scale
+[2026.03.02-21.32.14:174][400]Cmd: TRANSACTION UNDO
+[2026.03.02-21.32.14:174][400]LogEditorTransaction: Undo Set Scale
+[2026.03.02-21.32.14:555][408]Cmd: TRANSACTION UNDO
+[2026.03.02-21.32.14:556][408]LogEditorTransaction: Undo Create Actor
+[2026.03.02-21.32.14:615][408]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.03.02-21.32.24:649][994]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.03.02-21.33.08:807][618]LogStreaming: Display: FlushAsyncLoading(330): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.02-21.33.08:876][619]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.03.02-21.33.08:960][621]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.03.02-21.35.01:829][468]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 310.437897
+[2026.03.02-21.35.02:829][471]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-21.35.02:829][471]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 311.104004, Update Interval: 327.208466
+[2026.03.02-21.35.21:108][789]LogStreaming: Display: FlushAsyncLoading(331): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.02-21.35.21:278][789]LogAssetTools: Warning: Failed to import 'C:\Users\karlk\Downloads\stars-galaxy-outer-space-sky-night-universe_146539-175.avif'. Unknown extension 'avif'.
+[2026.03.02-21.36.55:582][ 22]LogFab: Display: Asset Type = unreal-engine
+[2026.03.02-21.36.55:582][ 22]LogFab: Display: Is Quixel = 0
+[2026.03.02-21.36.55:589][ 22]LogFab: Display: Base Url https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/SpaceNebe854cef69cabV6/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/SpaceNebe854cef69cabV6/CloudDir,https://egdownload.fastly-edge.com/Builds/Rocket/Automated/SpaceNebe854cef69cabV6/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/SpaceNebe854cef69cabV6/CloudDir
+[2026.03.02-21.37.36:957][482]LogFab: Display: Import Cancelled
+[2026.03.02-21.38.07:385][296]LogFab: Display: Logging in using account portal
+[2026.03.02-21.38.07:394][296]LogEOSSDK: LogEOSAuth: BeginDesktopCrossplayLogin: Desktop crossplay can be used with this login type
+[2026.03.02-21.38.07:396][296]LogEOSSDK: Warning: LogEOSAuth: BeginDesktopCrossplayLogin: Desktop crossplay is not ready: EOS_DesktopCrossplay_ApplicationNotBootstrapped
+[2026.03.02-21.38.07:397][296]LogEOSSDK: LogEOSAuth: BeginDesktopCrossplayLogin: Desktop crossplay is not required for login
+[2026.03.02-21.38.07:568][306]LogEOSSDK: LogEOSAuth: GenerateUserAuthByDeviceCode: Received FUserAuthToken
+[2026.03.02-21.38.07:585][307]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Device auth to be continued at: <Redacted>
+[2026.03.02-21.38.07:585][307]LogEOSSDK: Warning: LogEOSAuth: UserAuthGenerated: Account Portal overlay failed to load for device auth continuation; falling back to browser based flow
+[2026.03.02-21.38.07:585][307]LogEOSSDK: LogEOSAuth: LaunchAccountPortalWithPlatformBrowser: Launching with platform browser: <Redacted>
+[2026.03.02-21.38.07:589][307]LogEOSSDK: LogEOSAuth: LaunchAccountPortalWithPlatformBrowser: Successfully launched with platform browser
+[2026.03.02-21.38.08:010][313]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-6JHd_6HC00amrNZsx0-klw-Imedv0M9OUSjht5JngXsIQ]
+[2026.03.02-21.38.18:344][344]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-6JHd_6HC00amrNZsx0-klw-rSTNeK0k3U6lI87DMrVUJA]
+[2026.03.02-21.38.28:684][375]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.authorization_pending], NumericErrorCode=[1012], ErrorMessage=[The authorization server request is still pending as the end user has yet to visit and enter the verification code.], CorrId=[EOS-6JHd_6HC00amrNZsx0-klw-UvW6K4xVq0KqvmB_TY6Knw]
+[2026.03.02-21.38.39:359][407]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: b64...2c7 Access[Expires: 2026.03.02-23.38.38 Remaining: 7200.93] Refresh[Expires: 2026-08-29T21:38:38.933Z Remaining: 15552000.93] State: Valid
+[2026.03.02-21.38.39:685][408]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.03.02-21.38.40:686][411]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.03.02-21.38.40:686][411]LogFab: Display: User logged in
+[2026.03.02-21.38.40:686][411]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.03.02-21.38.41:350][413]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-6JHd_6HC00amrNZsx0-klw-lWX3xyiR7EGlbtExQxV3OA]
+[2026.03.02-21.39.39:216][466]LogEOSSDK: Error: LogEOSAuth: Authentication session lost due to failing verification. Error: EOS_Auth_InvalidToken UserId: b64...2c7
+[2026.03.02-21.39.39:219][466]LogEOSSDK: Warning: LogEOSPresence: Can't set presence to offline, No connection to EpicConnect. LocalUserId=[b64...2c7]
+[2026.03.02-21.40.32:321][652]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 640.931641
+[2026.03.02-21.40.32:521][664]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.02-21.40.32:521][664]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 641.116821, Update Interval: 304.971466
