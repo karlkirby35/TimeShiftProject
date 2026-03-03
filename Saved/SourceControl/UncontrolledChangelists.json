@@ -5,6 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_01_Alpha.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_02_Alpha.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_03_Alpha.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_04_Alpha.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_05_Alpha.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_04.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_03.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Nebula.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Nebula_Alpha.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Black.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Stars_Near_Small.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_White.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_01.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_02.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_05.uasset",
 				"C:/Users/karlk/TimeShiftProject/Content/Dimensions/LightVersion.umap"
 			]
 		}
