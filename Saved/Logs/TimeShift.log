@@ -3425,3 +3425,309 @@ Sampler Limit: 32
 [2026.03.03-13.27.21:525][902]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.03-13.27.21:525][902]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.03-13.27.21:525][902]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.03.03-13.30.00:826][270]LogSlate: Window 'Content Browser' being destroyed
+[2026.03.03-13.32.51:571][934]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5439.171387
+[2026.03.03-13.32.51:766][945]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-13.32.51:766][945]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5439.348633, Update Interval: 340.859406
+[2026.03.03-13.39.26:915][326]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5834.498535
+[2026.03.03-13.39.27:092][336]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-13.39.27:092][336]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5834.656738, Update Interval: 328.874786
+[2026.03.03-13.45.47:888][100]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6215.461426
+[2026.03.03-13.45.48:045][119]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-13.45.48:045][120]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6215.611816, Update Interval: 320.131226
+[2026.03.03-13.46.31:985][848]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.03.03-13.46.31:985][848]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.03.03-13.46.31:987][848]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_783
+[2026.03.03-13.46.31:988][848]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_783
+[2026.03.03-13.46.52:878][854]LogStreaming: Display: FlushAsyncLoading(441): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-13.46.58:893][193]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.03.03-13.46.58:895][193]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.03.03-13.47.05:493][580]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.03.03-13.47.29:417][998]Cmd: DELETE
+[2026.03.03-13.47.29:417][998]Cmd: ACTOR DELETE
+[2026.03.03-13.47.29:418][998]LogInteractiveToolsContext: Warning: Cannot delete objects while this Tool is active
+[2026.03.03-13.48.54:448][984]Cmd: DELETE
+[2026.03.03-13.48.54:448][984]Cmd: ACTOR DELETE
+[2026.03.03-13.48.54:464][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-13.48.54:520][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.03.03-13.48.54:525][984]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2026.03.03-13.49.05:925][637]Cmd: EDIT COPY
+[2026.03.03-13.49.06:746][681]Cmd: EDIT PASTE
+[2026.03.03-13.51.49:073][447]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6576.586426
+[2026.03.03-13.51.49:245][462]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-13.51.49:245][462]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6576.747070, Update Interval: 309.785461
+[2026.03.03-13.51.52:997][792]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.03.03-13.51.52:997][792]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.03.03-13.51.52:999][792]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_785
+[2026.03.03-13.51.53:000][792]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_785
+[2026.03.03-13.52.31:132][642]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.03.03-13.52.31:133][642]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.03.03-13.52.33:834][844]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.03.03-13.52.34:761][911]Cmd: DELETE
+[2026.03.03-13.52.34:761][911]Cmd: ACTOR DELETE
+[2026.03.03-13.52.34:762][911]LogInteractiveToolsContext: Warning: Cannot delete objects while this Tool is active
+[2026.03.03-13.52.40:940][369]Cmd: DELETE
+[2026.03.03-13.52.40:940][369]Cmd: ACTOR DELETE
+[2026.03.03-13.52.40:940][369]LogInteractiveToolsContext: Warning: Cannot delete objects while this Tool is active
+[2026.03.03-13.53.23:895][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.03-13.53.23:999][582]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto5
+[2026.03.03-13.53.24:000][582]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion_Auto5DDDA620949CCA35945E7D18E253DC9BE.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Dimensions/LightVersion_Auto5.umap'
+[2026.03.03-13.53.24:001][582]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.146
+[2026.03.03-13.53.24:001][582]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.146
+[2026.03.03-13.56.19:481][701]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2026.03.03-13.56.19:484][701]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.03.03-13.56.19:850][701]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.03-13.56.19:850][701]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.03-13.56.19:850][701]MaterialEditorStats: Shader Count: 0
+[2026.03.03-13.56.19:850][701]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.03.03-13.56.19:921][703]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.03-13.56.19:921][703]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.03-13.56.19:921][703]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.03-13.56.19:921][703]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.03-13.56.19:921][703]MaterialEditorStats: Shader Count: 5
+[2026.03.03-13.56.19:921][703]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.03.03-13.56.24:673][260]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.03-13.56.24:673][260]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.03-13.56.24:673][260]MaterialEditorStats: Shader Count: 0
+[2026.03.03-13.56.24:673][260]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.03.03-13.56.24:825][262]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.03-13.56.24:825][262]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.03-13.56.24:825][262]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.03-13.56.24:825][262]MaterialEditorStats: Shader Count: 3
+[2026.03.03-13.56.24:825][262]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.03.03-13.56.25:340][306]MaterialEditorStats: Base pass shader: 182 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.03-13.56.25:340][306]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.03-13.56.25:340][306]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.03-13.56.25:340][306]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.03-13.56.25:340][306]MaterialEditorStats: Shader Count: 6
+[2026.03.03-13.56.25:340][306]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.03.03-13.56.31:045][973]LogMaterialEditor: Applying material BasicShapeMaterial
+[2026.03.03-13.56.32:309][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.03.03-13.56.34:715][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.03-13.56.34:743][973]MaterialEditorStats: Base pass shader: 182 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.03-13.56.34:743][973]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.03-13.56.34:743][973]MaterialEditorStats: Nanite Compute Shader: 817 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.03-13.56.34:743][973]MaterialEditorStats: Texture samplers: 1/16
+[2026.03.03-13.56.34:743][973]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.03-13.56.34:743][973]MaterialEditorStats: Shader Count: 53
+[2026.03.03-13.56.34:743][973]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.03.03-13.56.35:343][ 40]LogMaterialEditor: Saving and Compiling material BasicShapeMaterial
+[2026.03.03-13.56.35:344][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.56.35:414][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/BasicShapes/BasicShapeMaterial] ([1] browsable assets)...
+[2026.03.03-13.56.35:478][ 40]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial]
+[2026.03.03-13.56.35:478][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/BasicShapeMaterial]
+[2026.03.03-13.56.35:478][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2026.03.03-13.56.35:486][ 40]LogSavePackage: Moving output files for package: /Engine/BasicShapes/BasicShapeMaterial
+[2026.03.03-13.56.35:486][ 40]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/BasicShapeMaterial7A8B606C408FF47B863D8CAB16900E56.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2026.03.03-13.56.35:493][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.130 ms (total: 856.483 ms)
+[2026.03.03-13.56.35:525][ 40]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.56.35:526][ 40]LogContentValidation: Enabled validators:
+[2026.03.03-13.56.35:526][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.56.35:526][ 40]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.56.35:526][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.56.35:526][ 40]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.56.35:526][ 40]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.56.35:526][ 40]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.56.35:526][ 40]AssetCheck: /Engine/BasicShapes/BasicShapeMaterial Validating asset
+[2026.03.03-13.56.35:540][ 40]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.03-13.57.30:126][440]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6917.662109
+[2026.03.03-13.57.30:288][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-13.57.30:288][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6917.813477, Update Interval: 317.205109
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: ================================================
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Total job queries 1,031, among them cache hits 302 (29.29%), DDC hits 573 (55.58%), Duplicates 80 (7.76%)
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Tracking 649 distinct input hashes that result in 445 distinct outputs (68.57%)
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: RAM used: 3.78 MiB of 3.20 GiB budget. Usage: 0.12%
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Shaders Compiled: 76
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Jobs assigned 76, completed 76 (100%)
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Average time worker was idle: 1717.09 s
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Time job spent in pending queue: average 0.27 s, longest 1.82 s
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Job execution time: average 1.12 s, max 2.83 s
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Job life time (pending + execution): average 1.39 s, max 3.05
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Shader code size: total 721.506 KiB, numShaders 83, average 8.692 KiB, min 2.691 KiB, max 19.539 KiB
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.23 s
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Jobs were issued in 76 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Average processing rate: 6.22 jobs/sec
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Total thread time: 50.391 s
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Total thread preprocess time: 14.924 s
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Percentage time preprocessing: 29.62%
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Effective parallelization: 4.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.257604
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.74 sec, max 1.74 sec, min 1.74 sec)
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.67 sec, max 1.67 sec, min 1.67 sec)
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.46 sec, max 1.46 sec, min 1.46 sec)
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 1.21 sec, max 1.45 sec, min 1.11 sec)
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 1.16 sec, max 1.16 sec, min 1.16 sec)
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.76% of total time (compiled    5 times, average 0.98 sec, max 1.40 sec, min 0.65 sec)
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.63% of total time (compiled    4 times, average 1.21 sec, max 1.45 sec, min 1.11 sec)
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.19% of total time (compiled    8 times, average 0.52 sec, max 0.66 sec, min 0.36 sec)
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 8.04% of total time (compiled    4 times, average 1.01 sec, max 1.36 sec, min 0.85 sec)
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display:                                                  FVelocityPS - 6.69% of total time (compiled    5 times, average 0.67 sec, max 0.79 sec, min 0.52 sec)
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: === Material stats ===
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Materials Translated:    275
+[2026.03.03-13.59.17:980][398]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2026.03.03-13.59.17:981][398]LogShaderCompilers: Display: Material Translation Only: 0.09 s (40%)
+[2026.03.03-13.59.17:981][398]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.03.03-13.59.17:981][398]LogShaderCompilers: Display: Material Cache Hits: 60 (22%)
+[2026.03.03-13.59.17:981][398]LogShaderCompilers: Display: ================================================
+[2026.03.03-14.00.40:329][645]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: b64...2c7
+[2026.03.03-14.00.40:329][645]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.88 RefreshExpires: 1.554e+07
+[2026.03.03-14.00.41:329][649]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: b64...2c7 Access[Expires: 2026.03.03-16.00.40 Remaining: 7200.75] Refresh[Expires: 2026-08-30T12:00:23.522Z Remaining: 15544783.52] State: Valid
+[2026.03.03-14.03.23:847][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.03-14.03.23:955][176]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto6
+[2026.03.03-14.03.23:956][176]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion_Auto6BF307FB84C5B29FB70710F8B2E3127A1.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Dimensions/LightVersion_Auto6.umap'
+[2026.03.03-14.03.23:957][176]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.134
+[2026.03.03-14.03.23:957][176]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.134
+[2026.03.03-14.03.26:260][449]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7273.646484
+[2026.03.03-14.03.26:386][464]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-14.03.26:386][464]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7273.762695, Update Interval: 310.669891
+[2026.03.03-14.04.06:951][168]LogDerivedDataCache: C:/Users/N00235865/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.03-14.09.16:398][202]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7623.778809
+[2026.03.03-14.09.16:558][212]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-14.09.16:558][212]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7623.923340, Update Interval: 336.677155
+[2026.03.03-14.13.24:113][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.03.03-14.13.24:223][520]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto7
+[2026.03.03-14.13.24:223][520]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion_Auto7B8E1C8B346BB17BA7443D78A72ED2534.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Dimensions/LightVersion_Auto7.umap'
+[2026.03.03-14.13.24:225][520]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.135
+[2026.03.03-14.13.24:225][520]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.135
+[2026.03.03-14.15.29:866][995]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7997.270508
+[2026.03.03-14.15.30:024][  7]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-14.15.30:024][  7]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7997.415527, Update Interval: 303.951538
+[2026.03.03-14.21.04:850][281]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8332.266602
+[2026.03.03-14.21.05:023][294]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-14.21.05:023][294]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8332.423828, Update Interval: 329.286774
+[2026.03.03-14.27.16:798][358]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8704.373047
+[2026.03.03-14.27.16:959][370]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-14.27.16:959][370]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8704.523438, Update Interval: 323.771484
+[2026.03.03-14.33.37:349][118]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9085.013672
+[2026.03.03-14.33.37:533][132]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-14.33.37:533][132]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9085.184570, Update Interval: 342.027649
+[2026.03.03-14.36.19:888][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.03.03-14.36.19:986][912]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto8
+[2026.03.03-14.36.19:987][912]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion_Auto8E12FA7A24EC7D6B79D73A99A8AFAE607.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Dimensions/LightVersion_Auto8.umap'
+[2026.03.03-14.36.19:989][912]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.121
+[2026.03.03-14.36.19:989][912]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.121
+[2026.03.03-14.39.08:164][223]LogInteractiveToolsContext: Display: Select a mesh. Switch tools to paint vertex colors, blend between textures, or paint directly onto a texture file.
+[2026.03.03-14.39.35:181][241]Cmd: TRANSACTION UNDO
+[2026.03.03-14.39.35:181][241]LogEditorTransaction: Undo Place Objects
+[2026.03.03-14.39.35:978][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.03.03-14.39.36:181][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.03.03-14.39.40:893][553]LogStreaming: Display: FlushAsyncLoading(452): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-14.39.40:992][555]LogTexture: Display: Building textures: /Game/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Flowmap.TC_Flowmap (RGBA16F, 8192x4096 x1x1x1) (Required Memory Estimate: 3713.000 MB), EncodeSpeed: Fast
+[2026.03.03-14.39.51:296][835]Cmd: TRANSACTION UNDO
+[2026.03.03-14.39.51:296][835]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.03-14.39.52:567][853]Cmd: TRANSACTION UNDO
+[2026.03.03-14.39.52:567][853]LogEditorTransaction: Undo Place Objects
+[2026.03.03-14.39.52:791][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.03.03-14.39.52:980][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.03-14.40.02:323][240]Cmd: TRANSACTION UNDO
+[2026.03.03-14.40.02:323][240]LogEditorTransaction: Undo Place Objects
+[2026.03.03-14.40.02:489][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.03.03-14.40.02:686][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.03-14.40.07:752][553]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9475.484375
+[2026.03.03-14.40.07:954][559]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-14.40.07:954][559]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9475.653320, Update Interval: 303.872803
+[2026.03.03-14.40.14:279][775]Cmd: TRANSACTION UNDO
+[2026.03.03-14.40.14:279][775]LogEditorTransaction: Undo Place Objects
+[2026.03.03-14.40.14:445][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.03.03-14.40.14:640][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: ================================================
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Total job queries 1,353, among them cache hits 609 (45.01%), DDC hits 573 (42.35%), Duplicates 82 (6.06%)
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Tracking 662 distinct input hashes that result in 445 distinct outputs (67.22%)
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: RAM used: 3.78 MiB of 3.20 GiB budget. Usage: 0.12%
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Shaders Compiled: 89
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Jobs assigned 89, completed 89 (100%)
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Average time worker was idle: 1872.10 s
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Time job spent in pending queue: average 0.24 s, longest 1.82 s
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Job execution time: average 1.32 s, max 2.98 s
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Job life time (pending + execution): average 1.56 s, max 3.06
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Shader code size: total 840.184 KiB, numShaders 98, average 8.573 KiB, min 2.691 KiB, max 19.539 KiB
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.29 s
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Jobs were issued in 89 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Average processing rate: 5.82 jobs/sec
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Total thread time: 60.631 s
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Total thread preprocess time: 19.345 s
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Percentage time preprocessing: 31.91%
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Effective parallelization: 3.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.247789
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.74 sec, max 1.74 sec, min 1.74 sec)
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.67 sec, max 1.67 sec, min 1.67 sec)
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.46 sec, max 1.46 sec, min 1.46 sec)
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    2 times, average 1.23 sec, max 1.30 sec, min 1.16 sec)
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    5 times, average 1.23 sec, max 1.45 sec, min 1.11 sec)
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display:                                             FDebugViewModePS - 10.16% of total time (compiled    5 times, average 1.23 sec, max 1.45 sec, min 1.11 sec)
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.11% of total time (compiled    5 times, average 0.98 sec, max 1.40 sec, min 0.65 sec)
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.84% of total time (compiled    9 times, average 0.53 sec, max 0.66 sec, min 0.36 sec)
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 7.51% of total time (compiled    4 times, average 1.14 sec, max 1.29 sec, min 1.04 sec)
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display:                                                  FVelocityPS - 6.98% of total time (compiled    6 times, average 0.71 sec, max 0.86 sec, min 0.52 sec)
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: === Material stats ===
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Materials Translated:    291
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Material Translation Only: 0.09 s (40%)
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: Material Cache Hits: 60 (21%)
+[2026.03.03-14.41.18:108][641]LogShaderCompilers: Display: ================================================
+[2026.03.03-14.43.01:685][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-14.43.01:781][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.03.03-14.43.01:870][578]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.03.03-14.43.01:870][578]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion2E85DDC44DF729A55921BD804A92A877.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.03.03-14.43.01:885][578]LogFileHelpers: Saving map 'LightVersion' took 0.141
+[2026.03.03-14.43.01:890][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 205.368 ms (total: 1.06 sec)
+[2026.03.03-14.43.01:945][578]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-14.43.01:945][578]LogContentValidation: Enabled validators:
+[2026.03.03-14.43.01:945][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-14.43.01:945][578]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-14.43.01:945][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-14.43.01:945][578]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-14.43.01:945][578]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-14.43.01:945][578]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-14.43.01:946][578]AssetCheck: /Game/Dimensions/LightVersion Validating asset
