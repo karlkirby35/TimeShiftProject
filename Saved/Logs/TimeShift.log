@@ -2458,3 +2458,970 @@ Sampler Limit: 32
 [2026.03.03-12.36.50:957][863]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.03-12.36.50:958][863]AssetCheck: /Game/Dimensions/LightVersion Validating asset
 [2026.03.03-12.36.50:972][863]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.03-12.37.06:409][171]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2026.03.03-12.37.06:409][171]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.TSR.ReprojectionField:0]]
+[2026.03.03-12.37.06:409][171]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2026.03.03-12.37.06:409][171]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2026.03.03-12.37.06:409][171]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2026.03.03-12.37.06:439][171]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2026.03.03-12.37.06:439][171]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2026.03.03-12.37.06:439][171]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2026.03.03-12.37.06:439][171]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2026.03.03-12.37.06:439][171]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2026.03.03-12.37.06:439][171]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2026.03.03-12.37.06:439][171]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2026.03.03-12.37.06:440][171]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2026.03.03-12.37.06:440][171]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2026.03.03-12.37.06:440][171]LogConsoleManager: Warning: Setting the console variable 'r.HeterogeneousVolumes' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2026.03.03-12.37.06:440][171]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2026.03.03-12.37.06:440][171]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2026.03.03-12.37.06:440][171]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2026.03.03-12.37.06:440][171]LogConfig: Applying CVar settings from Section [LandscapeQuality@1] File [Scalability]
+[2026.03.03-12.37.06:468][171]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\MyMaterials\Floor.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.03-12.37.06:471][171]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Animated_Nebulas_Starter_Pack\Planet_System\Materials\Star_Dome\M_Star_Nebula.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+
+[2026.03.03-12.37.06:471][171]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.03-12.37.06:482][171]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Dimensions\LightVersion.umap: Failed to compile Material Instance with Base Floor for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.03-12.37.06:482][171]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Dimensions\LightVersion.umap: Failed to compile Material Instance with Base Floor for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.03-12.37.06:502][172]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2026.03.03-12.37.06:577][175]LogContentStreaming: Texture pool size now 600 MB
+[2026.03.03-12.37.06:577][175]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="600"
+[2026.03.03-12.37.21:093][914]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2026.03.03-12.37.21:093][914]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2026.03.03-12.37.21:095][914]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.DirectionalLight_1
+[2026.03.03-12.37.21:096][914]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.DirectionalLight_1
+[2026.03.03-12.37.24:476][ 26]Cmd: DELETE
+[2026.03.03-12.37.24:476][ 26]Cmd: ACTOR DELETE
+[2026.03.03-12.37.24:482][ 26]LogEditorActor: Deleted Actor: DirectionalLight
+[2026.03.03-12.37.24:497][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.03.03-12.37.24:501][ 26]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.03.03-12.37.28:422][168]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.03.03-12.37.28:422][168]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.03.03-12.37.30:415][237]Cmd: DELETE
+[2026.03.03-12.37.30:415][237]Cmd: ACTOR DELETE
+[2026.03.03-12.37.30:421][237]LogEditorActor: Deleted Actor: PointLight
+[2026.03.03-12.37.30:439][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.03.03-12.37.30:441][237]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.03.03-12.38.08:921][171]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2026.03.03-12.38.08:921][171]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.TSR.ReprojectionField:1]]
+[2026.03.03-12.38.08:921][171]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2026.03.03-12.38.08:921][171]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2026.03.03-12.38.08:921][171]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2026.03.03-12.38.08:952][171]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2026.03.03-12.38.08:952][171]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2026.03.03-12.38.08:952][171]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2026.03.03-12.38.08:952][171]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2026.03.03-12.38.08:952][171]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2026.03.03-12.38.08:953][171]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2026.03.03-12.38.08:953][171]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2026.03.03-12.38.08:953][171]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2026.03.03-12.38.08:953][171]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2026.03.03-12.38.08:953][171]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2026.03.03-12.38.08:953][171]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2026.03.03-12.38.08:953][171]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2026.03.03-12.38.08:953][171]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2026.03.03-12.38.08:953][171]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2026.03.03-12.38.08:953][171]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2026.03.03-12.38.08:953][171]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2026.03.03-12.38.08:953][171]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2026.03.03-12.38.08:953][171]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2026.03.03-12.38.08:953][171]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2026.03.03-12.38.08:953][171]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2026.03.03-12.38.08:953][171]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2026.03.03-12.38.08:953][171]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2026.03.03-12.38.08:953][171]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2026.03.03-12.38.08:953][171]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2026.03.03-12.38.08:953][171]LogConfig: Applying CVar settings from Section [LandscapeQuality@2] File [Scalability]
+[2026.03.03-12.38.08:978][171]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\MyMaterials\Floor.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.03-12.38.08:981][171]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Animated_Nebulas_Starter_Pack\Planet_System\Materials\Star_Dome\M_Star_Nebula.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+
+[2026.03.03-12.38.08:982][171]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.03-12.38.08:993][171]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Dimensions\LightVersion.umap: Failed to compile Material Instance with Base Floor for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.03-12.38.08:993][171]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Dimensions\LightVersion.umap: Failed to compile Material Instance with Base Floor for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.03-12.38.09:012][172]LogContentStreaming: Texture pool size now 800 MB
+[2026.03.03-12.38.09:012][172]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="800"
+[2026.03.03-12.38.09:016][172]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2026.03.03-12.38.32:011][473]Cmd: EDIT COPY
+[2026.03.03-12.38.32:950][527]Cmd: EDIT PASTE
+[2026.03.03-12.38.45:562][235]Cmd: EDIT COPY
+[2026.03.03-12.38.48:877][417]Cmd: EDIT PASTE
+[2026.03.03-12.39.05:271][268]Cmd: TRANSACTION UNDO
+[2026.03.03-12.39.05:271][268]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.03-12.40.28:757][  8]LogSlate: Window 'Loading Many Assets' being destroyed
+[2026.03.03-12.40.28:768][  8]Message dialog closed, result: Yes, title: Loading Many Assets, text: About to load 50 assets. Are you sure you want to continue?
+[2026.03.03-12.40.28:813][  8]LogStreaming: Display: FlushAsyncLoading(428): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-12.40.29:068][  8]LogStaticMesh: Display: Building static mesh SM_GoodSky_Moon (Required Memory Estimate: 0.21355 MB)...
+[2026.03.03-12.40.29:068][  8]LogStaticMesh: Display: Building static mesh SM_GoodSky_StarMesh (Required Memory Estimate: 0.438822 MB)...
+[2026.03.03-12.40.29:069][  8]LogTexture: Display: Building textures: /Game/GoodSky/Resource/ArrowTool/T_GoodSky_SkyRing.T_GoodSky_SkyRing (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Fast
+[2026.03.03-12.40.29:072][  8]LogStaticMesh: Built static mesh [0.00s] /Game/GoodSky/Resource/ArrowTool/SM_GoodSky_StarMesh.SM_GoodSky_StarMesh
+[2026.03.03-12.40.29:072][  8]LogStaticMesh: Built static mesh [0.00s] /Game/GoodSky/Resource/ArrowTool/SM_GoodSky_Moon.SM_GoodSky_Moon
+[2026.03.03-12.40.29:073][  8]LogStaticMesh: Display: Building static mesh SM_GoodSky_Hemisphere (Required Memory Estimate: 2.722319 MB)...
+[2026.03.03-12.40.29:073][  8]LogStaticMesh: Display: Building static mesh SM_GoodSky_Sphere (Required Memory Estimate: 5.431139 MB)...
+[2026.03.03-12.40.29:073][  8]LogTexture: Display: Building textures: /Game/GoodSky/Resource/Textures/T_GoodSky_noise_smooth.T_GoodSky_noise_smooth (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2026.03.03-12.40.29:076][  8]LogTexture: Display: Building textures: /Game/GoodSky/Resource/Textures/T_GoodSky_Lightning.T_GoodSky_Lightning (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2026.03.03-12.40.29:078][  8]LogTexture: Display: Building textures: /Game/GoodSky/Resource/Textures/T_GoodSky_Moon.T_GoodSky_Moon (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Fast
+[2026.03.03-12.40.29:083][  8]LogStaticMesh: Built static mesh [0.01s] /Game/GoodSky/Resource/Mesh/SM_GoodSky_Hemisphere.SM_GoodSky_Hemisphere
+[2026.03.03-12.40.29:085][  8]LogTexture: Display: Building textures: /Game/GoodSky/Resource/Textures/T_GoodSky_clouds_E.T_GoodSky_clouds_E (TFO_AutoDXT, 2048x512 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2026.03.03-12.40.29:085][  8]LogTexture: Display: Building textures: /Game/GoodSky/Resource/Textures/T_GoodSky_clouds_D.T_GoodSky_clouds_D (TFO_AutoDXT, 2048x512 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2026.03.03-12.40.29:085][  8]LogTexture: Display: Building textures: /Game/GoodSky/Resource/Textures/T_GoodSky_clouds_C.T_GoodSky_clouds_C (TFO_AutoDXT, 2048x512 x1x1x1) (Required Memory Estimate: 170.083323 MB), EncodeSpeed: Fast
+[2026.03.03-12.40.29:089][  8]LogStaticMesh: Built static mesh [0.02s] /Game/GoodSky/Resource/Mesh/SM_GoodSky_Sphere.SM_GoodSky_Sphere
+[2026.03.03-12.40.29:150][  8]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_GoodSky_Showcase
+[2026.03.03-12.40.29:175][  8]LogObjectTools: Deleting 1 worlds: /Game/GoodSky/Maps/Level_GoodSky_Showcase.Level_GoodSky_Showcase
+[2026.03.03-12.40.29:175][  8]LogObjectTools: Currently 6 active worlds: /Game/Dimensions/LightVersion.LightVersion, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_8
+[2026.03.03-12.40.29:193][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.03.03-12.40.37:838][  8]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.03-12.40.37:851][  8]LogWorld: UWorld::CleanupWorld for Level_GoodSky_Showcase, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-12.40.37:851][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-12.40.38:890][  8]LogMeshUtilities: Finished distance field build in 1.0s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 0 triangles, SM_GoodSky_Hemisphere
+[2026.03.03-12.40.39:008][  8]LogMeshUtilities: Finished distance field build in 1.1s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, SM_GoodSky_Sphere
+[2026.03.03-12.40.39:203][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.03.03-12.40.39:223][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.03.03-12.40.39:241][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.03-12.40.39:332][  8]LogStreaming: Display: FlushAsyncLoading(432): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-12.40.39:440][  8]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.03-12.40.39:608][ 10]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.03.03-12.40.39:764][ 17]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.03.03-12.40.40:535][ 40]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.03.03-12.40.41:164][ 59]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.03.03-12.40.41:362][ 61]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.03.03-12.40.52:058][421]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_01.SM_Satelite_01
+[2026.03.03-12.40.52:059][421]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_01.SM_Satelite_01
+[2026.03.03-12.40.52:060][421]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_01.SM_Satelite_01 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_720
+[2026.03.03-12.40.53:368][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.03-12.40.53:390][483]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2026.03.03-12.40.53:400][483]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_01.SM_Satelite_01
+[2026.03.03-12.40.53:400][483]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_01.SM_Satelite_01
+[2026.03.03-12.40.53:402][483]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_01.SM_Satelite_01 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_721
+[2026.03.03-12.41.20:758][743]Cmd: EDIT COPY
+[2026.03.03-12.41.21:475][775]Cmd: EDIT PASTE
+[2026.03.03-12.41.28:006][ 45]Cmd: EDIT COPY
+[2026.03.03-12.41.28:724][ 80]Cmd: EDIT PASTE
+[2026.03.03-12.41.30:839][166]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.03.03-12.41.44:454][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_03.SM_Satelite_03
+[2026.03.03-12.41.44:454][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_03.SM_Satelite_03
+[2026.03.03-12.41.44:455][813]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_03.SM_Satelite_03 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_725
+[2026.03.03-12.41.46:783][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.03.03-12.41.46:786][927]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2026.03.03-12.41.46:797][927]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_03.SM_Satelite_03
+[2026.03.03-12.41.46:797][927]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_03.SM_Satelite_03
+[2026.03.03-12.41.46:798][927]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_03.SM_Satelite_03 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_726
+[2026.03.03-12.41.54:133][302]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2381.719971
+[2026.03.03-12.41.54:323][312]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-12.41.54:323][312]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2381.890381, Update Interval: 328.777740
+[2026.03.03-12.42.11:095][109]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_02.SM_Satelite_02
+[2026.03.03-12.42.11:095][109]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_02.SM_Satelite_02
+[2026.03.03-12.42.11:096][109]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_02.SM_Satelite_02 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_727
+[2026.03.03-12.42.12:799][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.03-12.42.12:802][192]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.03.03-12.42.12:814][192]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_02.SM_Satelite_02
+[2026.03.03-12.42.12:814][192]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_02.SM_Satelite_02
+[2026.03.03-12.42.12:816][192]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Satelite_02.SM_Satelite_02 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_728
+[2026.03.03-12.42.50:945][221]Cmd: EDIT COPY
+[2026.03.03-12.42.51:687][249]Cmd: EDIT PASTE
+[2026.03.03-12.42.55:743][376]Cmd: DELETE
+[2026.03.03-12.42.55:743][376]Cmd: ACTOR DELETE
+[2026.03.03-12.42.55:749][376]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.42.55:764][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.03-12.42.55:770][376]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.03.03-12.43.09:814][945]Cmd: DELETE
+[2026.03.03-12.43.09:814][945]Cmd: ACTOR DELETE
+[2026.03.03-12.43.09:821][945]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.43.09:838][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.03-12.43.09:842][945]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2026.03.03-12.43.10:731][983]Cmd: DELETE
+[2026.03.03-12.43.10:731][983]Cmd: ACTOR DELETE
+[2026.03.03-12.43.10:737][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.43.10:752][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.03-12.43.10:755][983]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.03.03-12.43.18:797][303]Cmd: EDIT COPY
+[2026.03.03-12.43.19:538][328]Cmd: EDIT PASTE
+[2026.03.03-12.43.27:542][556]Cmd: EDIT COPY
+[2026.03.03-12.43.28:348][582]Cmd: EDIT PASTE
+[2026.03.03-12.45.15:705][344]Cmd: DELETE
+[2026.03.03-12.45.15:705][344]Cmd: ACTOR DELETE
+[2026.03.03-12.45.15:712][344]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.15:730][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.03.03-12.45.15:735][344]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.03.03-12.45.16:442][378]Cmd: DELETE
+[2026.03.03-12.45.16:443][378]Cmd: ACTOR DELETE
+[2026.03.03-12.45.16:449][378]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.16:463][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.03-12.45.16:466][378]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.03.03-12.45.17:305][404]Cmd: DELETE
+[2026.03.03-12.45.17:305][404]Cmd: ACTOR DELETE
+[2026.03.03-12.45.17:312][404]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.17:328][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.03-12.45.17:330][404]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.03.03-12.45.18:220][431]Cmd: DELETE
+[2026.03.03-12.45.18:220][431]Cmd: ACTOR DELETE
+[2026.03.03-12.45.18:228][431]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.18:242][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.03-12.45.18:243][431]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2026.03.03-12.45.18:904][449]Cmd: DELETE
+[2026.03.03-12.45.18:904][449]Cmd: ACTOR DELETE
+[2026.03.03-12.45.18:910][449]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.18:922][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.03-12.45.18:925][449]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.03.03-12.45.19:726][471]Cmd: DELETE
+[2026.03.03-12.45.19:726][471]Cmd: ACTOR DELETE
+[2026.03.03-12.45.19:731][471]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.19:746][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.03-12.45.19:748][471]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.03.03-12.45.20:446][491]Cmd: DELETE
+[2026.03.03-12.45.20:446][491]Cmd: ACTOR DELETE
+[2026.03.03-12.45.20:453][491]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.20:469][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.03-12.45.20:472][491]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.03.03-12.45.21:945][537]Cmd: DELETE
+[2026.03.03-12.45.21:945][537]Cmd: ACTOR DELETE
+[2026.03.03-12.45.21:950][537]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.21:963][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.03-12.45.21:965][537]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.03.03-12.45.22:703][557]Cmd: DELETE
+[2026.03.03-12.45.22:703][557]Cmd: ACTOR DELETE
+[2026.03.03-12.45.22:709][557]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.22:723][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.03.03-12.45.22:726][557]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.03.03-12.45.26:158][677]Cmd: DELETE
+[2026.03.03-12.45.26:158][677]Cmd: ACTOR DELETE
+[2026.03.03-12.45.26:165][677]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.26:180][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.03-12.45.26:182][677]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.03.03-12.45.26:808][702]Cmd: DELETE
+[2026.03.03-12.45.26:808][702]Cmd: ACTOR DELETE
+[2026.03.03-12.45.26:815][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.26:832][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.03-12.45.26:834][702]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.03.03-12.45.27:596][730]Cmd: DELETE
+[2026.03.03-12.45.27:596][730]Cmd: ACTOR DELETE
+[2026.03.03-12.45.27:603][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.27:615][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.03-12.45.27:617][730]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.03.03-12.45.28:399][759]Cmd: DELETE
+[2026.03.03-12.45.28:399][759]Cmd: ACTOR DELETE
+[2026.03.03-12.45.28:406][759]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.28:422][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.03-12.45.28:425][759]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.03.03-12.45.29:172][787]Cmd: DELETE
+[2026.03.03-12.45.29:172][787]Cmd: ACTOR DELETE
+[2026.03.03-12.45.29:178][787]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.29:194][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.03-12.45.29:197][787]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.03.03-12.45.29:773][806]Cmd: DELETE
+[2026.03.03-12.45.29:773][806]Cmd: ACTOR DELETE
+[2026.03.03-12.45.29:780][806]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.29:794][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.03-12.45.29:797][806]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.03.03-12.45.30:852][852]Cmd: DELETE
+[2026.03.03-12.45.30:852][852]Cmd: ACTOR DELETE
+[2026.03.03-12.45.30:858][852]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.30:873][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.03-12.45.30:875][852]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.03.03-12.45.31:690][885]Cmd: DELETE
+[2026.03.03-12.45.31:690][885]Cmd: ACTOR DELETE
+[2026.03.03-12.45.31:697][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.31:712][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.03-12.45.31:713][885]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.03.03-12.45.35:651][ 35]Cmd: DELETE
+[2026.03.03-12.45.35:651][ 35]Cmd: ACTOR DELETE
+[2026.03.03-12.45.35:659][ 35]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.35:673][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.03-12.45.35:675][ 35]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.03.03-12.45.37:464][109]Cmd: DELETE
+[2026.03.03-12.45.37:464][109]Cmd: ACTOR DELETE
+[2026.03.03-12.45.37:470][109]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.37:486][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.03-12.45.37:488][109]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.03.03-12.45.38:188][133]Cmd: DELETE
+[2026.03.03-12.45.38:188][133]Cmd: ACTOR DELETE
+[2026.03.03-12.45.38:196][133]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.38:213][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.03.03-12.45.38:215][133]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.03.03-12.45.39:137][167]Cmd: DELETE
+[2026.03.03-12.45.39:138][167]Cmd: ACTOR DELETE
+[2026.03.03-12.45.39:144][167]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.39:159][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.03-12.45.39:161][167]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.03.03-12.45.39:964][214]Cmd: DELETE
+[2026.03.03-12.45.39:964][214]Cmd: ACTOR DELETE
+[2026.03.03-12.45.39:970][214]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.39:987][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.03-12.45.39:990][214]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.03.03-12.45.40:781][259]Cmd: DELETE
+[2026.03.03-12.45.40:781][259]Cmd: ACTOR DELETE
+[2026.03.03-12.45.40:781][259]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2026.03.03-12.45.40:789][259]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.40:805][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.03-12.45.40:808][259]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.03.03-12.45.41:443][295]Cmd: DELETE
+[2026.03.03-12.45.41:443][295]Cmd: ACTOR DELETE
+[2026.03.03-12.45.41:450][295]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.41:466][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.03-12.45.41:469][295]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.03.03-12.45.42:243][340]Cmd: DELETE
+[2026.03.03-12.45.42:243][340]Cmd: ACTOR DELETE
+[2026.03.03-12.45.42:250][340]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.42:266][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.03.03-12.45.42:269][340]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.03.03-12.45.42:971][381]Cmd: DELETE
+[2026.03.03-12.45.42:971][381]Cmd: ACTOR DELETE
+[2026.03.03-12.45.42:978][381]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.42:994][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.03.03-12.45.42:996][381]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.03.03-12.45.46:949][655]Cmd: DELETE
+[2026.03.03-12.45.46:949][655]Cmd: ACTOR DELETE
+[2026.03.03-12.45.46:956][655]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.46:975][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.03-12.45.46:979][655]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.03.03-12.45.47:882][735]Cmd: DELETE
+[2026.03.03-12.45.47:882][735]Cmd: ACTOR DELETE
+[2026.03.03-12.45.47:888][735]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.47:904][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.03-12.45.47:906][735]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.03.03-12.45.48:984][832]Cmd: DELETE
+[2026.03.03-12.45.48:984][832]Cmd: ACTOR DELETE
+[2026.03.03-12.45.48:993][832]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.49:009][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.03-12.45.49:012][832]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2026.03.03-12.45.49:759][899]Cmd: DELETE
+[2026.03.03-12.45.49:759][899]Cmd: ACTOR DELETE
+[2026.03.03-12.45.49:767][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.49:785][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.03-12.45.49:788][899]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2026.03.03-12.45.57:283][387]Cmd: DELETE
+[2026.03.03-12.45.57:283][387]Cmd: ACTOR DELETE
+[2026.03.03-12.45.57:291][387]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.45.57:307][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.03.03-12.45.57:309][387]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.03.03-12.46.09:032][120]Cmd: EDIT COPY
+[2026.03.03-12.46.09:721][166]Cmd: EDIT PASTE
+[2026.03.03-12.46.43:715][165]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.03.03-12.46.43:715][165]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.03.03-12.47.12:553][ 68]Cmd: DELETE
+[2026.03.03-12.47.12:553][ 68]Cmd: ACTOR DELETE
+[2026.03.03-12.47.12:560][ 68]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.47.12:576][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.03-12.47.12:581][ 68]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2026.03.03-12.47.13:133][ 93]Cmd: DELETE
+[2026.03.03-12.47.13:133][ 93]Cmd: ACTOR DELETE
+[2026.03.03-12.47.13:139][ 93]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.47.13:156][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.03-12.47.13:159][ 93]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.03.03-12.47.13:678][119]Cmd: DELETE
+[2026.03.03-12.47.13:678][119]Cmd: ACTOR DELETE
+[2026.03.03-12.47.13:684][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.47.13:702][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.03-12.47.13:704][119]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2026.03.03-12.47.14:236][148]Cmd: DELETE
+[2026.03.03-12.47.14:236][148]Cmd: ACTOR DELETE
+[2026.03.03-12.47.14:243][148]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.47.14:259][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.03.03-12.47.14:262][148]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.03.03-12.47.16:581][294]Cmd: EDIT COPY
+[2026.03.03-12.47.17:269][340]Cmd: EDIT PASTE
+[2026.03.03-12.47.22:667][696]Cmd: EDIT PASTE
+[2026.03.03-12.47.26:620][947]Cmd: EDIT PASTE
+[2026.03.03-12.47.29:785][145]Cmd: EDIT PASTE
+[2026.03.03-12.48.10:722][502]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2758.300781
+[2026.03.03-12.48.10:897][512]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-12.48.10:897][512]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2758.466797, Update Interval: 351.076996
+[2026.03.03-12.48.14:769][726]Cmd: EDIT COPY
+[2026.03.03-12.48.15:414][762]Cmd: EDIT PASTE
+[2026.03.03-12.48.24:825][284]Cmd: EDIT COPY
+[2026.03.03-12.48.24:826][284]Cmd: EDIT PASTE
+[2026.03.03-12.48.26:794][377]Cmd: TRANSACTION UNDO
+[2026.03.03-12.48.26:794][377]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.03-12.48.28:302][439]Cmd: EDIT COPY
+[2026.03.03-12.48.29:155][485]Cmd: EDIT PASTE
+[2026.03.03-12.49.39:214][703]Cmd: EDIT COPY
+[2026.03.03-12.49.39:887][745]Cmd: EDIT PASTE
+[2026.03.03-12.51.09:404][417]Cmd: DELETE
+[2026.03.03-12.51.09:406][417]Cmd: ACTOR DELETE
+[2026.03.03-12.51.09:412][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.51.09:431][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.03.03-12.51.09:436][417]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.03.03-12.51.11:372][487]Cmd: DELETE
+[2026.03.03-12.51.11:372][487]Cmd: ACTOR DELETE
+[2026.03.03-12.51.11:379][487]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.51.11:397][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.03-12.51.11:399][487]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2026.03.03-12.51.12:202][511]Cmd: DELETE
+[2026.03.03-12.51.12:202][511]Cmd: ACTOR DELETE
+[2026.03.03-12.51.12:209][511]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.51.12:225][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.03-12.51.12:227][511]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2026.03.03-12.51.16:150][640]Cmd: TRANSACTION UNDO
+[2026.03.03-12.51.16:150][640]LogEditorTransaction: Undo Delete Elements
+[2026.03.03-12.51.16:647][643]Cmd: TRANSACTION UNDO
+[2026.03.03-12.51.16:647][643]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.03-12.51.17:241][657]Cmd: TRANSACTION UNDO
+[2026.03.03-12.51.17:241][657]LogEditorTransaction: Undo Delete Elements
+[2026.03.03-12.51.17:773][671]Cmd: TRANSACTION UNDO
+[2026.03.03-12.51.17:773][671]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.03-12.51.18:294][688]Cmd: TRANSACTION UNDO
+[2026.03.03-12.51.18:294][688]LogEditorTransaction: Undo Delete Elements
+[2026.03.03-12.52.18:736][622]Cmd: EDIT COPY
+[2026.03.03-12.52.24:181][923]Cmd: EDIT PASTE
+[2026.03.03-12.52.24:181][923]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2026.03.03-12.52.59:174][ 52]Cmd: EDIT COPY
+[2026.03.03-12.52.59:970][ 93]Cmd: EDIT PASTE
+[2026.03.03-12.53.04:891][342]Cmd: EDIT PASTE
+[2026.03.03-12.53.09:998][606]Cmd: EDIT PASTE
+[2026.03.03-12.53.18:424][105]Cmd: EDIT PASTE
+[2026.03.03-12.53.37:851][ 61]Cmd: EDIT COPY
+[2026.03.03-12.53.38:596][ 98]Cmd: EDIT PASTE
+[2026.03.03-12.54.07:645][617]Cmd: EDIT COPY
+[2026.03.03-12.54.09:542][731]Cmd: EDIT PASTE
+[2026.03.03-12.54.45:463][955]Cmd: EDIT COPY
+[2026.03.03-12.54.46:192][  6]Cmd: EDIT PASTE
+[2026.03.03-12.54.56:901][711]Cmd: DELETE
+[2026.03.03-12.54.56:901][711]Cmd: ACTOR DELETE
+[2026.03.03-12.54.56:909][711]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.03-12.54.56:931][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.03.03-12.54.56:936][711]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.03.03-12.55.00:767][950]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3168.350586
+[2026.03.03-12.55.00:953][959]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-12.55.00:953][959]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3168.516113, Update Interval: 346.526672
+[2026.03.03-12.55.04:665][159]Cmd: EDIT COPY
+[2026.03.03-12.55.05:431][214]Cmd: EDIT PASTE
+[2026.03.03-12.56.11:415][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.03.03-12.56.11:520][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto2
+[2026.03.03-12.56.11:522][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion_Auto2BD5F2AC941AD23E01B6CB9B06DB0FA67.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Dimensions/LightVersion_Auto2.umap'
+[2026.03.03-12.56.11:522][569]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.124
+[2026.03.03-12.56.11:522][569]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.124
+[2026.03.03-12.56.11:522][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Stars_Far_Blue_Mat] ([1] browsable assets)...
+[2026.03.03-12.56.11:522][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Stars_Far_Blue_Mat]
+[2026.03.03-12.56.11:529][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Stars_Far_Blue_Mat_Auto2
+[2026.03.03-12.56.11:529][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/TC_Stars_Far_Blue_Mat_Auto253A6CBB140B4E7507199CBBC40523C1A.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Stars_Far_Blue_Mat_Auto2.uasset'
+[2026.03.03-12.56.11:529][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0] ([1] browsable assets)...
+[2026.03.03-12.56.11:529][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0]
+[2026.03.03-12.56.11:538][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Auto2
+[2026.03.03-12.56.11:538][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/jupiter_texture_0_Auto2C1F9E28D4DCB097AEB3FDDBDAF03187A.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Auto2.uasset'
+[2026.03.03-12.56.11:539][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_1] ([1] browsable assets)...
+[2026.03.03-12.56.11:539][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_1]
+[2026.03.03-12.56.11:548][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_1_Auto2
+[2026.03.03-12.56.11:548][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/jupiter_texture_1_Auto23CD6E44F4A0E32CBCE7227B90734F7BE.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_1_Auto2.uasset'
+[2026.03.03-12.56.11:549][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_2] ([1] browsable assets)...
+[2026.03.03-12.56.11:549][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_2]
+[2026.03.03-12.56.11:559][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_2_Auto2
+[2026.03.03-12.56.11:559][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/jupiter_texture_2_Auto22082165145F39EF6C8611BB72CEE8DD5.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_2_Auto2.uasset'
+[2026.03.03-12.56.11:559][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_3] ([1] browsable assets)...
+[2026.03.03-12.56.11:560][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_3]
+[2026.03.03-12.56.11:569][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_3_Auto2
+[2026.03.03-12.56.11:569][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/jupiter_texture_3_Auto2B3D5B9BB461B11A003977AB16F503E75.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_3_Auto2.uasset'
+[2026.03.03-12.56.11:571][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Jupiter/jupiter/Materials/Planet] ([1] browsable assets)...
+[2026.03.03-12.56.11:571][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Materials/Planet]
+[2026.03.03-12.56.11:576][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Jupiter/jupiter/Materials/Planet_Auto2
+[2026.03.03-12.56.11:576][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Planet_Auto24E01164644AECD72DD62BFA201B097D8.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Jupiter/jupiter/Materials/Planet_Auto2.uasset'
+[2026.03.03-12.56.11:577][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Jupiter/jupiter/StaticMeshes/jupiter] ([1] browsable assets)...
+[2026.03.03-12.56.11:577][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/StaticMeshes/jupiter]
+[2026.03.03-12.56.11:590][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Jupiter/jupiter/StaticMeshes/jupiter_Auto2
+[2026.03.03-12.56.11:590][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/jupiter_Auto2F943E3264B00543C1DE351A1A7B9C725.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Jupiter/jupiter/StaticMeshes/jupiter_Auto2.uasset'
+[2026.03.03-12.56.11:590][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth/earth/Materials/Atmosphere] ([1] browsable assets)...
+[2026.03.03-12.56.11:590][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth/earth/Materials/Atmosphere]
+[2026.03.03-12.56.11:597][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Earth/earth/Materials/Atmosphere_Auto2
+[2026.03.03-12.56.11:597][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Atmosphere_Auto260633B9345ED23A53F4C55B488389DB2.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Earth/earth/Materials/Atmosphere_Auto2.uasset'
+[2026.03.03-12.56.11:598][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth/earth/Textures/earth_texture_0] ([1] browsable assets)...
+[2026.03.03-12.56.11:598][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth/earth/Textures/earth_texture_0]
+[2026.03.03-12.56.11:613][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Earth/earth/Textures/earth_texture_0_Auto2
+[2026.03.03-12.56.11:614][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/earth_texture_0_Auto2A3015D2F4AC942752EBA3CB157A10902.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Earth/earth/Textures/earth_texture_0_Auto2.uasset'
+[2026.03.03-12.56.11:614][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth/earth/Textures/earth_texture_1] ([1] browsable assets)...
+[2026.03.03-12.56.11:614][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth/earth/Textures/earth_texture_1]
+[2026.03.03-12.56.11:629][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Earth/earth/Textures/earth_texture_1_Auto2
+[2026.03.03-12.56.11:629][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/earth_texture_1_Auto297D6ADD04FE0EA1FAE221FA75A987ED4.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Earth/earth/Textures/earth_texture_1_Auto2.uasset'
+[2026.03.03-12.56.11:630][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth/earth/Materials/Clouds] ([1] browsable assets)...
+[2026.03.03-12.56.11:630][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth/earth/Materials/Clouds]
+[2026.03.03-12.56.11:636][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Earth/earth/Materials/Clouds_Auto2
+[2026.03.03-12.56.11:636][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Clouds_Auto2B5B9C60748B489AD3FC767B2BFCCC9C8.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Earth/earth/Materials/Clouds_Auto2.uasset'
+[2026.03.03-12.56.11:637][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth/earth/Materials/Earth] ([1] browsable assets)...
+[2026.03.03-12.56.11:637][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth/earth/Materials/Earth]
+[2026.03.03-12.56.11:642][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Earth/earth/Materials/Earth_Auto2
+[2026.03.03-12.56.11:642][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Earth_Auto22A8E048340D3B72013234789B4D5D79F.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Earth/earth/Materials/Earth_Auto2.uasset'
+[2026.03.03-12.56.11:643][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth/earth/StaticMeshes/earth] ([1] browsable assets)...
+[2026.03.03-12.56.11:643][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth/earth/StaticMeshes/earth]
+[2026.03.03-12.56.11:659][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Earth/earth/StaticMeshes/earth_Auto2
+[2026.03.03-12.56.11:659][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/earth_Auto2814386BE4C3E50DA48E680AFF7CD7711.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Earth/earth/StaticMeshes/earth_Auto2.uasset'
+[2026.03.03-12.56.11:659][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Mars/mars/Textures/mars_texture_0] ([1] browsable assets)...
+[2026.03.03-12.56.11:659][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Textures/mars_texture_0]
+[2026.03.03-12.56.11:670][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_0_Auto2
+[2026.03.03-12.56.11:670][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/mars_texture_0_Auto21F906AF844972DB2E1C5ABBB2C6C4A65.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_0_Auto2.uasset'
+[2026.03.03-12.56.11:671][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Mars/mars/Textures/mars_texture_1] ([1] browsable assets)...
+[2026.03.03-12.56.11:671][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Textures/mars_texture_1]
+[2026.03.03-12.56.11:681][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_1_Auto2
+[2026.03.03-12.56.11:681][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/mars_texture_1_Auto277A8B40F4BCEAADEB4E5D7AE53F0BD5F.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_1_Auto2.uasset'
+[2026.03.03-12.56.11:681][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Mars/mars/Textures/mars_texture_2] ([1] browsable assets)...
+[2026.03.03-12.56.11:681][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Textures/mars_texture_2]
+[2026.03.03-12.56.11:691][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_2_Auto2
+[2026.03.03-12.56.11:691][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/mars_texture_2_Auto2441853AC433A0D04DF51D78C878B831D.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_2_Auto2.uasset'
+[2026.03.03-12.56.11:692][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Mars/mars/Textures/mars_texture_3] ([1] browsable assets)...
+[2026.03.03-12.56.11:692][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Textures/mars_texture_3]
+[2026.03.03-12.56.11:702][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_3_Auto2
+[2026.03.03-12.56.11:702][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/mars_texture_3_Auto25EB7FDAC457CA0328BC75888A9F5D0B9.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_3_Auto2.uasset'
+[2026.03.03-12.56.11:702][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Mars/mars/Materials/Planet] ([1] browsable assets)...
+[2026.03.03-12.56.11:759][569]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Mars/mars/Materials/Planet.Planet]
+[2026.03.03-12.56.11:759][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Materials/Planet]
+[2026.03.03-12.56.11:767][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Mars/mars/Materials/Planet_Auto2
+[2026.03.03-12.56.11:767][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Planet_Auto23F1801FB4472A77BCE825597372FAEA1.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Mars/mars/Materials/Planet_Auto2.uasset'
+[2026.03.03-12.56.11:768][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Mars/mars/StaticMeshes/mars] ([1] browsable assets)...
+[2026.03.03-12.56.11:768][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/StaticMeshes/mars]
+[2026.03.03-12.56.11:782][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Mars/mars/StaticMeshes/mars_Auto2
+[2026.03.03-12.56.11:782][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/mars_Auto2E611916244A9E1115FC9F3A16ECEC66C.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Mars/mars/StaticMeshes/mars_Auto2.uasset'
+[2026.03.03-12.56.11:783][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Moon/moon/Textures/moon_texture_0] ([1] browsable assets)...
+[2026.03.03-12.56.11:783][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Moon/moon/Textures/moon_texture_0]
+[2026.03.03-12.56.11:793][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_0_Auto2
+[2026.03.03-12.56.11:793][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/moon_texture_0_Auto25BA4870E494DBAE7B13D36884B3F0AFA.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_0_Auto2.uasset'
+[2026.03.03-12.56.11:794][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Moon/moon/Textures/moon_texture_1] ([1] browsable assets)...
+[2026.03.03-12.56.11:794][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Moon/moon/Textures/moon_texture_1]
+[2026.03.03-12.56.11:805][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_1_Auto2
+[2026.03.03-12.56.11:805][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/moon_texture_1_Auto24115B33849C37B91D865C6BBF3802AEA.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_1_Auto2.uasset'
+[2026.03.03-12.56.11:805][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Moon/moon/Textures/moon_texture_2] ([1] browsable assets)...
+[2026.03.03-12.56.11:806][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Moon/moon/Textures/moon_texture_2]
+[2026.03.03-12.56.11:816][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_2_Auto2
+[2026.03.03-12.56.11:816][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/moon_texture_2_Auto28CA33BE14974C4F9BB1A6FA0F9682690.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_2_Auto2.uasset'
+[2026.03.03-12.56.11:817][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Moon/moon/Textures/moon_texture_3] ([1] browsable assets)...
+[2026.03.03-12.56.11:817][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Moon/moon/Textures/moon_texture_3]
+[2026.03.03-12.56.11:826][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_3_Auto2
+[2026.03.03-12.56.11:826][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/moon_texture_3_Auto214E9CBC34C95FCAF300A87BA20780C33.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_3_Auto2.uasset'
+[2026.03.03-12.56.11:827][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Moon/moon/Materials/Planet] ([1] browsable assets)...
+[2026.03.03-12.56.11:833][569]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Moon/moon/Materials/Planet.Planet]
+[2026.03.03-12.56.11:833][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Moon/moon/Materials/Planet]
+[2026.03.03-12.56.11:841][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Moon/moon/Materials/Planet_Auto2
+[2026.03.03-12.56.11:841][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Planet_Auto24AE138E44DDEB8DA348A62B482A2466C.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Moon/moon/Materials/Planet_Auto2.uasset'
+[2026.03.03-12.56.11:842][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Moon/moon/StaticMeshes/moon] ([1] browsable assets)...
+[2026.03.03-12.56.11:842][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Moon/moon/StaticMeshes/moon]
+[2026.03.03-12.56.11:856][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Moon/moon/StaticMeshes/moon_Auto2
+[2026.03.03-12.56.11:856][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/moon_Auto25FC98E064A7B39C3DCAD499880C2B51C.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Moon/moon/StaticMeshes/moon_Auto2.uasset'
+[2026.03.03-12.56.11:856][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Mat] ([1] browsable assets)...
+[2026.03.03-12.56.11:856][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Mat]
+[2026.03.03-12.56.11:862][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Mat_Auto2
+[2026.03.03-12.56.11:863][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/jupiter_texture_0_Mat_Auto213751B9C456D4557708E749A8E8D5182.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Mat_Auto2.uasset'
+[2026.03.03-12.56.11:863][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth/earth/Textures/earth_texture_1_Mat] ([1] browsable assets)...
+[2026.03.03-12.56.11:863][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth/earth/Textures/earth_texture_1_Mat]
+[2026.03.03-12.56.11:868][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Earth/earth/Textures/earth_texture_1_Mat_Auto2
+[2026.03.03-12.56.11:868][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/earth_texture_1_Mat_Auto21069170B445999BB2ABB17BD145E370B.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Earth/earth/Textures/earth_texture_1_Mat_Auto2.uasset'
+[2026.03.03-12.56.11:870][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Mars/mars/Textures/mars_texture_0_Mat] ([1] browsable assets)...
+[2026.03.03-12.56.11:870][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Textures/mars_texture_0_Mat]
+[2026.03.03-12.56.11:875][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_0_Mat_Auto2
+[2026.03.03-12.56.11:875][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/mars_texture_0_Mat_Auto2156FDF7148A332AD94193EAC802640C3.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_0_Mat_Auto2.uasset'
+[2026.03.03-12.56.11:876][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Moon/moon/Textures/moon_texture_0_Mat] ([1] browsable assets)...
+[2026.03.03-12.56.11:876][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Moon/moon/Textures/moon_texture_0_Mat]
+[2026.03.03-12.56.11:881][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_0_Mat_Auto2
+[2026.03.03-12.56.11:881][569]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/moon_texture_0_Mat_Auto2F896A2BC4BFED4C5BC40F388B3AB198A.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_0_Mat_Auto2.uasset'
+[2026.03.03-12.56.11:881][569]LogFileHelpers: Auto-saving content packages took 0.358
+[2026.03.03-13.01.19:118][ 63]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.03-13.01.19:118][ 63]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.03-13.01.19:120][ 63]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_773
+[2026.03.03-13.01.19:121][ 63]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_773
+[2026.03.03-13.01.26:301][471]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3553.880859
+[2026.03.03-13.01.26:483][478]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-13.01.26:483][478]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3554.024658, Update Interval: 319.537964
+[2026.03.03-13.02.19:214][ 61]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFI_Lite_Assets\Materials\MaterialFunctions\MF_TriplanarMapping.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Preview connection for function input 'Texture'
+
+[2026.03.03-13.02.19:214][ 61]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.03.03-13.02.28:674][514]Cmd: TRANSACTION UNDO
+[2026.03.03-13.02.28:675][514]LogEditorTransaction: Undo Place Objects
+[2026.03.03-13.02.45:963][431]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.03-13.02.45:963][431]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.03-13.02.45:964][431]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_774
+[2026.03.03-13.02.45:965][431]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_774
+[2026.03.03-13.02.59:742][167]Cmd: TRANSACTION UNDO
+[2026.03.03-13.02.59:742][167]LogEditorTransaction: Undo Set Scale
+[2026.03.03-13.03.01:551][255]Cmd: TRANSACTION UNDO
+[2026.03.03-13.03.01:551][255]LogEditorTransaction: Undo Set Scale
+[2026.03.03-13.03.03:009][342]Cmd: TRANSACTION UNDO
+[2026.03.03-13.03.03:009][342]LogEditorTransaction: Undo Set Scale
+[2026.03.03-13.03.05:417][483]Cmd: TRANSACTION UNDO
+[2026.03.03-13.03.05:417][483]LogEditorTransaction: Undo Set Scale
+[2026.03.03-13.03.28:771][820]Cmd: EDIT COPY
+[2026.03.03-13.03.29:502][863]Cmd: EDIT PASTE
+[2026.03.03-13.03.48:928][959]Cmd: EDIT COPY
+[2026.03.03-13.03.49:681][  8]Cmd: EDIT PASTE
+[2026.03.03-13.03.53:951][274]Cmd: TRANSACTION UNDO
+[2026.03.03-13.03.53:951][274]LogEditorTransaction: Undo Set Rotation
+[2026.03.03-13.03.55:637][363]Cmd: TRANSACTION UNDO
+[2026.03.03-13.03.55:637][363]LogEditorTransaction: Undo Set Rotation
+[2026.03.03-13.04.06:933][100]LogDerivedDataCache: C:/Users/N00235865/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.03-13.04.11:772][416]Cmd: TRANSACTION UNDO
+[2026.03.03-13.04.11:772][416]LogEditorTransaction: Undo Set Scale
+[2026.03.03-13.06.48:693][311]LogFab: Display: Asset Type = glb
+[2026.03.03-13.06.48:693][311]LogFab: Display: Is Quixel = 0
+[2026.03.03-13.06.53:930][863]LogStreaming: Display: FlushAsyncLoading(433): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-13.06.53:932][863]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.03-13.06.53:932][863]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/4175432a-f3b8-4e8c-91b8-6917d230f8f7/scope.glb]
+[2026.03.03-13.06.54:000][871]LogStreaming: Display: FlushAsyncLoading(434): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-13.06.54:564][939]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.03-13.06.55:033][995]LogStreaming: Display: FlushAsyncLoading(438): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-13.06.55:108][  4]LogStreaming: Display: FlushAsyncLoading(439): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-13.06.55:509][ 29]LogStaticMesh: Display: Building static mesh scope (Required Memory Estimate: 282.29532 MB)...
+[2026.03.03-13.06.55:543][ 33]LogTexture: Display: Building textures: /Game/Fab/Scope/scope/Textures/scope_texture_1.scope_texture_1 (TFO_AutoDXT, 8192x8192 x1x1x1) (Required Memory Estimate: 4480.999983 MB), EncodeSpeed: Fast
+[2026.03.03-13.06.55:545][ 34]LogTexture: Display: Building textures: /Game/Fab/Scope/scope/Textures/scope_texture_3.scope_texture_3 (TFO_BC5, 8192x8192 x1x1x1) (Required Memory Estimate: 4608.999984 MB), EncodeSpeed: Fast
+[2026.03.03-13.06.55:545][ 34]LogTexture: Display: Building textures: /Game/Fab/Scope/scope/Textures/scope_texture_0.scope_texture_0 (TFO_AutoDXT, 8192x8192 x1x1x1) (Required Memory Estimate: 4608.999984 MB), EncodeSpeed: Fast
+[2026.03.03-13.06.55:550][ 34]LogTexture: Display: Building textures: /Game/Fab/Scope/scope/Textures/scope_texture_2.scope_texture_2 (TFO_AutoDXT, 8192x8192 x1x1x1) (Required Memory Estimate: 4480.999983 MB), EncodeSpeed: Fast
+[2026.03.03-13.06.57:239][219]LogStaticMesh: Built static mesh [1.73s] /Game/Fab/Scope/scope/StaticMeshes/scope.scope
+[2026.03.03-13.06.57:449][243]LogStaticMesh: Warning: scope has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.03.03-13.06.57:449][243]LogStaticMesh: Warning: scope has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.03.03-13.06.57:464][243]LogInterchangeEngine: Display: Interchange import completed [C:/Users/N00235865/A...8c-91b8-6917d230f8f7/scope.glb]
+[2026.03.03-13.07.42:999][ 90]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3930.586426
+[2026.03.03-13.07.43:352][101]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-13.07.43:352][101]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3930.882324, Update Interval: 333.007599
+[2026.03.03-13.07.45:956][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.03.03-13.07.45:956][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.03.03-13.07.45:958][221]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_777
+[2026.03.03-13.07.45:958][221]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_777
+[2026.03.03-13.08.15:307][763]Cmd: EDIT COPY
+[2026.03.03-13.08.16:044][810]Cmd: EDIT PASTE
+[2026.03.03-13.08.18:697][969]Cmd: TRANSACTION UNDO
+[2026.03.03-13.08.18:698][969]LogEditorTransaction: Undo Move Elements
+[2026.03.03-13.08.48:628][626]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Scope/scope/StaticMeshes/scope.scope
+[2026.03.03-13.08.48:628][626]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Scope/scope/StaticMeshes/scope.scope
+[2026.03.03-13.08.48:629][626]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Scope/scope/StaticMeshes/scope.scope as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_779
+[2026.03.03-13.08.49:484][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.03-13.08.49:490][662]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2026.03.03-13.08.49:501][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Scope/scope/StaticMeshes/scope.scope
+[2026.03.03-13.08.49:501][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Scope/scope/StaticMeshes/scope.scope
+[2026.03.03-13.08.49:503][662]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Scope/scope/StaticMeshes/scope.scope as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_780
+[2026.03.03-13.09.13:839][878]Cmd: TRANSACTION UNDO
+[2026.03.03-13.09.13:840][878]LogEditorTransaction: Undo Set Rotation
+[2026.03.03-13.09.15:696][959]Cmd: TRANSACTION UNDO
+[2026.03.03-13.09.15:696][959]LogEditorTransaction: Undo Set Rotation
+[2026.03.03-13.09.35:333][289]Cmd: TRANSACTION UNDO
+[2026.03.03-13.09.35:333][289]LogEditorTransaction: Undo Set Rotation
+[2026.03.03-13.10.17:754][845]Cmd: TRANSACTION UNDO
+[2026.03.03-13.10.17:754][845]LogEditorTransaction: Undo Set Scale
+[2026.03.03-13.11.11:728][717]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.03.03-13.11.12:056][728]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.03.03-13.11.50:134][486]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_OfficeGroundMiddleDecor.SM_OfficeGroundMiddleDecor
+[2026.03.03-13.11.50:134][486]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_OfficeGroundMiddleDecor.SM_OfficeGroundMiddleDecor
+[2026.03.03-13.11.50:134][486]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_OfficeGroundMiddleDecor.SM_OfficeGroundMiddleDecor as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_781
+[2026.03.03-13.11.51:431][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.03-13.11.51:438][546]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.03.03-13.11.51:453][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_OfficeGroundMiddleDecor.SM_OfficeGroundMiddleDecor
+[2026.03.03-13.11.51:453][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_OfficeGroundMiddleDecor.SM_OfficeGroundMiddleDecor
+[2026.03.03-13.11.51:454][546]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_OfficeGroundMiddleDecor.SM_OfficeGroundMiddleDecor as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_782
+[2026.03.03-13.13.23:188][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.03.03-13.13.23:286][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto3
+[2026.03.03-13.13.23:287][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion_Auto3F12BC8C74517071E9D8FDA9A49BA7084.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Dimensions/LightVersion_Auto3.umap'
+[2026.03.03-13.13.23:288][495]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.120
+[2026.03.03-13.13.23:288][495]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.120
+[2026.03.03-13.13.23:288][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Stars_Far_Blue_Mat] ([1] browsable assets)...
+[2026.03.03-13.13.23:288][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Stars_Far_Blue_Mat]
+[2026.03.03-13.13.23:293][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Stars_Far_Blue_Mat_Auto3
+[2026.03.03-13.13.23:293][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/TC_Stars_Far_Blue_Mat_Auto38F970EF54A23AEC3894D42975322F94B.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Stars_Far_Blue_Mat_Auto3.uasset'
+[2026.03.03-13.13.23:294][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0] ([1] browsable assets)...
+[2026.03.03-13.13.23:294][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0]
+[2026.03.03-13.13.23:303][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Auto3
+[2026.03.03-13.13.23:303][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/jupiter_texture_0_Auto371383B1648E74055FFF1CB818875EB59.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Auto3.uasset'
+[2026.03.03-13.13.23:304][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_1] ([1] browsable assets)...
+[2026.03.03-13.13.23:304][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_1]
+[2026.03.03-13.13.23:313][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_1_Auto3
+[2026.03.03-13.13.23:313][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/jupiter_texture_1_Auto322558FB6497ACE9D33A8EA9BD64EDECD.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_1_Auto3.uasset'
+[2026.03.03-13.13.23:314][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_2] ([1] browsable assets)...
+[2026.03.03-13.13.23:314][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_2]
+[2026.03.03-13.13.23:323][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_2_Auto3
+[2026.03.03-13.13.23:323][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/jupiter_texture_2_Auto31E5A639E422C30E8C9A02B8EDE8CC6E9.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_2_Auto3.uasset'
+[2026.03.03-13.13.23:324][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_3] ([1] browsable assets)...
+[2026.03.03-13.13.23:324][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_3]
+[2026.03.03-13.13.23:334][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_3_Auto3
+[2026.03.03-13.13.23:334][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/jupiter_texture_3_Auto3494D7C3D447DDF56DF0526BAFEFB01F2.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_3_Auto3.uasset'
+[2026.03.03-13.13.23:335][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Jupiter/jupiter/Materials/Planet] ([1] browsable assets)...
+[2026.03.03-13.13.23:335][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Materials/Planet]
+[2026.03.03-13.13.23:341][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Jupiter/jupiter/Materials/Planet_Auto3
+[2026.03.03-13.13.23:341][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Planet_Auto3F969A0CD4601468F9E650CB1656ADAEA.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Jupiter/jupiter/Materials/Planet_Auto3.uasset'
+[2026.03.03-13.13.23:342][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Jupiter/jupiter/StaticMeshes/jupiter] ([1] browsable assets)...
+[2026.03.03-13.13.23:342][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/StaticMeshes/jupiter]
+[2026.03.03-13.13.23:356][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Jupiter/jupiter/StaticMeshes/jupiter_Auto3
+[2026.03.03-13.13.23:356][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/jupiter_Auto34C501C034477BC5CA31F91B48972F491.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Jupiter/jupiter/StaticMeshes/jupiter_Auto3.uasset'
+[2026.03.03-13.13.23:358][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth/earth/Materials/Atmosphere] ([1] browsable assets)...
+[2026.03.03-13.13.23:358][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth/earth/Materials/Atmosphere]
+[2026.03.03-13.13.23:363][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Earth/earth/Materials/Atmosphere_Auto3
+[2026.03.03-13.13.23:363][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Atmosphere_Auto3B8667371457DCAF83885CF83A8714B66.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Earth/earth/Materials/Atmosphere_Auto3.uasset'
+[2026.03.03-13.13.23:364][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth/earth/Textures/earth_texture_0] ([1] browsable assets)...
+[2026.03.03-13.13.23:364][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth/earth/Textures/earth_texture_0]
+[2026.03.03-13.13.23:380][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Earth/earth/Textures/earth_texture_0_Auto3
+[2026.03.03-13.13.23:380][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/earth_texture_0_Auto3684A9FDD4ADC68307648AA8262DDEA03.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Earth/earth/Textures/earth_texture_0_Auto3.uasset'
+[2026.03.03-13.13.23:381][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth/earth/Textures/earth_texture_1] ([1] browsable assets)...
+[2026.03.03-13.13.23:381][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth/earth/Textures/earth_texture_1]
+[2026.03.03-13.13.23:396][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Earth/earth/Textures/earth_texture_1_Auto3
+[2026.03.03-13.13.23:396][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/earth_texture_1_Auto3EE841947498187DF022E8C80CBF8178F.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Earth/earth/Textures/earth_texture_1_Auto3.uasset'
+[2026.03.03-13.13.23:397][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth/earth/Materials/Clouds] ([1] browsable assets)...
+[2026.03.03-13.13.23:397][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth/earth/Materials/Clouds]
+[2026.03.03-13.13.23:402][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Earth/earth/Materials/Clouds_Auto3
+[2026.03.03-13.13.23:402][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Clouds_Auto3F393F76148A1E1AB6721E7BD86A2AAE5.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Earth/earth/Materials/Clouds_Auto3.uasset'
+[2026.03.03-13.13.23:403][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth/earth/Materials/Earth] ([1] browsable assets)...
+[2026.03.03-13.13.23:403][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth/earth/Materials/Earth]
+[2026.03.03-13.13.23:408][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Earth/earth/Materials/Earth_Auto3
+[2026.03.03-13.13.23:408][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Earth_Auto3A402BF62436E7510A9D7A8ACC0FB3908.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Earth/earth/Materials/Earth_Auto3.uasset'
+[2026.03.03-13.13.23:409][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth/earth/StaticMeshes/earth] ([1] browsable assets)...
+[2026.03.03-13.13.23:409][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth/earth/StaticMeshes/earth]
+[2026.03.03-13.13.23:425][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Earth/earth/StaticMeshes/earth_Auto3
+[2026.03.03-13.13.23:425][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/earth_Auto3BFD60C2C4C6075348EE022823F852E20.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Earth/earth/StaticMeshes/earth_Auto3.uasset'
+[2026.03.03-13.13.23:427][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Mars/mars/Textures/mars_texture_0] ([1] browsable assets)...
+[2026.03.03-13.13.23:427][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Textures/mars_texture_0]
+[2026.03.03-13.13.23:436][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_0_Auto3
+[2026.03.03-13.13.23:437][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/mars_texture_0_Auto3A71A839D4EE4D4821564E29C6AD31E1B.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_0_Auto3.uasset'
+[2026.03.03-13.13.23:437][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Mars/mars/Textures/mars_texture_1] ([1] browsable assets)...
+[2026.03.03-13.13.23:437][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Textures/mars_texture_1]
+[2026.03.03-13.13.23:448][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_1_Auto3
+[2026.03.03-13.13.23:448][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/mars_texture_1_Auto3BFFBAC71401DB362A4A00D87866D1E17.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_1_Auto3.uasset'
+[2026.03.03-13.13.23:448][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Mars/mars/Textures/mars_texture_2] ([1] browsable assets)...
+[2026.03.03-13.13.23:448][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Textures/mars_texture_2]
+[2026.03.03-13.13.23:459][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_2_Auto3
+[2026.03.03-13.13.23:459][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/mars_texture_2_Auto38CBEB2A141F7551A9CD81284EA7A37D8.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_2_Auto3.uasset'
+[2026.03.03-13.13.23:459][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Mars/mars/Textures/mars_texture_3] ([1] browsable assets)...
+[2026.03.03-13.13.23:459][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Textures/mars_texture_3]
+[2026.03.03-13.13.23:469][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_3_Auto3
+[2026.03.03-13.13.23:469][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/mars_texture_3_Auto39BE8BBF4402C467DE2EE7FAC5C4AB637.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_3_Auto3.uasset'
+[2026.03.03-13.13.23:471][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Mars/mars/Materials/Planet] ([1] browsable assets)...
+[2026.03.03-13.13.23:471][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Materials/Planet]
+[2026.03.03-13.13.23:476][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Mars/mars/Materials/Planet_Auto3
+[2026.03.03-13.13.23:476][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Planet_Auto328C80D12456D97EAD4D875A80DE548F6.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Mars/mars/Materials/Planet_Auto3.uasset'
+[2026.03.03-13.13.23:478][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Mars/mars/StaticMeshes/mars] ([1] browsable assets)...
+[2026.03.03-13.13.23:478][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/StaticMeshes/mars]
+[2026.03.03-13.13.23:492][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Mars/mars/StaticMeshes/mars_Auto3
+[2026.03.03-13.13.23:492][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/mars_Auto34424AE624A3964AE2730329A44556757.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Mars/mars/StaticMeshes/mars_Auto3.uasset'
+[2026.03.03-13.13.23:494][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Moon/moon/Textures/moon_texture_0] ([1] browsable assets)...
+[2026.03.03-13.13.23:494][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Moon/moon/Textures/moon_texture_0]
+[2026.03.03-13.13.23:505][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_0_Auto3
+[2026.03.03-13.13.23:506][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/moon_texture_0_Auto384A28B274445938EDA9B7186453E42B6.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_0_Auto3.uasset'
+[2026.03.03-13.13.23:506][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Moon/moon/Textures/moon_texture_1] ([1] browsable assets)...
+[2026.03.03-13.13.23:506][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Moon/moon/Textures/moon_texture_1]
+[2026.03.03-13.13.23:517][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_1_Auto3
+[2026.03.03-13.13.23:517][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/moon_texture_1_Auto3C436F3B34F9FB5E3C7CFA2802136CD29.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_1_Auto3.uasset'
+[2026.03.03-13.13.23:518][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Moon/moon/Textures/moon_texture_2] ([1] browsable assets)...
+[2026.03.03-13.13.23:518][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Moon/moon/Textures/moon_texture_2]
+[2026.03.03-13.13.23:528][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_2_Auto3
+[2026.03.03-13.13.23:528][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/moon_texture_2_Auto37BF88AB0436B066944AAF0B91FE69340.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_2_Auto3.uasset'
+[2026.03.03-13.13.23:529][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Moon/moon/Textures/moon_texture_3] ([1] browsable assets)...
+[2026.03.03-13.13.23:529][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Moon/moon/Textures/moon_texture_3]
+[2026.03.03-13.13.23:539][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_3_Auto3
+[2026.03.03-13.13.23:539][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/moon_texture_3_Auto308E5079C4FA672526660EA9671B47AB9.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_3_Auto3.uasset'
+[2026.03.03-13.13.23:540][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Moon/moon/Materials/Planet] ([1] browsable assets)...
+[2026.03.03-13.13.23:540][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Moon/moon/Materials/Planet]
+[2026.03.03-13.13.23:547][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Moon/moon/Materials/Planet_Auto3
+[2026.03.03-13.13.23:547][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Planet_Auto3966721D7455C7A956A5D458C7CF2BFC1.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Moon/moon/Materials/Planet_Auto3.uasset'
+[2026.03.03-13.13.23:548][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Moon/moon/StaticMeshes/moon] ([1] browsable assets)...
+[2026.03.03-13.13.23:548][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Moon/moon/StaticMeshes/moon]
+[2026.03.03-13.13.23:563][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Moon/moon/StaticMeshes/moon_Auto3
+[2026.03.03-13.13.23:563][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/moon_Auto33424731E40133DC4C5DB6DAF43E2FB2F.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Moon/moon/StaticMeshes/moon_Auto3.uasset'
+[2026.03.03-13.13.23:565][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Mat] ([1] browsable assets)...
+[2026.03.03-13.13.23:565][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Mat]
+[2026.03.03-13.13.23:571][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Mat_Auto3
+[2026.03.03-13.13.23:571][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/jupiter_texture_0_Mat_Auto352033E0143CD6430B19D6A83DBA85B0E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Mat_Auto3.uasset'
+[2026.03.03-13.13.23:573][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth/earth/Textures/earth_texture_1_Mat] ([1] browsable assets)...
+[2026.03.03-13.13.23:573][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth/earth/Textures/earth_texture_1_Mat]
+[2026.03.03-13.13.23:579][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Earth/earth/Textures/earth_texture_1_Mat_Auto3
+[2026.03.03-13.13.23:579][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/earth_texture_1_Mat_Auto3F6A818F44D055C24267821AFC8D67DA5.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Earth/earth/Textures/earth_texture_1_Mat_Auto3.uasset'
+[2026.03.03-13.13.23:580][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Mars/mars/Textures/mars_texture_0_Mat] ([1] browsable assets)...
+[2026.03.03-13.13.23:580][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Textures/mars_texture_0_Mat]
+[2026.03.03-13.13.23:586][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_0_Mat_Auto3
+[2026.03.03-13.13.23:586][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/mars_texture_0_Mat_Auto3C2CCB6834B65CE997943979AC30874F7.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Mars/mars/Textures/mars_texture_0_Mat_Auto3.uasset'
+[2026.03.03-13.13.23:587][495]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Moon/moon/Textures/moon_texture_0_Mat] ([1] browsable assets)...
+[2026.03.03-13.13.23:587][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Moon/moon/Textures/moon_texture_0_Mat]
+[2026.03.03-13.13.23:593][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_0_Mat_Auto3
+[2026.03.03-13.13.23:593][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/moon_texture_0_Mat_Auto31FC904504F0E6B9CF9BC65AE79BC0E0B.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Moon/moon/Textures/moon_texture_0_Mat_Auto3.uasset'
+[2026.03.03-13.13.23:594][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scope/scope/Textures/scope_texture_0] ([1] browsable assets)...
+[2026.03.03-13.13.23:596][495]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Scope/scope/Textures/scope_texture_0.scope_texture_0]
+[2026.03.03-13.13.23:596][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Textures/scope_texture_0]
+[2026.03.03-13.13.23:816][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_0_Auto3
+[2026.03.03-13.13.23:816][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scope_texture_0_Auto33CAB000D42B7B294F93C5DB2A3D22493.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_0_Auto3.uasset'
+[2026.03.03-13.13.23:817][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scope/scope/Textures/scope_texture_1] ([1] browsable assets)...
+[2026.03.03-13.13.23:819][495]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Scope/scope/Textures/scope_texture_1.scope_texture_1]
+[2026.03.03-13.13.23:819][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Textures/scope_texture_1]
+[2026.03.03-13.13.24:023][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_1_Auto3
+[2026.03.03-13.13.24:024][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scope_texture_1_Auto3A35EE9404C68C7DE7BA9128E5995BAE2.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_1_Auto3.uasset'
+[2026.03.03-13.13.24:024][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scope/scope/Textures/scope_texture_2] ([1] browsable assets)...
+[2026.03.03-13.13.24:026][495]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Scope/scope/Textures/scope_texture_2.scope_texture_2]
+[2026.03.03-13.13.24:026][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Textures/scope_texture_2]
+[2026.03.03-13.13.24:237][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_2_Auto3
+[2026.03.03-13.13.24:237][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scope_texture_2_Auto306FD93834835DC88630439ABCD39FFB4.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_2_Auto3.uasset'
+[2026.03.03-13.13.24:238][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scope/scope/Textures/scope_texture_3] ([1] browsable assets)...
+[2026.03.03-13.13.24:240][495]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Scope/scope/Textures/scope_texture_3.scope_texture_3]
+[2026.03.03-13.13.24:240][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Textures/scope_texture_3]
+[2026.03.03-13.13.24:463][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_3_Auto3
+[2026.03.03-13.13.24:463][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scope_texture_3_Auto3E6A5509D43B79A83F075F2B0E9063ACF.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_3_Auto3.uasset'
+[2026.03.03-13.13.24:464][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scope/scope/Materials/m_scope] ([1] browsable assets)...
+[2026.03.03-13.13.24:498][495]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Scope/scope/Materials/m_scope.m_scope]
+[2026.03.03-13.13.24:498][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Materials/m_scope]
+[2026.03.03-13.13.24:506][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Scope/scope/Materials/m_scope_Auto3
+[2026.03.03-13.13.24:506][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/m_scope_Auto36F502E3D42A49FDDC147BB93059E12C6.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Scope/scope/Materials/m_scope_Auto3.uasset'
+[2026.03.03-13.13.24:507][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scope/scope/StaticMeshes/scope] ([1] browsable assets)...
+[2026.03.03-13.13.24:515][495]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Scope/scope/StaticMeshes/scope.scope]
+[2026.03.03-13.13.24:515][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/StaticMeshes/scope]
+[2026.03.03-13.13.24:554][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Scope/scope/StaticMeshes/scope_Auto3
+[2026.03.03-13.13.24:554][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scope_Auto3D7A7839449A65CA74DBF779069362F76.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Scope/scope/StaticMeshes/scope_Auto3.uasset'
+[2026.03.03-13.13.24:554][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scope/scope/Textures/scope_texture_0_Mat] ([1] browsable assets)...
+[2026.03.03-13.13.24:562][495]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Fab/Scope/scope/Textures/scope_texture_0_Mat.scope_texture_0_Mat]
+[2026.03.03-13.13.24:562][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Textures/scope_texture_0_Mat]
+[2026.03.03-13.13.24:569][495]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_0_Mat_Auto3
+[2026.03.03-13.13.24:569][495]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/scope_texture_0_Mat_Auto32A3BCF844C7C17AD609BEB819DA6354C.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_0_Mat_Auto3.uasset'
+[2026.03.03-13.13.24:569][495]LogFileHelpers: Auto-saving content packages took 1.282
+[2026.03.03-13.14.05:167][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4312.763672
+[2026.03.03-13.14.05:341][653]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-13.14.05:341][653]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4312.925293, Update Interval: 336.331055
+[2026.03.03-13.18.18:425][122]LogStreaming: Display: FlushAsyncLoading(440): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-13.20.14:610][ 25]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4682.215332
+[2026.03.03-13.20.14:790][ 34]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-13.20.14:790][ 34]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4682.375000, Update Interval: 339.361542
+[2026.03.03-13.23.24:703][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.03-13.23.24:801][690]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto4
+[2026.03.03-13.23.24:801][690]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion_Auto4609E5688462C65A3EF48959328C4328D.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Dimensions/LightVersion_Auto4.umap'
+[2026.03.03-13.23.24:803][690]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.118
+[2026.03.03-13.23.24:803][690]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.118
+[2026.03.03-13.23.24:803][690]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Clinic/Textures/T_Grid_Mat] ([1] browsable assets)...
+[2026.03.03-13.23.24:919][690]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Clinic/Textures/T_Grid_Mat.T_Grid_Mat]
+[2026.03.03-13.23.24:919][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/Clinic/Textures/T_Grid_Mat]
+[2026.03.03-13.23.24:926][690]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Clinic/Textures/T_Grid_Mat_Auto4
+[2026.03.03-13.23.24:926][690]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Grid_Mat_Auto4A7F1F86F4D46999A30E5AEA86190BAEA.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Clinic/Textures/T_Grid_Mat_Auto4.uasset'
+[2026.03.03-13.23.24:927][690]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat] ([1] browsable assets)...
+[2026.03.03-13.23.24:949][690]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat.T_Entrance_Keyboard_AO_Mat]
+[2026.03.03-13.23.24:949][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat]
+[2026.03.03-13.23.24:956][690]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat_Auto4
+[2026.03.03-13.23.24:956][690]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_Entrance_Keyboard_AO_Mat_Auto44F618BC64232F6F24C61339F2F685F59.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat_Auto4.uasset'
+[2026.03.03-13.23.24:956][690]LogFileHelpers: Auto-saving content packages took 0.154
+[2026.03.03-13.26.49:856][371]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5077.455078
+[2026.03.03-13.26.50:008][380]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-13.26.50:008][380]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5077.589844, Update Interval: 313.515442
+[2026.03.03-13.27.21:195][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-13.27.21:338][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.03.03-13.27.21:442][902]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.03.03-13.27.21:442][902]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion88BAB1E34DBD60E9CCB0AFA4BFD6D939.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.03.03-13.27.21:457][902]LogFileHelpers: Saving map 'LightVersion' took 0.163
+[2026.03.03-13.27.21:461][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 267.042 ms (total: 708.353 ms)
+[2026.03.03-13.27.21:525][902]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-13.27.21:525][902]LogContentValidation: Enabled validators:
+[2026.03.03-13.27.21:525][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-13.27.21:525][902]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-13.27.21:525][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-13.27.21:525][902]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-13.27.21:525][902]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-13.27.21:525][902]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-13.27.21:525][902]AssetCheck: /Game/Dimensions/LightVersion Validating asset
