@@ -5939,3 +5939,136 @@ Sampler Limit: 32
 [2026.03.05-18.54.32:707][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
 [2026.03.05-18.54.32:733][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
 [2026.03.05-18.54.32:755][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.03.05-18.58.22:926][255]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12100.101562
+[2026.03.05-18.58.23:145][266]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-18.58.23:146][266]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12100.305664, Update Interval: 331.330292
+[2026.03.05-19.03.15:439][558]Cmd: EDIT COPY
+[2026.03.05-19.03.16:172][602]Cmd: EDIT PASTE
+[2026.03.05-19.03.29:863][380]Cmd: EDIT COPY
+[2026.03.05-19.03.30:609][424]Cmd: EDIT PASTE
+[2026.03.05-19.03.53:618][646]Cmd: EDIT COPY
+[2026.03.05-19.03.54:595][704]Cmd: EDIT PASTE
+[2026.03.05-19.04.20:231][ 79]Cmd: EDIT COPY
+[2026.03.05-19.04.20:997][125]Cmd: EDIT PASTE
+[2026.03.05-19.04.43:909][338]Cmd: EDIT COPY
+[2026.03.05-19.04.44:589][378]Cmd: EDIT PASTE
+[2026.03.05-19.04.51:052][730]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12488.101562
+[2026.03.05-19.04.51:251][742]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-19.04.51:251][743]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12488.285156, Update Interval: 359.227264
+[2026.03.05-19.04.52:268][797]Cmd: EDIT COPY
+[2026.03.05-19.04.53:052][844]Cmd: EDIT PASTE
+[2026.03.05-19.06.35:103][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.03.05-19.06.35:232][819]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto4
+[2026.03.05-19.06.35:232][819]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersion_Auto4FCDAB31341684C59737EB0A2498430B8.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/LightVersion_Auto4.umap'
+[2026.03.05-19.06.35:235][819]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.151
+[2026.03.05-19.06.35:235][819]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.151
+[2026.03.05-19.06.35:235][819]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scope/scope/Materials/m_scope] ([1] browsable assets)...
+[2026.03.05-19.06.35:287][819]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Scope/scope/Materials/m_scope.m_scope]
+[2026.03.05-19.06.35:287][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Materials/m_scope]
+[2026.03.05-19.06.35:297][819]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Scope/scope/Materials/m_scope_Auto4
+[2026.03.05-19.06.35:297][819]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/m_scope_Auto436C111AF4674EA968D27EB9B0E946FAD.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Scope/scope/Materials/m_scope_Auto4.uasset'
+[2026.03.05-19.06.35:299][819]LogFileHelpers: Auto-saving content packages took 0.063
+[2026.03.05-19.08.40:680][156]LogStreaming: Display: FlushAsyncLoading(468): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-19.08.40:836][158]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Bench_01.SM_Bench_01
+[2026.03.05-19.08.40:836][158]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Bench_01.SM_Bench_01
+[2026.03.05-19.08.40:837][158]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Bench_01.SM_Bench_01 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_915
+[2026.03.05-19.08.41:719][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.03.05-19.08.41:724][208]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.03.05-19.08.41:733][208]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Bench_01.SM_Bench_01
+[2026.03.05-19.08.41:733][208]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Bench_01.SM_Bench_01
+[2026.03.05-19.08.41:734][208]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Bench_01.SM_Bench_01 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_916
+[2026.03.05-19.08.46:770][494]Cmd: DELETE
+[2026.03.05-19.08.46:770][494]Cmd: ACTOR DELETE
+[2026.03.05-19.08.46:780][494]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.05-19.08.46:797][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.05-19.08.46:803][494]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2026.03.05-19.08.51:914][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Bench_01.SM_Bench_01
+[2026.03.05-19.08.51:914][753]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Bench_01.SM_Bench_01
+[2026.03.05-19.08.51:915][753]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Bench_01.SM_Bench_01 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_917
+[2026.03.05-19.08.53:889][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.05-19.08.53:898][870]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.03.05-19.08.53:905][870]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Bench_01.SM_Bench_01
+[2026.03.05-19.08.53:905][870]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Bench_01.SM_Bench_01
+[2026.03.05-19.08.53:907][870]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_Bench_01.SM_Bench_01 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_918
+[2026.03.05-19.09.16:094][151]Cmd: EDIT COPY
+[2026.03.05-19.09.16:807][193]Cmd: EDIT PASTE
+[2026.03.05-19.09.25:388][666]Cmd: EDIT COPY
+[2026.03.05-19.09.26:185][713]Cmd: EDIT PASTE
+[2026.03.05-19.11.33:340][657]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12890.266602
+[2026.03.05-19.11.33:947][664]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-19.11.33:947][664]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12890.797852, Update Interval: 322.396301
+[2026.03.05-19.12.10:460][814]LogFab: Display: Asset Type = glb
+[2026.03.05-19.12.10:460][814]LogFab: Display: Is Quixel = 0
+[2026.03.05-19.12.11:686][866]LogStreaming: Display: FlushAsyncLoading(469): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-19.12.11:688][866]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.05-19.12.11:688][866]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/karlk/AppData/Local/Temp/FabLibrary/ff764ed1-9bba-4f7c-ac83-d3065a67d215/bookshelf_short_lowpoly.glb]
+[2026.03.05-19.12.11:761][868]LogStreaming: Display: FlushAsyncLoading(470): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-19.12.12:166][885]LogStreaming: Display: FlushAsyncLoading(473): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-19.12.12:199][887]LogStreaming: Display: FlushAsyncLoading(474): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-19.12.12:249][888]LogTexture: Display: Building textures: /Game/Fab/Bookshelf_Short_LOWPOLY/bookshelf_short_lowpoly/Textures/bookshelf_short_lowpoly_texture_0.bookshelf_short_lowpoly_texture_0 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.05-19.12.12:296][889]LogStaticMesh: Display: Building static mesh bookshelf_short_lowpoly (Required Memory Estimate: 1.559936 MB)...
+[2026.03.05-19.12.12:329][890]LogStaticMesh: Built static mesh [0.04s] /Game/Fab/Bookshelf_Short_LOWPOLY/bookshelf_short_lowpoly/StaticMeshes/bookshelf_short_lowpoly.bookshelf_short_lowpoly
+[2026.03.05-19.12.12:332][890]LogStaticMesh: Warning: bookshelf_short_lowpoly has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.03.05-19.12.12:332][890]LogStaticMesh: Warning: bookshelf_short_lowpoly has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.03.05-19.12.12:631][897]LogTexture: Display: Building textures: /Game/Fab/Bookshelf_Short_LOWPOLY/bookshelf_short_lowpoly/Textures/bookshelf_short_lowpoly_texture_1.bookshelf_short_lowpoly_texture_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.05-19.12.12:930][913]LogTexture: Display: Building textures: /Game/Fab/Bookshelf_Short_LOWPOLY/bookshelf_short_lowpoly/Textures/bookshelf_short_lowpoly_texture_2.bookshelf_short_lowpoly_texture_2 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.03.05-19.12.13:249][929]LogInterchangeEngine: Display: Interchange import completed [C:/Users/karlk/AppDa...7c-ac83-d3065a67d215/bookshelf_short_lowpoly.glb]
+[2026.03.05-19.12.18:149][170]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Bookshelf_Short_LOWPOLY/bookshelf_short_lowpoly/StaticMeshes/bookshelf_short_lowpoly.bookshelf_short_lowpoly
+[2026.03.05-19.12.18:149][170]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Bookshelf_Short_LOWPOLY/bookshelf_short_lowpoly/StaticMeshes/bookshelf_short_lowpoly.bookshelf_short_lowpoly
+[2026.03.05-19.12.18:150][170]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Bookshelf_Short_LOWPOLY/bookshelf_short_lowpoly/StaticMeshes/bookshelf_short_lowpoly.bookshelf_short_lowpoly as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_922
+[2026.03.05-19.12.19:044][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.03.05-19.12.19:049][221]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.03.05-19.12.19:055][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Bookshelf_Short_LOWPOLY/bookshelf_short_lowpoly/StaticMeshes/bookshelf_short_lowpoly.bookshelf_short_lowpoly
+[2026.03.05-19.12.19:056][221]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Bookshelf_Short_LOWPOLY/bookshelf_short_lowpoly/StaticMeshes/bookshelf_short_lowpoly.bookshelf_short_lowpoly
+[2026.03.05-19.12.19:057][221]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Bookshelf_Short_LOWPOLY/bookshelf_short_lowpoly/StaticMeshes/bookshelf_short_lowpoly.bookshelf_short_lowpoly as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_923
+[2026.03.05-19.13.56:953][650]Cmd: DELETE
+[2026.03.05-19.13.56:953][650]Cmd: ACTOR DELETE
+[2026.03.05-19.13.56:964][650]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.05-19.13.56:983][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.03.05-19.13.56:987][650]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.03.05-19.14.10:788][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.03.05-19.14.11:968][435]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.05-19.14.12:067][435]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Fab/Bookshelf_Short_LOWPOLY/bookshelf_short_lowpoly/Textures/bookshelf_short_lowpoly_texture_2.bookshelf_short_lowpoly_texture_2
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/Bookshelf_Short_LOWPOLY/bookshelf_short_lowpoly/Textures/bookshelf_short_lowpoly_texture_1.bookshelf_short_lowpoly_texture_1
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/Bookshelf_Short_LOWPOLY/bookshelf_short_lowpoly/Textures/bookshelf_short_lowpoly_texture_0.bookshelf_short_lowpoly_texture_0
+	Asset Type: Texture2D
+[2026.03.05-19.14.12:311][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.03.05-19.14.12:333][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.03.05-19.14.12:352][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.05-19.14.16:168][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.05-19.14.17:108][645]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.05-19.14.17:147][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.05-19.14.17:167][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.03.05-19.14.17:188][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.03.05-19.14.21:716][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.03.05-19.14.22:641][895]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.05-19.14.22:675][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.05-19.14.22:695][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.05-19.14.22:715][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.03.05-19.14.45:532][859]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_Chair.SM_Entrance_Chair
+[2026.03.05-19.14.45:532][859]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_Chair.SM_Entrance_Chair
+[2026.03.05-19.14.45:533][859]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_Chair.SM_Entrance_Chair as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_924
+[2026.03.05-19.14.46:278][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.03.05-19.14.46:285][902]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.03.05-19.14.46:290][902]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_Chair.SM_Entrance_Chair
+[2026.03.05-19.14.46:290][902]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_Chair.SM_Entrance_Chair
+[2026.03.05-19.14.46:292][902]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_Entrance_Chair.SM_Entrance_Chair as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_925
+[2026.03.05-19.15.14:124][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-19.15.14:165][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimensions/LightVersion" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/LightVersion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.05-19.15.14:230][500]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.05-19.15.14:354][500]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.03.05-19.15.14:354][500]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersionCD77B2604FAEFBEEDA393795C28E0947.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/LightVersion.umap'
+[2026.03.05-19.15.14:379][500]LogFileHelpers: Saving map 'LightVersion' took 0.213
+[2026.03.05-19.15.14:382][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 259.405 ms (total: 9.06 sec)
+[2026.03.05-19.15.14:421][500]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-19.15.14:421][500]LogContentValidation: Enabled validators:
+[2026.03.05-19.15.14:421][500]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-19.15.14:421][500]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-19.15.14:421][500]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-19.15.14:421][500]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-19.15.14:421][500]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-19.15.14:421][500]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-19.15.14:422][500]AssetCheck: /Game/Dimensions/LightVersion Validating asset
