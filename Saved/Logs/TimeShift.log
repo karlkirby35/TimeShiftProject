@@ -4149,3 +4149,1289 @@ Sampler Limit: 32
 [2026.03.05-17.37.18:531][ 10]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.05-17.37.18:531][ 10]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.05-17.37.18:531][ 10]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.03.05-17.37.34:457][329]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7253.192871
+[2026.03.05-17.37.35:458][332]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-17.37.35:459][332]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7253.860840, Update Interval: 336.433594
+[2026.03.05-17.38.16:964][178]Cmd: EDIT COPY
+[2026.03.05-17.38.17:714][223]Cmd: EDIT PASTE
+[2026.03.05-17.38.36:224][300]LogDerivedDataCache: C:/Users/karlk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.05-17.39.29:749][420]Cmd: EDIT COPY
+[2026.03.05-17.39.30:495][464]Cmd: EDIT PASTE
+[2026.03.05-17.39.52:532][709]Cmd: EDIT COPY
+[2026.03.05-17.39.53:316][753]Cmd: EDIT PASTE
+[2026.03.05-17.40.41:577][493]Cmd: EDIT COPY
+[2026.03.05-17.40.42:334][538]Cmd: EDIT PASTE
+[2026.03.05-17.41.30:297][287]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.05-17.41.30:297][287]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.05-17.41.30:299][287]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_848
+[2026.03.05-17.41.30:299][287]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_848
+[2026.03.05-17.41.33:098][433]LogStreaming: Display: FlushAsyncLoading(414): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-17.42.03:320][166]Cmd: TRANSACTION UNDO
+[2026.03.05-17.42.03:320][166]LogEditorTransaction: Undo Move Elements
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: ================================================
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Total job queries 1,847, among them cache hits 773 (41.85%), DDC hits 707 (38.28%), Duplicates 97 (5.25%)
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Tracking 977 distinct input hashes that result in 691 distinct outputs (70.73%)
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: RAM used: 5.76 MiB of 819.20 MiB budget. Usage: 0.70%
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Shaders Compiled: 270
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Jobs assigned 270, completed 270 (100%)
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Average time worker was idle: 177.23 s
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Time job spent in pending queue: average 0.37 s, longest 4.03 s
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Job execution time: average 0.86 s, max 4.49 s
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Job life time (pending + execution): average 1.24 s, max 5.05
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Shader code size: total 2.491 MiB, numShaders 291, average 8.767 KiB, min 2.691 KiB, max 41.605 KiB
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 81.69 s
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Jobs were issued in 270 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Average processing rate: 3.31 jobs/sec
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Total thread time: 192.484 s
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Total thread preprocess time: 21.019 s
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Percentage time preprocessing: 10.92%
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Effective parallelization: 2.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.294542
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   27 times, average 1.21 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    9 times, average 1.15 sec, max 2.02 sec, min 0.99 sec)
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    6 times, average 1.15 sec, max 1.29 sec, min 1.00 sec)
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   18 times, average 1.04 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   10 times, average 0.99 sec, max 1.61 sec, min 0.74 sec)
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 16.95% of total time (compiled   27 times, average 1.21 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.40% of total time (compiled   59 times, average 0.50 sec, max 1.06 sec, min 0.32 sec)
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.77% of total time (compiled   18 times, average 1.04 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.53% of total time (compiled   14 times, average 0.76 sec, max 3.80 sec, min 0.36 sec)
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 5.37% of total time (compiled    9 times, average 1.15 sec, max 2.02 sec, min 0.99 sec)
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: === Material stats ===
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Materials Translated:    337
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Material Translation Only: 0.12 s (58%)
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: Material Cache Hits: 66 (20%)
+[2026.03.05-17.42.51:371][888]LogShaderCompilers: Display: ================================================
+[2026.03.05-17.43.55:005][612]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7633.751465
+[2026.03.05-17.43.55:188][623]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-17.43.55:188][623]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7633.918457, Update Interval: 319.697266
+[2026.03.05-17.44.14:594][718]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_OfficeGroundMiddleDecor.SM_OfficeGroundMiddleDecor
+[2026.03.05-17.44.14:594][718]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_OfficeGroundMiddleDecor.SM_OfficeGroundMiddleDecor
+[2026.03.05-17.44.14:594][718]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_OfficeGroundMiddleDecor.SM_OfficeGroundMiddleDecor as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_849
+[2026.03.05-17.44.15:415][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.03.05-17.44.15:420][764]LogEditorActor: Deleted 0 Actors (0.042 secs)
+[2026.03.05-17.44.15:426][764]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_OfficeGroundMiddleDecor.SM_OfficeGroundMiddleDecor
+[2026.03.05-17.44.15:426][764]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_OfficeGroundMiddleDecor.SM_OfficeGroundMiddleDecor
+[2026.03.05-17.44.15:428][764]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_OfficeGroundMiddleDecor.SM_OfficeGroundMiddleDecor as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_850
+[2026.03.05-17.45.19:639][475]Cmd: DELETE
+[2026.03.05-17.45.19:639][475]Cmd: ACTOR DELETE
+[2026.03.05-17.45.19:651][475]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.05-17.45.19:670][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.03.05-17.45.19:675][475]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2026.03.05-17.47.13:627][266]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: ================================================
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Total job queries 1,868, among them cache hits 774 (41.43%), DDC hits 718 (38.44%), Duplicates 97 (5.19%)
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Tracking 997 distinct input hashes that result in 704 distinct outputs (70.61%)
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: RAM used: 5.85 MiB of 819.20 MiB budget. Usage: 0.71%
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Shaders Compiled: 279
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Jobs assigned 279, completed 279 (100%)
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Average time worker was idle: 186.62 s
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Time job spent in pending queue: average 0.36 s, longest 4.03 s
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 4.49 s
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Job life time (pending + execution): average 1.23 s, max 5.05
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Shader code size: total 2.576 MiB, numShaders 302, average 8.737 KiB, min 2.25 KiB, max 41.605 KiB
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 84.34 s
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Jobs were issued in 279 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Average processing rate: 3.31 jobs/sec
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Total thread time: 199.022 s
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Total thread preprocess time: 21.295 s
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Percentage time preprocessing: 10.70%
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Effective parallelization: 2.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.294965
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   28 times, average 1.21 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    9 times, average 1.15 sec, max 2.02 sec, min 0.99 sec)
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    6 times, average 1.15 sec, max 1.29 sec, min 1.00 sec)
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   19 times, average 1.04 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   10 times, average 0.99 sec, max 1.61 sec, min 0.74 sec)
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 17.05% of total time (compiled   28 times, average 1.21 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.46% of total time (compiled   61 times, average 0.50 sec, max 1.06 sec, min 0.32 sec)
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.90% of total time (compiled   19 times, average 1.04 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.35% of total time (compiled   14 times, average 0.76 sec, max 3.80 sec, min 0.36 sec)
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 5.19% of total time (compiled    9 times, average 1.15 sec, max 2.02 sec, min 0.99 sec)
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: === Material stats ===
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Materials Translated:    337
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Material Translation Only: 0.12 s (58%)
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: Material Cache Hits: 66 (20%)
+[2026.03.05-17.48.51:386][878]LogShaderCompilers: Display: ================================================
+[2026.03.05-17.48.51:452][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.03.05-17.48.51:453][882]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.03.05-17.48.51:454][882]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_851
+[2026.03.05-17.48.51:455][882]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_851
+[2026.03.05-17.49.17:828][427]Cmd: TRANSACTION UNDO
+[2026.03.05-17.49.17:828][427]LogEditorTransaction: Undo Set Rotation
+[2026.03.05-17.49.46:513][ 96]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7985.263672
+[2026.03.05-17.49.46:681][106]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-17.49.46:681][106]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7985.415039, Update Interval: 309.882507
+[2026.03.05-17.52.09:447][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.03.05-17.52.09:571][199]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto9
+[2026.03.05-17.52.09:572][199]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersion_Auto929ADC3624F550361E9FA1C9AEDF4022C.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/LightVersion_Auto9.umap'
+[2026.03.05-17.52.09:574][199]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.146
+[2026.03.05-17.52.09:574][199]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.146
+[2026.03.05-17.52.09:574][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Glass] ([1] browsable assets)...
+[2026.03.05-17.52.09:574][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Glass]
+[2026.03.05-17.52.09:582][199]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Glass_Auto9
+[2026.03.05-17.52.09:582][199]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Glass_Auto9747B160449502AA06D1EBF838F54C783.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Glass_Auto9.uasset'
+[2026.03.05-17.52.09:583][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Metal] ([1] browsable assets)...
+[2026.03.05-17.52.09:583][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Metal]
+[2026.03.05-17.52.09:590][199]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Metal_Auto9
+[2026.03.05-17.52.09:590][199]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Metal_Auto97700E6D7463CD662D689E09AA9FA8F6C.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Metal_Auto9.uasset'
+[2026.03.05-17.52.09:591][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/material] ([1] browsable assets)...
+[2026.03.05-17.52.09:592][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/material]
+[2026.03.05-17.52.09:600][199]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/material_Auto9
+[2026.03.05-17.52.09:600][199]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/material_Auto90ADBF7DD49C22F73A539ED907126CF6E.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/material_Auto9.uasset'
+[2026.03.05-17.52.09:601][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Material_004] ([1] browsable assets)...
+[2026.03.05-17.52.09:601][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Material_004]
+[2026.03.05-17.52.09:609][199]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Material_004_Auto9
+[2026.03.05-17.52.09:609][199]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Material_004_Auto9ACF31C2549905997757F7DB5026BA669.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Material_004_Auto9.uasset'
+[2026.03.05-17.52.09:609][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_3] ([1] browsable assets)...
+[2026.03.05-17.52.09:610][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_3]
+[2026.03.05-17.52.09:617][199]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_3_Auto9
+[2026.03.05-17.52.09:617][199]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_dome_showcase_texture_3_AuC6D22857478790CC62B5C389BFB63652.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_3_Auto9.uasset'
+[2026.03.05-17.52.09:617][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_2] ([1] browsable assets)...
+[2026.03.05-17.52.09:617][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_2]
+[2026.03.05-17.52.09:634][199]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_2_Auto9
+[2026.03.05-17.52.09:634][199]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_dome_showcase_texture_2_AuBB550D8E480BBA76999887BFE99DEDA4.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_2_Auto9.uasset'
+[2026.03.05-17.52.09:635][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_1] ([1] browsable assets)...
+[2026.03.05-17.52.09:635][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_1]
+[2026.03.05-17.52.09:650][199]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_1_Auto9
+[2026.03.05-17.52.09:650][199]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_dome_showcase_texture_1_AuFCEDA6944C0D5E8C1ED7269194F446AE.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_1_Auto9.uasset'
+[2026.03.05-17.52.09:651][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/StaticMeshes/space_dome_showcase] ([1] browsable assets)...
+[2026.03.05-17.52.09:651][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/StaticMeshes/space_dome_showcase]
+[2026.03.05-17.52.09:662][199]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/StaticMeshes/space_dome_showcase_Auto9
+[2026.03.05-17.52.09:662][199]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_dome_showcase_Auto9EC6D71DA4FCD3F61BD5FA6A39672BD21.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/StaticMeshes/space_dome_showcase_Auto9.uasset'
+[2026.03.05-17.52.09:663][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Light] ([1] browsable assets)...
+[2026.03.05-17.52.09:664][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Light]
+[2026.03.05-17.52.09:670][199]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Light_Auto9
+[2026.03.05-17.52.09:670][199]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Light_Auto951AFD6D647F8F63891A23281D51AA5CF.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Light_Auto9.uasset'
+[2026.03.05-17.52.09:671][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_0] ([1] browsable assets)...
+[2026.03.05-17.52.09:671][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_0]
+[2026.03.05-17.52.09:682][199]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_0_Auto9
+[2026.03.05-17.52.09:682][199]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_dome_showcase_texture_0_Au5A445D574C2B303B1DD6999F43BFFAF8.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_0_Auto9.uasset'
+[2026.03.05-17.52.09:683][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dimensions/_GENERATED/karlk/Sphere_31D75CAA] ([1] browsable assets)...
+[2026.03.05-17.52.09:683][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dimensions/_GENERATED/karlk/Sphere_31D75CAA]
+[2026.03.05-17.52.09:692][199]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/_GENERATED/karlk/Sphere_31D75CAA_Auto9
+[2026.03.05-17.52.09:692][199]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Sphere_31D75CAA_Auto9A00EDFE743C10697178FFDA2782BC481.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/_GENERATED/karlk/Sphere_31D75CAA_Auto9.uasset'
+[2026.03.05-17.52.09:693][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dimensions/_GENERATED/karlk/Sphere5_6EA56226] ([1] browsable assets)...
+[2026.03.05-17.52.09:693][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dimensions/_GENERATED/karlk/Sphere5_6EA56226]
+[2026.03.05-17.52.09:701][199]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/_GENERATED/karlk/Sphere5_6EA56226_Auto9
+[2026.03.05-17.52.09:701][199]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Sphere5_6EA56226_Auto94C7211FF417E4406A2F2F4BCDFCAB055.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/_GENERATED/karlk/Sphere5_6EA56226_Auto9.uasset'
+[2026.03.05-17.52.09:702][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dimensions/_GENERATED/karlk/Cylinder_ACB773CE] ([1] browsable assets)...
+[2026.03.05-17.52.09:702][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dimensions/_GENERATED/karlk/Cylinder_ACB773CE]
+[2026.03.05-17.52.09:710][199]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/_GENERATED/karlk/Cylinder_ACB773CE_Auto9
+[2026.03.05-17.52.09:710][199]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Cylinder_ACB773CE_Auto9839CB9C24411D0F7B41AE4A76C78F314.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/_GENERATED/karlk/Cylinder_ACB773CE_Auto9.uasset'
+[2026.03.05-17.52.09:711][199]LogFileHelpers: Auto-saving content packages took 0.137
+[2026.03.05-17.52.51:422][675]Cmd: DELETE
+[2026.03.05-17.52.51:422][675]Cmd: ACTOR DELETE
+[2026.03.05-17.52.51:433][675]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.05-17.52.51:451][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.05-17.52.51:454][675]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.03.05-17.54.19:172][704]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.05-17.54.20:329][752]LogPSOHitching: Encountered 50 PSO creation hitches so far (45 graphics, 5 compute). 0 of them were precached.
+[2026.03.05-17.54.23:589][805]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.05-17.54.24:972][877]LogMaterialEditor: Applying material glass
+[2026.03.05-17.54.25:086][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.03.05-17.54.26:360][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.03.05-17.54.26:452][877]MaterialEditorStats: Base pass shader: 246 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.05-17.54.26:452][877]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.05-17.54.26:452][877]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.05-17.54.26:452][877]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-17.54.26:452][877]MaterialEditorStats: Shader Count: 21
+[2026.03.05-17.54.26:452][877]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.03.05-17.54.26:813][895]LogMaterialEditor: Saving and Compiling material glass
+[2026.03.05-17.54.26:815][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-17.54.26:845][895]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/glass] ([1] browsable assets)...
+[2026.03.05-17.54.26:869][895]OBJ SavePackage:     Rendered thumbnail for [Material /Game/glass.glass]
+[2026.03.05-17.54.26:869][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/glass]
+[2026.03.05-17.54.26:869][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/glass" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/glass.uasset" SILENT=true
+[2026.03.05-17.54.26:879][895]LogSavePackage: Moving output files for package: /Game/glass
+[2026.03.05-17.54.26:879][895]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/glassB5E12EDE4AE62E613E2F76B4F327E9B2.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/glass.uasset'
+[2026.03.05-17.54.26:889][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.430 ms (total: 2.89 sec)
+[2026.03.05-17.54.26:920][895]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-17.54.26:920][895]LogContentValidation: Enabled validators:
+[2026.03.05-17.54.26:920][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-17.54.26:920][895]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-17.54.26:920][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-17.54.26:920][895]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-17.54.26:920][895]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-17.54.26:920][895]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-17.54.26:920][895]AssetCheck: /Game/glass Validating asset
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: ================================================
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: Total job queries 1,914, among them cache hits 803 (41.95%), DDC hits 718 (37.51%), Duplicates 100 (5.22%)
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: Tracking 1,011 distinct input hashes that result in 715 distinct outputs (70.72%)
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: RAM used: 5.94 MiB of 819.20 MiB budget. Usage: 0.72%
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: Shaders Compiled: 293
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: Jobs assigned 293, completed 293 (100%)
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: Average time worker was idle: 187.60 s
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: Time job spent in pending queue: average 0.35 s, longest 4.03 s
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: Job execution time: average 0.86 s, max 4.49 s
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: Job life time (pending + execution): average 1.21 s, max 5.05
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: Shader code size: total 2.694 MiB, numShaders 316, average 8.733 KiB, min 2.25 KiB, max 41.605 KiB
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 87.97 s
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: Jobs were issued in 293 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: Average processing rate: 3.33 jobs/sec
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: Total thread time: 207.338 s
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: Total thread preprocess time: 21.757 s
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: Percentage time preprocessing: 10.49%
+[2026.03.05-17.54.51:404][293]LogShaderCompilers: Display: Effective parallelization: 2.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.294602
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   30 times, average 1.20 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    6 times, average 1.15 sec, max 1.29 sec, min 1.00 sec)
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 1.14 sec, max 2.02 sec, min 0.99 sec)
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   19 times, average 1.04 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   11 times, average 0.99 sec, max 1.61 sec, min 0.74 sec)
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 17.37% of total time (compiled   30 times, average 1.20 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.09% of total time (compiled   62 times, average 0.50 sec, max 1.06 sec, min 0.32 sec)
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.50% of total time (compiled   19 times, average 1.04 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.61% of total time (compiled   16 times, average 0.73 sec, max 3.80 sec, min 0.36 sec)
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 5.49% of total time (compiled   10 times, average 1.14 sec, max 2.02 sec, min 0.99 sec)
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display: === Material stats ===
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display: Materials Translated:    341
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display: Material Translation Only: 0.13 s (58%)
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display: Material Cache Hits: 66 (19%)
+[2026.03.05-17.54.51:405][293]LogShaderCompilers: Display: ================================================
+[2026.03.05-17.55.03:332][954]Cmd: DELETE
+[2026.03.05-17.55.03:332][954]Cmd: ACTOR DELETE
+[2026.03.05-17.55.03:341][954]LogEditorActor: Deleted Actor: DynamicMeshActor
+[2026.03.05-17.55.03:358][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.05-17.55.03:362][954]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.03.05-17.55.05:865][ 98]Cmd: DELETE
+[2026.03.05-17.55.05:865][ 98]Cmd: ACTOR DELETE
+[2026.03.05-17.55.05:874][ 98]LogEditorActor: Deleted Actor: DynamicMeshActor
+[2026.03.05-17.55.05:891][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.05-17.55.05:898][ 98]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2026.03.05-17.55.08:921][264]Cmd: DELETE
+[2026.03.05-17.55.08:921][264]Cmd: ACTOR DELETE
+[2026.03.05-17.55.08:929][264]LogEditorActor: Deleted Actor: DynamicMeshActor
+[2026.03.05-17.55.08:947][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.05-17.55.08:954][264]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2026.03.05-17.55.10:348][340]Cmd: DELETE
+[2026.03.05-17.55.10:348][340]Cmd: ACTOR DELETE
+[2026.03.05-17.55.10:358][340]LogEditorActor: Deleted Actor: DynamicMeshActor
+[2026.03.05-17.55.10:376][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.05-17.55.10:383][340]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.03.05-17.55.14:625][580]Cmd: DELETE
+[2026.03.05-17.55.14:625][580]Cmd: ACTOR DELETE
+[2026.03.05-17.55.14:634][580]LogEditorActor: Deleted Actor: DynamicMeshActor
+[2026.03.05-17.55.14:651][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.05-17.55.14:658][580]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2026.03.05-17.55.16:238][671]Cmd: DELETE
+[2026.03.05-17.55.16:238][671]Cmd: ACTOR DELETE
+[2026.03.05-17.55.16:246][671]LogEditorActor: Deleted Actor: DynamicMeshActor
+[2026.03.05-17.55.16:262][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.05-17.55.16:269][671]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2026.03.05-17.55.17:045][713]Cmd: DELETE
+[2026.03.05-17.55.17:046][713]Cmd: ACTOR DELETE
+[2026.03.05-17.55.17:053][713]LogEditorActor: Deleted Actor: DynamicMeshActor
+[2026.03.05-17.55.17:070][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.05-17.55.17:076][713]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.03.05-17.55.18:643][800]Cmd: DELETE
+[2026.03.05-17.55.18:643][800]Cmd: ACTOR DELETE
+[2026.03.05-17.55.18:654][800]LogEditorActor: Deleted Actor: DynamicMeshActor
+[2026.03.05-17.55.18:672][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.05-17.55.18:678][800]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.03.05-17.55.42:288][199]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.03.05-17.55.42:289][199]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2026.03.05-17.55.42:290][199]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_852
+[2026.03.05-17.55.42:291][199]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_852
+[2026.03.05-17.55.44:081][294]Cmd: DELETE
+[2026.03.05-17.55.44:081][294]Cmd: ACTOR DELETE
+[2026.03.05-17.55.44:090][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.05-17.55.44:109][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.05-17.55.44:116][294]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.03.05-17.55.47:083][466]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.05-17.55.47:083][466]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.05-17.55.47:085][466]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_853
+[2026.03.05-17.55.47:086][466]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_853
+[2026.03.05-17.55.55:164][923]LogStreaming: Display: FlushAsyncLoading(415): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-17.55.55:891][955]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8354.423828
+[2026.03.05-17.55.56:075][966]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-17.55.56:075][966]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8354.589844, Update Interval: 355.500977
+[2026.03.05-17.56.08:705][675]Cmd: DELETE
+[2026.03.05-17.56.08:705][675]Cmd: ACTOR DELETE
+[2026.03.05-17.56.08:715][675]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.05-17.56.08:733][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.05-17.56.08:739][675]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.03.05-17.56.17:101][158]Cmd: TRANSACTION UNDO
+[2026.03.05-17.56.17:101][158]LogEditorTransaction: Undo Set Scale
+[2026.03.05-17.56.47:429][888]Cmd: TRANSACTION UNDO
+[2026.03.05-17.56.47:429][888]LogEditorTransaction: Undo Move Elements
+[2026.03.05-17.56.51:896][127]Cmd: TRANSACTION UNDO
+[2026.03.05-17.56.51:896][127]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.05-17.56.52:422][135]Cmd: TRANSACTION UNDO
+[2026.03.05-17.56.52:422][135]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.05-17.56.52:909][155]Cmd: TRANSACTION UNDO
+[2026.03.05-17.56.52:909][155]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.05-17.56.53:374][178]Cmd: TRANSACTION UNDO
+[2026.03.05-17.56.53:374][178]LogEditorTransaction: Undo Replace component used material
+[2026.03.05-17.56.53:988][212]Cmd: TRANSACTION UNDO
+[2026.03.05-17.56.53:988][212]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.05-17.56.54:541][237]Cmd: TRANSACTION UNDO
+[2026.03.05-17.56.54:541][237]LogEditorTransaction: Undo Set Scale
+[2026.03.05-17.56.54:974][263]Cmd: TRANSACTION UNDO
+[2026.03.05-17.56.54:974][263]LogEditorTransaction: Undo Set Scale
+[2026.03.05-17.56.55:357][286]Cmd: TRANSACTION UNDO
+[2026.03.05-17.56.55:357][286]LogEditorTransaction: Undo Set Scale
+[2026.03.05-17.56.55:875][316]Cmd: TRANSACTION UNDO
+[2026.03.05-17.56.55:875][316]LogEditorTransaction: Undo Set Scale
+[2026.03.05-17.58.09:091][623]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: b64...2c7
+[2026.03.05-17.58.09:091][623]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.554e+07
+[2026.03.05-17.58.09:307][636]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: b64...2c7 Access[Expires: 2026.03.05-19.58.09 Remaining: 7200.31] Refresh[Expires: 2026-09-01T15:34:43.152Z Remaining: 15543394.15] State: Valid
+[2026.03.05-18.02.09:955][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.05-18.02.10:074][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto0
+[2026.03.05-18.02.10:074][ 24]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersion_Auto0386B91DE4EF6D2513C376095553CF3A8.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/LightVersion_Auto0.umap'
+[2026.03.05-18.02.10:076][ 24]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.141
+[2026.03.05-18.02.10:076][ 24]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.141
+[2026.03.05-18.02.10:076][ 24]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Glass] ([1] browsable assets)...
+[2026.03.05-18.02.10:076][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Glass]
+[2026.03.05-18.02.10:083][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Glass_Auto0
+[2026.03.05-18.02.10:083][ 24]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Glass_Auto0A554ED844B9731F8CC60D6B105F43161.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Glass_Auto0.uasset'
+[2026.03.05-18.02.10:084][ 24]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Metal] ([1] browsable assets)...
+[2026.03.05-18.02.10:084][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Metal]
+[2026.03.05-18.02.10:093][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Metal_Auto0
+[2026.03.05-18.02.10:093][ 24]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Metal_Auto0287E1F144A00B64E3C70DD87A92812BF.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Metal_Auto0.uasset'
+[2026.03.05-18.02.10:093][ 24]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/material] ([1] browsable assets)...
+[2026.03.05-18.02.10:093][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/material]
+[2026.03.05-18.02.10:100][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/material_Auto0
+[2026.03.05-18.02.10:100][ 24]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/material_Auto02681FB38454DC260BD85DC91DD88AC88.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/material_Auto0.uasset'
+[2026.03.05-18.02.10:101][ 24]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Material_004] ([1] browsable assets)...
+[2026.03.05-18.02.10:102][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Material_004]
+[2026.03.05-18.02.10:110][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Material_004_Auto0
+[2026.03.05-18.02.10:110][ 24]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Material_004_Auto0BF97EE894CD002D8850C918BA52028A3.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Material_004_Auto0.uasset'
+[2026.03.05-18.02.10:111][ 24]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_3] ([1] browsable assets)...
+[2026.03.05-18.02.10:111][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_3]
+[2026.03.05-18.02.10:118][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_3_Auto0
+[2026.03.05-18.02.10:118][ 24]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_dome_showcase_texture_3_AuAC330A5D445FD98CCEB87E92F960A2BE.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_3_Auto0.uasset'
+[2026.03.05-18.02.10:119][ 24]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_2] ([1] browsable assets)...
+[2026.03.05-18.02.10:119][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_2]
+[2026.03.05-18.02.10:134][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_2_Auto0
+[2026.03.05-18.02.10:134][ 24]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_dome_showcase_texture_2_AuD47DCD6541C91AD72D76118F99311E07.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_2_Auto0.uasset'
+[2026.03.05-18.02.10:136][ 24]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_1] ([1] browsable assets)...
+[2026.03.05-18.02.10:136][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_1]
+[2026.03.05-18.02.10:153][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_1_Auto0
+[2026.03.05-18.02.10:153][ 24]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_dome_showcase_texture_1_Au03688B0448353F9107E1839004C3E94C.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_1_Auto0.uasset'
+[2026.03.05-18.02.10:155][ 24]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/StaticMeshes/space_dome_showcase] ([1] browsable assets)...
+[2026.03.05-18.02.10:155][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/StaticMeshes/space_dome_showcase]
+[2026.03.05-18.02.10:164][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/StaticMeshes/space_dome_showcase_Auto0
+[2026.03.05-18.02.10:164][ 24]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_dome_showcase_Auto00DB93C9846C8BDDB2305439B9766ED71.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/StaticMeshes/space_dome_showcase_Auto0.uasset'
+[2026.03.05-18.02.10:165][ 24]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Light] ([1] browsable assets)...
+[2026.03.05-18.02.10:165][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Light]
+[2026.03.05-18.02.10:173][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Light_Auto0
+[2026.03.05-18.02.10:173][ 24]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Light_Auto073E5D65842096C2F9D8F958437DBEC79.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Light_Auto0.uasset'
+[2026.03.05-18.02.10:174][ 24]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_0] ([1] browsable assets)...
+[2026.03.05-18.02.10:174][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_0]
+[2026.03.05-18.02.10:183][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_0_Auto0
+[2026.03.05-18.02.10:183][ 24]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_dome_showcase_texture_0_AuD7054D7842DAF9FD7AB260BF3FCD10F4.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_0_Auto0.uasset'
+[2026.03.05-18.02.10:185][ 24]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dimensions/_GENERATED/karlk/Sphere_31D75CAA] ([1] browsable assets)...
+[2026.03.05-18.02.10:185][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dimensions/_GENERATED/karlk/Sphere_31D75CAA]
+[2026.03.05-18.02.10:193][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/_GENERATED/karlk/Sphere_31D75CAA_Auto0
+[2026.03.05-18.02.10:193][ 24]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Sphere_31D75CAA_Auto08E1ECEE74F240FE849E43495421A7D13.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/_GENERATED/karlk/Sphere_31D75CAA_Auto0.uasset'
+[2026.03.05-18.02.10:194][ 24]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dimensions/_GENERATED/karlk/Sphere5_6EA56226] ([1] browsable assets)...
+[2026.03.05-18.02.10:194][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dimensions/_GENERATED/karlk/Sphere5_6EA56226]
+[2026.03.05-18.02.10:204][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/_GENERATED/karlk/Sphere5_6EA56226_Auto0
+[2026.03.05-18.02.10:204][ 24]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Sphere5_6EA56226_Auto033E1E2E24B8679FF3702B7B35B7BD093.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/_GENERATED/karlk/Sphere5_6EA56226_Auto0.uasset'
+[2026.03.05-18.02.10:205][ 24]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dimensions/_GENERATED/karlk/Cylinder_ACB773CE] ([1] browsable assets)...
+[2026.03.05-18.02.10:205][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dimensions/_GENERATED/karlk/Cylinder_ACB773CE]
+[2026.03.05-18.02.10:212][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/_GENERATED/karlk/Cylinder_ACB773CE_Auto0
+[2026.03.05-18.02.10:213][ 24]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Cylinder_ACB773CE_Auto0BD945A104552FC16BEF64FB4876089F2.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/_GENERATED/karlk/Cylinder_ACB773CE_Auto0.uasset'
+[2026.03.05-18.02.10:213][ 24]LogFileHelpers: Auto-saving content packages took 0.137
+[2026.03.05-18.02.23:352][809]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8741.711914
+[2026.03.05-18.02.23:518][819]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-18.02.23:518][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8741.861328, Update Interval: 322.145447
+[2026.03.05-18.07.24:548][997]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.05-18.07.24:548][997]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-18.07.24:548][997]MaterialEditorStats: Shader Count: 0
+[2026.03.05-18.07.24:548][997]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.03.05-18.07.24:722][  0]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.05-18.07.24:722][  0]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.05-18.07.24:722][  0]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-18.07.24:722][  0]MaterialEditorStats: Shader Count: 3
+[2026.03.05-18.07.24:722][  0]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.03.05-18.07.28:423][213]LogMaterialEditor: Saving and Compiling material glass
+[2026.03.05-18.07.28:525][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.05-18.07.29:911][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.05-18.07.29:926][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-18.07.29:966][213]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/glass] ([1] browsable assets)...
+[2026.03.05-18.07.30:022][213]OBJ SavePackage:     Rendered thumbnail for [Material /Game/glass.glass]
+[2026.03.05-18.07.30:024][213]OBJ SavePackage: Finished generating thumbnails for package [/Game/glass]
+[2026.03.05-18.07.30:024][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/glass" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/glass.uasset" SILENT=true
+[2026.03.05-18.07.30:031][213]LogSavePackage: Moving output files for package: /Game/glass
+[2026.03.05-18.07.30:032][213]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/glass543335CA4A14C2CEEB6CEBA3642A8914.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/glass.uasset'
+[2026.03.05-18.07.30:041][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.142 ms (total: 3.01 sec)
+[2026.03.05-18.07.30:096][213]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-18.07.30:097][213]LogContentValidation: Enabled validators:
+[2026.03.05-18.07.30:097][213]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-18.07.30:097][213]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-18.07.30:097][213]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-18.07.30:097][213]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-18.07.30:097][213]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-18.07.30:097][213]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-18.07.30:097][213]AssetCheck: /Game/glass Validating asset
+[2026.03.05-18.07.30:129][213]MaterialEditorStats: Base pass shader: 246 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.05-18.07.30:129][213]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.05-18.07.30:129][213]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.05-18.07.30:129][213]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-18.07.30:129][213]MaterialEditorStats: Shader Count: 21
+[2026.03.05-18.07.30:129][213]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.03.05-18.08.42:073][485]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9120.289062
+[2026.03.05-18.08.42:273][497]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-18.08.42:273][497]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9120.470703, Update Interval: 300.558502
+[2026.03.05-18.09.00:273][336]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.05-18.09.07:442][534]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.05-18.09.08:850][607]LogMaterialEditor: Applying material glass
+[2026.03.05-18.09.08:957][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.03.05-18.09.10:337][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.05-18.09.10:435][607]MaterialEditorStats: Base pass shader: 253 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.05-18.09.10:435][607]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.05-18.09.10:435][607]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.05-18.09.10:435][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-18.09.10:435][607]MaterialEditorStats: Shader Count: 21
+[2026.03.05-18.09.10:435][607]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.03.05-18.09.10:819][630]LogMaterialEditor: Saving and Compiling material glass
+[2026.03.05-18.09.10:821][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-18.09.10:860][630]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/glass] ([1] browsable assets)...
+[2026.03.05-18.09.10:887][630]OBJ SavePackage:     Rendered thumbnail for [Material /Game/glass.glass]
+[2026.03.05-18.09.10:887][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/glass]
+[2026.03.05-18.09.10:887][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/glass" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/glass.uasset" SILENT=true
+[2026.03.05-18.09.10:895][630]LogSavePackage: Moving output files for package: /Game/glass
+[2026.03.05-18.09.10:896][630]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/glassE8857DD04904EE3498E184B197BBE7EA.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/glass.uasset'
+[2026.03.05-18.09.10:906][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.348 ms (total: 3.09 sec)
+[2026.03.05-18.09.10:942][630]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-18.09.10:942][630]LogContentValidation: Enabled validators:
+[2026.03.05-18.09.10:942][630]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-18.09.10:942][630]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-18.09.10:942][630]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-18.09.10:942][630]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-18.09.10:942][630]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-18.09.10:943][630]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-18.09.10:943][630]AssetCheck: /Game/glass Validating asset
+[2026.03.05-18.09.26:147][497]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.05-18.09.26:147][497]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-18.09.26:147][497]MaterialEditorStats: Shader Count: 0
+[2026.03.05-18.09.26:147][497]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.03.05-18.09.26:237][500]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.05-18.09.26:237][500]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.05-18.09.26:237][500]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-18.09.26:237][500]MaterialEditorStats: Shader Count: 3
+[2026.03.05-18.09.26:237][500]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.03.05-18.09.32:105][843]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.05-18.09.32:105][843]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-18.09.32:105][843]MaterialEditorStats: Shader Count: 0
+[2026.03.05-18.09.32:105][843]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.03.05-18.09.32:184][846]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.05-18.09.32:184][846]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.05-18.09.32:184][846]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-18.09.32:184][846]MaterialEditorStats: Shader Count: 3
+[2026.03.05-18.09.32:184][846]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.03.05-18.09.34:262][962]LogMaterialEditor: Applying material glass
+[2026.03.05-18.09.34:356][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.05-18.09.35:635][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.05-18.09.35:728][962]MaterialEditorStats: Base pass shader: 253 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.03.05-18.09.35:728][962]MaterialEditorStats: Base pass vertex shader: 344 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.05-18.09.35:728][962]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.05-18.09.35:728][962]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.05-18.09.35:728][962]MaterialEditorStats: Shader Count: 21
+[2026.03.05-18.09.35:728][962]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.03.05-18.09.36:252][993]LogMaterialEditor: Saving and Compiling material glass
+[2026.03.05-18.09.36:255][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-18.09.36:280][993]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/glass] ([1] browsable assets)...
+[2026.03.05-18.09.36:320][993]OBJ SavePackage:     Rendered thumbnail for [Material /Game/glass.glass]
+[2026.03.05-18.09.36:320][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/glass]
+[2026.03.05-18.09.36:320][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/glass" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/glass.uasset" SILENT=true
+[2026.03.05-18.09.36:327][993]LogSavePackage: Moving output files for package: /Game/glass
+[2026.03.05-18.09.36:328][993]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/glassE096431349463108B50AC7A414C52137.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/glass.uasset'
+[2026.03.05-18.09.36:337][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.057 ms (total: 3.17 sec)
+[2026.03.05-18.09.36:373][993]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-18.09.36:373][993]LogContentValidation: Enabled validators:
+[2026.03.05-18.09.36:373][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-18.09.36:373][993]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-18.09.36:373][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-18.09.36:373][993]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-18.09.36:373][993]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-18.09.36:373][993]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-18.09.36:373][993]AssetCheck: /Game/glass Validating asset
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: ================================================
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Total job queries 2,044, among them cache hits 886 (43.35%), DDC hits 718 (35.13%), Duplicates 109 (5.33%)
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Tracking 1,049 distinct input hashes that result in 742 distinct outputs (70.73%)
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: RAM used: 6.22 MiB of 819.20 MiB budget. Usage: 0.76%
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Shaders Compiled: 331
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Jobs assigned 331, completed 331 (100%)
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Average time worker was idle: 182.31 s
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Time job spent in pending queue: average 0.32 s, longest 4.03 s
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Job execution time: average 0.84 s, max 4.49 s
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Job life time (pending + execution): average 1.16 s, max 5.05
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Shader code size: total 3.021 MiB, numShaders 354, average 8.74 KiB, min 2.25 KiB, max 41.605 KiB
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 98.09 s
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Jobs were issued in 331 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Average processing rate: 3.37 jobs/sec
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Total thread time: 231.243 s
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Total thread preprocess time: 23.231 s
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Percentage time preprocessing: 10.05%
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Effective parallelization: 2.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.294669
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   35 times, average 1.19 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    6 times, average 1.15 sec, max 1.29 sec, min 1.00 sec)
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   13 times, average 1.12 sec, max 2.02 sec, min 0.99 sec)
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   19 times, average 1.04 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-18.09.51:444][874]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   14 times, average 0.99 sec, max 1.61 sec, min 0.74 sec)
+[2026.03.05-18.09.51:445][874]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.05-18.09.51:445][874]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 18.00% of total time (compiled   35 times, average 1.19 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-18.09.51:445][874]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.21% of total time (compiled   65 times, average 0.51 sec, max 1.06 sec, min 0.32 sec)
+[2026.03.05-18.09.51:445][874]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.52% of total time (compiled   19 times, average 1.04 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-18.09.51:445][874]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 6.27% of total time (compiled   13 times, average 1.12 sec, max 2.02 sec, min 0.99 sec)
+[2026.03.05-18.09.51:445][874]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.21% of total time (compiled   21 times, average 0.68 sec, max 3.80 sec, min 0.36 sec)
+[2026.03.05-18.09.51:445][874]LogShaderCompilers: Display: === Material stats ===
+[2026.03.05-18.09.51:445][874]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.05-18.09.51:445][874]LogShaderCompilers: Display: Materials Translated:    352
+[2026.03.05-18.09.51:445][874]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2026.03.05-18.09.51:445][874]LogShaderCompilers: Display: Material Translation Only: 0.13 s (57%)
+[2026.03.05-18.09.51:445][874]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.03.05-18.09.51:445][874]LogShaderCompilers: Display: Material Cache Hits: 66 (19%)
+[2026.03.05-18.09.51:445][874]LogShaderCompilers: Display: ================================================
+[2026.03.05-18.10.16:503][328]LogFab: Display: Asset Type = glb
+[2026.03.05-18.10.16:503][328]LogFab: Display: Is Quixel = 0
+[2026.03.05-18.10.17:223][349]LogStreaming: Display: FlushAsyncLoading(416): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.10.17:225][349]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.05-18.10.17:226][349]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/karlk/AppData/Local/Temp/FabLibrary/0d5015f7-6256-4d14-b085-c4f2c9b22bf8/earth_animation.glb]
+[2026.03.05-18.10.17:336][354]LogStreaming: Display: FlushAsyncLoading(417): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.10.17:505][355]LogStreaming: Display: FlushAsyncLoading(419): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.10.17:578][359]LogStreaming: Display: FlushAsyncLoading(423): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.10.17:768][370]LogStreaming: Display: FlushAsyncLoading(424): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.10.18:049][387]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.05-18.10.18:080][388]LogStreaming: Display: FlushAsyncLoading(426): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.10.18:112][390]LogStreaming: Display: FlushAsyncLoading(427): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.10.18:199][395]LogStreaming: Display: FlushAsyncLoading(428): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.10.18:249][396]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_Anim.earth_animation_Anim (Required Memory Estimate: 0.91 MB)
+[2026.03.05-18.10.18:287][396]LogAnimationCompression: Display: Storing compressed animation data for /Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_Anim.earth_animation_Anim, at AnimationSequence/d09fb3edd4615f578ff160474063dbe89612585a
+[2026.03.05-18.10.18:397][396]LogSkeletalMesh: Building Skeletal Mesh earth_animation...
+[2026.03.05-18.10.18:444][398]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation.earth_animation
+[2026.03.05-18.10.18:488][399]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.03.05-18.10.18:509][399]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.03.05-18.10.18:511][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.05-18.10.18:548][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.03.05-18.10.18:568][400]LogInterchangeEngine: Display: Interchange import completed [C:/Users/karlk/AppDa...14-b085-c4f2c9b22bf8/earth_animation.glb]
+[2026.03.05-18.10.28:512][973]LogFab: Display: Asset Type = glb
+[2026.03.05-18.10.28:512][973]LogFab: Display: Is Quixel = 0
+[2026.03.05-18.10.30:260][ 55]LogStreaming: Display: FlushAsyncLoading(429): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.10.30:261][ 55]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.05-18.10.30:261][ 55]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/karlk/AppData/Local/Temp/FabLibrary/0142e89a-b8ba-44f7-9b35-9c1873059ee1/mars.glb]
+[2026.03.05-18.10.30:309][ 57]LogStreaming: Display: FlushAsyncLoading(430): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.10.30:333][ 59]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.05-18.10.30:342][ 59]LogStreaming: Display: FlushAsyncLoading(434): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.10.30:443][ 65]LogStreaming: Display: FlushAsyncLoading(435): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.10.30:544][ 67]LogTexture: Display: Building textures: /Game/Fab/Mars/mars/Textures/mars_texture_0.mars_texture_0 (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 158.916648 MB), EncodeSpeed: Fast
+[2026.03.05-18.10.30:544][ 67]LogTexture: Display: Building textures: /Game/Fab/Mars/mars/Textures/mars_texture_3.mars_texture_3 (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 147.916647 MB), EncodeSpeed: Fast
+[2026.03.05-18.10.30:544][ 67]LogTexture: Display: Building textures: /Game/Fab/Mars/mars/Textures/mars_texture_2.mars_texture_2 (TFO_BC5, 2048x1024 x1x1x1) (Required Memory Estimate: 225.499975 MB), EncodeSpeed: Fast
+[2026.03.05-18.10.30:544][ 67]LogTexture: Display: Building textures: /Game/Fab/Mars/mars/Textures/mars_texture_1.mars_texture_1 (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 158.916648 MB), EncodeSpeed: Fast
+[2026.03.05-18.10.30:586][ 67]LogStaticMesh: Display: Building static mesh mars (Required Memory Estimate: 56.574072 MB)...
+[2026.03.05-18.10.30:829][ 81]LogStaticMesh: Built static mesh [0.24s] /Game/Fab/Mars/mars/StaticMeshes/mars.mars
+[2026.03.05-18.10.32:493][ 84]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, mars
+[2026.03.05-18.10.32:516][ 85]LogInterchangeEngine: Display: Interchange import completed [C:/Users/karlk/AppDa...f7-9b35-9c1873059ee1/mars.glb]
+[2026.03.05-18.10.34:593][197]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, mars
+[2026.03.05-18.10.45:832][865]LogFab: Display: Asset Type = glb
+[2026.03.05-18.10.45:832][865]LogFab: Display: Is Quixel = 0
+[2026.03.05-18.10.46:714][895]LogStreaming: Display: FlushAsyncLoading(436): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.10.46:716][895]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.05-18.10.46:716][895]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/karlk/AppData/Local/Temp/FabLibrary/55ace4ea-b4dd-49e1-808d-3ca00c5f2bde/jupiter.glb]
+[2026.03.05-18.10.46:766][897]LogStreaming: Display: FlushAsyncLoading(437): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.10.46:788][898]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.05-18.10.46:807][899]LogStreaming: Display: FlushAsyncLoading(441): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.10.46:907][905]LogStreaming: Display: FlushAsyncLoading(442): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.10.47:000][907]LogTexture: Display: Building textures: /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0.jupiter_texture_0 (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 158.916648 MB), EncodeSpeed: Fast
+[2026.03.05-18.10.47:001][907]LogTexture: Display: Building textures: /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_1.jupiter_texture_1 (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 158.916648 MB), EncodeSpeed: Fast
+[2026.03.05-18.10.47:001][907]LogTexture: Display: Building textures: /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_3.jupiter_texture_3 (TFO_AutoDXT, 2048x1024 x1x1x1) (Required Memory Estimate: 147.916647 MB), EncodeSpeed: Fast
+[2026.03.05-18.10.47:002][907]LogTexture: Display: Building textures: /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_2.jupiter_texture_2 (TFO_BC5, 2048x1024 x1x1x1) (Required Memory Estimate: 225.499975 MB), EncodeSpeed: Fast
+[2026.03.05-18.10.47:029][908]LogStaticMesh: Display: Building static mesh jupiter (Required Memory Estimate: 56.574072 MB)...
+[2026.03.05-18.10.47:275][920]LogStaticMesh: Built static mesh [0.25s] /Game/Fab/Jupiter/jupiter/StaticMeshes/jupiter.jupiter
+[2026.03.05-18.10.49:002][923]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, jupiter
+[2026.03.05-18.10.49:031][924]LogInterchangeEngine: Display: Interchange import completed [C:/Users/karlk/AppDa...e1-808d-3ca00c5f2bde/jupiter.glb]
+[2026.03.05-18.10.51:167][ 46]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, jupiter
+[2026.03.05-18.11.55:340][655]Cmd: TRANSACTION UNDO
+[2026.03.05-18.11.55:340][655]LogEditorTransaction: Undo Place Objects
+[2026.03.05-18.11.55:449][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.05-18.11.55:626][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.03.05-18.11.55:763][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.05-18.11.55:930][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.05-18.12.03:192][ 29]Cmd: TRANSACTION UNDO
+[2026.03.05-18.12.03:192][ 29]LogEditorTransaction: Undo Place Objects
+[2026.03.05-18.12.03:301][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.05-18.12.03:469][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.03.05-18.12.03:591][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.05-18.12.03:757][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.05-18.12.05:750][126]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/EngineMaterials/DefaultMaterial.DefaultMaterial
+[2026.03.05-18.12.05:756][126]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.03.05-18.12.06:186][126]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.05-18.12.06:186][126]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.03.05-18.12.06:186][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.05-18.12.06:186][126]MaterialEditorStats: Shader Count: 0
+[2026.03.05-18.12.06:186][126]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-18.12.06:324][128]MaterialEditorStats: Base pass shader: 210 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.03.05-18.12.06:324][128]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.05-18.12.06:324][128]MaterialEditorStats: Texture samplers: 3/16
+[2026.03.05-18.12.06:324][128]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.03.05-18.12.06:324][128]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.05-18.12.06:324][128]MaterialEditorStats: Shader Count: 5
+[2026.03.05-18.12.06:324][128]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-18.12.13:122][501]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.05-18.12.13:122][501]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.03.05-18.12.13:122][501]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.05-18.12.13:122][501]MaterialEditorStats: Shader Count: 0
+[2026.03.05-18.12.13:122][501]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-18.12.13:271][503]MaterialEditorStats: Base pass shader: 210 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.03.05-18.12.13:271][503]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.05-18.12.13:271][503]MaterialEditorStats: Texture samplers: 3/16
+[2026.03.05-18.12.13:271][503]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.03.05-18.12.13:271][503]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.05-18.12.13:271][503]MaterialEditorStats: Shader Count: 5
+[2026.03.05-18.12.13:271][503]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-18.12.15:488][633]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.05-18.12.15:488][633]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.03.05-18.12.15:488][633]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.05-18.12.15:488][633]MaterialEditorStats: Shader Count: 0
+[2026.03.05-18.12.15:488][633]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-18.12.16:031][661]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.05-18.12.16:031][661]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.05-18.12.16:031][661]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.03.05-18.12.16:031][661]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.05-18.12.16:031][661]MaterialEditorStats: Shader Count: 3
+[2026.03.05-18.12.16:031][661]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-18.12.16:235][670]MaterialEditorStats: Base pass shader: 206 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.03.05-18.12.16:235][670]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.05-18.12.16:235][670]MaterialEditorStats: Texture samplers: 4/16
+[2026.03.05-18.12.16:237][670]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.03.05-18.12.16:237][670]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.05-18.12.16:237][670]MaterialEditorStats: Shader Count: 4
+[2026.03.05-18.12.16:237][670]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-18.12.17:289][728]LogMaterialEditor: Applying material DefaultMaterial
+[2026.03.05-18.12.17:424][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.03.05-18.12.22:300][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.05-18.12.22:402][728]MaterialEditorStats: Base pass shader: 206 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.03.05-18.12.22:402][728]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.05-18.12.22:402][728]MaterialEditorStats: Base pass vertex shader: 293 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.05-18.12.22:402][728]MaterialEditorStats: Texture samplers: 4/16
+[2026.03.05-18.12.22:402][728]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.03.05-18.12.22:402][728]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.05-18.12.22:402][728]MaterialEditorStats: Shader Count: 79
+[2026.03.05-18.12.22:402][728]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.05-18.12.23:473][788]LogMaterialEditor: Saving and Compiling material DefaultMaterial
+[2026.03.05-18.12.23:474][788]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-18.12.23:509][788]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/EngineMaterials/DefaultMaterial] ([1] browsable assets)...
+[2026.03.05-18.12.23:552][788]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/EngineMaterials/DefaultMaterial.DefaultMaterial]
+[2026.03.05-18.12.23:552][788]OBJ SavePackage: Finished generating thumbnails for package [/Engine/EngineMaterials/DefaultMaterial]
+[2026.03.05-18.12.23:552][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefaultMaterial" FILE="../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" SILENT=true
+[2026.03.05-18.12.23:562][788]LogSavePackage: Moving output files for package: /Engine/EngineMaterials/DefaultMaterial
+[2026.03.05-18.12.23:563][788]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/DefaultMaterial81894469457C0134C8D882B778974E3C.tmp' to '../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset'
+[2026.03.05-18.12.23:575][788]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.203 ms (total: 3.27 sec)
+[2026.03.05-18.12.23:609][788]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-18.12.23:609][788]LogContentValidation: Enabled validators:
+[2026.03.05-18.12.23:609][788]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-18.12.23:609][788]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-18.12.23:609][788]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-18.12.23:609][788]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-18.12.23:609][788]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-18.12.23:609][788]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-18.12.23:612][788]AssetCheck: /Engine/EngineMaterials/DefaultMaterial Validating asset
+[2026.03.05-18.12.23:629][788]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/karlk/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: ================================================
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Total job queries 2,287, among them cache hits 1,035 (45.26%), DDC hits 724 (31.66%), Duplicates 128 (5.60%)
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Tracking 1,124 distinct input hashes that result in 799 distinct outputs (71.09%)
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: RAM used: 6.71 MiB of 819.20 MiB budget. Usage: 0.82%
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Shaders Compiled: 400
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Jobs assigned 400, completed 400 (100%)
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Average time worker was idle: 213.36 s
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Time job spent in pending queue: average 0.52 s, longest 4.03 s
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Job execution time: average 0.82 s, max 4.49 s
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Job life time (pending + execution): average 1.34 s, max 5.05
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Shader code size: total 3.731 MiB, numShaders 423, average 9.032 KiB, min 2.25 KiB, max 41.605 KiB
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 104.94 s
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Jobs were issued in 400 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Average processing rate: 3.81 jobs/sec
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Total thread time: 272.235 s
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Total thread preprocess time: 25.918 s
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Percentage time preprocessing: 9.52%
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Effective parallelization: 2.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.324285
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   35 times, average 1.19 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    6 times, average 1.15 sec, max 1.29 sec, min 1.00 sec)
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   13 times, average 1.12 sec, max 2.02 sec, min 0.99 sec)
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   21 times, average 1.08 sec, max 1.61 sec, min 0.74 sec)
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   25 times, average 1.03 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 15.29% of total time (compiled   35 times, average 1.19 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.47% of total time (compiled   78 times, average 0.50 sec, max 1.06 sec, min 0.31 sec)
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.45% of total time (compiled   25 times, average 1.03 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.32% of total time (compiled   21 times, average 1.08 sec, max 1.61 sec, min 0.74 sec)
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.73% of total time (compiled   29 times, average 0.63 sec, max 3.80 sec, min 0.31 sec)
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: === Material stats ===
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Materials Translated:    390
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Material Translation Only: 0.14 s (58%)
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: Material Cache Hits: 69 (18%)
+[2026.03.05-18.12.51:454][411]LogShaderCompilers: Display: ================================================
+[2026.03.05-18.14.19:060][406]LogFab: Display: Asset Type = glb
+[2026.03.05-18.14.19:060][406]LogFab: Display: Is Quixel = 0
+[2026.03.05-18.14.20:037][442]LogStreaming: Display: FlushAsyncLoading(443): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.14.20:038][442]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.05-18.14.20:039][442]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/karlk/AppData/Local/Temp/FabLibrary/9042d765-4f32-4ef3-892a-aca6c14f8f60/space_station.glb]
+[2026.03.05-18.14.20:093][445]LogStreaming: Display: FlushAsyncLoading(444): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.14.20:294][457]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2026.03.05-18.14.20:392][462]LogStreaming: Display: FlushAsyncLoading(449): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.14.20:534][469]LogStreaming: Display: FlushAsyncLoading(450): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.14.21:181][487]LogTexture: Display: Building textures: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_0.space_station_texture_0 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1072.999983 MB), EncodeSpeed: Fast
+[2026.03.05-18.14.21:258][487]LogStaticMesh: Display: Building static mesh space_station (Required Memory Estimate: 263.612936 MB)...
+[2026.03.05-18.14.21:464][497]LogTexture: Display: Building textures: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_1.space_station_texture_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.05-18.14.21:634][503]LogTexture: Display: Building textures: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_2.space_station_texture_2 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.05-18.14.21:826][513]LogTexture: Display: Building textures: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_3.space_station_texture_3 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.03.05-18.14.22:651][561]LogStaticMesh: Built static mesh [1.39s] /Game/Fab/Space_Station/space_station/StaticMeshes/space_station.space_station
+[2026.03.05-18.14.22:974][581]LogStaticMesh: Warning: space_station has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.03.05-18.14.22:974][581]LogStaticMesh: Warning: space_station has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.03.05-18.14.23:913][582]LogInterchangeEngine: Display: Interchange import completed [C:/Users/karlk/AppDa...f3-892a-aca6c14f8f60/space_station.glb]
+[2026.03.05-18.14.25:468][675]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 1.0Mb total, 0.1Mb always loaded, 25% occupied, 0 triangles, space_station
+[2026.03.05-18.14.27:885][818]LogFab: Display: Asset Type = glb
+[2026.03.05-18.14.27:885][818]LogFab: Display: Is Quixel = 0
+[2026.03.05-18.14.32:989][106]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9471.082031
+[2026.03.05-18.14.33:189][116]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-18.14.33:189][116]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9471.256836, Update Interval: 328.933380
+[2026.03.05-18.14.44:827][789]LogStreaming: Display: FlushAsyncLoading(451): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.14.44:829][789]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.05-18.14.44:829][789]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/karlk/AppData/Local/Temp/FabLibrary/a269ee78-9b9a-49ea-b925-3291de5c0496/1300_followers_celebration_space_station.glb]
+[2026.03.05-18.14.44:893][792]LogStreaming: Display: FlushAsyncLoading(452): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.14.45:228][812]LogStreaming: Display: FlushAsyncLoading(456): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.14.45:471][825]LogStreaming: Display: FlushAsyncLoading(457): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.14.46:064][845]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1121.000 MiB, MemoryLimit = 1084.609375 MiB 
+[2026.03.05-18.14.46:066][845]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1121.000 MiB, MemoryLimit = 1084.625 MiB 
+[2026.03.05-18.14.46:075][845]LogTexture: Display: Building textures: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_0.1300_followers_celebration_space_station_texture_0 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.05-18.14.46:482][863]LogStaticMesh: Display: Building static mesh 1300_followers_celebration_space_station (Required Memory Estimate: 322.398674 MB)...
+[2026.03.05-18.14.47:584][928]LogStaticMesh: Built static mesh [1.10s] /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/StaticMeshes/1300_followers_celebration_space_station.1300_followers_celebration_space_station
+[2026.03.05-18.14.47:904][946]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1121.000 MiB, MemoryLimit = 1014.65625 MiB 
+[2026.03.05-18.14.47:904][946]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1121.000 MiB, MemoryLimit = 1014.65625 MiB 
+[2026.03.05-18.14.47:914][947]LogTexture: Display: Building textures: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_1.1300_followers_celebration_space_station_texture_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.05-18.14.48:350][971]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1121.000 MiB, MemoryLimit = 998.289062 MiB 
+[2026.03.05-18.14.48:350][971]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1121.000 MiB, MemoryLimit = 998.289062 MiB 
+[2026.03.05-18.14.48:361][972]LogTexture: Display: Building textures: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_2.1300_followers_celebration_space_station_texture_2 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.05-18.14.48:524][980]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1022.234375 MiB 
+[2026.03.05-18.14.48:524][980]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 1022.234375 MiB 
+[2026.03.05-18.14.48:536][980]LogTexture: Display: Building textures: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_3.1300_followers_celebration_space_station_texture_3 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.03.05-18.14.49:328][999]LogInterchangeEngine: Display: Interchange import completed [C:/Users/karlk/AppDa...ea-b925-3291de5c0496/1300_followers_celebration_space_station.glb]
+[2026.03.05-18.14.52:021][138]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/StaticMeshes/1300_followers_celebration_space_station.1300_followers_celebration_space_station
+[2026.03.05-18.14.52:021][138]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/StaticMeshes/1300_followers_celebration_space_station.1300_followers_celebration_space_station
+[2026.03.05-18.14.52:023][138]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/StaticMeshes/1300_followers_celebration_space_station.1300_followers_celebration_space_station as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_854
+[2026.03.05-18.14.52:706][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.03.05-18.14.52:713][173]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2026.03.05-18.14.52:721][173]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/StaticMeshes/1300_followers_celebration_space_station.1300_followers_celebration_space_station
+[2026.03.05-18.14.52:721][173]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/StaticMeshes/1300_followers_celebration_space_station.1300_followers_celebration_space_station
+[2026.03.05-18.14.52:722][173]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/StaticMeshes/1300_followers_celebration_space_station.1300_followers_celebration_space_station as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_855
+[2026.03.05-18.15.32:600][331]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Space_Station/space_station/StaticMeshes/space_station.space_station
+[2026.03.05-18.15.32:600][331]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Space_Station/space_station/StaticMeshes/space_station.space_station
+[2026.03.05-18.15.32:601][331]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Space_Station/space_station/StaticMeshes/space_station.space_station as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_856
+[2026.03.05-18.15.33:374][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.05-18.15.33:379][376]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.03.05-18.15.33:387][376]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Space_Station/space_station/StaticMeshes/space_station.space_station
+[2026.03.05-18.15.33:387][376]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Space_Station/space_station/StaticMeshes/space_station.space_station
+[2026.03.05-18.15.33:388][376]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Space_Station/space_station/StaticMeshes/space_station.space_station as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_857
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: ================================================
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Total job queries 2,347, among them cache hits 1,086 (46.27%), DDC hits 730 (31.10%), Duplicates 128 (5.45%)
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Tracking 1,133 distinct input hashes that result in 803 distinct outputs (70.87%)
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: RAM used: 6.75 MiB of 819.20 MiB budget. Usage: 0.82%
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Shaders Compiled: 403
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Jobs assigned 403, completed 403 (100%)
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Average time worker was idle: 212.87 s
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Time job spent in pending queue: average 0.52 s, longest 4.03 s
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Job execution time: average 0.82 s, max 4.49 s
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Job life time (pending + execution): average 1.34 s, max 5.05
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Shader code size: total 3.763 MiB, numShaders 427, average 9.023 KiB, min 2.25 KiB, max 41.605 KiB
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 106.88 s
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Jobs were issued in 403 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Average processing rate: 3.77 jobs/sec
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Total thread time: 274.195 s
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Total thread preprocess time: 26.644 s
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Percentage time preprocessing: 9.72%
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Effective parallelization: 2.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.320696
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   35 times, average 1.19 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   13 times, average 1.12 sec, max 2.02 sec, min 0.99 sec)
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    7 times, average 1.11 sec, max 1.29 sec, min 0.88 sec)
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   21 times, average 1.08 sec, max 1.61 sec, min 0.74 sec)
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   25 times, average 1.03 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 15.18% of total time (compiled   35 times, average 1.19 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.36% of total time (compiled   78 times, average 0.50 sec, max 1.06 sec, min 0.31 sec)
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.38% of total time (compiled   25 times, average 1.03 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.26% of total time (compiled   21 times, average 1.08 sec, max 1.61 sec, min 0.74 sec)
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.69% of total time (compiled   29 times, average 0.63 sec, max 3.80 sec, min 0.31 sec)
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: === Material stats ===
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Materials Translated:    395
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Material Translation Only: 0.14 s (58%)
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: Material Cache Hits: 72 (18%)
+[2026.03.05-18.15.51:460][426]LogShaderCompilers: Display: ================================================
+[2026.03.05-18.16.30:104][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-18.16.30:145][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimensions/LightVersion" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/LightVersion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.05-18.16.30:199][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.03.05-18.16.30:314][579]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.03.05-18.16.30:315][579]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersion674736E4491F590CF46E0EBF277D2230.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/LightVersion.umap'
+[2026.03.05-18.16.30:336][579]LogFileHelpers: Saving map 'LightVersion' took 0.191
+[2026.03.05-18.16.30:345][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 239.746 ms (total: 3.51 sec)
+[2026.03.05-18.16.30:377][579]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-18.16.30:377][579]LogContentValidation: Enabled validators:
+[2026.03.05-18.16.30:377][579]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-18.16.30:377][579]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-18.16.30:378][579]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-18.16.30:378][579]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-18.16.30:378][579]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-18.16.30:378][579]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-18.16.30:378][579]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.03.05-18.16.31:948][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.05-18.16.31:957][667]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-18.16.31:998][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Glass] ([1] browsable assets)...
+[2026.03.05-18.16.31:998][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Glass]
+[2026.03.05-18.16.32:007][667]LogSavePackage: Moving output files for package: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Glass
+[2026.03.05-18.16.32:007][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Glass2302E4214A65018BB57C918361E67549.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Glass.uasset'
+[2026.03.05-18.16.32:011][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Metal] ([1] browsable assets)...
+[2026.03.05-18.16.32:011][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Metal]
+[2026.03.05-18.16.32:020][667]LogSavePackage: Moving output files for package: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Metal
+[2026.03.05-18.16.32:020][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Metal9DF06E89438FFCC75B11FA88E57BDBD4.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Metal.uasset'
+[2026.03.05-18.16.32:021][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/material] ([1] browsable assets)...
+[2026.03.05-18.16.32:021][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/material]
+[2026.03.05-18.16.32:029][667]LogSavePackage: Moving output files for package: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/material
+[2026.03.05-18.16.32:029][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/materialA1A5510543FAE29F2B691E8EF63678D2.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/material.uasset'
+[2026.03.05-18.16.32:030][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Material_004] ([1] browsable assets)...
+[2026.03.05-18.16.32:030][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Material_004]
+[2026.03.05-18.16.32:037][667]LogSavePackage: Moving output files for package: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Material_004
+[2026.03.05-18.16.32:037][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Material_004D5DC2E4F4F23653293BF6F82704AAE5E.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Material_004.uasset'
+[2026.03.05-18.16.32:038][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_3] ([1] browsable assets)...
+[2026.03.05-18.16.32:038][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_3]
+[2026.03.05-18.16.32:053][667]LogSavePackage: Moving output files for package: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_3
+[2026.03.05-18.16.32:053][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_dome_showcase_texture_35E04584249CBC716603C3F89F90C7E7C.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_3.uasset'
+[2026.03.05-18.16.32:057][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_2] ([1] browsable assets)...
+[2026.03.05-18.16.32:057][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_2]
+[2026.03.05-18.16.32:078][667]LogSavePackage: Moving output files for package: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_2
+[2026.03.05-18.16.32:078][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_dome_showcase_texture_208CA9FC341A7CD4B647026ADDBAB64CE.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_2.uasset'
+[2026.03.05-18.16.32:079][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_1] ([1] browsable assets)...
+[2026.03.05-18.16.32:079][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_1]
+[2026.03.05-18.16.32:102][667]LogSavePackage: Moving output files for package: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_1
+[2026.03.05-18.16.32:102][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_dome_showcase_texture_1F6FD7D1946781ED102245DB778714EA0.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_1.uasset'
+[2026.03.05-18.16.32:103][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/StaticMeshes/space_dome_showcase] ([1] browsable assets)...
+[2026.03.05-18.16.32:103][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/StaticMeshes/space_dome_showcase]
+[2026.03.05-18.16.32:114][667]LogSavePackage: Moving output files for package: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/StaticMeshes/space_dome_showcase
+[2026.03.05-18.16.32:114][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_dome_showcase33F7AA6943111EBB9CCC5A9BDAC85661.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Space_Dome_Showcase/space_dome_showcase/StaticMeshes/space_dome_showcase.uasset'
+[2026.03.05-18.16.32:116][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Light] ([1] browsable assets)...
+[2026.03.05-18.16.32:116][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Light]
+[2026.03.05-18.16.32:123][667]LogSavePackage: Moving output files for package: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Light
+[2026.03.05-18.16.32:123][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Light808B8C3647471BDBF61174919094749F.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Light.uasset'
+[2026.03.05-18.16.32:124][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_0] ([1] browsable assets)...
+[2026.03.05-18.16.32:124][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_0]
+[2026.03.05-18.16.32:147][667]LogSavePackage: Moving output files for package: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_0
+[2026.03.05-18.16.32:147][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_dome_showcase_texture_07D6CB8A64E1517290D9D6A83EABA1F9D.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_0.uasset'
+[2026.03.05-18.16.32:148][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dimensions/_GENERATED/karlk/Sphere_31D75CAA] ([1] browsable assets)...
+[2026.03.05-18.16.32:148][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dimensions/_GENERATED/karlk/Sphere_31D75CAA]
+[2026.03.05-18.16.32:158][667]LogSavePackage: Moving output files for package: /Game/Dimensions/_GENERATED/karlk/Sphere_31D75CAA
+[2026.03.05-18.16.32:158][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Sphere_31D75CAA330479544F69FBD80EF12B8B6DFD89AE.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/_GENERATED/karlk/Sphere_31D75CAA.uasset'
+[2026.03.05-18.16.32:160][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dimensions/_GENERATED/karlk/Sphere5_6EA56226] ([1] browsable assets)...
+[2026.03.05-18.16.32:160][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dimensions/_GENERATED/karlk/Sphere5_6EA56226]
+[2026.03.05-18.16.32:169][667]LogSavePackage: Moving output files for package: /Game/Dimensions/_GENERATED/karlk/Sphere5_6EA56226
+[2026.03.05-18.16.32:169][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Sphere5_6EA562264F348D8741F9DD92754B058617B1623A.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/_GENERATED/karlk/Sphere5_6EA56226.uasset'
+[2026.03.05-18.16.32:169][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Dimensions/_GENERATED/karlk/Cylinder_ACB773CE] ([1] browsable assets)...
+[2026.03.05-18.16.32:169][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dimensions/_GENERATED/karlk/Cylinder_ACB773CE]
+[2026.03.05-18.16.32:177][667]LogSavePackage: Moving output files for package: /Game/Dimensions/_GENERATED/karlk/Cylinder_ACB773CE
+[2026.03.05-18.16.32:177][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Cylinder_ACB773CE309931344A21A029EC20048E8277C33E.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/_GENERATED/karlk/Cylinder_ACB773CE.uasset'
+[2026.03.05-18.16.32:178][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_PhysicsAsset] ([1] browsable assets)...
+[2026.03.05-18.16.32:179][667]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.03.05-18.16.32:244][667]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_PhysicsAsset.earth_animation_PhysicsAsset]
+[2026.03.05-18.16.32:244][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_PhysicsAsset]
+[2026.03.05-18.16.32:254][667]LogSavePackage: Moving output files for package: /Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_PhysicsAsset
+[2026.03.05-18.16.32:254][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/earth_animation_PhysicsAsset8D2743A349E4BBC6FE52E9948791426D.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_PhysicsAsset.uasset'
+[2026.03.05-18.16.32:256][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_Skeleton] ([1] browsable assets)...
+[2026.03.05-18.16.32:256][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_Skeleton]
+[2026.03.05-18.16.32:265][667]LogSavePackage: Moving output files for package: /Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_Skeleton
+[2026.03.05-18.16.32:265][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/earth_animation_Skeleton6DE61B6E47C6594D3D9122AA7A466A02.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_Skeleton.uasset'
+[2026.03.05-18.16.32:267][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_0] ([1] browsable assets)...
+[2026.03.05-18.16.32:269][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_0.earth_animation_texture_0]
+[2026.03.05-18.16.32:269][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_0]
+[2026.03.05-18.16.32:501][667]LogSavePackage: Moving output files for package: /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_0
+[2026.03.05-18.16.32:501][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/earth_animation_texture_01FCC185E41678E5528BBAAB8C9E05C9F.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_0.uasset'
+[2026.03.05-18.16.32:503][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_1] ([1] browsable assets)...
+[2026.03.05-18.16.32:506][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_1.earth_animation_texture_1]
+[2026.03.05-18.16.32:506][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_1]
+[2026.03.05-18.16.32:721][667]LogSavePackage: Moving output files for package: /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_1
+[2026.03.05-18.16.32:721][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/earth_animation_texture_1DE3DC2BC43F1818C38110F8BE38EEF94.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_1.uasset'
+[2026.03.05-18.16.32:721][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_2] ([1] browsable assets)...
+[2026.03.05-18.16.32:725][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_2.earth_animation_texture_2]
+[2026.03.05-18.16.32:725][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_2]
+[2026.03.05-18.16.32:853][667]LogSavePackage: Moving output files for package: /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_2
+[2026.03.05-18.16.32:853][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/earth_animation_texture_2D123306A48D9B355FA6704810A018052.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_2.uasset'
+[2026.03.05-18.16.32:855][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_4] ([1] browsable assets)...
+[2026.03.05-18.16.32:857][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_4.earth_animation_texture_4]
+[2026.03.05-18.16.32:857][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_4]
+[2026.03.05-18.16.33:067][667]LogSavePackage: Moving output files for package: /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_4
+[2026.03.05-18.16.33:068][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/earth_animation_texture_4815D8D5E4D6783855ED2C9A639BA1475.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_4.uasset'
+[2026.03.05-18.16.33:069][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth_Animation/earth_animation/Materials/EarthGalaxy1] ([1] browsable assets)...
+[2026.03.05-18.16.33:069][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth_Animation/earth_animation/Materials/EarthGalaxy1]
+[2026.03.05-18.16.33:084][667]LogSavePackage: Moving output files for package: /Game/Fab/Earth_Animation/earth_animation/Materials/EarthGalaxy1
+[2026.03.05-18.16.33:084][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/EarthGalaxy10D90396A47955F82F5FE22A164186271.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Earth_Animation/earth_animation/Materials/EarthGalaxy1.uasset'
+[2026.03.05-18.16.33:086][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_3] ([1] browsable assets)...
+[2026.03.05-18.16.33:090][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_3.earth_animation_texture_3]
+[2026.03.05-18.16.33:090][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_3]
+[2026.03.05-18.16.33:304][667]LogSavePackage: Moving output files for package: /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_3
+[2026.03.05-18.16.33:304][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/earth_animation_texture_31CD4584D41FF24E13ADAB7BE04D5F3EA.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_3.uasset'
+[2026.03.05-18.16.33:307][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth_Animation/earth_animation/Materials/EarthEarth2] ([1] browsable assets)...
+[2026.03.05-18.16.33:307][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth_Animation/earth_animation/Materials/EarthEarth2]
+[2026.03.05-18.16.33:321][667]LogSavePackage: Moving output files for package: /Game/Fab/Earth_Animation/earth_animation/Materials/EarthEarth2
+[2026.03.05-18.16.33:321][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/EarthEarth269B77D61464701921F11D5A541D1CA17.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Earth_Animation/earth_animation/Materials/EarthEarth2.uasset'
+[2026.03.05-18.16.33:324][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth_Animation/earth_animation/Materials/EarthCloud1] ([1] browsable assets)...
+[2026.03.05-18.16.33:324][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth_Animation/earth_animation/Materials/EarthCloud1]
+[2026.03.05-18.16.33:336][667]LogSavePackage: Moving output files for package: /Game/Fab/Earth_Animation/earth_animation/Materials/EarthCloud1
+[2026.03.05-18.16.33:336][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/EarthCloud1F20F71D34DC10E3586B7F6A68E166D2D.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Earth_Animation/earth_animation/Materials/EarthCloud1.uasset'
+[2026.03.05-18.16.33:339][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation] ([1] browsable assets)...
+[2026.03.05-18.16.33:339][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation]
+[2026.03.05-18.16.33:360][667]LogSavePackage: Moving output files for package: /Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation
+[2026.03.05-18.16.33:360][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/earth_animationCFA6327D4C5FA6E4F669D0B143E4306B.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation.uasset'
+[2026.03.05-18.16.33:361][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_Anim] ([1] browsable assets)...
+[2026.03.05-18.16.33:363][667]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.03.05-18.16.33:417][667]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_Anim.earth_animation_Anim]
+[2026.03.05-18.16.33:417][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_Anim]
+[2026.03.05-18.16.33:454][667]LogSavePackage: Moving output files for package: /Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_Anim
+[2026.03.05-18.16.33:454][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/earth_animation_Anim6D0F19194C72CEC3B6407496D0410C45.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_Anim.uasset'
+[2026.03.05-18.16.33:458][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Mars/mars/Textures/mars_texture_0] ([1] browsable assets)...
+[2026.03.05-18.16.33:461][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Mars/mars/Textures/mars_texture_0.mars_texture_0]
+[2026.03.05-18.16.33:461][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Textures/mars_texture_0]
+[2026.03.05-18.16.33:461][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Mars/mars/Textures/mars_texture_0" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Mars/mars/Textures/mars_texture_0.uasset" SILENT=true
+[2026.03.05-18.16.33:503][667]LogSavePackage: Moving output files for package: /Game/Fab/Mars/mars/Textures/mars_texture_0
+[2026.03.05-18.16.33:503][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/mars_texture_0A0DF4A064E542E33305C52928E1F98A9.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Mars/mars/Textures/mars_texture_0.uasset'
+[2026.03.05-18.16.33:505][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Mars/mars/Textures/mars_texture_1] ([1] browsable assets)...
+[2026.03.05-18.16.33:507][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Mars/mars/Textures/mars_texture_1.mars_texture_1]
+[2026.03.05-18.16.33:508][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Textures/mars_texture_1]
+[2026.03.05-18.16.33:508][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Mars/mars/Textures/mars_texture_1" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Mars/mars/Textures/mars_texture_1.uasset" SILENT=true
+[2026.03.05-18.16.33:540][667]LogSavePackage: Moving output files for package: /Game/Fab/Mars/mars/Textures/mars_texture_1
+[2026.03.05-18.16.33:540][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/mars_texture_1571C48264D9D4EDB1CD5ECB44753B55E.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Mars/mars/Textures/mars_texture_1.uasset'
+[2026.03.05-18.16.33:542][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Mars/mars/Textures/mars_texture_2] ([1] browsable assets)...
+[2026.03.05-18.16.33:544][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Mars/mars/Textures/mars_texture_2.mars_texture_2]
+[2026.03.05-18.16.33:544][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Textures/mars_texture_2]
+[2026.03.05-18.16.33:544][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Mars/mars/Textures/mars_texture_2" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Mars/mars/Textures/mars_texture_2.uasset" SILENT=true
+[2026.03.05-18.16.33:584][667]LogSavePackage: Moving output files for package: /Game/Fab/Mars/mars/Textures/mars_texture_2
+[2026.03.05-18.16.33:584][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/mars_texture_20EEE6ACB41114E7D283072A31BC50AA0.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Mars/mars/Textures/mars_texture_2.uasset'
+[2026.03.05-18.16.33:586][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Mars/mars/Textures/mars_texture_3] ([1] browsable assets)...
+[2026.03.05-18.16.33:594][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Mars/mars/Textures/mars_texture_3.mars_texture_3]
+[2026.03.05-18.16.33:594][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Textures/mars_texture_3]
+[2026.03.05-18.16.33:594][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Mars/mars/Textures/mars_texture_3" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Mars/mars/Textures/mars_texture_3.uasset" SILENT=true
+[2026.03.05-18.16.33:631][667]LogSavePackage: Moving output files for package: /Game/Fab/Mars/mars/Textures/mars_texture_3
+[2026.03.05-18.16.33:631][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/mars_texture_37F9064C74AAD5D06705948A0F01CE289.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Mars/mars/Textures/mars_texture_3.uasset'
+[2026.03.05-18.16.33:633][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Mars/mars/Materials/Planet] ([1] browsable assets)...
+[2026.03.05-18.16.33:651][667]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Mars/mars/Materials/Planet.Planet]
+[2026.03.05-18.16.33:651][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Materials/Planet]
+[2026.03.05-18.16.33:651][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Mars/mars/Materials/Planet" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Mars/mars/Materials/Planet.uasset" SILENT=true
+[2026.03.05-18.16.33:664][667]LogSavePackage: Moving output files for package: /Game/Fab/Mars/mars/Materials/Planet
+[2026.03.05-18.16.33:664][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Planet6C53A85348C23DAD7AFB4086ACAD9962.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Mars/mars/Materials/Planet.uasset'
+[2026.03.05-18.16.33:666][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Mars/mars/StaticMeshes/mars] ([1] browsable assets)...
+[2026.03.05-18.16.33:689][667]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Mars/mars/StaticMeshes/mars.mars]
+[2026.03.05-18.16.33:689][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/StaticMeshes/mars]
+[2026.03.05-18.16.33:689][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Mars/mars/StaticMeshes/mars" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Mars/mars/StaticMeshes/mars.uasset" SILENT=true
+[2026.03.05-18.16.33:718][667]LogSavePackage: Moving output files for package: /Game/Fab/Mars/mars/StaticMeshes/mars
+[2026.03.05-18.16.33:718][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/marsD187D085408425AC54806B89BB1EDF00.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Mars/mars/StaticMeshes/mars.uasset'
+[2026.03.05-18.16.33:720][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0] ([1] browsable assets)...
+[2026.03.05-18.16.33:724][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0.jupiter_texture_0]
+[2026.03.05-18.16.33:724][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0]
+[2026.03.05-18.16.33:765][667]LogSavePackage: Moving output files for package: /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0
+[2026.03.05-18.16.33:765][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/jupiter_texture_0A4F702944728CDDEA426F4BA19B36100.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Jupiter/jupiter/Textures/jupiter_texture_0.uasset'
+[2026.03.05-18.16.33:767][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_1] ([1] browsable assets)...
+[2026.03.05-18.16.33:770][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_1.jupiter_texture_1]
+[2026.03.05-18.16.33:770][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_1]
+[2026.03.05-18.16.33:803][667]LogSavePackage: Moving output files for package: /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_1
+[2026.03.05-18.16.33:803][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/jupiter_texture_1AEC00BBC4678822BB0B095BA8318B591.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Jupiter/jupiter/Textures/jupiter_texture_1.uasset'
+[2026.03.05-18.16.33:806][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_2] ([1] browsable assets)...
+[2026.03.05-18.16.33:809][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_2.jupiter_texture_2]
+[2026.03.05-18.16.33:809][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_2]
+[2026.03.05-18.16.33:854][667]LogSavePackage: Moving output files for package: /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_2
+[2026.03.05-18.16.33:854][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/jupiter_texture_2C813A07F4924908BAAF89597626D22CF.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Jupiter/jupiter/Textures/jupiter_texture_2.uasset'
+[2026.03.05-18.16.33:857][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_3] ([1] browsable assets)...
+[2026.03.05-18.16.33:860][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_3.jupiter_texture_3]
+[2026.03.05-18.16.33:860][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_3]
+[2026.03.05-18.16.33:898][667]LogSavePackage: Moving output files for package: /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_3
+[2026.03.05-18.16.33:898][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/jupiter_texture_39FAECF4741F73D345A95399CDA958F4E.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Jupiter/jupiter/Textures/jupiter_texture_3.uasset'
+[2026.03.05-18.16.33:902][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Jupiter/jupiter/Materials/Planet] ([1] browsable assets)...
+[2026.03.05-18.16.33:902][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Materials/Planet]
+[2026.03.05-18.16.33:902][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Jupiter/jupiter/Materials/Planet" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Jupiter/jupiter/Materials/Planet.uasset" SILENT=true
+[2026.03.05-18.16.33:913][667]LogSavePackage: Moving output files for package: /Game/Fab/Jupiter/jupiter/Materials/Planet
+[2026.03.05-18.16.33:913][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Planet0EE8238044E8C71296FFE9A3B04CA364.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Jupiter/jupiter/Materials/Planet.uasset'
+[2026.03.05-18.16.33:915][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Jupiter/jupiter/StaticMeshes/jupiter] ([1] browsable assets)...
+[2026.03.05-18.16.33:934][667]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Jupiter/jupiter/StaticMeshes/jupiter.jupiter]
+[2026.03.05-18.16.33:934][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/StaticMeshes/jupiter]
+[2026.03.05-18.16.33:934][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Jupiter/jupiter/StaticMeshes/jupiter" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Jupiter/jupiter/StaticMeshes/jupiter.uasset" SILENT=true
+[2026.03.05-18.16.33:961][667]LogSavePackage: Moving output files for package: /Game/Fab/Jupiter/jupiter/StaticMeshes/jupiter
+[2026.03.05-18.16.33:961][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/jupiter5C805E4446FA568D9B2C38B18ED93CC1.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Jupiter/jupiter/StaticMeshes/jupiter.uasset'
+[2026.03.05-18.16.33:963][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Mars/mars/Textures/mars_texture_0_Mat] ([1] browsable assets)...
+[2026.03.05-18.16.33:981][667]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Fab/Mars/mars/Textures/mars_texture_0_Mat.mars_texture_0_Mat]
+[2026.03.05-18.16.33:981][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Mars/mars/Textures/mars_texture_0_Mat]
+[2026.03.05-18.16.33:981][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Mars/mars/Textures/mars_texture_0_Mat" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Mars/mars/Textures/mars_texture_0_Mat.uasset" SILENT=true
+[2026.03.05-18.16.33:994][667]LogSavePackage: Moving output files for package: /Game/Fab/Mars/mars/Textures/mars_texture_0_Mat
+[2026.03.05-18.16.33:994][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/mars_texture_0_Mat3CA4434E4AF523AB04FE74A321F84CD0.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Mars/mars/Textures/mars_texture_0_Mat.uasset'
+[2026.03.05-18.16.33:996][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Mat] ([1] browsable assets)...
+[2026.03.05-18.16.34:011][667]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Mat.jupiter_texture_0_Mat]
+[2026.03.05-18.16.34:011][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Mat]
+[2026.03.05-18.16.34:023][667]LogSavePackage: Moving output files for package: /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Mat
+[2026.03.05-18.16.34:024][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/jupiter_texture_0_Mat52E1080B4120A3F678746899A3C48EAF.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Mat.uasset'
+[2026.03.05-18.16.34:025][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Space_Station/space_station/Materials/emitrED] ([1] browsable assets)...
+[2026.03.05-18.16.34:049][667]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Space_Station/space_station/Materials/emitrED.emitrED]
+[2026.03.05-18.16.34:049][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Station/space_station/Materials/emitrED]
+[2026.03.05-18.16.34:061][667]LogSavePackage: Moving output files for package: /Game/Fab/Space_Station/space_station/Materials/emitrED
+[2026.03.05-18.16.34:061][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/emitrEDAE226CBB4BD291BFA5713D85BC5EE630.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Space_Station/space_station/Materials/emitrED.uasset'
+[2026.03.05-18.16.34:065][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Space_Station/space_station/Textures/space_station_texture_0] ([1] browsable assets)...
+[2026.03.05-18.16.34:070][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Space_Station/space_station/Textures/space_station_texture_0.space_station_texture_0]
+[2026.03.05-18.16.34:070][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Station/space_station/Textures/space_station_texture_0]
+[2026.03.05-18.16.34:127][667]LogSavePackage: Moving output files for package: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_0
+[2026.03.05-18.16.34:127][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_station_texture_082FD2BB244A4B74F7E9981B5D96DE35E.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Space_Station/space_station/Textures/space_station_texture_0.uasset'
+[2026.03.05-18.16.34:128][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Space_Station/space_station/Textures/space_station_texture_1] ([1] browsable assets)...
+[2026.03.05-18.16.34:132][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Space_Station/space_station/Textures/space_station_texture_1.space_station_texture_1]
+[2026.03.05-18.16.34:132][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Station/space_station/Textures/space_station_texture_1]
+[2026.03.05-18.16.34:229][667]LogSavePackage: Moving output files for package: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_1
+[2026.03.05-18.16.34:229][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_station_texture_1CA026BF040AFAFCE2F919AA391C02DBD.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Space_Station/space_station/Textures/space_station_texture_1.uasset'
+[2026.03.05-18.16.34:230][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Space_Station/space_station/Textures/space_station_texture_2] ([1] browsable assets)...
+[2026.03.05-18.16.34:234][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Space_Station/space_station/Textures/space_station_texture_2.space_station_texture_2]
+[2026.03.05-18.16.34:234][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Station/space_station/Textures/space_station_texture_2]
+[2026.03.05-18.16.34:310][667]LogSavePackage: Moving output files for package: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_2
+[2026.03.05-18.16.34:310][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_station_texture_281F2EC7148FF4EB8D48BF7A2D5E0F9EC.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Space_Station/space_station/Textures/space_station_texture_2.uasset'
+[2026.03.05-18.16.34:311][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Space_Station/space_station/Textures/space_station_texture_3] ([1] browsable assets)...
+[2026.03.05-18.16.34:315][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Space_Station/space_station/Textures/space_station_texture_3.space_station_texture_3]
+[2026.03.05-18.16.34:315][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Station/space_station/Textures/space_station_texture_3]
+[2026.03.05-18.16.34:508][667]LogSavePackage: Moving output files for package: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_3
+[2026.03.05-18.16.34:508][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_station_texture_3753D30784AC794794C87968F1D35A5B4.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Space_Station/space_station/Textures/space_station_texture_3.uasset'
+[2026.03.05-18.16.34:509][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Space_Station/space_station/Materials/Main] ([1] browsable assets)...
+[2026.03.05-18.16.34:525][667]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Space_Station/space_station/Materials/Main.Main]
+[2026.03.05-18.16.34:525][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Station/space_station/Materials/Main]
+[2026.03.05-18.16.34:540][667]LogSavePackage: Moving output files for package: /Game/Fab/Space_Station/space_station/Materials/Main
+[2026.03.05-18.16.34:540][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Main9BDE04194729F4A022452387D0A63DD3.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Space_Station/space_station/Materials/Main.uasset'
+[2026.03.05-18.16.34:542][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Space_Station/space_station/StaticMeshes/space_station] ([1] browsable assets)...
+[2026.03.05-18.16.34:566][667]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Space_Station/space_station/StaticMeshes/space_station.space_station]
+[2026.03.05-18.16.34:567][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Space_Station/space_station/StaticMeshes/space_station]
+[2026.03.05-18.16.34:629][667]LogSavePackage: Moving output files for package: /Game/Fab/Space_Station/space_station/StaticMeshes/space_station
+[2026.03.05-18.16.34:629][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/space_stationBABCD12748CAC1D79EDAB3A5C5E23CCA.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Space_Station/space_station/StaticMeshes/space_station.uasset'
+[2026.03.05-18.16.34:631][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_0] ([1] browsable assets)...
+[2026.03.05-18.16.34:634][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_0.1300_followers_celebration_space_station_texture_0]
+[2026.03.05-18.16.34:634][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_0]
+[2026.03.05-18.16.34:862][667]LogSavePackage: Moving output files for package: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_0
+[2026.03.05-18.16.34:862][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/1300_followers_celebration_spaceDF64C2C744BD5BEBEF6A16A5AB86E381.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_0.uasset'
+[2026.03.05-18.16.34:865][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_1] ([1] browsable assets)...
+[2026.03.05-18.16.34:868][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_1.1300_followers_celebration_space_station_texture_1]
+[2026.03.05-18.16.34:868][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_1]
+[2026.03.05-18.16.35:124][667]LogSavePackage: Moving output files for package: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_1
+[2026.03.05-18.16.35:124][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/1300_followers_celebration_spaceA38D98DF49BFC8C9DA9C8D80C65A19D5.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_1.uasset'
+[2026.03.05-18.16.35:126][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_2] ([1] browsable assets)...
+[2026.03.05-18.16.35:128][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_2.1300_followers_celebration_space_station_texture_2]
+[2026.03.05-18.16.35:128][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_2]
+[2026.03.05-18.16.35:223][667]LogSavePackage: Moving output files for package: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_2
+[2026.03.05-18.16.35:223][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/1300_followers_celebration_spaceC24769CE45A4EFE9EFA3C894CE63531C.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_2.uasset'
+[2026.03.05-18.16.35:226][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_3] ([1] browsable assets)...
+[2026.03.05-18.16.35:230][667]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_3.1300_followers_celebration_space_station_texture_3]
+[2026.03.05-18.16.35:230][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_3]
+[2026.03.05-18.16.35:444][667]LogSavePackage: Moving output files for package: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_3
+[2026.03.05-18.16.35:444][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/1300_followers_celebration_space8020B77146512D4D056AF79C7A75E24B.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_3.uasset'
+[2026.03.05-18.16.35:446][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Materials/station_1] ([1] browsable assets)...
+[2026.03.05-18.16.35:465][667]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Materials/station_1.station_1]
+[2026.03.05-18.16.35:465][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Materials/station_1]
+[2026.03.05-18.16.35:478][667]LogSavePackage: Moving output files for package: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Materials/station_1
+[2026.03.05-18.16.35:478][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/station_147B364C54FCD90B3AE176DB0BFB2D770.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Materials/station_1.uasset'
+[2026.03.05-18.16.35:480][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/StaticMeshes/1300_followers_celebration_space_station] ([1] browsable assets)...
+[2026.03.05-18.16.35:513][667]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/StaticMeshes/1300_followers_celebration_space_station.1300_followers_celebration_space_station]
+[2026.03.05-18.16.35:513][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/StaticMeshes/1300_followers_celebration_space_station]
+[2026.03.05-18.16.35:597][667]LogSavePackage: Moving output files for package: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/StaticMeshes/1300_followers_celebration_space_station
+[2026.03.05-18.16.35:597][667]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/1300_followers_celebration_space7FC9B3E345DC8BA505C4C9B6D252DA5B.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/StaticMeshes/1300_followers_celebration_space_station.uasset'
+[2026.03.05-18.16.35:608][667]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.65 sec (total: 7.17 sec)
+[2026.03.05-18.16.35:664][667]LogContentValidation: Display: Starting to validate 52 assets
+[2026.03.05-18.16.35:664][667]LogContentValidation: Enabled validators:
+[2026.03.05-18.16.35:664][667]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-18.16.35:664][667]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-18.16.35:664][667]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-18.16.35:664][667]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-18.16.35:664][667]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-18.16.35:664][667]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-18.16.35:664][667]AssetCheck: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Glass Validating asset
+[2026.03.05-18.16.35:664][667]AssetCheck: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Metal Validating asset
+[2026.03.05-18.16.35:664][667]AssetCheck: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/material Validating asset
+[2026.03.05-18.16.35:664][667]AssetCheck: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Material_004 Validating asset
+[2026.03.05-18.16.35:664][667]AssetCheck: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_3 Validating asset
+[2026.03.05-18.16.35:664][667]AssetCheck: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_2 Validating asset
+[2026.03.05-18.16.35:664][667]AssetCheck: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_1 Validating asset
+[2026.03.05-18.16.35:664][667]AssetCheck: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/StaticMeshes/space_dome_showcase Validating asset
+[2026.03.05-18.16.35:664][667]AssetCheck: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Materials/Light Validating asset
+[2026.03.05-18.16.35:664][667]AssetCheck: /Game/Fab/Space_Dome_Showcase/space_dome_showcase/Textures/space_dome_showcase_texture_0 Validating asset
+[2026.03.05-18.16.35:664][667]AssetCheck: /Game/Dimensions/_GENERATED/karlk/Sphere_31D75CAA Validating asset
+[2026.03.05-18.16.35:664][667]AssetCheck: /Game/Dimensions/_GENERATED/karlk/Sphere5_6EA56226 Validating asset
+[2026.03.05-18.16.35:664][667]AssetCheck: /Game/Dimensions/_GENERATED/karlk/Cylinder_ACB773CE Validating asset
+[2026.03.05-18.16.35:665][667]AssetCheck: /Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_PhysicsAsset Validating asset
+[2026.03.05-18.16.35:665][667]AssetCheck: /Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_Skeleton Validating asset
+[2026.03.05-18.16.35:665][667]AssetCheck: /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_0 Validating asset
+[2026.03.05-18.16.35:665][667]AssetCheck: /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_1 Validating asset
+[2026.03.05-18.16.35:665][667]AssetCheck: /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_2 Validating asset
+[2026.03.05-18.16.35:665][667]AssetCheck: /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_4 Validating asset
+[2026.03.05-18.16.35:665][667]AssetCheck: /Game/Fab/Earth_Animation/earth_animation/Materials/EarthGalaxy1 Validating asset
+[2026.03.05-18.16.35:665][667]AssetCheck: /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_3 Validating asset
+[2026.03.05-18.16.35:665][667]AssetCheck: /Game/Fab/Earth_Animation/earth_animation/Materials/EarthEarth2 Validating asset
+[2026.03.05-18.16.35:665][667]AssetCheck: /Game/Fab/Earth_Animation/earth_animation/Materials/EarthCloud1 Validating asset
+[2026.03.05-18.16.35:665][667]AssetCheck: /Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation Validating asset
+[2026.03.05-18.16.35:665][667]AssetCheck: /Game/Fab/Earth_Animation/earth_animation/SkeletalMeshes/earth_animation_Anim Validating asset
+[2026.03.05-18.16.35:665][667]AssetCheck: /Game/Fab/Mars/mars/Textures/mars_texture_0 Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Mars/mars/Textures/mars_texture_1 Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Mars/mars/Textures/mars_texture_2 Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Mars/mars/Textures/mars_texture_3 Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Mars/mars/Materials/Planet Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Mars/mars/StaticMeshes/mars Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0 Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_1 Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_2 Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_3 Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Jupiter/jupiter/Materials/Planet Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Jupiter/jupiter/StaticMeshes/jupiter Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Mars/mars/Textures/mars_texture_0_Mat Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Jupiter/jupiter/Textures/jupiter_texture_0_Mat Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Space_Station/space_station/Materials/emitrED Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_0 Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_1 Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_2 Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Space_Station/space_station/Textures/space_station_texture_3 Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Space_Station/space_station/Materials/Main Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/Space_Station/space_station/StaticMeshes/space_station Validating asset
+[2026.03.05-18.16.35:666][667]AssetCheck: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_0 Validating asset
+[2026.03.05-18.16.35:668][667]AssetCheck: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_1 Validating asset
+[2026.03.05-18.16.35:668][667]AssetCheck: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_2 Validating asset
+[2026.03.05-18.16.35:668][667]AssetCheck: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Textures/1300_followers_celebration_space_station_texture_3 Validating asset
+[2026.03.05-18.16.35:668][667]AssetCheck: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Materials/station_1 Validating asset
+[2026.03.05-18.16.35:668][667]AssetCheck: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/StaticMeshes/1300_followers_celebration_space_station Validating asset
+[2026.03.05-18.16.35:694][667]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/karlk/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
