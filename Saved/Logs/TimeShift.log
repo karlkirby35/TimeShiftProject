@@ -5435,3 +5435,507 @@ Sampler Limit: 32
 [2026.03.05-18.16.35:668][667]AssetCheck: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/Materials/station_1 Validating asset
 [2026.03.05-18.16.35:668][667]AssetCheck: /Game/Fab/1300_Followers_Celebration_-_Space_Station/1300_followers_celebration_space_station/StaticMeshes/1300_followers_celebration_space_station Validating asset
 [2026.03.05-18.16.35:694][667]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/karlk/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.05-18.17.15:968][193]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.03.05-18.17.15:968][193]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.03.05-18.17.15:971][193]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_858
+[2026.03.05-18.17.15:971][193]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_858
+[2026.03.05-18.18.16:059][646]Cmd: DELETE
+[2026.03.05-18.18.16:059][646]Cmd: ACTOR DELETE
+[2026.03.05-18.18.16:068][646]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.05-18.18.16:089][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.03.05-18.18.16:093][646]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2026.03.05-18.18.51:476][691]LogShaderCompilers: Display: ================================================
+[2026.03.05-18.18.51:476][691]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.05-18.18.51:476][691]LogShaderCompilers: Display: Total job queries 2,378, among them cache hits 1,089 (45.79%), DDC hits 730 (30.70%), Duplicates 128 (5.38%)
+[2026.03.05-18.18.51:476][691]LogShaderCompilers: Display: Tracking 1,161 distinct input hashes that result in 814 distinct outputs (70.11%)
+[2026.03.05-18.18.51:476][691]LogShaderCompilers: Display: RAM used: 6.86 MiB of 819.20 MiB budget. Usage: 0.84%
+[2026.03.05-18.18.51:476][691]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.05-18.18.51:476][691]LogShaderCompilers: Display: Shaders Compiled: 431
+[2026.03.05-18.18.51:476][691]LogShaderCompilers: Display: Jobs assigned 431, completed 431 (100%)
+[2026.03.05-18.18.51:476][691]LogShaderCompilers: Display: Average time worker was idle: 203.01 s
+[2026.03.05-18.18.51:476][691]LogShaderCompilers: Display: Time job spent in pending queue: average 0.60 s, longest 4.03 s
+[2026.03.05-18.18.51:476][691]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 4.49 s
+[2026.03.05-18.18.51:476][691]LogShaderCompilers: Display: Job life time (pending + execution): average 1.47 s, max 5.21
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: Shader code size: total 4.039 MiB, numShaders 461, average 8.974 KiB, min 2.25 KiB, max 41.605 KiB
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 112.62 s
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: Jobs were issued in 431 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: Average processing rate: 3.83 jobs/sec
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: Total thread time: 311.143 s
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: Total thread preprocess time: 27.095 s
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: Percentage time preprocessing: 8.71%
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: Effective parallelization: 2.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.345340
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled   10 times, average 1.27 sec, max 1.92 sec, min 0.88 sec)
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   35 times, average 1.19 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   13 times, average 1.12 sec, max 2.02 sec, min 0.99 sec)
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   21 times, average 1.08 sec, max 1.61 sec, min 0.74 sec)
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   26 times, average 1.05 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.43% of total time (compiled   82 times, average 0.55 sec, max 1.55 sec, min 0.31 sec)
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 13.38% of total time (compiled   35 times, average 1.19 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.74% of total time (compiled   26 times, average 1.05 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.28% of total time (compiled   21 times, average 1.08 sec, max 1.61 sec, min 0.74 sec)
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.89% of total time (compiled   29 times, average 0.63 sec, max 3.80 sec, min 0.31 sec)
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: === Material stats ===
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: Materials Translated:    395
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: Material Translation Only: 0.14 s (58%)
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: Material Cache Hits: 72 (18%)
+[2026.03.05-18.18.51:477][691]LogShaderCompilers: Display: ================================================
+[2026.03.05-18.20.35:170][129]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9833.124023
+[2026.03.05-18.20.35:355][140]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-18.20.35:355][140]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9833.289062, Update Interval: 325.221710
+[2026.03.05-18.20.41:632][501]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.03.05-18.20.41:632][501]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.03.05-18.20.41:633][501]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_859
+[2026.03.05-18.20.41:634][501]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_859
+[2026.03.05-18.22.09:105][445]LogStreaming: Display: FlushAsyncLoading(458): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.22.09:170][445]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_Entrance_Keyboard_AO.T_Entrance_Keyboard_AO (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.03.05-18.23.37:193][164]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/FREE_Industrial-Stairs/scene/StaticMeshes/scene.scene
+[2026.03.05-18.23.37:193][164]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/FREE_Industrial-Stairs/scene/StaticMeshes/scene.scene
+[2026.03.05-18.23.37:194][164]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/FREE_Industrial-Stairs/scene/StaticMeshes/scene.scene as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_860
+[2026.03.05-18.23.38:026][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.03.05-18.23.38:030][211]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.03.05-18.23.38:037][211]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/FREE_Industrial-Stairs/scene/StaticMeshes/scene.scene
+[2026.03.05-18.23.38:037][211]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/FREE_Industrial-Stairs/scene/StaticMeshes/scene.scene
+[2026.03.05-18.23.38:038][211]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/FREE_Industrial-Stairs/scene/StaticMeshes/scene.scene as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_861
+[2026.03.05-18.24.09:176][ 10]Cmd: EDIT COPY
+[2026.03.05-18.24.09:976][ 58]Cmd: EDIT PASTE
+[2026.03.05-18.25.08:747][360]Cmd: DELETE
+[2026.03.05-18.25.08:747][360]Cmd: ACTOR DELETE
+[2026.03.05-18.25.08:756][360]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.05-18.25.08:774][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.03.05-18.25.08:778][360]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.03.05-18.25.25:662][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.05-18.25.25:662][318]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.05-18.25.25:663][318]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_863
+[2026.03.05-18.25.25:664][318]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_863
+[2026.03.05-18.26.55:631][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.05-18.26.55:752][394]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto1
+[2026.03.05-18.26.55:752][394]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersion_Auto18A95752140336A894482A3829D6DD26A.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/LightVersion_Auto1.umap'
+[2026.03.05-18.26.55:755][394]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.144
+[2026.03.05-18.26.55:755][394]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.144
+[2026.03.05-18.26.55:755][394]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Clinic/Textures/T_RoomWall01_Decor03_Mat] ([1] browsable assets)...
+[2026.03.05-18.26.55:801][394]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Clinic/Textures/T_RoomWall01_Decor03_Mat.T_RoomWall01_Decor03_Mat]
+[2026.03.05-18.26.55:801][394]OBJ SavePackage: Finished generating thumbnails for package [/Game/Clinic/Textures/T_RoomWall01_Decor03_Mat]
+[2026.03.05-18.26.55:810][394]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Clinic/Textures/T_RoomWall01_Decor03_Mat_Auto1
+[2026.03.05-18.26.55:810][394]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_RoomWall01_Decor03_Mat_Auto1CF77078E45F079290ABD75B0EDB9E447.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Clinic/Textures/T_RoomWall01_Decor03_Mat_Auto1.uasset'
+[2026.03.05-18.26.55:812][394]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat] ([1] browsable assets)...
+[2026.03.05-18.26.55:821][394]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat.T_Entrance_Keyboard_AO_Mat]
+[2026.03.05-18.26.55:821][394]OBJ SavePackage: Finished generating thumbnails for package [/Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat]
+[2026.03.05-18.26.55:829][394]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat_Auto1
+[2026.03.05-18.26.55:829][394]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_Entrance_Keyboard_AO_Mat_Auto16F28D0544D89339B8EB02DBDA8D55CEE.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat_Auto1.uasset'
+[2026.03.05-18.26.55:830][394]LogFileHelpers: Auto-saving content packages took 0.076
+[2026.03.05-18.26.56:676][444]Cmd: DELETE
+[2026.03.05-18.26.56:676][444]Cmd: ACTOR DELETE
+[2026.03.05-18.26.56:695][444]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.05-18.26.56:696][444]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.05-18.26.56:696][444]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.05-18.26.56:716][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.05-18.26.56:718][444]LogEditorActor: Deleted 3 Actors (0.042 secs)
+[2026.03.05-18.26.58:038][523]Cmd: TRANSACTION UNDO
+[2026.03.05-18.26.58:039][523]LogEditorTransaction: Undo Delete Elements
+[2026.03.05-18.26.59:260][575]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10217.125977
+[2026.03.05-18.26.59:459][587]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-18.26.59:459][587]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10217.307617, Update Interval: 334.177673
+[2026.03.05-18.27.14:719][430]Cmd: DELETE
+[2026.03.05-18.27.14:719][430]Cmd: ACTOR DELETE
+[2026.03.05-18.27.14:728][430]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.05-18.27.14:756][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.03.05-18.27.14:761][430]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2026.03.05-18.28.16:532][ 23]LogFab: Display: Asset Type = glb
+[2026.03.05-18.28.16:533][ 23]LogFab: Display: Is Quixel = 0
+[2026.03.05-18.29.04:402][819]LogStreaming: Display: FlushAsyncLoading(459): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.29.04:403][819]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.05-18.29.04:404][819]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/karlk/AppData/Local/Temp/FabLibrary/4175432a-f3b8-4e8c-91b8-6917d230f8f7/scope.glb]
+[2026.03.05-18.29.04:543][827]LogStreaming: Display: FlushAsyncLoading(460): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.29.05:362][871]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.05-18.29.05:849][899]LogStreaming: Display: FlushAsyncLoading(464): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.29.05:955][904]LogStreaming: Display: FlushAsyncLoading(465): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.29.06:443][920]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4609.000 MiB, MemoryLimit = 925.605469 MiB 
+[2026.03.05-18.29.06:443][920]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4609.000 MiB, MemoryLimit = 925.605469 MiB 
+[2026.03.05-18.29.06:532][920]LogTexture: Display: Building textures: /Game/Fab/Scope/scope/Textures/scope_texture_0.scope_texture_0 (TFO_AutoDXT, 8192x8192 x1x1x1) (Required Memory Estimate: 4608.999984 MB), EncodeSpeed: Fast
+[2026.03.05-18.29.07:521][973]LogStaticMesh: Display: Building static mesh scope (Required Memory Estimate: 282.29532 MB)...
+[2026.03.05-18.29.08:352][ 23]LogStaticMesh: Built static mesh [0.83s] /Game/Fab/Scope/scope/StaticMeshes/scope.scope
+[2026.03.05-18.29.08:527][ 33]LogStaticMesh: Warning: scope has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.03.05-18.29.08:527][ 33]LogStaticMesh: Warning: scope has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.03.05-18.29.08:527][ 33]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 2156.566406 MiB 
+[2026.03.05-18.29.08:527][ 33]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 2156.566406 MiB 
+[2026.03.05-18.29.08:595][ 37]LogTexture: Display: Building textures: /Game/Fab/Scope/scope/Textures/scope_texture_1.scope_texture_1 (TFO_AutoDXT, 8192x8192 x1x1x1) (Required Memory Estimate: 4480.999983 MB), EncodeSpeed: Fast
+[2026.03.05-18.29.09:851][105]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 2408.222656 MiB 
+[2026.03.05-18.29.09:851][105]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4481.000 MiB, MemoryLimit = 2407.78125 MiB 
+[2026.03.05-18.29.09:926][109]LogTexture: Display: Building textures: /Game/Fab/Scope/scope/Textures/scope_texture_2.scope_texture_2 (TFO_AutoDXT, 8192x8192 x1x1x1) (Required Memory Estimate: 4480.999983 MB), EncodeSpeed: Fast
+[2026.03.05-18.29.10:480][136]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4609.000 MiB, MemoryLimit = 2462.398438 MiB 
+[2026.03.05-18.29.10:480][136]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 4609.000 MiB, MemoryLimit = 2462.398438 MiB 
+[2026.03.05-18.29.10:542][139]LogTexture: Display: Building textures: /Game/Fab/Scope/scope/Textures/scope_texture_3.scope_texture_3 (TFO_BC5, 8192x8192 x1x1x1) (Required Memory Estimate: 4608.999984 MB), EncodeSpeed: Fast
+[2026.03.05-18.29.11:877][206]LogInterchangeEngine: Display: Interchange import completed [C:/Users/karlk/AppDa...8c-91b8-6917d230f8f7/scope.glb]
+[2026.03.05-18.29.15:787][414]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Scope/scope/StaticMeshes/scope.scope
+[2026.03.05-18.29.15:788][414]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Scope/scope/StaticMeshes/scope.scope
+[2026.03.05-18.29.15:788][414]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Scope/scope/StaticMeshes/scope.scope as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_864
+[2026.03.05-18.29.16:886][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.05-18.29.16:891][473]LogEditorActor: Deleted 0 Actors (0.045 secs)
+[2026.03.05-18.29.16:897][473]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Scope/scope/StaticMeshes/scope.scope
+[2026.03.05-18.29.16:897][473]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Scope/scope/StaticMeshes/scope.scope
+[2026.03.05-18.29.16:899][473]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Scope/scope/StaticMeshes/scope.scope as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_865
+[2026.03.05-18.29.45:390][126]Cmd: TRANSACTION UNDO
+[2026.03.05-18.29.45:390][126]LogEditorTransaction: Undo Set Rotation
+[2026.03.05-18.29.56:919][782]Cmd: TRANSACTION UNDO
+[2026.03.05-18.29.56:919][782]LogEditorTransaction: Undo Set Scale
+[2026.03.05-18.33.22:102][665]Cmd: TRANSACTION UNDO
+[2026.03.05-18.33.22:103][665]LogEditorTransaction: Undo Set Rotation
+[2026.03.05-18.33.23:830][752]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10601.567383
+[2026.03.05-18.33.23:997][762]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-18.33.23:997][762]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10601.716797, Update Interval: 321.832336
+[2026.03.05-18.33.41:163][781]Cmd: TRANSACTION UNDO
+[2026.03.05-18.33.41:163][781]LogEditorTransaction: Undo Set Rotation
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: ================================================
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Total job queries 2,457, among them cache hits 1,146 (46.64%), DDC hits 730 (29.71%), Duplicates 130 (5.29%)
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Tracking 1,181 distinct input hashes that result in 827 distinct outputs (70.03%)
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: RAM used: 6.96 MiB of 819.20 MiB budget. Usage: 0.85%
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Shaders Compiled: 451
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Jobs assigned 451, completed 451 (100%)
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Average time worker was idle: 211.52 s
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Time job spent in pending queue: average 0.61 s, longest 4.03 s
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Job execution time: average 0.88 s, max 4.49 s
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Job life time (pending + execution): average 1.49 s, max 5.21
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Shader code size: total 4.199 MiB, numShaders 483, average 8.903 KiB, min 2.25 KiB, max 41.605 KiB
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 115.96 s
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Jobs were issued in 451 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Average processing rate: 3.89 jobs/sec
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Total thread time: 329.856 s
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Total thread preprocess time: 27.998 s
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Percentage time preprocessing: 8.49%
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Effective parallelization: 2.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.355580
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled   10 times, average 1.27 sec, max 1.92 sec, min 0.88 sec)
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   36 times, average 1.22 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   14 times, average 1.17 sec, max 2.02 sec, min 0.99 sec)
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   22 times, average 1.10 sec, max 1.61 sec, min 0.74 sec)
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   26 times, average 1.05 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.91% of total time (compiled   83 times, average 0.55 sec, max 1.55 sec, min 0.31 sec)
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 13.30% of total time (compiled   36 times, average 1.22 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.25% of total time (compiled   26 times, average 1.05 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.33% of total time (compiled   22 times, average 1.10 sec, max 1.61 sec, min 0.74 sec)
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.84% of total time (compiled   30 times, average 0.64 sec, max 3.80 sec, min 0.31 sec)
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: === Material stats ===
+[2026.03.05-18.33.51:532][367]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.05-18.33.51:533][367]LogShaderCompilers: Display: Materials Translated:    399
+[2026.03.05-18.33.51:533][367]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2026.03.05-18.33.51:533][367]LogShaderCompilers: Display: Material Translation Only: 0.15 s (58%)
+[2026.03.05-18.33.51:533][367]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.03.05-18.33.51:533][367]LogShaderCompilers: Display: Material Cache Hits: 73 (18%)
+[2026.03.05-18.33.51:533][367]LogShaderCompilers: Display: ================================================
+[2026.03.05-18.35.09:042][859]LogStreaming: Display: FlushAsyncLoading(466): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: ================================================
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Total job queries 2,479, among them cache hits 1,161 (46.83%), DDC hits 732 (29.53%), Duplicates 130 (5.24%)
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Tracking 1,188 distinct input hashes that result in 831 distinct outputs (69.95%)
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: RAM used: 6.99 MiB of 819.20 MiB budget. Usage: 0.85%
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Shaders Compiled: 456
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Jobs assigned 456, completed 456 (100%)
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Average time worker was idle: 210.68 s
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Time job spent in pending queue: average 0.60 s, longest 4.03 s
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Job execution time: average 0.88 s, max 4.49 s
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Job life time (pending + execution): average 1.48 s, max 5.21
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Shader code size: total 4.245 MiB, numShaders 488, average 8.908 KiB, min 2.25 KiB, max 41.605 KiB
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 117.94 s
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Jobs were issued in 456 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Average processing rate: 3.87 jobs/sec
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Total thread time: 332.469 s
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Total thread preprocess time: 28.244 s
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Percentage time preprocessing: 8.50%
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Effective parallelization: 2.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.352368
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled   10 times, average 1.27 sec, max 1.92 sec, min 0.88 sec)
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   37 times, average 1.22 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   14 times, average 1.17 sec, max 2.02 sec, min 0.99 sec)
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   22 times, average 1.10 sec, max 1.61 sec, min 0.74 sec)
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   26 times, average 1.05 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.08% of total time (compiled   85 times, average 0.55 sec, max 1.55 sec, min 0.31 sec)
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 13.53% of total time (compiled   37 times, average 1.22 sec, max 2.43 sec, min 0.96 sec)
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.18% of total time (compiled   26 times, average 1.05 sec, max 1.73 sec, min 0.72 sec)
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.27% of total time (compiled   22 times, average 1.10 sec, max 1.61 sec, min 0.74 sec)
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.79% of total time (compiled   30 times, average 0.64 sec, max 3.80 sec, min 0.31 sec)
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: === Material stats ===
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Materials Translated:    400
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Material Translation Only: 0.15 s (58%)
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: Material Cache Hits: 73 (18%)
+[2026.03.05-18.36.51:549][778]LogShaderCompilers: Display: ================================================
+[2026.03.05-18.37.27:634][856]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_WorkStation_01.SM_WorkStation_01
+[2026.03.05-18.37.27:634][856]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_WorkStation_01.SM_WorkStation_01
+[2026.03.05-18.37.27:635][856]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_WorkStation_01.SM_WorkStation_01 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_866
+[2026.03.05-18.37.28:273][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.03.05-18.37.28:277][892]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.03.05-18.37.28:283][892]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_WorkStation_01.SM_WorkStation_01
+[2026.03.05-18.37.28:283][892]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_WorkStation_01.SM_WorkStation_01
+[2026.03.05-18.37.28:285][892]LogActorFactory: Actor Factory spawned StaticMesh /Game/SciFI_Lite_Assets/StaticMeshes/SM_WorkStation_01.SM_WorkStation_01 as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_867
+[2026.03.05-18.37.50:557][183]Cmd: EDIT COPY
+[2026.03.05-18.37.51:434][235]Cmd: EDIT PASTE
+[2026.03.05-18.38.04:677][984]LogStreaming: Display: FlushAsyncLoading(467): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.05-18.38.04:745][986]LogTexture: Display: Building textures: /Game/SciFI_Lite_Assets/Textures/T_RustedMetal_Roughness_01.T_RustedMetal_Roughness_01 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2026.03.05-18.38.25:015][ 62]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMapMachine_Machine.SM_RoomMapMachine_Machine
+[2026.03.05-18.38.25:015][ 62]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMapMachine_Machine.SM_RoomMapMachine_Machine
+[2026.03.05-18.38.25:016][ 62]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMapMachine_Machine.SM_RoomMapMachine_Machine as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_869
+[2026.03.05-18.38.25:805][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.05-18.38.25:810][107]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.03.05-18.38.25:817][107]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMapMachine_Machine.SM_RoomMapMachine_Machine
+[2026.03.05-18.38.25:817][107]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMapMachine_Machine.SM_RoomMapMachine_Machine
+[2026.03.05-18.38.25:819][107]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMapMachine_Machine.SM_RoomMapMachine_Machine as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_870
+[2026.03.05-18.38.36:233][700]LogDerivedDataCache: C:/Users/karlk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.008 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.05-18.38.42:028][ 24]Cmd: EDIT COPY
+[2026.03.05-18.38.42:807][ 68]Cmd: EDIT PASTE
+[2026.03.05-18.39.07:620][407]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMedicalMachine_Control.SM_RoomMedicalMachine_Control
+[2026.03.05-18.39.07:620][407]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMedicalMachine_Control.SM_RoomMedicalMachine_Control
+[2026.03.05-18.39.07:621][407]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMedicalMachine_Control.SM_RoomMedicalMachine_Control as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_872
+[2026.03.05-18.39.08:769][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.03.05-18.39.08:774][474]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.03.05-18.39.08:782][474]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMedicalMachine_Control.SM_RoomMedicalMachine_Control
+[2026.03.05-18.39.08:782][474]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMedicalMachine_Control.SM_RoomMedicalMachine_Control
+[2026.03.05-18.39.08:783][474]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMedicalMachine_Control.SM_RoomMedicalMachine_Control as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_873
+[2026.03.05-18.39.31:617][814]Cmd: EDIT COPY
+[2026.03.05-18.39.32:383][858]Cmd: EDIT PASTE
+[2026.03.05-18.39.35:458][ 36]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10973.027344
+[2026.03.05-18.39.35:675][ 49]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-18.39.35:675][ 49]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10973.226562, Update Interval: 327.012543
+[2026.03.05-18.39.43:028][487]Cmd: EDIT PASTE
+[2026.03.05-18.40.06:354][704]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMapMachine_Control.SM_RoomMapMachine_Control
+[2026.03.05-18.40.06:354][704]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMapMachine_Control.SM_RoomMapMachine_Control
+[2026.03.05-18.40.06:355][704]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMapMachine_Control.SM_RoomMapMachine_Control as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_876
+[2026.03.05-18.40.06:864][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.05-18.40.06:869][732]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.03.05-18.40.06:876][732]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMapMachine_Control.SM_RoomMapMachine_Control
+[2026.03.05-18.40.06:876][732]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMapMachine_Control.SM_RoomMapMachine_Control
+[2026.03.05-18.40.06:878][732]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMapMachine_Control.SM_RoomMapMachine_Control as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_877
+[2026.03.05-18.40.24:028][725]Cmd: EDIT COPY
+[2026.03.05-18.40.24:768][768]Cmd: EDIT PASTE
+[2026.03.05-18.40.31:438][114]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMedicalMachine_Control.SM_RoomMedicalMachine_Control
+[2026.03.05-18.40.31:438][114]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMedicalMachine_Control.SM_RoomMedicalMachine_Control
+[2026.03.05-18.40.31:439][114]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMedicalMachine_Control.SM_RoomMedicalMachine_Control as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_879
+[2026.03.05-18.40.32:171][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.05-18.40.32:175][156]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.03.05-18.40.32:182][156]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMedicalMachine_Control.SM_RoomMedicalMachine_Control
+[2026.03.05-18.40.32:182][156]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMedicalMachine_Control.SM_RoomMedicalMachine_Control
+[2026.03.05-18.40.32:183][156]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/Props/SM_RoomMedicalMachine_Control.SM_RoomMedicalMachine_Control as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_880
+[2026.03.05-18.41.39:661][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.05-18.41.39:782][125]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto2
+[2026.03.05-18.41.39:782][125]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersion_Auto2FDF3FB4B40E23C20A9E91181A9D47550.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/LightVersion_Auto2.umap'
+[2026.03.05-18.41.39:785][125]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.144
+[2026.03.05-18.41.39:785][125]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.144
+[2026.03.05-18.41.39:785][125]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Clinic/Textures/T_RoomWall01_Decor03_Mat] ([1] browsable assets)...
+[2026.03.05-18.41.39:785][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Clinic/Textures/T_RoomWall01_Decor03_Mat]
+[2026.03.05-18.41.39:792][125]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Clinic/Textures/T_RoomWall01_Decor03_Mat_Auto2
+[2026.03.05-18.41.39:792][125]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_RoomWall01_Decor03_Mat_Auto200170D154B298C0C8A92A0A91560CB36.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Clinic/Textures/T_RoomWall01_Decor03_Mat_Auto2.uasset'
+[2026.03.05-18.41.39:793][125]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat] ([1] browsable assets)...
+[2026.03.05-18.41.39:793][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat]
+[2026.03.05-18.41.39:800][125]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat_Auto2
+[2026.03.05-18.41.39:800][125]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_Entrance_Keyboard_AO_Mat_Auto2138604CC4F4743B3ABE9818622D7B905.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat_Auto2.uasset'
+[2026.03.05-18.41.39:801][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scope/scope/Textures/scope_texture_0] ([1] browsable assets)...
+[2026.03.05-18.41.39:804][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Scope/scope/Textures/scope_texture_0.scope_texture_0]
+[2026.03.05-18.41.39:804][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Textures/scope_texture_0]
+[2026.03.05-18.41.40:074][125]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_0_Auto2
+[2026.03.05-18.41.40:074][125]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/scope_texture_0_Auto2A23E5EA1406A9B5B4D9CD3B83A94EB2A.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_0_Auto2.uasset'
+[2026.03.05-18.41.40:074][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scope/scope/Textures/scope_texture_1] ([1] browsable assets)...
+[2026.03.05-18.41.40:085][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Scope/scope/Textures/scope_texture_1.scope_texture_1]
+[2026.03.05-18.41.40:086][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Textures/scope_texture_1]
+[2026.03.05-18.41.40:362][125]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_1_Auto2
+[2026.03.05-18.41.40:362][125]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/scope_texture_1_Auto215AEB05A48B81794F84EB1B31D8693EA.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_1_Auto2.uasset'
+[2026.03.05-18.41.40:362][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scope/scope/Textures/scope_texture_2] ([1] browsable assets)...
+[2026.03.05-18.41.40:363][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Scope/scope/Textures/scope_texture_2.scope_texture_2]
+[2026.03.05-18.41.40:363][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Textures/scope_texture_2]
+[2026.03.05-18.41.40:644][125]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_2_Auto2
+[2026.03.05-18.41.40:644][125]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/scope_texture_2_Auto248DB7FD14C42382FF5DCF4AAC13888D1.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_2_Auto2.uasset'
+[2026.03.05-18.41.40:645][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scope/scope/Textures/scope_texture_3] ([1] browsable assets)...
+[2026.03.05-18.41.40:647][125]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Scope/scope/Textures/scope_texture_3.scope_texture_3]
+[2026.03.05-18.41.40:647][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Textures/scope_texture_3]
+[2026.03.05-18.41.40:937][125]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_3_Auto2
+[2026.03.05-18.41.40:937][125]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/scope_texture_3_Auto27EEAB816416B6601FBB20A8CAFC04906.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_3_Auto2.uasset'
+[2026.03.05-18.41.40:938][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scope/scope/Materials/m_scope] ([1] browsable assets)...
+[2026.03.05-18.41.40:981][125]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Scope/scope/Materials/m_scope.m_scope]
+[2026.03.05-18.41.40:981][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Materials/m_scope]
+[2026.03.05-18.41.40:990][125]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Scope/scope/Materials/m_scope_Auto2
+[2026.03.05-18.41.40:991][125]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/m_scope_Auto2DD243010454D429A110740A8851F121A.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Scope/scope/Materials/m_scope_Auto2.uasset'
+[2026.03.05-18.41.40:991][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scope/scope/StaticMeshes/scope] ([1] browsable assets)...
+[2026.03.05-18.41.41:000][125]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Scope/scope/StaticMeshes/scope.scope]
+[2026.03.05-18.41.41:000][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/StaticMeshes/scope]
+[2026.03.05-18.41.41:054][125]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Scope/scope/StaticMeshes/scope_Auto2
+[2026.03.05-18.41.41:054][125]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/scope_Auto2BA26DAB441154F91BA30EBAC70B6FFA1.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Scope/scope/StaticMeshes/scope_Auto2.uasset'
+[2026.03.05-18.41.41:055][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Scope/scope/Textures/scope_texture_0_Mat] ([1] browsable assets)...
+[2026.03.05-18.41.41:064][125]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Fab/Scope/scope/Textures/scope_texture_0_Mat.scope_texture_0_Mat]
+[2026.03.05-18.41.41:064][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Textures/scope_texture_0_Mat]
+[2026.03.05-18.41.41:073][125]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_0_Mat_Auto2
+[2026.03.05-18.41.41:073][125]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/scope_texture_0_Mat_Auto2E9939C494069374C0A6A9AAB453F8B42.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Fab/Scope/scope/Textures/scope_texture_0_Mat_Auto2.uasset'
+[2026.03.05-18.41.41:073][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SciFI_Lite_Assets/Textures/T_RustedMetal_Roughness_01_Mat] ([1] browsable assets)...
+[2026.03.05-18.41.41:081][125]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SciFI_Lite_Assets/Textures/T_RustedMetal_Roughness_01_Mat.T_RustedMetal_Roughness_01_Mat]
+[2026.03.05-18.41.41:081][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFI_Lite_Assets/Textures/T_RustedMetal_Roughness_01_Mat]
+[2026.03.05-18.41.41:090][125]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SciFI_Lite_Assets/Textures/T_RustedMetal_Roughness_01_Mat_Auto2
+[2026.03.05-18.41.41:090][125]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_RustedMetal_Roughness_01_Mat_A3355C0704E4B19B9883F2597F2940CCA.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/SciFI_Lite_Assets/Textures/T_RustedMetal_Roughness_01_Mat_Auto2.uasset'
+[2026.03.05-18.41.41:091][125]LogFileHelpers: Auto-saving content packages took 1.306
+[2026.03.05-18.42.20:219][416]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/StaticMeshes/sci-fi_railing.sci-fi_railing
+[2026.03.05-18.42.20:219][416]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/StaticMeshes/sci-fi_railing.sci-fi_railing
+[2026.03.05-18.42.20:220][416]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/StaticMeshes/sci-fi_railing.sci-fi_railing as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_881
+[2026.03.05-18.42.20:878][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.03.05-18.42.20:884][453]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.03.05-18.42.20:892][453]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/StaticMeshes/sci-fi_railing.sci-fi_railing
+[2026.03.05-18.42.20:892][453]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/StaticMeshes/sci-fi_railing.sci-fi_railing
+[2026.03.05-18.42.20:894][453]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Lowpoly_Sci-fi_Railing___Fence/sci-fi_railing/StaticMeshes/sci-fi_railing.sci-fi_railing as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_882
+[2026.03.05-18.42.41:719][644]Cmd: EDIT COPY
+[2026.03.05-18.42.42:436][687]Cmd: EDIT PASTE
+[2026.03.05-18.42.47:312][972]Cmd: DELETE
+[2026.03.05-18.42.47:312][972]Cmd: ACTOR DELETE
+[2026.03.05-18.42.47:323][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.05-18.42.47:344][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.05-18.42.47:348][972]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2026.03.05-18.43.05:065][999]Cmd: EDIT COPY
+[2026.03.05-18.43.05:727][ 38]Cmd: EDIT PASTE
+[2026.03.05-18.43.08:848][217]Cmd: EDIT PASTE
+[2026.03.05-18.43.11:664][378]Cmd: EDIT PASTE
+[2026.03.05-18.44.18:724][231]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/SM_RoomWorkTable_Cylinder.SM_RoomWorkTable_Cylinder
+[2026.03.05-18.44.18:724][231]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/SM_RoomWorkTable_Cylinder.SM_RoomWorkTable_Cylinder
+[2026.03.05-18.44.18:725][231]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/SM_RoomWorkTable_Cylinder.SM_RoomWorkTable_Cylinder as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_887
+[2026.03.05-18.44.19:803][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.03.05-18.44.19:808][293]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2026.03.05-18.44.19:814][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/SM_RoomWorkTable_Cylinder.SM_RoomWorkTable_Cylinder
+[2026.03.05-18.44.19:814][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Clinic/Meshes/SM_RoomWorkTable_Cylinder.SM_RoomWorkTable_Cylinder
+[2026.03.05-18.44.19:816][293]LogActorFactory: Actor Factory spawned StaticMesh /Game/Clinic/Meshes/SM_RoomWorkTable_Cylinder.SM_RoomWorkTable_Cylinder as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_888
+[2026.03.05-18.44.34:887][154]Cmd: EDIT COPY
+[2026.03.05-18.44.35:548][193]Cmd: EDIT PASTE
+[2026.03.05-18.46.02:234][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11359.654297
+[2026.03.05-18.46.02:401][290]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-18.46.02:401][290]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11359.804688, Update Interval: 334.701385
+[2026.03.05-18.50.12:762][255]Cmd: EDIT COPY
+[2026.03.05-18.50.13:663][309]Cmd: EDIT PASTE
+[2026.03.05-18.50.35:616][563]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.03.05-18.50.35:616][563]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.03.05-18.50.35:618][563]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_891
+[2026.03.05-18.50.35:618][563]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_891
+[2026.03.05-18.51.10:694][516]Cmd: EDIT COPY
+[2026.03.05-18.51.11:577][569]Cmd: EDIT PASTE
+[2026.03.05-18.51.16:501][854]Cmd: EDIT PASTE
+[2026.03.05-18.51.20:042][ 54]Cmd: EDIT PASTE
+[2026.03.05-18.51.27:882][481]Cmd: EDIT COPY
+[2026.03.05-18.51.28:697][530]Cmd: EDIT PASTE
+[2026.03.05-18.51.43:368][337]Cmd: EDIT COPY
+[2026.03.05-18.51.44:313][393]Cmd: EDIT PASTE
+[2026.03.05-18.52.00:722][318]Cmd: EDIT COPY
+[2026.03.05-18.52.01:439][361]Cmd: EDIT PASTE
+[2026.03.05-18.52.32:016][109]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11749.269531
+[2026.03.05-18.52.32:217][121]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.05-18.52.32:217][121]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11749.454102, Update Interval: 305.020905
+[2026.03.05-18.52.43:140][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.03.05-18.52.43:266][757]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto3
+[2026.03.05-18.52.43:267][757]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersion_Auto3799F41F149D612730F9DBC8E012552C4.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/LightVersion_Auto3.umap'
+[2026.03.05-18.52.43:269][757]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.153
+[2026.03.05-18.52.43:269][757]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.153
+[2026.03.05-18.53.43:562][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.05-18.53.43:569][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-18.53.43:602][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimensions/LightVersion" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/LightVersion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.05-18.53.43:657][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.03.05-18.53.43:780][235]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.03.05-18.53.43:781][235]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersionCC774D7C4BBF0655556A33B8AE5EB287.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/LightVersion.umap'
+[2026.03.05-18.53.43:804][235]LogFileHelpers: Saving map 'LightVersion' took 0.203
+[2026.03.05-18.53.43:804][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Clinic/Textures/T_RoomWall01_Decor03_Mat] ([1] browsable assets)...
+[2026.03.05-18.53.43:804][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Clinic/Textures/T_RoomWall01_Decor03_Mat]
+[2026.03.05-18.53.43:804][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Clinic/Textures/T_RoomWall01_Decor03_Mat" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Clinic/Textures/T_RoomWall01_Decor03_Mat.uasset" SILENT=true
+[2026.03.05-18.53.43:812][235]LogSavePackage: Moving output files for package: /Game/Clinic/Textures/T_RoomWall01_Decor03_Mat
+[2026.03.05-18.53.43:812][235]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_RoomWall01_Decor03_MatA00E07714B295A0BC46F30A7BDFE38B9.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Clinic/Textures/T_RoomWall01_Decor03_Mat.uasset'
+[2026.03.05-18.53.43:813][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat] ([1] browsable assets)...
+[2026.03.05-18.53.43:813][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat]
+[2026.03.05-18.53.43:813][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Clinic/Textures/T_Entrance_Keyboard_AO_Mat.uasset" SILENT=true
+[2026.03.05-18.53.43:819][235]LogSavePackage: Moving output files for package: /Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat
+[2026.03.05-18.53.43:819][235]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_Entrance_Keyboard_AO_Mat79635841472E2C500645DE9CD541D7BD.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Clinic/Textures/T_Entrance_Keyboard_AO_Mat.uasset'
+[2026.03.05-18.53.43:822][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Scope/scope/Textures/scope_texture_0] ([1] browsable assets)...
+[2026.03.05-18.53.43:822][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Textures/scope_texture_0]
+[2026.03.05-18.53.43:822][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Scope/scope/Textures/scope_texture_0" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Scope/scope/Textures/scope_texture_0.uasset" SILENT=true
+[2026.03.05-18.53.44:062][235]LogSavePackage: Moving output files for package: /Game/Fab/Scope/scope/Textures/scope_texture_0
+[2026.03.05-18.53.44:062][235]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/scope_texture_0113FBE8A4D029D5EB7F6DEB5D82160BC.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Scope/scope/Textures/scope_texture_0.uasset'
+[2026.03.05-18.53.44:064][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Scope/scope/Textures/scope_texture_1] ([1] browsable assets)...
+[2026.03.05-18.53.44:064][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Textures/scope_texture_1]
+[2026.03.05-18.53.44:064][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Scope/scope/Textures/scope_texture_1" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Scope/scope/Textures/scope_texture_1.uasset" SILENT=true
+[2026.03.05-18.53.44:427][235]LogSavePackage: Moving output files for package: /Game/Fab/Scope/scope/Textures/scope_texture_1
+[2026.03.05-18.53.44:427][235]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/scope_texture_1368C53AA4129EF6300C8CBA8A1F561A7.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Scope/scope/Textures/scope_texture_1.uasset'
+[2026.03.05-18.53.44:429][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Scope/scope/Textures/scope_texture_2] ([1] browsable assets)...
+[2026.03.05-18.53.44:429][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Textures/scope_texture_2]
+[2026.03.05-18.53.44:429][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Scope/scope/Textures/scope_texture_2" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Scope/scope/Textures/scope_texture_2.uasset" SILENT=true
+[2026.03.05-18.53.44:617][235]LogSavePackage: Moving output files for package: /Game/Fab/Scope/scope/Textures/scope_texture_2
+[2026.03.05-18.53.44:617][235]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/scope_texture_2DEAD8CD240366B39B195F19520C195C6.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Scope/scope/Textures/scope_texture_2.uasset'
+[2026.03.05-18.53.44:618][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Scope/scope/Textures/scope_texture_3] ([1] browsable assets)...
+[2026.03.05-18.53.44:618][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Textures/scope_texture_3]
+[2026.03.05-18.53.44:618][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Scope/scope/Textures/scope_texture_3" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Scope/scope/Textures/scope_texture_3.uasset" SILENT=true
+[2026.03.05-18.53.45:080][235]LogSavePackage: Moving output files for package: /Game/Fab/Scope/scope/Textures/scope_texture_3
+[2026.03.05-18.53.45:080][235]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/scope_texture_301D3D10947B9DAD56FC25F911FD44950.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Scope/scope/Textures/scope_texture_3.uasset'
+[2026.03.05-18.53.45:081][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Scope/scope/Materials/m_scope] ([1] browsable assets)...
+[2026.03.05-18.53.45:081][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Materials/m_scope]
+[2026.03.05-18.53.45:081][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Scope/scope/Materials/m_scope" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Scope/scope/Materials/m_scope.uasset" SILENT=true
+[2026.03.05-18.53.45:089][235]LogSavePackage: Moving output files for package: /Game/Fab/Scope/scope/Materials/m_scope
+[2026.03.05-18.53.45:089][235]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/m_scope955713AE4119496D0C86DEBFDE5271BE.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Scope/scope/Materials/m_scope.uasset'
+[2026.03.05-18.53.45:090][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Scope/scope/StaticMeshes/scope] ([1] browsable assets)...
+[2026.03.05-18.53.45:090][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/StaticMeshes/scope]
+[2026.03.05-18.53.45:090][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Scope/scope/StaticMeshes/scope" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Scope/scope/StaticMeshes/scope.uasset" SILENT=true
+[2026.03.05-18.53.45:146][235]LogSavePackage: Moving output files for package: /Game/Fab/Scope/scope/StaticMeshes/scope
+[2026.03.05-18.53.45:146][235]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/scopeDF78785542F3413D09D86FBC8945DAF8.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Scope/scope/StaticMeshes/scope.uasset'
+[2026.03.05-18.53.45:148][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Scope/scope/Textures/scope_texture_0_Mat] ([1] browsable assets)...
+[2026.03.05-18.53.45:148][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Textures/scope_texture_0_Mat]
+[2026.03.05-18.53.45:156][235]LogSavePackage: Moving output files for package: /Game/Fab/Scope/scope/Textures/scope_texture_0_Mat
+[2026.03.05-18.53.45:156][235]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/scope_texture_0_Mat50CFAD6D4CE194735B894B97AD9A3F24.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Scope/scope/Textures/scope_texture_0_Mat.uasset'
+[2026.03.05-18.53.45:158][235]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFI_Lite_Assets/Textures/T_RustedMetal_Roughness_01_Mat] ([1] browsable assets)...
+[2026.03.05-18.53.45:158][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFI_Lite_Assets/Textures/T_RustedMetal_Roughness_01_Mat]
+[2026.03.05-18.53.45:166][235]LogSavePackage: Moving output files for package: /Game/SciFI_Lite_Assets/Textures/T_RustedMetal_Roughness_01_Mat
+[2026.03.05-18.53.45:166][235]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_RustedMetal_Roughness_01_MatBFD579C947405E7B78AB20A064A34548.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/SciFI_Lite_Assets/Textures/T_RustedMetal_Roughness_01_Mat.uasset'
+[2026.03.05-18.53.45:204][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.63 sec (total: 8.80 sec)
+[2026.03.05-18.53.45:264][235]LogContentValidation: Display: Starting to validate 11 assets
+[2026.03.05-18.53.45:264][235]LogContentValidation: Enabled validators:
+[2026.03.05-18.53.45:264][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-18.53.45:264][235]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-18.53.45:264][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-18.53.45:264][235]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-18.53.45:264][235]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-18.53.45:264][235]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-18.53.45:265][235]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.03.05-18.53.45:265][235]AssetCheck: /Game/Clinic/Textures/T_RoomWall01_Decor03_Mat Validating asset
+[2026.03.05-18.53.45:265][235]AssetCheck: /Game/Clinic/Textures/T_Entrance_Keyboard_AO_Mat Validating asset
+[2026.03.05-18.53.45:265][235]AssetCheck: /Game/Fab/Scope/scope/Textures/scope_texture_0 Validating asset
+[2026.03.05-18.53.45:265][235]AssetCheck: /Game/Fab/Scope/scope/Textures/scope_texture_1 Validating asset
+[2026.03.05-18.53.45:265][235]AssetCheck: /Game/Fab/Scope/scope/Textures/scope_texture_2 Validating asset
+[2026.03.05-18.53.45:265][235]AssetCheck: /Game/Fab/Scope/scope/Textures/scope_texture_3 Validating asset
+[2026.03.05-18.53.45:265][235]AssetCheck: /Game/Fab/Scope/scope/Materials/m_scope Validating asset
+[2026.03.05-18.53.45:265][235]AssetCheck: /Game/Fab/Scope/scope/StaticMeshes/scope Validating asset
+[2026.03.05-18.53.45:265][235]AssetCheck: /Game/Fab/Scope/scope/Textures/scope_texture_0_Mat Validating asset
+[2026.03.05-18.53.45:265][235]AssetCheck: /Game/SciFI_Lite_Assets/Textures/T_RustedMetal_Roughness_01_Mat Validating asset
+[2026.03.05-18.53.45:282][235]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/karlk/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.05-18.54.17:182][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.03.05-18.54.19:377][258]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.05-18.54.19:773][258]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Fab/Scope/scope/Textures/scope_texture_3.scope_texture_3
+	Asset Type: Texture2D
+[2026.03.05-18.54.20:361][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.03.05-18.54.20:384][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.03.05-18.54.20:402][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.05-18.54.27:694][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.05-18.54.28:755][653]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.05-18.54.28:909][653]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Fab/Scope/scope/Textures/scope_texture_2.scope_texture_2
+	Asset Type: Texture2D
+[2026.03.05-18.54.29:108][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.03.05-18.54.29:128][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.05-18.54.29:147][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.05-18.54.31:307][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.05-18.54.32:340][754]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.05-18.54.32:499][754]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Fab/Scope/scope/Textures/scope_texture_1.scope_texture_1
+	Asset Type: Texture2D
+[2026.03.05-18.54.32:707][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.03.05-18.54.32:733][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.05-18.54.32:755][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
