@@ -6072,3 +6072,20 @@ Sampler Limit: 32
 [2026.03.05-19.15.14:421][500]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.05-19.15.14:421][500]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.05-19.15.14:422][500]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.03.05-19.15.48:193][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.05-19.15.48:198][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.05-19.15.48:247][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Scope/scope/Materials/m_scope] ([1] browsable assets)...
+[2026.03.05-19.15.48:247][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Scope/scope/Materials/m_scope]
+[2026.03.05-19.15.48:247][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fab/Scope/scope/Materials/m_scope" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Scope/scope/Materials/m_scope.uasset" SILENT=true
+[2026.03.05-19.15.48:257][743]LogSavePackage: Moving output files for package: /Game/Fab/Scope/scope/Materials/m_scope
+[2026.03.05-19.15.48:258][743]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/m_scope5E300FA4478DF952FA770599CC69F0C6.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Scope/scope/Materials/m_scope.uasset'
+[2026.03.05-19.15.48:264][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.400 ms (total: 9.13 sec)
+[2026.03.05-19.15.48:303][743]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.05-19.15.48:303][743]LogContentValidation: Enabled validators:
+[2026.03.05-19.15.48:303][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.05-19.15.48:303][743]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.05-19.15.48:303][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.05-19.15.48:303][743]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.05-19.15.48:303][743]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.05-19.15.48:303][743]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.05-19.15.48:303][743]AssetCheck: /Game/Fab/Scope/scope/Materials/m_scope Validating asset
