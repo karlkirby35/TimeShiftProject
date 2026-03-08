@@ -3059,3 +3059,212 @@ Sampler Limit: 32
 [2026.03.08-18.59.45:364][811]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.08-18.59.45:364][811]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.08-18.59.45:364][811]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.03.08-19.00.17:098][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.08-19.00.17:106][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.08-19.00.17:150][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFI_Lite_Assets/Textures/T_Hexagon_AmbientOcclusion_Mat] ([1] browsable assets)...
+[2026.03.08-19.00.17:150][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFI_Lite_Assets/Textures/T_Hexagon_AmbientOcclusion_Mat]
+[2026.03.08-19.00.17:158][262]LogSavePackage: Moving output files for package: /Game/SciFI_Lite_Assets/Textures/T_Hexagon_AmbientOcclusion_Mat
+[2026.03.08-19.00.17:158][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_Hexagon_AmbientOcclusion_Mat847767A140C8C90FF0888795A4ABC0B9.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/SciFI_Lite_Assets/Textures/T_Hexagon_AmbientOcclusion_Mat.uasset'
+[2026.03.08-19.00.17:160][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFI_Lite_Assets/Textures/T_DefaultMaterial_Roughness_01_Mat] ([1] browsable assets)...
+[2026.03.08-19.00.17:160][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFI_Lite_Assets/Textures/T_DefaultMaterial_Roughness_01_Mat]
+[2026.03.08-19.00.17:168][262]LogSavePackage: Moving output files for package: /Game/SciFI_Lite_Assets/Textures/T_DefaultMaterial_Roughness_01_Mat
+[2026.03.08-19.00.17:168][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_DefaultMaterial_Roughness_01_M02F6AB084B4A0CFCBD7F29B804772321.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/SciFI_Lite_Assets/Textures/T_DefaultMaterial_Roughness_01_Mat.uasset'
+[2026.03.08-19.00.17:169][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Curve_Mat] ([1] browsable assets)...
+[2026.03.08-19.00.17:169][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Curve_Mat]
+[2026.03.08-19.00.17:176][262]LogSavePackage: Moving output files for package: /Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Curve_Mat
+[2026.03.08-19.00.17:176][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_4k_SciFi_Panels_Curve_MatA35715DB4D4DDC12335855B85403AC65.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Curve_Mat.uasset'
+[2026.03.08-19.00.17:177][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Displacement_Mat] ([1] browsable assets)...
+[2026.03.08-19.00.17:177][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Displacement_Mat]
+[2026.03.08-19.00.17:183][262]LogSavePackage: Moving output files for package: /Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Displacement_Mat
+[2026.03.08-19.00.17:183][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_4k_SciFi_Panels_Displacement_MDE62EE90479D1B7CE42129B7B3087C02.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Displacement_Mat.uasset'
+[2026.03.08-19.00.17:184][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_AO_Clean_Mat] ([1] browsable assets)...
+[2026.03.08-19.00.17:184][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_AO_Clean_Mat]
+[2026.03.08-19.00.17:190][262]LogSavePackage: Moving output files for package: /Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_AO_Clean_Mat
+[2026.03.08-19.00.17:191][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_4k_SciFi_Panels_AO_Clean_MatD23C17C94B5A52A1705E9F9C03C847B3.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_AO_Clean_Mat.uasset'
+[2026.03.08-19.00.17:192][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Thickness_Mat] ([1] browsable assets)...
+[2026.03.08-19.00.17:192][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Thickness_Mat]
+[2026.03.08-19.00.17:200][262]LogSavePackage: Moving output files for package: /Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Thickness_Mat
+[2026.03.08-19.00.17:200][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_4k_SciFi_Panels_Thickness_Mat8F7F26EE4576A7D945EC929B566F5063.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Thickness_Mat.uasset'
+[2026.03.08-19.00.17:201][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_roughness_Mat] ([1] browsable assets)...
+[2026.03.08-19.00.17:201][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_roughness_Mat]
+[2026.03.08-19.00.17:207][262]LogSavePackage: Moving output files for package: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_roughness_Mat
+[2026.03.08-19.00.17:207][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_Sci_Fi_Material1_roughness_MatD529324E4C62D61193B446A0E6CF245A.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_roughness_Mat.uasset'
+[2026.03.08-19.00.17:208][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_BaseColor] ([1] browsable assets)...
+[2026.03.08-19.00.17:208][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_BaseColor]
+[2026.03.08-19.00.17:302][262]LogSavePackage: Moving output files for package: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_BaseColor
+[2026.03.08-19.00.17:302][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Material_BaseColor7CF4471F43911874F6BE6E8B97F598EB.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_BaseColor.uasset'
+[2026.03.08-19.00.17:304][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_Normal] ([1] browsable assets)...
+[2026.03.08-19.00.17:304][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_Normal]
+[2026.03.08-19.00.17:418][262]LogSavePackage: Moving output files for package: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_Normal
+[2026.03.08-19.00.17:418][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Material_Normal14821DD44FD5D421B186CBAB781652BE.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_Normal.uasset'
+[2026.03.08-19.00.17:420][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_Metallic] ([1] browsable assets)...
+[2026.03.08-19.00.17:420][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_Metallic]
+[2026.03.08-19.00.17:446][262]LogSavePackage: Moving output files for package: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_Metallic
+[2026.03.08-19.00.17:446][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Material_MetallicDDA929384187E07CCA70CF89F3BCE75A.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_Metallic.uasset'
+[2026.03.08-19.00.17:447][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_Roughness] ([1] browsable assets)...
+[2026.03.08-19.00.17:447][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_Roughness]
+[2026.03.08-19.00.17:480][262]LogSavePackage: Moving output files for package: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_Roughness
+[2026.03.08-19.00.17:480][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Material_Roughness01A6FD74405DCB7CE1AAE7AD86C724AA.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_Roughness.uasset'
+[2026.03.08-19.00.17:481][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/MI_Switch_GreenLed1] ([1] browsable assets)...
+[2026.03.08-19.00.17:481][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/MI_Switch_GreenLed1]
+[2026.03.08-19.00.17:490][262]LogSavePackage: Moving output files for package: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/MI_Switch_GreenLed1
+[2026.03.08-19.00.17:490][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/MI_Switch_GreenLed14E11A348486349383DDF1F8BE36FBF53.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Dirty_SciFi_Electrical_Lever_Switch/MI_Switch_GreenLed1.uasset'
+[2026.03.08-19.00.17:491][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/MI_Switch_RedLed2] ([1] browsable assets)...
+[2026.03.08-19.00.17:491][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/MI_Switch_RedLed2]
+[2026.03.08-19.00.17:498][262]LogSavePackage: Moving output files for package: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/MI_Switch_RedLed2
+[2026.03.08-19.00.17:499][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/MI_Switch_RedLed2125B51A34DBE3FA84BDDE8AFC94C4055.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Dirty_SciFi_Electrical_Lever_Switch/MI_Switch_RedLed2.uasset'
+[2026.03.08-19.00.17:499][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/NewMaterial] ([1] browsable assets)...
+[2026.03.08-19.00.17:500][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/NewMaterial]
+[2026.03.08-19.00.17:507][262]LogSavePackage: Moving output files for package: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/NewMaterial
+[2026.03.08-19.00.17:507][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/NewMaterial60AA7B2146142EA8521145A9E77B4F37.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Dirty_SciFi_Electrical_Lever_Switch/NewMaterial.uasset'
+[2026.03.08-19.00.17:508][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/NewMaterial_001] ([1] browsable assets)...
+[2026.03.08-19.00.17:508][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/NewMaterial_001]
+[2026.03.08-19.00.17:516][262]LogSavePackage: Moving output files for package: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/NewMaterial_001
+[2026.03.08-19.00.17:517][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/NewMaterial_0018068E9FB4A236F99E165BE84675C320A.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Dirty_SciFi_Electrical_Lever_Switch/NewMaterial_001.uasset'
+[2026.03.08-19.00.17:517][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/LastExport] ([1] browsable assets)...
+[2026.03.08-19.00.17:517][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/LastExport]
+[2026.03.08-19.00.17:538][262]LogSavePackage: Moving output files for package: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/LastExport
+[2026.03.08-19.00.17:538][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LastExport50C3FA6940333B3A00C2A3B3D0ADC832.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Dirty_SciFi_Electrical_Lever_Switch/LastExport.uasset'
+[2026.03.08-19.00.17:540][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Opacity] ([1] browsable assets)...
+[2026.03.08-19.00.17:540][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Opacity]
+[2026.03.08-19.00.17:564][262]LogSavePackage: Moving output files for package: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Opacity
+[2026.03.08-19.00.17:564][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Opacity0494081D46F9C7DD0B338ABB83ADE9E9.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Dirty_SciFi_Electrical_Lever_Switch/Opacity.uasset'
+[2026.03.08-19.00.17:565][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material5_roughness_Mat] ([1] browsable assets)...
+[2026.03.08-19.00.17:565][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material5_roughness_Mat]
+[2026.03.08-19.00.17:573][262]LogSavePackage: Moving output files for package: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material5_roughness_Mat
+[2026.03.08-19.00.17:573][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_Sci_Fi_Material5_roughness_Mat512C8EFF45EE3D3817D6669CF6ABE694.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Sci-FiMaterial/Textures/T_Sci_Fi_Material5_roughness_Mat.uasset'
+[2026.03.08-19.00.17:573][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_height_Mat] ([1] browsable assets)...
+[2026.03.08-19.00.17:574][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_height_Mat]
+[2026.03.08-19.00.17:580][262]LogSavePackage: Moving output files for package: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_height_Mat
+[2026.03.08-19.00.17:580][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_Sci_Fi_Material7_height_MatBCD408A7454A3D622CEE1AAC295BED28.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_height_Mat.uasset'
+[2026.03.08-19.00.17:581][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_roughness_Mat] ([1] browsable assets)...
+[2026.03.08-19.00.17:581][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_roughness_Mat]
+[2026.03.08-19.00.17:589][262]LogSavePackage: Moving output files for package: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_roughness_Mat
+[2026.03.08-19.00.17:590][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_Sci_Fi_Material7_roughness_Mat4FFC593F4308AB1D644A399C181799F8.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_roughness_Mat.uasset'
+[2026.03.08-19.00.17:591][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine_PhysicsAsset] ([1] browsable assets)...
+[2026.03.08-19.00.17:591][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine_PhysicsAsset]
+[2026.03.08-19.00.17:602][262]LogSavePackage: Moving output files for package: /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine_PhysicsAsset
+[2026.03.08-19.00.17:602][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/washing_machine_PhysicsAsset182513194E3F79FD494A2C8DAA58AFA8.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine_PhysicsAsset.uasset'
+[2026.03.08-19.00.17:604][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine_Skeleton] ([1] browsable assets)...
+[2026.03.08-19.00.17:604][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine_Skeleton]
+[2026.03.08-19.00.17:611][262]LogSavePackage: Moving output files for package: /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine_Skeleton
+[2026.03.08-19.00.17:611][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/washing_machine_Skeleton197D8A76491A78915F5034BF983B911E.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine_Skeleton.uasset'
+[2026.03.08-19.00.17:612][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_0] ([1] browsable assets)...
+[2026.03.08-19.00.17:612][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_0]
+[2026.03.08-19.00.17:634][262]LogSavePackage: Moving output files for package: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_0
+[2026.03.08-19.00.17:634][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/washing_machine_texture_067366BE04F1C160A7494EEA1D7B185E6.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_0.uasset'
+[2026.03.08-19.00.17:636][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_1] ([1] browsable assets)...
+[2026.03.08-19.00.17:636][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_1]
+[2026.03.08-19.00.17:753][262]LogSavePackage: Moving output files for package: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_1
+[2026.03.08-19.00.17:753][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/washing_machine_texture_1949145E04B7EC0808CB337BA52F54CAB.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_1.uasset'
+[2026.03.08-19.00.17:754][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_2] ([1] browsable assets)...
+[2026.03.08-19.00.17:754][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_2]
+[2026.03.08-19.00.17:902][262]LogSavePackage: Moving output files for package: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_2
+[2026.03.08-19.00.17:902][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/washing_machine_texture_2DF244F6B4C9BB50B6AA24693EE60BB5A.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_2.uasset'
+[2026.03.08-19.00.17:904][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_4] ([1] browsable assets)...
+[2026.03.08-19.00.17:904][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_4]
+[2026.03.08-19.00.18:032][262]LogSavePackage: Moving output files for package: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_4
+[2026.03.08-19.00.18:032][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/washing_machine_texture_4735BFF834EDC492F6C0EA79720AAE86A.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_4.uasset'
+[2026.03.08-19.00.18:034][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_5] ([1] browsable assets)...
+[2026.03.08-19.00.18:034][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_5]
+[2026.03.08-19.00.18:173][262]LogSavePackage: Moving output files for package: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_5
+[2026.03.08-19.00.18:173][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/washing_machine_texture_5DEA52E1D4CE16E8CBEABEEAE5601D862.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_5.uasset'
+[2026.03.08-19.00.18:175][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_6] ([1] browsable assets)...
+[2026.03.08-19.00.18:175][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_6]
+[2026.03.08-19.00.18:314][262]LogSavePackage: Moving output files for package: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_6
+[2026.03.08-19.00.18:314][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/washing_machine_texture_626A3ADA745C21F3386ABBA879C4578F0.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_6.uasset'
+[2026.03.08-19.00.18:315][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_7] ([1] browsable assets)...
+[2026.03.08-19.00.18:315][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_7]
+[2026.03.08-19.00.18:381][262]LogSavePackage: Moving output files for package: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_7
+[2026.03.08-19.00.18:381][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/washing_machine_texture_75D1380314FB38690107DC883A3B7E2FC.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_7.uasset'
+[2026.03.08-19.00.18:382][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Washing_Machine/washing_machine/Materials/ground] ([1] browsable assets)...
+[2026.03.08-19.00.18:382][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Washing_Machine/washing_machine/Materials/ground]
+[2026.03.08-19.00.18:392][262]LogSavePackage: Moving output files for package: /Game/Fab/Washing_Machine/washing_machine/Materials/ground
+[2026.03.08-19.00.18:392][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/ground94D7A8544206DE2EF1FE388795C25FD2.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Washing_Machine/washing_machine/Materials/ground.uasset'
+[2026.03.08-19.00.18:394][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_3] ([1] browsable assets)...
+[2026.03.08-19.00.18:394][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_3]
+[2026.03.08-19.00.18:460][262]LogSavePackage: Moving output files for package: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_3
+[2026.03.08-19.00.18:460][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/washing_machine_texture_3AF5079454FF3FDD409EEB0A6CA2F150F.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_3.uasset'
+[2026.03.08-19.00.18:461][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_8] ([1] browsable assets)...
+[2026.03.08-19.00.18:461][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_8]
+[2026.03.08-19.00.18:531][262]LogSavePackage: Moving output files for package: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_8
+[2026.03.08-19.00.18:531][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/washing_machine_texture_84F194CE044C28179D21A24B32DA911C7.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_8.uasset'
+[2026.03.08-19.00.18:533][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Washing_Machine/washing_machine/Materials/washmachine] ([1] browsable assets)...
+[2026.03.08-19.00.18:533][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Washing_Machine/washing_machine/Materials/washmachine]
+[2026.03.08-19.00.18:540][262]LogSavePackage: Moving output files for package: /Game/Fab/Washing_Machine/washing_machine/Materials/washmachine
+[2026.03.08-19.00.18:540][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/washmachineB1A283AA4BB322AB14A322903BC021CD.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Washing_Machine/washing_machine/Materials/washmachine.uasset'
+[2026.03.08-19.00.18:541][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Washing_Machine/washing_machine/Materials/glass] ([1] browsable assets)...
+[2026.03.08-19.00.18:541][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Washing_Machine/washing_machine/Materials/glass]
+[2026.03.08-19.00.18:549][262]LogSavePackage: Moving output files for package: /Game/Fab/Washing_Machine/washing_machine/Materials/glass
+[2026.03.08-19.00.18:549][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/glassFDA8B1844C652E78C3E3F692553EBB0B.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Washing_Machine/washing_machine/Materials/glass.uasset'
+[2026.03.08-19.00.18:551][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine] ([1] browsable assets)...
+[2026.03.08-19.00.18:551][262]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.03.08-19.00.18:645][262]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine.washing_machine]
+[2026.03.08-19.00.18:645][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine]
+[2026.03.08-19.00.18:678][262]LogSavePackage: Moving output files for package: /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine
+[2026.03.08-19.00.18:678][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/washing_machine364683C944C1E2F18422A0A806BB4206.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine.uasset'
+[2026.03.08-19.00.18:679][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine_Anim] ([1] browsable assets)...
+[2026.03.08-19.00.18:679][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine_Anim]
+[2026.03.08-19.00.18:690][262]LogSavePackage: Moving output files for package: /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine_Anim
+[2026.03.08-19.00.18:690][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/washing_machine_AnimF0B6A8064A63960CC3C56B896CA418B4.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine_Anim.uasset'
+[2026.03.08-19.00.18:691][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_roughness_Mat] ([1] browsable assets)...
+[2026.03.08-19.00.18:691][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_roughness_Mat]
+[2026.03.08-19.00.18:697][262]LogSavePackage: Moving output files for package: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_roughness_Mat
+[2026.03.08-19.00.18:697][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_Sci_Fi_Material6_roughness_Mat18F34D9D4CDB2AA072E8868AB61B9413.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_roughness_Mat.uasset'
+[2026.03.08-19.00.18:698][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_Emmisive_Mat] ([1] browsable assets)...
+[2026.03.08-19.00.18:698][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_Emmisive_Mat]
+[2026.03.08-19.00.18:706][262]LogSavePackage: Moving output files for package: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_Emmisive_Mat
+[2026.03.08-19.00.18:706][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/T_Sci_Fi_Material1_Emmisive_Mat5A19B1554E39CBD92EE0D9B1092D88AD.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_Emmisive_Mat.uasset'
+[2026.03.08-19.00.18:707][262]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_0_Mat] ([1] browsable assets)...
+[2026.03.08-19.00.18:707][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_0_Mat]
+[2026.03.08-19.00.18:713][262]LogSavePackage: Moving output files for package: /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_0_Mat
+[2026.03.08-19.00.18:713][262]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/earth_animation_texture_0_Mat6A81C7994FBA61F83C10AC9FB32DA546.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_0_Mat.uasset'
+[2026.03.08-19.00.18:726][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.61 sec (total: 2.17 sec)
+[2026.03.08-19.00.18:769][262]LogContentValidation: Display: Starting to validate 39 assets
+[2026.03.08-19.00.18:769][262]LogContentValidation: Enabled validators:
+[2026.03.08-19.00.18:769][262]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.08-19.00.18:769][262]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.08-19.00.18:769][262]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.08-19.00.18:769][262]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.08-19.00.18:769][262]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.08-19.00.18:769][262]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.08-19.00.18:769][262]AssetCheck: /Game/SciFI_Lite_Assets/Textures/T_Hexagon_AmbientOcclusion_Mat Validating asset
+[2026.03.08-19.00.18:769][262]AssetCheck: /Game/SciFI_Lite_Assets/Textures/T_DefaultMaterial_Roughness_01_Mat Validating asset
+[2026.03.08-19.00.18:769][262]AssetCheck: /Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Curve_Mat Validating asset
+[2026.03.08-19.00.18:769][262]AssetCheck: /Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Displacement_Mat Validating asset
+[2026.03.08-19.00.18:769][262]AssetCheck: /Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_AO_Clean_Mat Validating asset
+[2026.03.08-19.00.18:769][262]AssetCheck: /Game/SciFi_Panels/Textures/Extra/T_4k_SciFi_Panels_Thickness_Mat Validating asset
+[2026.03.08-19.00.18:769][262]AssetCheck: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_roughness_Mat Validating asset
+[2026.03.08-19.00.18:769][262]AssetCheck: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_BaseColor Validating asset
+[2026.03.08-19.00.18:769][262]AssetCheck: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_Normal Validating asset
+[2026.03.08-19.00.18:769][262]AssetCheck: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_Metallic Validating asset
+[2026.03.08-19.00.18:769][262]AssetCheck: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Material_Roughness Validating asset
+[2026.03.08-19.00.18:769][262]AssetCheck: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/MI_Switch_GreenLed1 Validating asset
+[2026.03.08-19.00.18:769][262]AssetCheck: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/MI_Switch_RedLed2 Validating asset
+[2026.03.08-19.00.18:769][262]AssetCheck: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/NewMaterial Validating asset
+[2026.03.08-19.00.18:769][262]AssetCheck: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/NewMaterial_001 Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/LastExport Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Fab/Dirty_SciFi_Electrical_Lever_Switch/Opacity Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material5_roughness_Mat Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_height_Mat Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material7_roughness_Mat Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine_PhysicsAsset Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine_Skeleton Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_0 Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_1 Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_2 Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_4 Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_5 Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_6 Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_7 Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Fab/Washing_Machine/washing_machine/Materials/ground Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_3 Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_8 Validating asset
+[2026.03.08-19.00.18:770][262]AssetCheck: /Game/Fab/Washing_Machine/washing_machine/Materials/washmachine Validating asset
+[2026.03.08-19.00.18:771][262]AssetCheck: /Game/Fab/Washing_Machine/washing_machine/Materials/glass Validating asset
+[2026.03.08-19.00.18:771][262]AssetCheck: /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine Validating asset
+[2026.03.08-19.00.18:771][262]AssetCheck: /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine_Anim Validating asset
+[2026.03.08-19.00.18:771][262]AssetCheck: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material6_roughness_Mat Validating asset
+[2026.03.08-19.00.18:771][262]AssetCheck: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_Emmisive_Mat Validating asset
+[2026.03.08-19.00.18:771][262]AssetCheck: /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_0_Mat Validating asset
+[2026.03.08-19.00.18:788][262]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/karlk/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
