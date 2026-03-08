@@ -3268,3 +3268,4 @@ Sampler Limit: 32
 [2026.03.08-19.00.18:771][262]AssetCheck: /Game/Sci-FiMaterial/Textures/T_Sci_Fi_Material1_Emmisive_Mat Validating asset
 [2026.03.08-19.00.18:771][262]AssetCheck: /Game/Fab/Earth_Animation/earth_animation/Textures/earth_animation_texture_0_Mat Validating asset
 [2026.03.08-19.00.18:788][262]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/karlk/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.08-19.01.03:718][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
