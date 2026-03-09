@@ -2941,3 +2941,1013 @@ FPackageName: Skipped package /Game/Pack_Bonus/Textures/Tile_1/T_Pack_Bonus_Tile
 [2026.03.09-12.49.09:546][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.09-12.49.09:546][614]AssetCheck: /Game/Dimensions/LightVersion Validating asset
 [2026.03.09-12.49.28:927][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.09-12.52.04:849][845]LogStreaming: Display: FlushAsyncLoading(350): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-12.52.04:861][845]LogStaticMesh: Display: Building static mesh Sphere_31D75CAA (Required Memory Estimate: 4.785744 MB)...
+[2026.03.09-12.52.04:861][845]LogStaticMesh: Display: Building static mesh Sphere5_6EA56226 (Required Memory Estimate: 1.763812 MB)...
+[2026.03.09-12.52.04:861][845]LogStaticMesh: Display: Building static mesh Cylinder_ACB773CE (Required Memory Estimate: 0.109482 MB)...
+[2026.03.09-12.52.04:863][845]LogStaticMesh: Built static mesh [0.01s] /Game/Dimensions/_GENERATED/karlk/Cylinder_ACB773CE.Cylinder_ACB773CE
+[2026.03.09-12.52.04:865][845]LogStaticMesh: Built static mesh [0.01s] /Game/Dimensions/_GENERATED/karlk/Sphere5_6EA56226.Sphere5_6EA56226
+[2026.03.09-12.52.04:867][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.09-12.52.04:871][845]LogStaticMesh: Built static mesh [0.02s] /Game/Dimensions/_GENERATED/karlk/Sphere_31D75CAA.Sphere_31D75CAA
+[2026.03.09-12.52.05:000][845]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.03.09-12.52.05:009][845]LogSlate: Took 0.008509 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.03.09-12.52.07:121][845]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.09-12.52.07:572][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.09-12.52.07:587][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.09-12.52.07:602][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.09-12.52.07:617][845]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.09-12.52.11:661][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.03.09-12.52.11:663][ 20]LogStreaming: Display: FlushAsyncLoading(353): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-12.52.11:797][ 20]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.03.09-12.52.11:845][ 20]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.03.09-12.52.11:851][ 20]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.03.09-12.52.11:857][ 20]LogDeviceProfileManager: Going up to parent DeviceProfile [AppleTV]
+[2026.03.09-12.52.11:857][ 20]LogDeviceProfileManager: Going up to parent DeviceProfile [IOS]
+[2026.03.09-12.52.11:857][ 20]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.03.09-12.52.11:864][ 20]LogDeviceProfileManager: Display: Deviceprofile None not found.
+[2026.03.09-12.52.11:867][ 20]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Dimensions\DarkVersion.umap: Failed to compile Material Instance with Base Floor for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.09-12.52.11:868][ 20]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Dimensions\DarkVersion.umap: Failed to compile Material Instance with Base Floor for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.09-12.52.11:869][ 20]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.09-12.52.11:872][ 20]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/DarkVersion.DarkVersion
+[2026.03.09-12.52.11:872][ 20]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.09-12.52.11:912][ 20]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-12.52.11:912][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-12.52.11:926][ 20]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.09-12.52.11:935][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.09-12.52.11:940][ 20]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-12.52.11:940][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-12.52.11:958][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.03.09-12.52.11:972][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.09-12.52.11:981][ 20]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Dimensions\DarkVersion.umap: Failed to compile Material Instance with Base Floor for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.09-12.52.11:982][ 20]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Dimensions\DarkVersion.umap: Failed to compile Material Instance with Base Floor for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.09-12.52.11:983][ 20]LogAudio: Display: Audio Device (ID: 1) registered with world 'DarkVersion'.
+[2026.03.09-12.52.11:983][ 20]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.09-12.52.12:038][ 20]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.09-12.52.12:052][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.09-12.52.12:065][ 20]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.09-12.52.12:065][ 20]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.049ms to complete.
+[2026.03.09-12.52.12:199][ 22]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.09-12.52.17:676][ 57]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: b64...2c7
+[2026.03.09-12.52.17:676][ 57]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.96 RefreshExpires: 1.554e+07
+[2026.03.09-12.52.18:241][ 60]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: b64...2c7 Access[Expires: 2026.03.09-14.52.17 Remaining: 7199.94] Refresh[Expires: 2026-09-05T10:53:57.191Z Remaining: 15544899.19] State: Valid
+[2026.03.09-12.52.19:485][ 67]Cmd: SELECT NONE
+[2026.03.09-12.52.36:383][144]LogStreaming: Display: FlushAsyncLoading(355): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-12.52.36:435][144]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.09-12.52.36:502][144]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.09-12.52.44:846][780]LogContentBrowser: Attempting asset rename: LightVersion -> Dark
+[2026.03.09-12.52.44:983][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-12.52.45:033][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.03.09-12.52.45:194][780]LogSavePackage: Moving output files for package: /Game/Dimensions/_GENERATED/karlk/Dark
+[2026.03.09-12.52.45:194][780]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Dark207A7F1F46B535A7E28987B629A6F306.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/_GENERATED/karlk/Dark.umap'
+[2026.03.09-12.52.45:225][780]LogFileHelpers: Saving map 'Dark' took 0.242
+[2026.03.09-12.52.45:225][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 242.333 ms (total: 1.73 sec)
+[2026.03.09-12.52.45:255][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.03.09-12.52.45:273][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.09-12.52.45:290][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.09-12.52.45:362][780]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-12.52.45:362][780]LogContentValidation: Enabled validators:
+[2026.03.09-12.52.45:362][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-12.52.45:362][780]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-12.52.45:362][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-12.52.45:362][780]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-12.52.45:362][780]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-12.52.45:362][780]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-12.52.45:363][780]AssetCheck: /Game/Dimensions/_GENERATED/karlk/Dark Validating asset
+[2026.03.09-12.52.45:417][780]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.09-12.52.52:761][372]LogObjectTools: Deleting 1 worlds: /Game/Dimensions/DarkVersion.DarkVersion
+[2026.03.09-12.52.52:761][372]LogObjectTools: Currently 10 active worlds: /Game/Dimensions/DarkVersion.DarkVersion, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_14
+[2026.03.09-12.52.54:171][372]LogSlate: Window 'Unable to delete level' being destroyed
+[2026.03.09-12.52.54:183][372]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2026.03.09-12.52.55:787][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.09-12.52.55:790][494]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.03.09-12.52.55:791][494]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.09-12.52.55:823][494]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-12.52.55:823][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-12.52.55:841][494]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.09-12.52.55:843][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.03.09-12.52.55:846][494]LogWorld: UWorld::CleanupWorld for Dark, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-12.52.55:848][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-12.52.55:850][494]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-12.52.55:852][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-12.52.55:883][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.09-12.52.55:985][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.03.09-12.52.55:986][494]LogStreaming: Display: FlushAsyncLoading(356): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-12.52.56:026][494]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.03.09-12.52.56:026][494]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.09-12.52.56:109][494]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.09-12.52.56:135][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.09-12.52.56:148][494]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.09-12.52.56:148][494]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2026.03.09-12.52.56:562][496]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.09-12.53.00:523][653]LogStreaming: Display: FlushAsyncLoading(357): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-12.53.00:533][653]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Dimensions\DarkVersion.umap: Failed to compile Material Instance with Base Floor for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.09-12.53.00:534][653]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Dimensions\DarkVersion.umap: Failed to compile Material Instance with Base Floor for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.09-12.53.00:534][653]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.09-12.53.00:537][653]LogObjectTools: Deleting 1 worlds: /Game/Dimensions/DarkVersion.DarkVersion
+[2026.03.09-12.53.00:537][653]LogObjectTools: Currently 10 active worlds: /Game/Dimensions/LightVersion.LightVersion, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_14
+[2026.03.09-12.53.00:555][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.03.09-12.53.03:336][653]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.09-12.53.03:390][653]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Dimensions/DarkVersion.DarkVersion
+	Asset Type: World
+[2026.03.09-12.53.03:514][653]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-12.53.03:514][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-12.53.03:668][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.09-12.53.03:687][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.03.09-12.53.03:704][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.03.09-12.53.03:718][653]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.09-12.53.11:676][979]LogContentBrowser: Attempting asset rename: Dark -> DarkVersion
+[2026.03.09-12.53.11:676][979]LogStreaming: Display: FlushAsyncLoading(358): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-12.53.11:718][979]LogChaosDD: Creating Chaos Debug Draw Scene for world Dark
+[2026.03.09-12.53.11:839][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-12.53.11:887][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.03.09-12.53.12:048][979]LogSavePackage: Moving output files for package: /Game/Dimensions/_GENERATED/karlk/DarkVersion
+[2026.03.09-12.53.12:048][979]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/DarkVersion6759D1E14E078990B2DC07BA36463836.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/_GENERATED/karlk/DarkVersion.umap'
+[2026.03.09-12.53.12:080][979]LogFileHelpers: Saving map 'DarkVersion' took 0.241
+[2026.03.09-12.53.12:080][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 240.887 ms (total: 1.98 sec)
+[2026.03.09-12.53.12:111][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.03.09-12.53.12:127][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.03.09-12.53.12:144][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.09-12.53.12:209][979]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-12.53.12:209][979]LogContentValidation: Enabled validators:
+[2026.03.09-12.53.12:209][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-12.53.12:209][979]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-12.53.12:209][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-12.53.12:209][979]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-12.53.12:209][979]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-12.53.12:209][979]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-12.53.12:209][979]AssetCheck: /Game/Dimensions/_GENERATED/karlk/DarkVersion Validating asset
+[2026.03.09-12.53.12:296][979]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.09-12.53.15:408][112]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.09-12.53.15:418][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.09-12.53.15:418][112]LogStreaming: Display: FlushAsyncLoading(359): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-12.53.15:419][112]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.09-12.53.15:482][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062130s)
+[2026.03.09-12.53.15:482][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.062167s)
+[2026.03.09-12.53.15:500][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.03.09-12.53.15:502][112]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.09-12.53.15:504][112]LogPlayLevel: PIE: World Init took: (0.001574s)
+[2026.03.09-12.53.15:505][112]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.03.09-12.53.15:505][112]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.09-12.53.15:505][112]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.09-12.53.15:505][112]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.09-12.53.15:505][112]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.09-12.53.15:505][112]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.09-12.53.15:505][112]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.09-12.53.15:505][112]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.09-12.53.15:505][112]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.09-12.53.15:505][112]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.09-12.53.15:505][112]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.09-12.53.15:505][112]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.09-12.53.15:506][112]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.09-12.53.15:535][112]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.09-12.53.15:535][112]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.09-12.53.15:535][112]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.09-12.53.15:535][112]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.09-12.53.15:536][112]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.03.09-12.53.15:536][112]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.03.09-12.53.15:538][112]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.03.09-12.53.15:538][112]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.03.09-12.53.15:538][112]LogInit: FAudioDevice initialized with ID 3.
+[2026.03.09-12.53.15:538][112]LogAudio: Display: Audio Device (ID: 3) registered with world 'LightVersion'.
+[2026.03.09-12.53.15:538][112]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.03.09-12.53.15:543][112]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.09-12.53.15:572][112]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.03.09-12.53.15
+[2026.03.09-12.53.15:573][112]LogWorld: Bringing up level for play took: 0.029691
+[2026.03.09-12.53.15:575][112]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.03.09-12.53.15:581][112]PIE: Server logged in
+[2026.03.09-12.53.15:583][112]PIE: Play in editor total start time 0.165 seconds.
+[2026.03.09-12.53.15:714][113]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.09-12.53.18:445][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-12.53.18:445][152]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.09-12.53.18:446][152]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-12.53.18:451][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-12.53.18:917][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.09-12.53.18:920][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-12.53.18:937][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.09-12.53.18:938][152]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.03.09-12.53.18:938][152]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.03.09-12.53.18:940][152]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.03.09-12.53.18:943][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-12.53.18:949][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.03.09-12.53.19:451][153]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.03.09-12.53.28:583][409]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.09-12.53.31:938][524]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.09-12.53.35:775][714]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.09-12.53.37:530][819]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.09-12.53.38:716][888]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.09-12.53.38:725][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.09-12.53.38:747][888]LogStreaming: Display: FlushAsyncLoading(361): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-12.53.38:747][888]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.09-12.53.38:809][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061848s)
+[2026.03.09-12.53.38:809][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.061889s)
+[2026.03.09-12.53.38:825][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.03.09-12.53.38:827][888]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.09-12.53.38:829][888]LogPlayLevel: PIE: World Init took: (0.001525s)
+[2026.03.09-12.53.38:829][888]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.03.09-12.53.38:829][888]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.09-12.53.38:829][888]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.09-12.53.38:829][888]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.09-12.53.38:829][888]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.09-12.53.38:829][888]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.09-12.53.38:829][888]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.09-12.53.38:829][888]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.09-12.53.38:829][888]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.09-12.53.38:829][888]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.09-12.53.38:829][888]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.09-12.53.38:829][888]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.09-12.53.38:831][888]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.09-12.53.38:856][888]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.09-12.53.38:856][888]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.09-12.53.38:856][888]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.09-12.53.38:856][888]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.09-12.53.38:856][888]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.03.09-12.53.38:856][888]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.03.09-12.53.38:859][888]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.03.09-12.53.38:859][888]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.03.09-12.53.38:859][888]LogInit: FAudioDevice initialized with ID 4.
+[2026.03.09-12.53.38:859][888]LogAudio: Display: Audio Device (ID: 4) registered with world 'LightVersion'.
+[2026.03.09-12.53.38:859][888]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.03.09-12.53.38:864][888]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.09-12.53.38:892][888]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.03.09-12.53.38
+[2026.03.09-12.53.38:893][888]LogWorld: Bringing up level for play took: 0.029354
+[2026.03.09-12.53.38:895][888]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.03.09-12.53.38:901][888]PIE: Server logged in
+[2026.03.09-12.53.38:903][888]PIE: Play in editor total start time 0.178 seconds.
+[2026.03.09-12.53.38:989][889]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.09-12.53.42:376][986]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/_GENERATED/karlk/DarkVersion"
+[2026.03.09-12.53.42:376][986]LogNet: Browse: /Game/Dimensions/_GENERATED/karlk/DarkVersion
+[2026.03.09-12.53.42:376][986]LogLoad: LoadMap: /Game/Dimensions/_GENERATED/karlk/DarkVersion
+[2026.03.09-12.53.42:376][986]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.09-12.53.42:378][986]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-12.53.42:382][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-12.53.42:403][986]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.09-12.53.42:409][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.09-12.53.42:431][986]LogPlayLevel: Creating play world package: /Game/Dimensions/_GENERATED/karlk/UEDPIE_0_DarkVersion
+[2026.03.09-12.53.42:491][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060867s)
+[2026.03.09-12.53.42:491][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/_GENERATED/karlk/DarkVersion.DarkVersion to /Game/Dimensions/_GENERATED/karlk/UEDPIE_0_DarkVersion.DarkVersion (0.060924s)
+[2026.03.09-12.53.42:491][986]LogAudio: Display: Audio Device (ID: 4) registered with world 'DarkVersion'.
+[2026.03.09-12.53.42:491][986]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.09-12.53.42:493][986]LogPlayLevel: PIE: World Init took: (0.001604s)
+[2026.03.09-12.53.42:493][986]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.09-12.53.42:521][986]LogWorld: Bringing World /Game/Dimensions/_GENERATED/karlk/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.03.09-12.53.42
+[2026.03.09-12.53.42:522][986]LogWorld: Bringing up level for play took: 0.028867
+[2026.03.09-12.53.42:528][986]LogLoad: Took 0.151724 seconds to LoadMap(/Game/Dimensions/_GENERATED/karlk/UEDPIE_0_DarkVersion)
+[2026.03.09-12.53.42:528][986]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/_GENERATED/karlk/UEDPIE_0_DarkVersion
+[2026.03.09-12.53.42:559][986]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.09-12.53.45:367][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-12.53.45:367][ 37]LogWorld: BeginTearingDown for /Game/Dimensions/_GENERATED/karlk/UEDPIE_0_DarkVersion
+[2026.03.09-12.53.45:367][ 37]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-12.53.45:372][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-12.53.45:991][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.09-12.53.45:992][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-12.53.46:008][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-12.53.46:010][ 37]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.03.09-12.53.46:010][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.03.09-12.53.46:011][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.03.09-12.53.46:020][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.09-12.53.46:664][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.03.09-12.54.19:388][ 76]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7231.686035
+[2026.03.09-12.54.19:581][ 83]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-12.54.19:581][ 83]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7231.851074, Update Interval: 325.794861
+[2026.03.09-12.54.34:520][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-12.54.34:576][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.03.09-12.54.34:735][616]LogSavePackage: Moving output files for package: /Game/Dimensions/DarkVersion
+[2026.03.09-12.54.34:735][616]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/DarkVersion2992CD254CAA19023F3951B609280BE0.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap'
+[2026.03.09-12.54.34:765][616]LogFileHelpers: Saving map 'DarkVersion' took 0.246
+[2026.03.09-12.54.34:765][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 246.048 ms (total: 2.22 sec)
+[2026.03.09-12.54.34:800][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.09-12.54.34:818][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.09-12.54.34:835][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.03.09-12.54.34:876][616]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.09-12.54.34:876][616]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-12.54.34:876][616]LogContentValidation: Enabled validators:
+[2026.03.09-12.54.34:876][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-12.54.34:876][616]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-12.54.34:876][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-12.54.34:876][616]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-12.54.34:876][616]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-12.54.34:876][616]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-12.54.34:876][616]AssetCheck: /Game/Dimensions/DarkVersion Validating asset
+[2026.03.09-12.54.40:311][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.03.09-12.54.41:626][817]LogSlate: Window 'Save Content' being destroyed
+[2026.03.09-12.54.41:640][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-12.54.41:726][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.09-12.54.41:872][817]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.03.09-12.54.41:872][817]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion83FD77B0440906EA2488F2B709636511.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.03.09-12.54.41:889][817]LogFileHelpers: Saving map 'LightVersion' took 0.204
+[2026.03.09-12.54.41:949][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 308.235 ms (total: 2.53 sec)
+[2026.03.09-12.54.41:949][817]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/DarkVersion.DarkVersion
+[2026.03.09-12.54.41:949][817]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.09-12.54.41:987][817]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-12.54.41:987][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-12.54.42:004][817]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.09-12.54.42:013][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.03.09-12.54.42:016][817]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-12.54.42:017][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-12.54.42:041][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.03.09-12.54.42:059][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.03.09-12.54.42:060][817]LogStreaming: Display: FlushAsyncLoading(362): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-12.54.42:100][817]LogAudio: Display: Audio Device (ID: 1) registered with world 'DarkVersion'.
+[2026.03.09-12.54.42:100][817]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.09-12.54.42:187][817]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.09-12.54.42:213][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.03.09-12.54.42:225][817]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.09-12.54.42:225][817]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2026.03.09-12.54.42:317][817]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-12.54.42:317][817]LogContentValidation: Enabled validators:
+[2026.03.09-12.54.42:317][817]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-12.54.42:317][817]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-12.54.42:317][817]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-12.54.42:317][817]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-12.54.42:317][817]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-12.54.42:317][817]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-12.54.42:656][819]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.09-12.55.30:021][277]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.09-12.55.38:208][530]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.09-12.55.40:327][621]LogDerivedDataCache: C:/Users/N00235865/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.09-12.57.02:435][ 48]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.TSR.ReprojectionField:0]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2026.03.09-12.57.02:435][ 48]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2026.03.09-12.57.02:508][ 48]LogConsoleManager: Warning: Setting the console variable 'r.HeterogeneousVolumes' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2026.03.09-12.57.02:508][ 48]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2026.03.09-12.57.02:508][ 48]LogConfig: Applying CVar settings from Section [LandscapeQuality@1] File [Scalability]
+[2026.03.09-12.57.02:570][ 48]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFI_Lite_Assets\Materials\MaterialFunctions\MF_TriplanarMapping.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Preview connection for function input 'Texture'
+
+[2026.03.09-12.57.02:571][ 48]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\MyMaterials\Floor.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.09-12.57.02:571][ 48]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.09-12.57.02:590][ 48]LogContentStreaming: Texture pool size now 600 MB
+[2026.03.09-12.57.02:590][ 48]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="600"
+[2026.03.09-12.57.02:610][ 48]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2026.03.09-12.57.24:347][945]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2026.03.09-12.57.24:347][945]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.TSR.ReprojectionField:1]]
+[2026.03.09-12.57.24:347][945]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2026.03.09-12.57.24:347][945]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2026.03.09-12.57.24:347][945]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2026.03.09-12.57.24:397][945]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2026.03.09-12.57.24:397][945]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2026.03.09-12.57.24:397][945]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2026.03.09-12.57.24:397][945]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2026.03.09-12.57.24:397][945]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2026.03.09-12.57.24:397][945]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2026.03.09-12.57.24:397][945]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2026.03.09-12.57.24:397][945]LogConfig: Applying CVar settings from Section [LandscapeQuality@2] File [Scalability]
+[2026.03.09-12.57.24:431][945]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFI_Lite_Assets\Materials\MaterialFunctions\MF_TriplanarMapping.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Preview connection for function input 'Texture'
+
+[2026.03.09-12.57.24:432][945]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\MyMaterials\Floor.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.09-12.57.24:433][945]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.09-12.57.24:468][946]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2026.03.09-12.57.24:839][951]LogContentStreaming: Texture pool size now 800 MB
+[2026.03.09-12.57.24:839][951]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="800"
+[2026.03.09-12.59.48:605][444]LogStreaming: Display: FlushAsyncLoading(363): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-13.00.39:406][468]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7611.710449
+[2026.03.09-13.00.39:582][482]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-13.00.39:582][482]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7611.874023, Update Interval: 328.812531
+[2026.03.09-13.01.26:513][420]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2026.03.09-13.01.26:513][420]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.TSR.ReprojectionField:0]]
+[2026.03.09-13.01.26:513][420]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2026.03.09-13.01.26:513][420]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2026.03.09-13.01.26:513][420]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2026.03.09-13.01.26:550][420]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2026.03.09-13.01.26:550][420]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2026.03.09-13.01.26:550][420]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2026.03.09-13.01.26:550][420]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2026.03.09-13.01.26:550][420]LogConsoleManager: Warning: Setting the console variable 'r.HeterogeneousVolumes' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2026.03.09-13.01.26:550][420]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2026.03.09-13.01.26:550][420]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2026.03.09-13.01.26:550][420]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2026.03.09-13.01.26:550][420]LogConfig: Applying CVar settings from Section [LandscapeQuality@1] File [Scalability]
+[2026.03.09-13.01.26:588][420]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFI_Lite_Assets\Materials\MaterialFunctions\MF_TriplanarMapping.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Preview connection for function input 'Texture'
+
+[2026.03.09-13.01.26:589][420]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\MyMaterials\Floor.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.09-13.01.26:589][420]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.09-13.01.26:610][420]LogContentStreaming: Texture pool size now 600 MB
+[2026.03.09-13.01.26:610][420]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="600"
+[2026.03.09-13.01.26:627][420]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2026.03.09-13.01.40:254][741]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2026.03.09-13.01.40:254][741]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.TSR.ReprojectionField:1]]
+[2026.03.09-13.01.40:254][741]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2026.03.09-13.01.40:254][741]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2026.03.09-13.01.40:254][741]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2026.03.09-13.01.40:284][741]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2026.03.09-13.01.40:284][741]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2026.03.09-13.01.40:284][741]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2026.03.09-13.01.40:284][741]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2026.03.09-13.01.40:284][741]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2026.03.09-13.01.40:284][741]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2026.03.09-13.01.40:284][741]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2026.03.09-13.01.40:284][741]LogConfig: Applying CVar settings from Section [LandscapeQuality@2] File [Scalability]
+[2026.03.09-13.01.40:323][741]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFI_Lite_Assets\Materials\MaterialFunctions\MF_TriplanarMapping.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Preview connection for function input 'Texture'
+
+[2026.03.09-13.01.40:324][741]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\MyMaterials\Floor.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.09-13.01.40:324][741]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.09-13.01.40:361][742]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2026.03.09-13.01.40:506][743]LogContentStreaming: Texture pool size now 800 MB
+[2026.03.09-13.01.40:506][743]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="800"
+[2026.03.09-13.04.40:512][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.03.09-13.04.40:678][656]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/DarkVersion_Auto8
+[2026.03.09-13.04.40:678][656]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/DarkVersion_Auto8B41242A4475B40ED58EAF68D6B8482C8.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Dimensions/DarkVersion_Auto8.umap'
+[2026.03.09-13.04.40:679][656]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/DarkVersion' took 0.190
+[2026.03.09-13.04.40:679][656]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.190
+[2026.03.09-13.07.05:347][121]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7997.671875
+[2026.03.09-13.07.05:516][133]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-13.07.05:516][133]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7997.826660, Update Interval: 331.941895
+[2026.03.09-13.07.57:143][462]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2026.03.09-13.07.57:143][462]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.TSR.ReprojectionField:0]]
+[2026.03.09-13.07.57:143][462]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0.5]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2026.03.09-13.07.57:143][462]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2026.03.09-13.07.57:143][462]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2026.03.09-13.07.57:210][462]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2026.03.09-13.07.57:210][462]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2026.03.09-13.07.57:210][462]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2026.03.09-13.07.57:210][462]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2026.03.09-13.07.57:210][462]LogConsoleManager: Warning: Setting the console variable 'r.HeterogeneousVolumes' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '0'
+[2026.03.09-13.07.57:210][462]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2026.03.09-13.07.57:210][462]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2026.03.09-13.07.57:210][462]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2026.03.09-13.07.57:210][462]LogConfig: Applying CVar settings from Section [LandscapeQuality@1] File [Scalability]
+[2026.03.09-13.07.57:244][462]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFI_Lite_Assets\Materials\MaterialFunctions\MF_TriplanarMapping.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Preview connection for function input 'Texture'
+
+[2026.03.09-13.07.57:245][462]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\MyMaterials\Floor.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.09-13.07.57:245][462]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.09-13.07.57:265][462]LogContentStreaming: Texture pool size now 600 MB
+[2026.03.09-13.07.57:265][462]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="600"
+[2026.03.09-13.07.57:283][462]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2026.03.09-13.08.03:406][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.09-13.08.05:445][726]LogSlate: Window 'Save Content' being destroyed
+[2026.03.09-13.08.05:456][726]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-13.08.05:572][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.03.09-13.08.05:737][726]LogSavePackage: Moving output files for package: /Game/Dimensions/DarkVersion
+[2026.03.09-13.08.05:737][726]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/DarkVersionE23E741A487ABD8D283AFA9553F31970.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap'
+[2026.03.09-13.08.05:755][726]LogFileHelpers: Saving map 'DarkVersion' took 0.228
+[2026.03.09-13.08.05:822][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 367.471 ms (total: 2.90 sec)
+[2026.03.09-13.08.05:822][726]LogStreaming: Display: FlushAsyncLoading(364): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-13.08.05:863][726]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.09-13.08.05:889][726]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.03.09-13.08.05:890][726]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.09-13.08.05:931][726]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-13.08.05:931][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-13.08.05:967][726]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.09-13.08.05:973][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.09-13.08.05:977][726]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-13.08.05:979][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-13.08.06:001][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.03.09-13.08.06:018][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.03.09-13.08.06:061][726]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.03.09-13.08.06:061][726]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.09-13.08.06:160][726]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.09-13.08.06:185][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.09-13.08.06:200][726]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.09-13.08.06:200][726]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2026.03.09-13.08.06:289][726]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-13.08.06:289][726]LogContentValidation: Enabled validators:
+[2026.03.09-13.08.06:289][726]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-13.08.06:289][726]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-13.08.06:289][726]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-13.08.06:289][726]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-13.08.06:289][726]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-13.08.06:289][726]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-13.08.18:640][535]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.09-13.08.18:650][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.09-13.08.18:674][535]LogStreaming: Display: FlushAsyncLoading(366): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-13.08.18:674][535]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.09-13.08.18:736][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061886s)
+[2026.03.09-13.08.18:736][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.061925s)
+[2026.03.09-13.08.18:753][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.03.09-13.08.18:757][535]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.09-13.08.18:759][535]LogPlayLevel: PIE: World Init took: (0.001537s)
+[2026.03.09-13.08.18:759][535]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.03.09-13.08.18:759][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.09-13.08.18:759][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.09-13.08.18:759][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.09-13.08.18:759][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.09-13.08.18:759][535]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.09-13.08.18:759][535]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.09-13.08.18:759][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.09-13.08.18:759][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.09-13.08.18:759][535]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.09-13.08.18:759][535]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.09-13.08.18:759][535]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.09-13.08.18:761][535]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.09-13.08.18:792][535]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.09-13.08.18:793][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.09-13.08.18:793][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.09-13.08.18:793][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.09-13.08.18:793][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.03.09-13.08.18:793][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.03.09-13.08.18:795][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.03.09-13.08.18:795][535]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.03.09-13.08.18:795][535]LogInit: FAudioDevice initialized with ID 5.
+[2026.03.09-13.08.18:795][535]LogAudio: Display: Audio Device (ID: 5) registered with world 'LightVersion'.
+[2026.03.09-13.08.18:795][535]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.03.09-13.08.18:800][535]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.09-13.08.18:829][535]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.03.09-13.08.18
+[2026.03.09-13.08.18:830][535]LogWorld: Bringing up level for play took: 0.029546
+[2026.03.09-13.08.18:833][535]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.03.09-13.08.18:839][535]PIE: Server logged in
+[2026.03.09-13.08.18:841][535]PIE: Play in editor total start time 0.191 seconds.
+[2026.03.09-13.08.19:654][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-13.08.19:654][623]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.09-13.08.19:655][623]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-13.08.19:661][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-13.08.19:663][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.09-13.08.19:665][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-13.08.19:686][623]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.09-13.08.19:686][623]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.03.09-13.08.19:686][623]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.03.09-13.08.19:688][623]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.03.09-13.08.19:692][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-13.08.19:698][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.09-13.08.19:727][624]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.03.09-13.12.17:078][ 43]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2026.03.09-13.12.17:078][ 43]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2026.03.09-13.12.17:081][ 43]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.DirectionalLight_1
+[2026.03.09-13.12.17:081][ 43]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.DirectionalLight_1
+[2026.03.09-13.12.36:016][900]Cmd: DELETE
+[2026.03.09-13.12.36:016][900]Cmd: ACTOR DELETE
+[2026.03.09-13.12.36:025][900]LogEditorActor: Deleted Actor: DirectionalLight
+[2026.03.09-13.12.36:047][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.03.09-13.12.36:053][900]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.03.09-13.13.10:965][934]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8363.244141
+[2026.03.09-13.13.11:179][945]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-13.13.11:179][945]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8363.440430, Update Interval: 359.089935
+[2026.03.09-13.13.22:441][724]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2026.03.09-13.13.22:441][724]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.TSR.ReprojectionField:1]]
+[2026.03.09-13.13.22:441][724]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2026.03.09-13.13.22:441][724]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2026.03.09-13.13.22:441][724]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2026.03.09-13.13.22:457][724]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2026.03.09-13.13.22:457][724]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2026.03.09-13.13.22:457][724]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2026.03.09-13.13.22:457][724]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2026.03.09-13.13.22:457][724]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2026.03.09-13.13.22:457][724]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2026.03.09-13.13.22:457][724]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2026.03.09-13.13.22:457][724]LogConfig: Applying CVar settings from Section [LandscapeQuality@2] File [Scalability]
+[2026.03.09-13.13.22:497][724]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\SciFI_Lite_Assets\Materials\MaterialFunctions\MF_TriplanarMapping.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing Preview connection for function input 'Texture'
+
+[2026.03.09-13.13.22:498][724]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\MyMaterials\Floor.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2026.03.09-13.13.22:498][724]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.03.09-13.13.22:535][725]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2026.03.09-13.13.22:567][725]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.09-13.13.22:739][727]LogContentStreaming: Texture pool size now 800 MB
+[2026.03.09-13.13.22:739][727]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="800"
+[2026.03.09-13.14.58:953][ 17]LogStreaming: Display: FlushAsyncLoading(368): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-13.14.58:995][ 17]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.09-13.14.59:020][ 17]LogObjectTools: Deleting 1 worlds: /Game/Dimensions/DarkVersion.DarkVersion
+[2026.03.09-13.14.59:020][ 17]LogObjectTools: Currently 10 active worlds: /Game/Dimensions/LightVersion.LightVersion, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_14
+[2026.03.09-13.14.59:054][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.03.09-13.15.00:410][ 17]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.09-13.15.00:423][ 17]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-13.15.00:425][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-13.15.00:457][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.03.09-13.15.00:472][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.09-13.15.00:485][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.03.09-13.15.47:721][404]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.09-13.15.47:721][404]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.09-13.15.47:723][404]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_109
+[2026.03.09-13.15.47:724][404]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_109
+[2026.03.09-13.17.23:970][352]Cmd: EDIT COPY
+[2026.03.09-13.17.25:087][417]Cmd: EDIT PASTE
+[2026.03.09-13.18.18:594][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.09-13.18.18:758][558]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto9
+[2026.03.09-13.18.18:759][558]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion_Auto931415B834838B22B3EB727B78ADD216E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Dimensions/LightVersion_Auto9.umap'
+[2026.03.09-13.18.18:761][558]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.185
+[2026.03.09-13.18.18:761][558]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.185
+[2026.03.09-13.20.00:726][802]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8773.060547
+[2026.03.09-13.20.00:915][811]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-13.20.00:915][811]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8773.228516, Update Interval: 349.969177
+[2026.03.09-13.20.36:902][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-13.20.37:004][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.09-13.20.37:166][806]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.03.09-13.20.37:167][806]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersionBEC78D4549B8728775CC3D9ECE5E63E5.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.03.09-13.20.37:184][806]LogFileHelpers: Saving map 'LightVersion' took 0.229
+[2026.03.09-13.20.37:219][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 317.165 ms (total: 3.21 sec)
+[2026.03.09-13.20.37:283][806]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-13.20.37:283][806]LogContentValidation: Enabled validators:
+[2026.03.09-13.20.37:283][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-13.20.37:283][806]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-13.20.37:283][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-13.20.37:283][806]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-13.20.37:283][806]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-13.20.37:283][806]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-13.20.37:284][806]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.03.09-13.20.39:209][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
