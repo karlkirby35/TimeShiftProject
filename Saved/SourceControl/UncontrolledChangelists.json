@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Epic Games/UE_5.6/Engine/Content/BasicShapes/Sphere.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap",
+				"C:/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/SciFI_Lite_Assets/Materials/MasterMaterials/MM_Emissive.uasset",
 				"C:/Users/karlk/TimeShiftProject/Content/Dimensions/LightVersion.umap",
 				"C:/Users/karlk/TimeShiftProject/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Stars_Far_Blue_Mat.uasset",
 				"C:/Users/karlk/TimeShiftProject/Content/glass.uasset",
@@ -130,8 +134,6 @@
 				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Maps/HDRI_Example_Map_BuiltData.uasset",
 				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Maps/Overview.umap",
 				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Maps/Overview_BuiltData.uasset",
-				"C:/Epic Games/UE_5.6/Engine/Content/BasicShapes/Sphere.uasset",
-				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap",
 				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/GoodSky/Resource/UI/WB_GoodSky_Menu.uasset",
 				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/GoodSky/Resource/Textures/T_GoodSky_clouds_A.uasset",
 				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/GoodSky/Resource/Textures/T_GoodSky_clouds_B.uasset",
@@ -181,8 +183,7 @@
 				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/GoodSky/Resource/ArrowTool/SM_GoodSky_StarMesh.uasset",
 				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/GoodSky/Resource/ArrowTool/T_GoodSky_SkyRing.uasset",
 				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/GoodSky/Maps/Level_GoodSky_Showcase.umap",
-				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/GoodSky/Blueprint/BP_GoodSky.uasset",
-				"C:/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+				"C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/GoodSky/Blueprint/BP_GoodSky.uasset"
 			]
 		}
 	]
