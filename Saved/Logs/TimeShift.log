@@ -6686,3 +6686,789 @@ FPackageName: Skipped package /Game/Pack_Bonus/Textures/Tile_1/T_Pack_Bonus_Tile
 [2026.03.09-14.43.09:364][326]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.09-14.43.09:365][326]AssetCheck: /Game/Dimensions/DarkVersion Validating asset
 [2026.03.09-14.43.11:075][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.09-14.43.36:290][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.03.09-14.43.36:292][927]LogStreaming: Display: FlushAsyncLoading(387): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-14.43.36:333][927]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.09-14.43.36:361][927]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.03.09-14.43.36:361][927]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.09-14.43.36:404][927]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-14.43.36:405][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-14.43.36:440][927]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.09-14.43.36:447][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.03.09-14.43.36:451][927]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-14.43.36:453][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-14.43.36:475][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.09-14.43.36:565][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.03.09-14.43.36:606][927]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.03.09-14.43.36:606][927]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.09-14.43.36:690][927]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.09-14.43.36:717][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.03.09-14.43.36:730][927]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.09-14.43.36:730][927]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2026.03.09-14.44.24:007][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.09-14.44.24:013][ 64]LogStreaming: Display: FlushAsyncLoading(389): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-14.44.24:054][ 64]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.09-14.44.24:080][ 64]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/DarkVersion.DarkVersion
+[2026.03.09-14.44.24:081][ 64]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.09-14.44.24:121][ 64]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-14.44.24:122][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-14.44.24:152][ 64]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.09-14.44.24:160][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.09-14.44.24:163][ 64]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-14.44.24:166][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-14.44.24:187][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.09-14.44.24:268][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.03.09-14.44.24:309][ 64]LogAudio: Display: Audio Device (ID: 1) registered with world 'DarkVersion'.
+[2026.03.09-14.44.24:309][ 64]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.09-14.44.24:394][ 64]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.09-14.44.24:419][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.03.09-14.44.24:432][ 64]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.09-14.44.24:432][ 64]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2026.03.09-14.45.46:812][261]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.09-14.45.46:820][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.09-14.45.46:820][261]LogStreaming: Display: FlushAsyncLoading(391): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-14.45.46:821][261]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.09-14.45.46:883][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061113s)
+[2026.03.09-14.45.46:883][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.061153s)
+[2026.03.09-14.45.46:899][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.09-14.45.46:902][261]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.09-14.45.46:904][261]LogPlayLevel: PIE: World Init took: (0.001516s)
+[2026.03.09-14.45.46:905][261]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.03.09-14.45.46:905][261]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.09-14.45.46:905][261]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.09-14.45.46:905][261]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.09-14.45.46:905][261]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.09-14.45.46:905][261]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.09-14.45.46:905][261]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.09-14.45.46:905][261]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.09-14.45.46:905][261]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.09-14.45.46:905][261]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.09-14.45.46:905][261]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.09-14.45.46:905][261]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.09-14.45.46:908][261]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.09-14.45.46:934][261]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.09-14.45.46:934][261]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.09-14.45.46:934][261]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.09-14.45.46:934][261]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.09-14.45.46:934][261]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.03.09-14.45.46:934][261]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.03.09-14.45.46:937][261]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.03.09-14.45.46:937][261]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.03.09-14.45.46:937][261]LogInit: FAudioDevice initialized with ID 19.
+[2026.03.09-14.45.46:937][261]LogAudio: Display: Audio Device (ID: 19) registered with world 'DarkVersion'.
+[2026.03.09-14.45.46:937][261]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.03.09-14.45.46:941][261]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.09-14.45.46:970][261]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.03.09-14.45.46
+[2026.03.09-14.45.46:971][261]LogWorld: Bringing up level for play took: 0.029916
+[2026.03.09-14.45.46:973][261]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2026.03.09-14.45.46:980][261]PIE: Server logged in
+[2026.03.09-14.45.46:982][261]PIE: Play in editor total start time 0.161 seconds.
+[2026.03.09-14.45.49:668][458]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.03.09-14.45.49:668][458]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.03.09-14.45.49:668][458]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.03.09-14.45.49:668][458]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.09-14.45.49:669][458]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-14.45.49:675][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-14.45.49:717][458]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.09-14.45.49:724][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.09-14.45.49:727][458]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.09-14.45.49:788][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061029s)
+[2026.03.09-14.45.49:788][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.061079s)
+[2026.03.09-14.45.49:788][458]LogAudio: Display: Audio Device (ID: 19) registered with world 'DarkVersion'.
+[2026.03.09-14.45.49:788][458]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.09-14.45.49:790][458]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2026.03.09-14.45.49:790][458]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.09-14.45.49:817][458]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.03.09-14.45.49
+[2026.03.09-14.45.49:818][458]LogWorld: Bringing up level for play took: 0.028329
+[2026.03.09-14.45.49:823][458]LogLoad: Took 0.154445 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_DarkVersion)
+[2026.03.09-14.45.49:823][458]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.09-14.45.52:186][635]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.03.09-14.45.52:186][635]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.03.09-14.45.52:186][635]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.03.09-14.45.52:186][635]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.09-14.45.52:187][635]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-14.45.52:192][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-14.45.52:214][635]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.09-14.45.52:220][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.09-14.45.52:223][635]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.09-14.45.52:288][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064049s)
+[2026.03.09-14.45.52:288][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.064132s)
+[2026.03.09-14.45.52:288][635]LogAudio: Display: Audio Device (ID: 19) registered with world 'DarkVersion'.
+[2026.03.09-14.45.52:288][635]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.09-14.45.52:289][635]LogPlayLevel: PIE: World Init took: (0.001513s)
+[2026.03.09-14.45.52:290][635]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.09-14.45.52:318][635]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.03.09-14.45.52
+[2026.03.09-14.45.52:319][635]LogWorld: Bringing up level for play took: 0.029540
+[2026.03.09-14.45.52:324][635]LogLoad: Took 0.138449 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_DarkVersion)
+[2026.03.09-14.45.52:324][635]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.09-14.45.53:688][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-14.45.53:688][755]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.09-14.45.53:688][755]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-14.45.53:697][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-14.45.53:698][755]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.09-14.45.53:700][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-14.45.53:719][755]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-14.45.53:721][755]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.03.09-14.45.53:721][755]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.03.09-14.45.53:723][755]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.03.09-14.45.53:733][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.09-14.45.53:774][756]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2026.03.09-14.48.24:224][977]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14077.299805
+[2026.03.09-14.48.24:373][995]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-14.48.24:373][995]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14077.439453, Update Interval: 307.399506
+[2026.03.09-14.48.26:482][248]LogFab: Display: Asset Type = glb
+[2026.03.09-14.48.26:482][248]LogFab: Display: Is Quixel = 0
+[2026.03.09-14.48.27:799][348]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-14.48.28:002][348]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.09-14.48.28:002][348]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/86a4b9c9-031f-4f8b-87f5-226f54740d32/sculptjanuary2021-day-05-magic-gate_extracted/textures/rock gate baked.png]
+[2026.03.09-14.48.28:009][348]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.09-14.48.28:010][348]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/86a4b9c9-031f-4f8b-87f5-226f54740d32/sculptjanuary2021-day-05-magic-gate_extracted/source/Day 05 - Magic Gate optim1_extracted/Day 05 - Magic Gate optim2.fbx]
+[2026.03.09-14.48.28:030][350]LogStreaming: Display: FlushAsyncLoading(424): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-14.48.28:070][355]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.09-14.48.28:088][357]LogTexture: Display: Building textures: /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/rock_gate_baked.rock_gate_baked (BGRA8, 2222x2222 x1x1x1) (Required Memory Estimate: 170.508186 MB), EncodeSpeed: Fast
+[2026.03.09-14.48.28:099][358]LogStreaming: Display: FlushAsyncLoading(425): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-14.48.28:130][359]LogInterchangeEngine: Display: Interchange import completed [C:/Users/N00235865/A...e_extracted/textures/rock gate baked.png]
+[2026.03.09-14.48.28:131][359]LogStreaming: Display: FlushAsyncLoading(429): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-14.48.28:372][364]LogStreaming: Display: FlushAsyncLoading(430): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-14.48.29:037][417]LogStreaming: Display: FlushAsyncLoading(431): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-14.48.29:054][418]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/Day_05_-_Magic_Gate_optim2_Anim.Day_05_-_Magic_Gate_optim2_Anim (Required Memory Estimate: 0.39 MB)
+[2026.03.09-14.48.29:058][418]LogSkeletalMesh: Building Skeletal Mesh Day_05_-_Magic_Gate_optim2...
+[2026.03.09-14.48.29:060][418]LogAnimationCompression: Display: Storing compressed animation data for /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/Day_05_-_Magic_Gate_optim2_Anim.Day_05_-_Magic_Gate_optim2_Anim, at AnimationSequence/4dd59190d92c112a771543194c7f2cc44f3aa3ad
+[2026.03.09-14.48.29:516][444]LogSkeletalMesh: Built Skeletal Mesh [0.46s] /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/Day_05_-_Magic_Gate_optim2.Day_05_-_Magic_Gate_optim2
+[2026.03.09-14.48.29:606][446]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Day_05_-_Magic_Gate_optim2) ...
+[2026.03.09-14.48.29:636][446]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.03.09-14.48.29:647][446]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-14.48.29:647][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-14.48.29:667][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.09-14.48.29:678][447]LogInterchangeEngine: Display: Interchange import completed [C:/Users/N00235865/A...ate optim1_extracted/Day 05 - Magic Gate optim2.fbx]
+[2026.03.09-14.48.29:678][447]Interchange: Error: [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/86a4b9c9-031f-4f8b-87f5-226f54740d32/sculptjanuary2021-day-05-magic-gate_extracted/source/Day 05 - Magic Gate optim1_extracted/Day 05 - Magic Gate optim2.fbx : '', Texture2D] Multiple import tasks are importing the same asset at the same location [rock_gate_baked]. This asset will be skipped. See the log for more information.
+[2026.03.09-14.48.29:678][447]Interchange: Warning: [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/86a4b9c9-031f-4f8b-87f5-226f54740d32/sculptjanuary2021-day-05-magic-gate_extracted/source/Day 05 - Magic Gate optim1_extracted/Day 05 - Magic Gate optim2.fbx : 'Day_05_-_Magic_Gate_optim2', SkeletalMesh] No smoothing group information was found for this mesh 'Cube' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.03.09-14.48.29:678][447]Interchange: Warning: [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/86a4b9c9-031f-4f8b-87f5-226f54740d32/sculptjanuary2021-day-05-magic-gate_extracted/source/Day 05 - Magic Gate optim1_extracted/Day 05 - Magic Gate optim2.fbx : 'Day_05_-_Magic_Gate_optim2', SkeletalMesh] No smoothing group information was found for this mesh 'Torus_004' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.03.09-14.48.29:678][447]Interchange: Warning: [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/86a4b9c9-031f-4f8b-87f5-226f54740d32/sculptjanuary2021-day-05-magic-gate_extracted/source/Day 05 - Magic Gate optim1_extracted/Day 05 - Magic Gate optim2.fbx : 'Day_05_-_Magic_Gate_optim2', SkeletalMesh] No smoothing group information was found for this mesh 'Mesh_001' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.03.09-14.48.29:678][447]Interchange: Warning: [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/86a4b9c9-031f-4f8b-87f5-226f54740d32/sculptjanuary2021-day-05-magic-gate_extracted/source/Day 05 - Magic Gate optim1_extracted/Day 05 - Magic Gate optim2.fbx : 'Day_05_-_Magic_Gate_optim2', SkeletalMesh] No smoothing group information was found for this mesh 'Mesh_003' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.03.09-14.48.29:678][447]Interchange: Warning: [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/86a4b9c9-031f-4f8b-87f5-226f54740d32/sculptjanuary2021-day-05-magic-gate_extracted/source/Day 05 - Magic Gate optim1_extracted/Day 05 - Magic Gate optim2.fbx : 'Day_05_-_Magic_Gate_optim2', SkeletalMesh] No smoothing group information was found for this mesh 'Torus_005' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.03.09-14.48.29:678][447]Interchange: Warning: [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/86a4b9c9-031f-4f8b-87f5-226f54740d32/sculptjanuary2021-day-05-magic-gate_extracted/source/Day 05 - Magic Gate optim1_extracted/Day 05 - Magic Gate optim2.fbx : 'Day_05_-_Magic_Gate_optim2', SkeletalMesh] No smoothing group information was found for this mesh 'Torus_006' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.03.09-14.48.30:830][486]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.03.09-14.48.30:914][489]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.03.09-14.48.30:933][490]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.03.09-14.48.34:534][635]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/Day_05_-_Magic_Gate_optim2.Day_05_-_Magic_Gate_optim2
+[2026.03.09-14.48.34:534][635]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/Day_05_-_Magic_Gate_optim2.Day_05_-_Magic_Gate_optim2
+[2026.03.09-14.48.34:535][635]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/Day_05_-_Magic_Gate_optim2.Day_05_-_Magic_Gate_optim2 as actor: SkeletalMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.SkeletalMeshActor_0
+[2026.03.09-14.48.34:535][635]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/Day_05_-_Magic_Gate_optim2.Day_05_-_Magic_Gate_optim2 as actor: SkeletalMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.SkeletalMeshActor_0
+[2026.03.09-14.48.35:259][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.09-14.48.35:261][666]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.03.09-14.48.35:271][666]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/Day_05_-_Magic_Gate_optim2.Day_05_-_Magic_Gate_optim2
+[2026.03.09-14.48.35:272][666]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/Day_05_-_Magic_Gate_optim2.Day_05_-_Magic_Gate_optim2
+[2026.03.09-14.48.35:273][666]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/Day_05_-_Magic_Gate_optim2.Day_05_-_Magic_Gate_optim2 as actor: SkeletalMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.SkeletalMeshActor_14
+[2026.03.09-14.48.35:274][666]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/Day_05_-_Magic_Gate_optim2.Day_05_-_Magic_Gate_optim2 as actor: SkeletalMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.SkeletalMeshActor_14
+[2026.03.09-14.48.38:870][838]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.09-14.48.38:878][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.09-14.48.38:878][838]LogStreaming: Display: FlushAsyncLoading(432): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-14.48.38:878][838]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.09-14.48.38:940][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061480s)
+[2026.03.09-14.48.38:940][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.061514s)
+[2026.03.09-14.48.38:956][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.09-14.48.38:957][838]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.09-14.48.38:958][838]LogPlayLevel: PIE: World Init took: (0.001579s)
+[2026.03.09-14.48.38:959][838]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.03.09-14.48.38:959][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.09-14.48.38:959][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.09-14.48.38:959][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.09-14.48.38:959][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.09-14.48.38:959][838]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.09-14.48.38:959][838]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.09-14.48.38:959][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.09-14.48.38:959][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.09-14.48.38:959][838]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.09-14.48.38:959][838]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.09-14.48.38:959][838]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.09-14.48.38:961][838]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.09-14.48.38:986][838]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.09-14.48.38:986][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.09-14.48.38:986][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.09-14.48.38:986][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.09-14.48.38:986][838]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.03.09-14.48.38:986][838]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.03.09-14.48.38:989][838]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.03.09-14.48.38:989][838]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.03.09-14.48.38:989][838]LogInit: FAudioDevice initialized with ID 20.
+[2026.03.09-14.48.38:989][838]LogAudio: Display: Audio Device (ID: 20) registered with world 'DarkVersion'.
+[2026.03.09-14.48.38:989][838]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.03.09-14.48.38:992][838]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.09-14.48.39:023][838]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.03.09-14.48.39
+[2026.03.09-14.48.39:024][838]LogWorld: Bringing up level for play took: 0.031069
+[2026.03.09-14.48.39:027][838]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.03.09-14.48.39:033][838]PIE: Server logged in
+[2026.03.09-14.48.39:035][838]PIE: Play in editor total start time 0.157 seconds.
+[2026.03.09-14.48.50:507][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-14.48.50:507][624]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.09-14.48.50:508][624]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-14.48.50:517][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-14.48.50:519][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.09-14.48.50:521][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-14.48.50:538][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.09-14.48.50:540][624]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.03.09-14.48.50:540][624]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2026.03.09-14.48.50:542][624]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2026.03.09-14.48.50:554][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.09-14.48.50:636][625]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2026.03.09-14.49.07:200][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.09-14.49.09:173][302]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.09-14.49.09:243][302]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/glow.glow
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/rock_gate_baked.rock_gate_baked
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/rock.rock
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/Day_05_-_Magic_Gate_optim2_Skeleton.Day_05_-_Magic_Gate_optim2_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/Day_05_-_Magic_Gate_optim2_PhysicsAsset.Day_05_-_Magic_Gate_optim2_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/Day_05_-_Magic_Gate_optim2_Anim.Day_05_-_Magic_Gate_optim2_Anim
+	Asset Type: AnimSequence
+	Asset Name: /Game/Fab/SculptJanuary2021_-_Day_05_-_Magic_Gate/Day_05_-_Magic_Gate_optim2.Day_05_-_Magic_Gate_optim2
+	Asset Type: SkeletalMesh
+[2026.03.09-14.49.09:369][302]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Day_05_-_Magic_Gate_optim2) ...
+[2026.03.09-14.49.09:407][302]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Day_05_-_Magic_Gate_optim2) ...
+[2026.03.09-14.49.09:438][302]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Day_05_-_Magic_Gate_optim2) ...
+[2026.03.09-14.49.09:857][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.09-14.49.09:875][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.09-14.49.09:891][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.09-14.49.13:597][485]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.03.09-14.49.13:703][490]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.03.09-14.49.13:724][491]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.03.09-14.49.14:073][508]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.03.09-14.50.38:817][587]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: b64...2c7
+[2026.03.09-14.50.38:817][587]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.554e+07
+[2026.03.09-14.50.38:993][608]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: b64...2c7 Access[Expires: 2026.03.09-16.50.38 Remaining: 7200.92] Refresh[Expires: 2026-09-05T10:53:57.191Z Remaining: 15537799.19] State: Valid
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: ================================================
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Total job queries 1,113, among them cache hits 302 (27.13%), DDC hits 701 (62.98%), Duplicates 73 (6.56%)
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Tracking 738 distinct input hashes that result in 536 distinct outputs (72.63%)
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: RAM used: 5.83 MiB of 3.20 GiB budget. Usage: 0.18%
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Shaders Compiled: 37
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Jobs assigned 37, completed 37 (100%)
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Average time worker was idle: 1953.58 s
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.13 s
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Job execution time: average 0.92 s, max 2.07 s
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Job life time (pending + execution): average 0.98 s, max 2.13
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Shader code size: total 342.351 KiB, numShaders 42, average 8.15 KiB, min 2.691 KiB, max 16.766 KiB
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.55 s
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.27%
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Jobs were issued in 37 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Average processing rate: 2.73 jobs/sec
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Total thread time: 20.184 s
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Total thread preprocess time: 17.546 s
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Percentage time preprocessing: 86.93%
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Effective parallelization: 1.49 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.093070
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.94 sec, max 0.99 sec, min 0.90 sec)
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 0.89 sec, max 1.58 sec, min 0.62 sec)
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    4 times, average 0.60 sec, max 0.69 sec, min 0.50 sec)
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.56 sec, max 0.56 sec, min 0.56 sec)
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.96% of total time (compiled    5 times, average 0.89 sec, max 1.58 sec, min 0.62 sec)
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.62% of total time (compiled    6 times, average 0.53 sec, max 1.04 sec, min 0.34 sec)
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display:                                                FAnisotropyPS - 11.88% of total time (compiled    4 times, average 0.60 sec, max 0.69 sec, min 0.50 sec)
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.90% of total time (compiled    7 times, average 0.31 sec, max 0.38 sec, min 0.25 sec)
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 9.36% of total time (compiled    2 times, average 0.94 sec, max 0.99 sec, min 0.90 sec)
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: === Material stats ===
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Materials Translated:    296
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Material Translation Only: 0.10 s (43%)
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: Material Cache Hits: 32 (11%)
+[2026.03.09-14.50.56:568][717]LogShaderCompilers: Display: ================================================
+[2026.03.09-14.53.38:732][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.03.09-14.53.40:296][553]LogSlate: Window 'Save Content' being destroyed
+[2026.03.09-14.53.40:310][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-14.53.40:406][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.09-14.53.40:549][553]LogSavePackage: Moving output files for package: /Game/Dimensions/DarkVersion
+[2026.03.09-14.53.40:549][553]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/DarkVersion67E906724CC0A962A3971D86679DCE93.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap'
+[2026.03.09-14.53.40:564][553]LogFileHelpers: Saving map 'DarkVersion' took 0.196
+[2026.03.09-14.53.40:614][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 303.607 ms (total: 5.24 sec)
+[2026.03.09-14.53.40:614][553]LogStreaming: Display: FlushAsyncLoading(433): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-14.53.40:650][553]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.09-14.53.40:674][553]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.03.09-14.53.40:674][553]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.09-14.53.40:712][553]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-14.53.40:713][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-14.53.40:742][553]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.09-14.53.40:751][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.03.09-14.53.40:754][553]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-14.53.40:756][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-14.53.40:774][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.03.09-14.53.40:787][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.03.09-14.53.40:824][553]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.03.09-14.53.40:824][553]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.09-14.53.40:908][553]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.09-14.53.40:932][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.09-14.53.40:943][553]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.09-14.53.40:943][553]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2026.03.09-14.53.41:033][553]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-14.53.41:033][553]LogContentValidation: Enabled validators:
+[2026.03.09-14.53.41:033][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-14.53.41:033][553]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-14.53.41:033][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-14.53.41:033][553]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-14.53.41:033][553]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-14.53.41:033][553]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-14.54.14:407][137]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14428.597656
+[2026.03.09-14.54.14:616][162]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-14.54.14:616][162]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14428.798828, Update Interval: 326.408264
+[2026.03.09-14.55.40:355][599]LogDerivedDataCache: C:/Users/N00235865/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.09-15.00.05:216][329]LogFab: Display: Asset Type = glb
+[2026.03.09-15.00.05:216][329]LogFab: Display: Is Quixel = 0
+[2026.03.09-15.00.05:654][337]LogStreaming: Display: FlushAsyncLoading(435): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-15.00.05:988][337]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.09-15.00.05:988][337]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/ce83a98d-1c6e-42f0-9d53-c996aaf36908/sci_fi_door_hard_surface_practice.glb]
+[2026.03.09-15.00.06:022][340]LogStreaming: Display: FlushAsyncLoading(466): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-15.00.06:234][365]LogStreaming: Display: FlushAsyncLoading(470): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-15.00.06:259][368]LogStreaming: Display: FlushAsyncLoading(471): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-15.00.06:316][369]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_0.sci_fi_door_hard_surface_practice_texture_0 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.09-15.00.06:317][369]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_3.sci_fi_door_hard_surface_practice_texture_3 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.03.09-15.00.06:317][369]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_2.sci_fi_door_hard_surface_practice_texture_2 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.09-15.00.06:318][369]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_1.sci_fi_door_hard_surface_practice_texture_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.09-15.00.06:345][369]LogStaticMesh: Display: Building static mesh sci_fi_door_hard_surface_practice (Required Memory Estimate: 9.352711 MB)...
+[2026.03.09-15.00.06:522][380]LogStaticMesh: Built static mesh [0.18s] /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/StaticMeshes/sci_fi_door_hard_surface_practice.sci_fi_door_hard_surface_practice
+[2026.03.09-15.00.07:206][426]LogInterchangeEngine: Display: Interchange import completed [C:/Users/N00235865/A...f0-9d53-c996aaf36908/sci_fi_door_hard_surface_practice.glb]
+[2026.03.09-15.00.30:927][ 85]LogStreaming: Display: FlushAsyncLoading(472): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-15.00.30:948][ 85]LogStaticMesh: Display: Building static mesh sci_fi_door (Required Memory Estimate: 9.184556 MB)...
+[2026.03.09-15.00.30:998][ 85]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_2.sci_fi_door_texture_2 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.09-15.00.31:016][ 85]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_0.sci_fi_door_texture_0 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.09-15.00.31:037][ 85]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_3.sci_fi_door_texture_3 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.03.09-15.00.31:046][ 85]LogStaticMesh: Built static mesh [0.10s] /Game/Fab/Sci-Fi_Door/sci_fi_door/StaticMeshes/sci_fi_door.sci_fi_door
+[2026.03.09-15.00.31:062][ 85]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Door/sci_fi_door/Textures/sci_fi_door_texture_1.sci_fi_door_texture_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.09-15.00.31:192][ 88]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci-Fi_Door/sci_fi_door/StaticMeshes/sci_fi_door.sci_fi_door
+[2026.03.09-15.00.31:193][ 88]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci-Fi_Door/sci_fi_door/StaticMeshes/sci_fi_door.sci_fi_door
+[2026.03.09-15.00.31:195][ 88]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Sci-Fi_Door/sci_fi_door/StaticMeshes/sci_fi_door.sci_fi_door as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_963
+[2026.03.09-15.00.31:886][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.03.09-15.00.31:889][114]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2026.03.09-15.00.33:113][163]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci-Fi_Door/sci_fi_door/StaticMeshes/sci_fi_door.sci_fi_door
+[2026.03.09-15.00.33:113][163]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci-Fi_Door/sci_fi_door/StaticMeshes/sci_fi_door.sci_fi_door
+[2026.03.09-15.00.33:113][163]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Sci-Fi_Door/sci_fi_door/StaticMeshes/sci_fi_door.sci_fi_door as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_984
+[2026.03.09-15.00.33:834][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.03.09-15.00.33:835][192]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.03.09-15.00.33:846][192]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci-Fi_Door/sci_fi_door/StaticMeshes/sci_fi_door.sci_fi_door
+[2026.03.09-15.00.33:846][192]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci-Fi_Door/sci_fi_door/StaticMeshes/sci_fi_door.sci_fi_door
+[2026.03.09-15.00.33:848][192]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Sci-Fi_Door/sci_fi_door/StaticMeshes/sci_fi_door.sci_fi_door as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_989
+[2026.03.09-15.00.37:870][362]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14813.250000
+[2026.03.09-15.00.38:038][372]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-15.00.38:038][372]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14813.402344, Update Interval: 345.047150
+[2026.03.09-15.00.43:816][700]LogSlate: Window 'Content Browser' being destroyed
+[2026.03.09-15.00.43:863][700]LogSlate: Window 'Content Browser' being destroyed
+[2026.03.09-15.01.25:348][134]LogStreaming: Display: FlushAsyncLoading(473): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-15.01.25:408][134]LogSkeletalMesh: Building Skeletal Mesh washing_machine...
+[2026.03.09-15.01.25:431][134]LogTexture: Display: Building textures: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_0.washing_machine_texture_0 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.03.09-15.01.25:496][134]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine.washing_machine
+[2026.03.09-15.01.25:496][134]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine.washing_machine
+[2026.03.09-15.01.25:499][134]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine.washing_machine as actor: SkeletalMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.SkeletalMeshActor_0
+[2026.03.09-15.01.25:505][134]LogTexture: Display: Building textures: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_7.washing_machine_texture_7 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.09-15.01.25:511][134]LogTexture: Display: Building textures: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_8.washing_machine_texture_8 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.03.09-15.01.25:513][134]LogTexture: Display: Building textures: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_3.washing_machine_texture_3 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.09-15.01.25:516][134]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (washing_machine) ...
+[2026.03.09-15.01.25:560][134]LogTexture: Display: Building textures: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_6.washing_machine_texture_6 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.09-15.01.25:564][134]LogTexture: Display: Building textures: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_5.washing_machine_texture_5 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.03.09-15.01.25:564][134]LogTexture: Display: Building textures: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_4.washing_machine_texture_4 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.03.09-15.01.25:565][134]LogTexture: Display: Building textures: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_2.washing_machine_texture_2 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.09-15.01.25:574][134]LogTexture: Display: Building textures: /Game/Fab/Washing_Machine/washing_machine/Textures/washing_machine_texture_1.washing_machine_texture_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.09-15.01.25:772][134]LogSkeletalMesh: Built Skeletal Mesh [0.37s] /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine.washing_machine
+[2026.03.09-15.01.25:783][134]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine.washing_machine as actor: SkeletalMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.SkeletalMeshActor_0
+[2026.03.09-15.01.25:791][134]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.03.09-15.01.27:439][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.09-15.01.27:443][220]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2026.03.09-15.01.27:453][220]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine.washing_machine
+[2026.03.09-15.01.27:453][220]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine.washing_machine
+[2026.03.09-15.01.27:456][220]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine.washing_machine as actor: SkeletalMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.SkeletalMeshActor_14
+[2026.03.09-15.01.27:456][220]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Fab/Washing_Machine/washing_machine/SkeletalMeshes/washing_machine.washing_machine as actor: SkeletalMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.SkeletalMeshActor_14
+[2026.03.09-15.01.27:530][221]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.03.09-15.01.31:823][438]Cmd: DELETE
+[2026.03.09-15.01.31:823][438]Cmd: ACTOR DELETE
+[2026.03.09-15.01.31:835][438]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2026.03.09-15.01.31:851][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.09-15.01.31:855][438]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2026.03.09-15.01.35:432][635]Cmd: DELETE
+[2026.03.09-15.01.35:432][635]Cmd: ACTOR DELETE
+[2026.03.09-15.01.35:442][635]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.09-15.01.35:458][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.09-15.01.35:461][635]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: ================================================
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Total job queries 1,122, among them cache hits 304 (27.09%), DDC hits 707 (63.01%), Duplicates 73 (6.51%)
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Tracking 745 distinct input hashes that result in 540 distinct outputs (72.48%)
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: RAM used: 5.91 MiB of 3.20 GiB budget. Usage: 0.18%
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Shaders Compiled: 38
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Jobs assigned 38, completed 38 (100%)
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Average time worker was idle: 1912.97 s
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.13 s
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Job execution time: average 0.92 s, max 2.07 s
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Job life time (pending + execution): average 0.99 s, max 2.13
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Shader code size: total 374.3 KiB, numShaders 43, average 8.704 KiB, min 2.691 KiB, max 31.949 KiB
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.83 s
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.26%
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Average processing rate: 2.56 jobs/sec
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Total thread time: 21.012 s
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Total thread preprocess time: 17.818 s
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Percentage time preprocessing: 84.80%
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Effective parallelization: 1.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.088531
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.94 sec, max 0.99 sec, min 0.90 sec)
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 0.89 sec, max 1.58 sec, min 0.62 sec)
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    4 times, average 0.60 sec, max 0.69 sec, min 0.50 sec)
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.57 sec, max 1.04 sec, min 0.34 sec)
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 21.10% of total time (compiled    5 times, average 0.89 sec, max 1.58 sec, min 0.62 sec)
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.95% of total time (compiled    7 times, average 0.57 sec, max 1.04 sec, min 0.34 sec)
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display:                                                FAnisotropyPS - 11.42% of total time (compiled    4 times, average 0.60 sec, max 0.69 sec, min 0.50 sec)
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.47% of total time (compiled    7 times, average 0.31 sec, max 0.38 sec, min 0.25 sec)
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.99% of total time (compiled    2 times, average 0.94 sec, max 0.99 sec, min 0.90 sec)
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: === Material stats ===
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Materials Translated:    325
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Material Total Translate Time: 0.28 s
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Material Translation Only: 0.13 s (46%)
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: Material Cache Hits: 55 (17%)
+[2026.03.09-15.02.56:577][296]LogShaderCompilers: Display: ================================================
+[2026.03.09-15.05.00:035][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.09-15.05.00:202][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto4
+[2026.03.09-15.05.00:202][ 22]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion_Auto48F1F6BD44F99E1B431A3DA9F01177FF6.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Dimensions/LightVersion_Auto4.umap'
+[2026.03.09-15.05.00:204][ 22]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.188
+[2026.03.09-15.05.00:204][ 22]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.188
+[2026.03.09-15.05.00:205][ 22]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_0] ([1] browsable assets)...
+[2026.03.09-15.05.00:209][ 22]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_0.sci_fi_door_hard_surface_practice_texture_0]
+[2026.03.09-15.05.00:209][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_0]
+[2026.03.09-15.05.00:265][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_0_Auto4
+[2026.03.09-15.05.00:265][ 22]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_door_hard_surface_practic9FB3E461492809E72A690EAAE70BC867.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_0_Auto4.uasset'
+[2026.03.09-15.05.00:266][ 22]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_1] ([1] browsable assets)...
+[2026.03.09-15.05.00:268][ 22]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_1.sci_fi_door_hard_surface_practice_texture_1]
+[2026.03.09-15.05.00:268][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_1]
+[2026.03.09-15.05.00:324][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_1_Auto4
+[2026.03.09-15.05.00:324][ 22]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_door_hard_surface_practic3BC4905C41CF82E703A85E988372838A.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_1_Auto4.uasset'
+[2026.03.09-15.05.00:325][ 22]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_2] ([1] browsable assets)...
+[2026.03.09-15.05.00:326][ 22]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_2.sci_fi_door_hard_surface_practice_texture_2]
+[2026.03.09-15.05.00:326][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_2]
+[2026.03.09-15.05.00:383][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_2_Auto4
+[2026.03.09-15.05.00:383][ 22]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_door_hard_surface_practic9C9BC6214C52BDDB680ABF8CFE93F2ED.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_2_Auto4.uasset'
+[2026.03.09-15.05.00:384][ 22]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_3] ([1] browsable assets)...
+[2026.03.09-15.05.00:386][ 22]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_3.sci_fi_door_hard_surface_practice_texture_3]
+[2026.03.09-15.05.00:386][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_3]
+[2026.03.09-15.05.00:444][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_3_Auto4
+[2026.03.09-15.05.00:444][ 22]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_door_hard_surface_practicCBC12DA7426F5341177357A72372C0C8.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_3_Auto4.uasset'
+[2026.03.09-15.05.00:445][ 22]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Materials/Door] ([1] browsable assets)...
+[2026.03.09-15.05.00:480][ 22]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Materials/Door.Door]
+[2026.03.09-15.05.00:480][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Materials/Door]
+[2026.03.09-15.05.00:487][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Materials/Door_Auto4
+[2026.03.09-15.05.00:487][ 22]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Door_Auto485EE4E3E47BB3ADEC2448BAE5DFB55FC.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Materials/Door_Auto4.uasset'
+[2026.03.09-15.05.00:489][ 22]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/StaticMeshes/sci_fi_door_hard_surface_practice] ([1] browsable assets)...
+[2026.03.09-15.05.00:502][ 22]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/StaticMeshes/sci_fi_door_hard_surface_practice.sci_fi_door_hard_surface_practice]
+[2026.03.09-15.05.00:502][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/StaticMeshes/sci_fi_door_hard_surface_practice]
+[2026.03.09-15.05.00:513][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/StaticMeshes/sci_fi_door_hard_surface_practice_Auto4
+[2026.03.09-15.05.00:513][ 22]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_door_hard_surface_practicD126DAE54D7F563681D9309088F9DFF0.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/StaticMeshes/sci_fi_door_hard_surface_practice_Auto4.uasset'
+[2026.03.09-15.05.00:514][ 22]LogFileHelpers: Auto-saving content packages took 0.309
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: ================================================
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Total job queries 1,125, among them cache hits 305 (27.11%), DDC hits 707 (62.84%), Duplicates 73 (6.49%)
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Tracking 747 distinct input hashes that result in 542 distinct outputs (72.56%)
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: RAM used: 5.93 MiB of 3.20 GiB budget. Usage: 0.18%
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Shaders Compiled: 40
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Jobs assigned 40, completed 40 (100%)
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Average time worker was idle: 1828.35 s
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.13 s
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Job execution time: average 0.92 s, max 2.07 s
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Job life time (pending + execution): average 0.98 s, max 2.13
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Shader code size: total 405.706 KiB, numShaders 45, average 9.016 KiB, min 2.691 KiB, max 31.949 KiB
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.86 s
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.26%
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Jobs were issued in 40 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Average processing rate: 2.52 jobs/sec
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Total thread time: 22.113 s
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Total thread preprocess time: 17.847 s
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Percentage time preprocessing: 80.71%
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Effective parallelization: 1.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.087142
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.94 sec, max 0.99 sec, min 0.90 sec)
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 0.86 sec, max 1.58 sec, min 0.62 sec)
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    4 times, average 0.60 sec, max 0.69 sec, min 0.50 sec)
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.56 sec, max 0.56 sec, min 0.56 sec)
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.26% of total time (compiled    6 times, average 0.86 sec, max 1.58 sec, min 0.62 sec)
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.77% of total time (compiled    8 times, average 0.55 sec, max 1.04 sec, min 0.34 sec)
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display:                                                FAnisotropyPS - 10.85% of total time (compiled    4 times, average 0.60 sec, max 0.69 sec, min 0.50 sec)
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.95% of total time (compiled    7 times, average 0.31 sec, max 0.38 sec, min 0.25 sec)
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.54% of total time (compiled    2 times, average 0.94 sec, max 0.99 sec, min 0.90 sec)
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: === Material stats ===
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Materials Translated:    325
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Material Total Translate Time: 0.28 s
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Material Translation Only: 0.13 s (46%)
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: Material Cache Hits: 55 (17%)
+[2026.03.09-15.05.56:579][747]LogShaderCompilers: Display: ================================================
+[2026.03.09-15.07.10:975][667]LogFab: Display: Asset Type = glb
+[2026.03.09-15.07.10:975][667]LogFab: Display: Is Quixel = 0
+[2026.03.09-15.07.12:212][751]LogStreaming: Display: FlushAsyncLoading(474): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-15.07.12:214][751]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.09-15.07.12:214][751]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/0a3fb706-6d90-490b-b74d-6fa74a35c1d1/sci_fi_new_door.glb]
+[2026.03.09-15.07.12:250][755]LogStreaming: Display: FlushAsyncLoading(475): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-15.07.12:400][773]LogStreaming: Display: FlushAsyncLoading(481): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-15.07.12:433][777]LogStreaming: Display: FlushAsyncLoading(483): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-15.07.12:500][780]LogTexture: Display: Building textures: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_0.sci_fi_new_door_texture_0 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 388.083323 MB), EncodeSpeed: Fast
+[2026.03.09-15.07.12:500][780]LogTexture: Display: Building textures: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_3.sci_fi_new_door_texture_3 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 388.083323 MB), EncodeSpeed: Fast
+[2026.03.09-15.07.12:500][780]LogTexture: Display: Building textures: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_5.sci_fi_new_door_texture_5 (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.03.09-15.07.12:501][780]LogTexture: Display: Building textures: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_1.sci_fi_new_door_texture_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 388.083323 MB), EncodeSpeed: Fast
+[2026.03.09-15.07.12:501][780]LogTexture: Display: Building textures: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_4.sci_fi_new_door_texture_4 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 388.083323 MB), EncodeSpeed: Fast
+[2026.03.09-15.07.12:502][780]LogTexture: Display: Building textures: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_2.sci_fi_new_door_texture_2 (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.03.09-15.07.12:603][781]LogStaticMesh: Display: Building static mesh sci_fi_new_door (Required Memory Estimate: 19.589821 MB)...
+[2026.03.09-15.07.12:845][806]LogStaticMesh: Built static mesh [0.24s] /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/StaticMeshes/sci_fi_new_door.sci_fi_new_door
+[2026.03.09-15.07.13:061][810]LogInterchangeEngine: Display: Interchange import completed [C:/Users/N00235865/A...0b-b74d-6fa74a35c1d1/sci_fi_new_door.glb]
+[2026.03.09-15.07.18:111][378]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15214.723633
+[2026.03.09-15.07.18:262][395]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-15.07.18:262][395]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15214.860352, Update Interval: 349.029816
+[2026.03.09-15.07.42:826][578]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/StaticMeshes/sci_fi_new_door.sci_fi_new_door
+[2026.03.09-15.07.42:826][578]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/StaticMeshes/sci_fi_new_door.sci_fi_new_door
+[2026.03.09-15.07.42:827][578]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/StaticMeshes/sci_fi_new_door.sci_fi_new_door as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_990
+[2026.03.09-15.07.43:719][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.09-15.07.43:722][615]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2026.03.09-15.07.43:732][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/StaticMeshes/sci_fi_new_door.sci_fi_new_door
+[2026.03.09-15.07.43:732][615]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/StaticMeshes/sci_fi_new_door.sci_fi_new_door
+[2026.03.09-15.07.43:734][615]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/StaticMeshes/sci_fi_new_door.sci_fi_new_door as actor: StaticMeshActor /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.StaticMeshActor_1011
+[2026.03.09-15.07.45:146][683]Cmd: DELETE
+[2026.03.09-15.07.45:146][683]Cmd: ACTOR DELETE
+[2026.03.09-15.07.45:160][683]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.09-15.07.45:176][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.03.09-15.07.45:178][683]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2026.03.09-15.08.15:640][124]Cmd: DELETE
+[2026.03.09-15.08.15:640][124]Cmd: ACTOR DELETE
+[2026.03.09-15.08.15:651][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.09-15.08.15:666][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.03.09-15.08.15:670][124]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2026.03.09-15.08.21:279][380]Cmd: EDIT COPY
+[2026.03.09-15.08.22:210][427]Cmd: EDIT PASTE
+[2026.03.09-15.13.19:630][885]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ShiftingManagement/ChangeLevel.ChangeLevel
+[2026.03.09-15.13.19:630][885]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.03.09-15.13.19:662][885]LogStreaming: Display: FlushAsyncLoading(484): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-15.13.20:940][885]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2026.03.09-15.13.20:942][885]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2026.03.09-15.13.52:553][763]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-15.13.52:637][763]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ShiftingManagement/ChangeLevel] ([2] browsable assets)...
+[2026.03.09-15.13.52:637][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShiftingManagement/ChangeLevel]
+[2026.03.09-15.13.52:637][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShiftingManagement/ChangeLevel" FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/ShiftingManagement/ChangeLevel.uasset" SILENT=true
+[2026.03.09-15.13.52:647][763]LogSavePackage: Moving output files for package: /Game/ShiftingManagement/ChangeLevel
+[2026.03.09-15.13.52:647][763]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/ChangeLevel475EB83344BA60E2A51376BE95E7354F.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/ShiftingManagement/ChangeLevel.uasset'
+[2026.03.09-15.13.52:656][763]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.733 ms (total: 5.35 sec)
+[2026.03.09-15.13.52:712][763]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-15.13.52:712][763]LogContentValidation: Enabled validators:
+[2026.03.09-15.13.52:712][763]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-15.13.52:712][763]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-15.13.52:712][763]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-15.13.52:712][763]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-15.13.52:712][763]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-15.13.52:712][763]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-15.13.52:712][763]AssetCheck: /Game/ShiftingManagement/ChangeLevel Validating asset
+[2026.03.09-15.13.52:728][763]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.09-15.13.56:246][946]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15612.968750
+[2026.03.09-15.13.56:404][954]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.09-15.13.56:404][954]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15613.107422, Update Interval: 305.366974
+[2026.03.09-15.14.05:642][673]LogStreaming: Display: FlushAsyncLoading(660): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-15.14.05:645][673]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/SciFi_Props/Materials/MI_Box_7.MI_Box_7
+[2026.03.09-15.14.05:647][673]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.03.09-15.14.07:854][808]LogSlate: Window 'MI_Box_7' being destroyed
+[2026.03.09-15.14.07:890][808]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.03.09-15.14.07:890][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.09-15.14.07:952][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.09-15.15.22:899][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.09-15.15.23:062][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto5
+[2026.03.09-15.15.23:063][640]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion_Auto55BBECEC4490976B0B63E13BAB5A45181.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Dimensions/LightVersion_Auto5.umap'
+[2026.03.09-15.15.23:066][640]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.190
+[2026.03.09-15.15.23:066][640]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.190
+[2026.03.09-15.15.23:066][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ShiftingManagement/ChangeLevel] ([2] browsable assets)...
+[2026.03.09-15.15.23:066][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShiftingManagement/ChangeLevel]
+[2026.03.09-15.15.23:076][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ShiftingManagement/ChangeLevel_Auto5
+[2026.03.09-15.15.23:076][640]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/ChangeLevel_Auto5AD51D21F433C32FAB8A2E791B6487F6B.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/ShiftingManagement/ChangeLevel_Auto5.uasset'
+[2026.03.09-15.15.23:078][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_0] ([1] browsable assets)...
+[2026.03.09-15.15.23:080][640]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_0.sci_fi_new_door_texture_0]
+[2026.03.09-15.15.23:080][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_0]
+[2026.03.09-15.15.23:095][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_0_Auto5
+[2026.03.09-15.15.23:095][640]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_new_door_texture_0_Auto54FEE4AE24E992B2F80101986B026D042.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_0_Auto5.uasset'
+[2026.03.09-15.15.23:096][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_1] ([1] browsable assets)...
+[2026.03.09-15.15.23:098][640]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_1.sci_fi_new_door_texture_1]
+[2026.03.09-15.15.23:098][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_1]
+[2026.03.09-15.15.23:112][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_1_Auto5
+[2026.03.09-15.15.23:112][640]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_new_door_texture_1_Auto57870ACD941BA571DB6E16FADA164E452.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_1_Auto5.uasset'
+[2026.03.09-15.15.23:113][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_2] ([1] browsable assets)...
+[2026.03.09-15.15.23:114][640]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_2.sci_fi_new_door_texture_2]
+[2026.03.09-15.15.23:114][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_2]
+[2026.03.09-15.15.23:129][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_2_Auto5
+[2026.03.09-15.15.23:129][640]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_new_door_texture_2_Auto5941B8FD34FDFF80DA0A7BD88C829BE8B.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_2_Auto5.uasset'
+[2026.03.09-15.15.23:131][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_3] ([1] browsable assets)...
+[2026.03.09-15.15.23:132][640]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_3.sci_fi_new_door_texture_3]
+[2026.03.09-15.15.23:132][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_3]
+[2026.03.09-15.15.23:146][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_3_Auto5
+[2026.03.09-15.15.23:146][640]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_new_door_texture_3_Auto59718FEEE4429BD9F218DF3AF2EE0B53C.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_3_Auto5.uasset'
+[2026.03.09-15.15.23:147][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_4] ([1] browsable assets)...
+[2026.03.09-15.15.23:149][640]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_4.sci_fi_new_door_texture_4]
+[2026.03.09-15.15.23:149][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_4]
+[2026.03.09-15.15.23:164][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_4_Auto5
+[2026.03.09-15.15.23:164][640]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_new_door_texture_4_Auto584A878A34134E90B540F05A005267986.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_4_Auto5.uasset'
+[2026.03.09-15.15.23:165][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_5] ([1] browsable assets)...
+[2026.03.09-15.15.23:166][640]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_5.sci_fi_new_door_texture_5]
+[2026.03.09-15.15.23:166][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_5]
+[2026.03.09-15.15.23:180][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_5_Auto5
+[2026.03.09-15.15.23:181][640]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_new_door_texture_5_Auto514D7B7174966CCE69242B8AA898D949C.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_5_Auto5.uasset'
+[2026.03.09-15.15.23:181][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Door] ([1] browsable assets)...
+[2026.03.09-15.15.23:190][640]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Door.Door]
+[2026.03.09-15.15.23:190][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Door]
+[2026.03.09-15.15.23:198][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Door_Auto5
+[2026.03.09-15.15.23:198][640]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Door_Auto5C33D02684AEA8F4D44872D872A75AFC8.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Door_Auto5.uasset'
+[2026.03.09-15.15.23:199][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Portal] ([1] browsable assets)...
+[2026.03.09-15.15.23:205][640]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Portal.Portal]
+[2026.03.09-15.15.23:205][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Portal]
+[2026.03.09-15.15.23:211][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Portal_Auto5
+[2026.03.09-15.15.23:211][640]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Portal_Auto5C598ACC84D046F09E01A43B32548FC65.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Portal_Auto5.uasset'
+[2026.03.09-15.15.23:213][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/StaticMeshes/sci_fi_new_door] ([1] browsable assets)...
+[2026.03.09-15.15.23:220][640]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/StaticMeshes/sci_fi_new_door.sci_fi_new_door]
+[2026.03.09-15.15.23:220][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/StaticMeshes/sci_fi_new_door]
+[2026.03.09-15.15.23:231][640]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/StaticMeshes/sci_fi_new_door_Auto5
+[2026.03.09-15.15.23:231][640]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_new_door_Auto5E11FC9BC466A842791FE9A964CE29FDB.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Autosaves/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/StaticMeshes/sci_fi_new_door_Auto5.uasset'
+[2026.03.09-15.15.23:231][640]LogFileHelpers: Auto-saving content packages took 0.166
+[2026.03.09-15.17.30:893][728]LogStreaming: Display: FlushAsyncLoading(661): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.09-15.17.30:901][728]LogMaterial: Warning: [AssetLog] C:\Users\N00235865\Desktop\Unreal Projects\TimeShift\Content\Animated_Nebulas_Starter_Pack\Planet_System\Materials\Star_Dome\M_Star_Nebula.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+
+[2026.03.09-15.17.30:992][728]LoadErrors: Warning: While trying to load package /Game/Animated_Nebulas_Starter_Pack/Planet_System/Materials/Star_Dome/MI_Star_Nebula_05, a dependent package /Game/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_05 was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_05 has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_05'. Perhaps it has been deleted or was not synced?
+
+[2026.03.09-15.17.30:993][728]LoadErrors: Warning: While trying to load package /Game/Animated_Nebulas_Starter_Pack/Planet_System/Materials/Star_Dome/MI_Star_Nebula_05, a dependent package /Game/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_05_Alpha was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_05_Alpha has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Skybox_05_Alpha'. Perhaps it has been deleted or was not synced?
+
+[2026.03.09-15.17.30:993][729]LoadErrors: Warning: While trying to load package /Game/Animated_Nebulas_Starter_Pack/Planet_System/Materials/Star_Dome/M_Star_Nebula, a dependent package /Game/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Black was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Black has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_Black'. Perhaps it has been deleted or was not synced?
+
+[2026.03.09-15.17.30:993][729]LoadErrors: Warning: While trying to load package /Game/Animated_Nebulas_Starter_Pack/Planet_System/Materials/Star_Dome/M_Star_Nebula, a dependent package /Game/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_White was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_White has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Animated_Nebulas_Starter_Pack/Planet_System/Textures/T_HDRIs/TC_White'. Perhaps it has been deleted or was not synced?
+
+[2026.03.09-15.17.58:958][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-15.17.59:040][988]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ShiftingManagement/ChangeLevel] ([2] browsable assets)...
+[2026.03.09-15.17.59:040][988]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShiftingManagement/ChangeLevel]
+[2026.03.09-15.17.59:040][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShiftingManagement/ChangeLevel" FILE="../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/ShiftingManagement/ChangeLevel.uasset" SILENT=true
+[2026.03.09-15.17.59:053][988]LogSavePackage: Moving output files for package: /Game/ShiftingManagement/ChangeLevel
+[2026.03.09-15.17.59:053][988]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/ChangeLevel1F864E454513F220249AEC952D06B88C.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/ShiftingManagement/ChangeLevel.uasset'
+[2026.03.09-15.17.59:062][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.594 ms (total: 5.45 sec)
+[2026.03.09-15.17.59:123][988]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.09-15.17.59:123][988]LogContentValidation: Enabled validators:
+[2026.03.09-15.17.59:123][988]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-15.17.59:123][988]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-15.17.59:123][988]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-15.17.59:123][988]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-15.17.59:123][988]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-15.17.59:123][988]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-15.17.59:123][988]AssetCheck: /Game/ShiftingManagement/ChangeLevel Validating asset
+[2026.03.09-15.18.11:038][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.09-15.18.11:046][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.09-15.18.11:159][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.03.09-15.18.11:321][562]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.03.09-15.18.11:321][562]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightVersion9EF9760C4E816837001086A7AECBC5D5.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/LightVersion.umap'
+[2026.03.09-15.18.11:338][562]LogFileHelpers: Saving map 'LightVersion' took 0.227
+[2026.03.09-15.18.11:338][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_0] ([1] browsable assets)...
+[2026.03.09-15.18.11:338][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_0]
+[2026.03.09-15.18.11:404][562]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_0
+[2026.03.09-15.18.11:404][562]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_door_hard_surface_practicA71B1CA24CD5A34C11571B993ADD1267.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_0.uasset'
+[2026.03.09-15.18.11:407][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_1] ([1] browsable assets)...
+[2026.03.09-15.18.11:407][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_1]
+[2026.03.09-15.18.11:479][562]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_1
+[2026.03.09-15.18.11:479][562]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_door_hard_surface_practic80BE19A8403C1FAD7A1083A5AAE1147E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_1.uasset'
+[2026.03.09-15.18.11:480][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_2] ([1] browsable assets)...
+[2026.03.09-15.18.11:480][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_2]
+[2026.03.09-15.18.11:547][562]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_2
+[2026.03.09-15.18.11:547][562]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_door_hard_surface_practic8F3C69144878CE02D456328064C34EDF.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_2.uasset'
+[2026.03.09-15.18.11:550][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_3] ([1] browsable assets)...
+[2026.03.09-15.18.11:550][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_3]
+[2026.03.09-15.18.11:615][562]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_3
+[2026.03.09-15.18.11:615][562]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_door_hard_surface_practic7DC1BA0F476DAFA3407670A0E05970A2.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_3.uasset'
+[2026.03.09-15.18.11:616][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Materials/Door] ([1] browsable assets)...
+[2026.03.09-15.18.11:616][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Materials/Door]
+[2026.03.09-15.18.11:623][562]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Materials/Door
+[2026.03.09-15.18.11:623][562]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Door03D6E5014EAD88D34DAB47BF2FDB541B.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Materials/Door.uasset'
+[2026.03.09-15.18.11:624][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/StaticMeshes/sci_fi_door_hard_surface_practice] ([1] browsable assets)...
+[2026.03.09-15.18.11:624][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/StaticMeshes/sci_fi_door_hard_surface_practice]
+[2026.03.09-15.18.11:634][562]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/StaticMeshes/sci_fi_door_hard_surface_practice
+[2026.03.09-15.18.11:634][562]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_door_hard_surface_practic2E2B4FF449A2B7C58EE933A77CB5B03A.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/StaticMeshes/sci_fi_door_hard_surface_practice.uasset'
+[2026.03.09-15.18.11:637][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_0] ([1] browsable assets)...
+[2026.03.09-15.18.11:637][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_0]
+[2026.03.09-15.18.11:670][562]LogSavePackage: Moving output files for package: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_0
+[2026.03.09-15.18.11:670][562]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_new_door_texture_0D4497E5342C4F7B63B85DC9E26504676.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_0.uasset'
+[2026.03.09-15.18.11:672][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_1] ([1] browsable assets)...
+[2026.03.09-15.18.11:672][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_1]
+[2026.03.09-15.18.11:706][562]LogSavePackage: Moving output files for package: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_1
+[2026.03.09-15.18.11:706][562]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_new_door_texture_15712D770464D9D205EEDBC8D97205CBE.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_1.uasset'
+[2026.03.09-15.18.11:707][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_2] ([1] browsable assets)...
+[2026.03.09-15.18.11:707][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_2]
+[2026.03.09-15.18.11:742][562]LogSavePackage: Moving output files for package: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_2
+[2026.03.09-15.18.11:742][562]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_new_door_texture_21EBCD92146AB54A722BAAFAC424DFB61.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_2.uasset'
+[2026.03.09-15.18.11:747][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_3] ([1] browsable assets)...
+[2026.03.09-15.18.11:747][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_3]
+[2026.03.09-15.18.11:787][562]LogSavePackage: Moving output files for package: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_3
+[2026.03.09-15.18.11:787][562]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_new_door_texture_369B0091648AEA1EC17B32EB5BC9021C5.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_3.uasset'
+[2026.03.09-15.18.11:788][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_4] ([1] browsable assets)...
+[2026.03.09-15.18.11:789][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_4]
+[2026.03.09-15.18.11:832][562]LogSavePackage: Moving output files for package: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_4
+[2026.03.09-15.18.11:832][562]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_new_door_texture_4369AB09E484648BAD5D9E487AA4AEA95.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_4.uasset'
+[2026.03.09-15.18.11:834][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_5] ([1] browsable assets)...
+[2026.03.09-15.18.11:834][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_5]
+[2026.03.09-15.18.11:876][562]LogSavePackage: Moving output files for package: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_5
+[2026.03.09-15.18.11:876][562]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_new_door_texture_58B837FB047CE9ED2FCEBC2BFECD5C98A.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_5.uasset'
+[2026.03.09-15.18.11:877][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Door] ([1] browsable assets)...
+[2026.03.09-15.18.11:877][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Door]
+[2026.03.09-15.18.11:885][562]LogSavePackage: Moving output files for package: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Door
+[2026.03.09-15.18.11:885][562]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/DoorF23E1A024D9FBC195635DD8E5F321DFE.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Door.uasset'
+[2026.03.09-15.18.11:886][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Portal] ([1] browsable assets)...
+[2026.03.09-15.18.11:886][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Portal]
+[2026.03.09-15.18.11:892][562]LogSavePackage: Moving output files for package: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Portal
+[2026.03.09-15.18.11:892][562]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Portal8C2377D14DBBAA35F1FB67B6D58C6E50.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Portal.uasset'
+[2026.03.09-15.18.11:894][562]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/StaticMeshes/sci_fi_new_door] ([1] browsable assets)...
+[2026.03.09-15.18.11:894][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-fi_New_Door/sci_fi_new_door/StaticMeshes/sci_fi_new_door]
+[2026.03.09-15.18.11:905][562]LogSavePackage: Moving output files for package: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/StaticMeshes/sci_fi_new_door
+[2026.03.09-15.18.11:905][562]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/sci_fi_new_door780833AA4E7B2A1ED076D8B37B78E7ED.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-fi_New_Door/sci_fi_new_door/StaticMeshes/sci_fi_new_door.uasset'
+[2026.03.09-15.18.11:929][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 882.412 ms (total: 6.33 sec)
+[2026.03.09-15.18.11:972][562]LogContentValidation: Display: Starting to validate 16 assets
+[2026.03.09-15.18.11:972][562]LogContentValidation: Enabled validators:
+[2026.03.09-15.18.11:972][562]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.09-15.18.11:972][562]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.09-15.18.11:972][562]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.09-15.18.11:972][562]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.09-15.18.11:972][562]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.09-15.18.11:972][562]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.09-15.18.11:973][562]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.03.09-15.18.11:973][562]AssetCheck: /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_0 Validating asset
+[2026.03.09-15.18.11:973][562]AssetCheck: /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_1 Validating asset
+[2026.03.09-15.18.11:973][562]AssetCheck: /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_2 Validating asset
+[2026.03.09-15.18.11:973][562]AssetCheck: /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Textures/sci_fi_door_hard_surface_practice_texture_3 Validating asset
+[2026.03.09-15.18.11:973][562]AssetCheck: /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/Materials/Door Validating asset
+[2026.03.09-15.18.11:974][562]AssetCheck: /Game/Fab/Sci-Fi_Door/sci_fi_door_hard_surface_practice/StaticMeshes/sci_fi_door_hard_surface_practice Validating asset
+[2026.03.09-15.18.11:974][562]AssetCheck: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_0 Validating asset
+[2026.03.09-15.18.11:974][562]AssetCheck: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_1 Validating asset
+[2026.03.09-15.18.11:974][562]AssetCheck: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_2 Validating asset
+[2026.03.09-15.18.11:974][562]AssetCheck: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_3 Validating asset
+[2026.03.09-15.18.11:974][562]AssetCheck: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_4 Validating asset
+[2026.03.09-15.18.11:974][562]AssetCheck: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Textures/sci_fi_new_door_texture_5 Validating asset
+[2026.03.09-15.18.11:974][562]AssetCheck: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Door Validating asset
+[2026.03.09-15.18.11:974][562]AssetCheck: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/Materials/Portal Validating asset
+[2026.03.09-15.18.11:974][562]AssetCheck: /Game/Fab/Sci-fi_New_Door/sci_fi_new_door/StaticMeshes/sci_fi_new_door Validating asset
+[2026.03.09-15.18.11:990][562]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
