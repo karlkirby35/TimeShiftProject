@@ -2387,3 +2387,605 @@ FPackageName: Skipped package /Game/SciFiContainers/Materials/MasterMaterials/MM
 [2026.03.10-13.06.25:256][691]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.10-13.06.25:257][691]AssetCheck: /Game/Dimensions/DarkVersion Validating asset
 [2026.03.10-13.06.28:542][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.10-13.06.47:523][150]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.10-13.06.47:531][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.10-13.06.47:531][150]LogStreaming: Display: FlushAsyncLoading(531): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.06.47:532][150]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.10-13.06.47:588][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056407s)
+[2026.03.10-13.06.47:588][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.056444s)
+[2026.03.10-13.06.47:607][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.03.10-13.06.47:608][150]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.10-13.06.47:610][150]LogPlayLevel: PIE: World Init took: (0.001476s)
+[2026.03.10-13.06.47:611][150]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.03.10-13.06.47:611][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.10-13.06.47:611][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.10-13.06.47:611][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.10-13.06.47:611][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.10-13.06.47:611][150]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.10-13.06.47:611][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.10-13.06.47:611][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.10-13.06.47:611][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.10-13.06.47:611][150]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.10-13.06.47:611][150]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.10-13.06.47:611][150]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.10-13.06.47:612][150]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.10-13.06.47:635][150]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.10-13.06.47:635][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.10-13.06.47:635][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.10-13.06.47:635][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.10-13.06.47:635][150]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.03.10-13.06.47:635][150]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.03.10-13.06.47:637][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.03.10-13.06.47:637][150]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.03.10-13.06.47:637][150]LogInit: FAudioDevice initialized with ID 8.
+[2026.03.10-13.06.47:637][150]LogAudio: Display: Audio Device (ID: 8) registered with world 'DarkVersion'.
+[2026.03.10-13.06.47:637][150]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.03.10-13.06.47:641][150]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.10-13.06.47:668][150]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.03.10-13.06.47
+[2026.03.10-13.06.47:669][150]LogWorld: Bringing up level for play took: 0.027610
+[2026.03.10-13.06.47:670][150]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.03.10-13.06.47:677][150]PIE: Server logged in
+[2026.03.10-13.06.47:678][150]PIE: Play in editor total start time 0.147 seconds.
+[2026.03.10-13.06.52:029][503]LogBlueprintUserMessages: [ChangeLevel_C_1] Switch
+[2026.03.10-13.06.52:030][503]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.03.10-13.06.52:041][504]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.03.10-13.06.52:041][504]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.03.10-13.06.52:041][504]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.03.10-13.06.52:041][504]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::InvalidURL, reason: "Invalid URL: /Game/Dimensions/LightVersion"
+[2026.03.10-13.06.52:041][504]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Dimensions/LightVersion
+[2026.03.10-13.06.52:041][504]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Dimensions/LightVersion'
+[2026.03.10-13.06.52:041][504]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::ClientTravelFailure, reason: "Invalid URL: /Game/Dimensions/LightVersion"
+[2026.03.10-13.06.52:041][504]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Dimensions/LightVersion
+[2026.03.10-13.06.52:041][504]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Dimensions/LightVersion'
+[2026.03.10-13.06.52:051][505]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion?closed"
+[2026.03.10-13.06.52:051][505]LogNet: Browse: /Game/Dimensions/LightVersion?closed
+[2026.03.10-13.06.52:051][505]LogNet: Connection failed; returning to Entry
+[2026.03.10-13.06.52:051][505]LogLoad: LoadMap: /Game/Dimensions/LightVersion?closed
+[2026.03.10-13.06.52:051][505]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.10-13.06.52:053][505]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-13.06.52:058][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-13.06.52:118][505]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.10-13.06.52:125][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.10-13.06.52:127][505]LogStreaming: Display: FlushAsyncLoading(533): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.06.52:172][505]LogAudio: Display: Audio Device (ID: 8) registered with world 'LightVersion'.
+[2026.03.10-13.06.52:172][505]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.10-13.06.52:174][505]LogPlayLevel: PIE: World Init took: (0.001438s)
+[2026.03.10-13.06.52:174][505]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.10-13.06.52:206][505]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.03.10-13.06.52
+[2026.03.10-13.06.52:206][505]LogWorld: Bringing up level for play took: 0.032433
+[2026.03.10-13.06.52:212][505]LogLoad: Took 0.159737 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.03.10-13.06.52:212][505]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.03.10-13.06.52:243][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.03.10-13.06.55:747][786]LogBlueprintUserMessages: [ChangeLevel_C_5] Switch
+[2026.03.10-13.06.55:759][787]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.03.10-13.06.55:759][787]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.03.10-13.06.55:759][787]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.03.10-13.06.55:759][787]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.10-13.06.55:761][787]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-13.06.55:765][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-13.06.55:792][787]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.10-13.06.55:799][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.10-13.06.55:802][787]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.10-13.06.55:860][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058855s)
+[2026.03.10-13.06.55:860][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.058903s)
+[2026.03.10-13.06.55:860][787]LogAudio: Display: Audio Device (ID: 8) registered with world 'DarkVersion'.
+[2026.03.10-13.06.55:860][787]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.10-13.06.55:862][787]LogPlayLevel: PIE: World Init took: (0.001362s)
+[2026.03.10-13.06.55:862][787]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.10-13.06.55:888][787]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.03.10-13.06.55
+[2026.03.10-13.06.55:888][787]LogWorld: Bringing up level for play took: 0.026005
+[2026.03.10-13.06.55:893][787]LogLoad: Took 0.133676 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_DarkVersion)
+[2026.03.10-13.06.55:893][787]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.10-13.06.58:243][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.10-13.06.58:243][970]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.10-13.06.58:244][970]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-13.06.58:252][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-13.06.58:253][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.10-13.06.58:256][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-13.06.58:276][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.10-13.06.58:279][970]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.03.10-13.06.58:279][970]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.03.10-13.06.58:280][970]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.03.10-13.06.58:290][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.03.10-13.06.58:360][971]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.03.10-13.08.29:002][533]LogFab: Display: Asset Type = gltf
+[2026.03.10-13.08.29:002][533]LogFab: Display: Is Quixel = 1
+[2026.03.10-13.08.29:760][558]LogStreaming: Display: FlushAsyncLoading(534): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.08.30:067][558]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.10-13.08.30:067][558]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/a9a94514-dfba-43cb-92bc-c550d79b8d5d/tileable_moss_patches_sfdnqii_2k_ue_mid_extracted/sfdnqii_tier_2.gltf]
+[2026.03.10-13.08.30:165][560]LogStreaming: Display: FlushAsyncLoading(570): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.08.30:247][562]LogImageWrapper: Warning: PNG Warning() eXIf: duplicate
+[2026.03.10-13.08.30:247][562]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.10-13.08.30:265][562]LogStreaming: Display: FlushAsyncLoading(573): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.08.30:310][562]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+[2026.03.10-13.08.30:315][562]LogTexture: Display: Building textures: /Fab/Textures/Standard/T_DefaultColor.T_DefaultColor (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 1.16142 MB), EncodeSpeed: Fast
+[2026.03.10-13.08.30:316][562]LogTexture: Display: Building textures: /Fab/Textures/Standard/T_DefaultDisplacement.T_DefaultDisplacement (TFO_BC4, 32x32 x1x1x1) (Required Memory Estimate: 1.16988 MB), EncodeSpeed: Fast
+[2026.03.10-13.08.30:316][562]LogTexture: Display: Building textures: /Fab/Textures/Standard/T_DefaultMasks.T_DefaultMasks (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 1.16142 MB), EncodeSpeed: Fast
+[2026.03.10-13.08.30:316][562]LogTexture: Display: Building textures: /Fab/Textures/Standard/T_DefaultNormal.T_DefaultNormal (TFO_BC5, 32x32 x1x1x1) (Required Memory Estimate: 1.288993 MB), EncodeSpeed: Fast
+[2026.03.10-13.08.30:386][563]LogTexture: Display: Building textures: /Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_N.T_sfdnqii_2K_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.03.10-13.08.30:386][563]LogTexture: Display: Building textures: /Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_B-O.T_sfdnqii_2K_B-O (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.03.10-13.08.30:386][563]LogTexture: Display: Building textures: /Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_ORM.T_sfdnqii_2K_ORM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 388.083323 MB), EncodeSpeed: Fast
+[2026.03.10-13.08.30:499][574]LogInterchangeEngine: Display: Interchange import completed [C:/Users/N00235865/A..._2k_ue_mid_extracted/sfdnqii_tier_2.gltf]
+[2026.03.10-13.10.02:126][189]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.10-13.10.02:126][189]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.10-13.10.02:128][189]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_963
+[2026.03.10-13.10.02:129][189]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_963
+[2026.03.10-13.10.46:812][561]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.10-13.10.46:821][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.10-13.10.46:821][561]LogStreaming: Display: FlushAsyncLoading(575): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.10.46:821][561]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.10-13.10.46:881][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059954s)
+[2026.03.10-13.10.46:881][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.059992s)
+[2026.03.10-13.10.46:914][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.03.10-13.10.46:916][561]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.10-13.10.46:917][561]LogPlayLevel: PIE: World Init took: (0.001694s)
+[2026.03.10-13.10.46:918][561]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.03.10-13.10.46:918][561]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.10-13.10.46:918][561]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.10-13.10.46:918][561]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.10-13.10.46:918][561]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.10-13.10.46:918][561]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.10-13.10.46:918][561]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.10-13.10.46:918][561]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.10-13.10.46:918][561]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.10-13.10.46:918][561]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.10-13.10.46:918][561]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.10-13.10.46:918][561]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.10-13.10.46:920][561]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.10-13.10.46:945][561]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.10-13.10.46:945][561]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.10-13.10.46:945][561]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.10-13.10.46:945][561]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.10-13.10.46:946][561]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.03.10-13.10.46:946][561]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.03.10-13.10.46:948][561]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.03.10-13.10.46:948][561]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.03.10-13.10.46:948][561]LogInit: FAudioDevice initialized with ID 9.
+[2026.03.10-13.10.46:948][561]LogAudio: Display: Audio Device (ID: 9) registered with world 'DarkVersion'.
+[2026.03.10-13.10.46:948][561]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.03.10-13.10.46:951][561]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.10-13.10.46:980][561]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.03.10-13.10.46
+[2026.03.10-13.10.46:981][561]LogWorld: Bringing up level for play took: 0.028823
+[2026.03.10-13.10.46:983][561]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.03.10-13.10.46:989][561]PIE: Server logged in
+[2026.03.10-13.10.46:991][561]PIE: Play in editor total start time 0.17 seconds.
+[2026.03.10-13.10.50:877][907]LogBlueprintUserMessages: [ChangeLevel_C_1] Switch
+[2026.03.10-13.10.50:879][907]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.03.10-13.10.50:890][908]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.03.10-13.10.50:890][908]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.03.10-13.10.50:890][908]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.03.10-13.10.50:890][908]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::InvalidURL, reason: "Invalid URL: /Game/Dimensions/LightVersion"
+[2026.03.10-13.10.50:890][908]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Dimensions/LightVersion
+[2026.03.10-13.10.50:890][908]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Dimensions/LightVersion'
+[2026.03.10-13.10.50:890][908]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::ClientTravelFailure, reason: "Invalid URL: /Game/Dimensions/LightVersion"
+[2026.03.10-13.10.50:890][908]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Dimensions/LightVersion
+[2026.03.10-13.10.50:890][908]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Dimensions/LightVersion'
+[2026.03.10-13.10.50:900][909]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion?closed"
+[2026.03.10-13.10.50:900][909]LogNet: Browse: /Game/Dimensions/LightVersion?closed
+[2026.03.10-13.10.50:900][909]LogNet: Connection failed; returning to Entry
+[2026.03.10-13.10.50:900][909]LogLoad: LoadMap: /Game/Dimensions/LightVersion?closed
+[2026.03.10-13.10.50:900][909]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.10-13.10.50:901][909]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-13.10.50:906][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-13.10.50:957][909]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.10-13.10.50:965][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.10-13.10.50:968][909]LogStreaming: Display: FlushAsyncLoading(576): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.10.51:015][909]LogAudio: Display: Audio Device (ID: 9) registered with world 'LightVersion'.
+[2026.03.10-13.10.51:015][909]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.10-13.10.51:016][909]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2026.03.10-13.10.51:016][909]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.10-13.10.51:048][909]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 0) at 2026.03.10-13.10.51
+[2026.03.10-13.10.51:049][909]LogWorld: Bringing up level for play took: 0.032730
+[2026.03.10-13.10.51:054][909]LogLoad: Took 0.153304 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.03.10-13.10.51:054][909]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.03.10-13.10.51:084][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.10-13.10.53:977][126]LogBlueprintUserMessages: [ChangeLevel_C_5] Switch
+[2026.03.10-13.10.53:991][127]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.03.10-13.10.53:991][127]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.03.10-13.10.53:991][127]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.03.10-13.10.53:991][127]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.10-13.10.53:993][127]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-13.10.53:997][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-13.10.54:024][127]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.10-13.10.54:030][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.03.10-13.10.54:034][127]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.10-13.10.54:095][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060764s)
+[2026.03.10-13.10.54:095][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.060813s)
+[2026.03.10-13.10.54:095][127]LogAudio: Display: Audio Device (ID: 9) registered with world 'DarkVersion'.
+[2026.03.10-13.10.54:095][127]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.10-13.10.54:096][127]LogPlayLevel: PIE: World Init took: (0.001417s)
+[2026.03.10-13.10.54:096][127]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.10-13.10.54:121][127]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 0) at 2026.03.10-13.10.54
+[2026.03.10-13.10.54:123][127]LogWorld: Bringing up level for play took: 0.026905
+[2026.03.10-13.10.54:128][127]LogLoad: Took 0.137141 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_DarkVersion)
+[2026.03.10-13.10.54:128][127]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.10-13.11.25:114][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.10-13.11.25:114][289]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.10-13.11.25:115][289]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-13.11.25:123][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-13.11.25:125][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.10-13.11.25:129][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-13.11.25:151][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.10-13.11.25:154][289]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.03.10-13.11.25:154][289]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.03.10-13.11.25:156][289]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.03.10-13.11.25:166][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.10-13.11.25:240][290]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.03.10-13.11.34:631][347]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1050.672607
+[2026.03.10-13.11.34:774][364]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.10-13.11.34:774][364]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1050.805908, Update Interval: 345.371246
+[2026.03.10-13.11.43:619][424]LogFab: Display: Asset Type = gltf
+[2026.03.10-13.11.43:619][424]LogFab: Display: Is Quixel = 1
+[2026.03.10-13.11.45:025][525]LogStreaming: Display: FlushAsyncLoading(577): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.11.45:026][525]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.10-13.11.45:026][525]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/76dc8285-c83b-42f0-b631-c6f36dcc3304/metal_rust_pile_slxobqd_2k_ue_mid_extracted/slxobqd_tier_2.gltf]
+[2026.03.10-13.11.45:111][527]LogStreaming: Display: FlushAsyncLoading(578): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.11.45:165][529]LogImageWrapper: Warning: PNG Warning() eXIf: duplicate
+[2026.03.10-13.11.45:165][529]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.10-13.11.45:197][529]LogStreaming: Display: FlushAsyncLoading(581): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.11.45:290][531]LogTexture: Display: Building textures: /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_N.T_slxobqd_2K_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 562.499988 MB), EncodeSpeed: Fast
+[2026.03.10-13.11.45:290][531]LogTexture: Display: Building textures: /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_ORM.T_slxobqd_2K_ORM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 388.083323 MB), EncodeSpeed: Fast
+[2026.03.10-13.11.45:290][531]LogTexture: Display: Building textures: /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_B-O.T_slxobqd_2K_B-O (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 351.083323 MB), EncodeSpeed: Fast
+[2026.03.10-13.11.45:431][533]LogInterchangeEngine: Display: Interchange import completed [C:/Users/N00235865/A..._2k_ue_mid_extracted/slxobqd_tier_2.gltf]
+[2026.03.10-13.11.59:626][228]Cmd: TRANSACTION UNDO
+[2026.03.10-13.11.59:626][228]LogEditorTransaction: Undo Place Objects
+[2026.03.10-13.12.37:142][308]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_B-O_Mat.T_slxobqd_2K_B-O_Mat
+[2026.03.10-13.12.37:145][308]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.03.10-13.12.37:155][308]LogStreaming: Display: FlushAsyncLoading(582): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.12.37:660][308]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.10-13.12.37:660][308]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-13.12.37:660][308]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-13.12.37:660][308]MaterialEditorStats: Shader Count: 0
+[2026.03.10-13.12.37:660][308]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-13.12.37:768][310]MaterialEditorStats: Base pass shader: 180 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.03.10-13.12.37:768][310]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.03.10-13.12.37:768][310]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.10-13.12.37:768][310]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.03.10-13.12.37:768][310]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.03.10-13.12.37:768][310]MaterialEditorStats: Shader Count: 11
+[2026.03.10-13.12.37:768][310]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.03.10-13.12.41:471][609]LogSlate: Window 'T_slxobqd_2K_B-O_Mat' being destroyed
+[2026.03.10-13.12.41:531][609]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.10-13.12.41:531][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.10-13.12.41:576][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.10-13.13.47:602][659]Cmd: EDIT COPY
+[2026.03.10-13.13.48:341][696]Cmd: EDIT PASTE
+[2026.03.10-13.13.56:203][ 72]Cmd: EDIT COPY
+[2026.03.10-13.13.56:919][112]Cmd: EDIT PASTE
+[2026.03.10-13.14.03:556][455]Cmd: EDIT PASTE
+[2026.03.10-13.14.32:735][909]Cmd: EDIT COPY
+[2026.03.10-13.14.34:085][983]Cmd: EDIT PASTE
+[2026.03.10-13.15.45:440][810]LogFab: Display: Asset Type = glb
+[2026.03.10-13.15.45:440][810]LogFab: Display: Is Quixel = 0
+[2026.03.10-13.15.47:875][ 10]LogStreaming: Display: FlushAsyncLoading(587): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.15.47:876][ 10]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.10-13.15.47:876][ 10]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/bada6244-a207-48f6-aba5-606193efd62f/sci-fi-incubator_extracted/source/Incubator.glb]
+[2026.03.10-13.15.47:905][ 13]LogStreaming: Display: FlushAsyncLoading(588): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.15.47:948][ 18]LogStreaming: Display: FlushAsyncLoading(598): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.15.48:302][ 22]LogStaticMesh: Display: Building static mesh Incubator (Required Memory Estimate: 23.880486 MB)...
+[2026.03.10-13.15.48:307][ 22]LogTexture: Display: Building textures: /Game/Fab/Sci_fi_incubator/Incubator/Textures/26900.26900 (BGRA8, 2000x1577 x1x1x1) (Required Memory Estimate: 109.283989 MB), EncodeSpeed: Fast
+[2026.03.10-13.15.48:323][ 23]LogTexture: Display: Building textures: /Game/Fab/Sci_fi_incubator/Incubator/Textures/thanit2022april_19.thanit2022april_19 (BGRA8, 5210x3473 x1x1x1) (Required Memory Estimate: 622.219513 MB), EncodeSpeed: Fast
+[2026.03.10-13.15.48:434][ 32]LogStaticMesh: Built static mesh [0.13s] /Game/Fab/Sci_fi_incubator/Incubator/StaticMeshes/Incubator.Incubator
+[2026.03.10-13.15.48:455][ 34]LogStaticMesh: Warning: Incubator has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2026.03.10-13.15.48:455][ 34]LogStaticMesh: Warning: Incubator has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.03.10-13.15.48:455][ 34]LogStaticMesh: Warning: Incubator has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.03.10-13.15.48:601][ 35]LogInterchangeEngine: Display: Interchange import completed [C:/Users/N00235865/A...tor_extracted/source/Incubator.glb]
+[2026.03.10-13.15.59:009][263]LogFab: Display: Asset Type = glb
+[2026.03.10-13.15.59:009][263]LogFab: Display: Is Quixel = 0
+[2026.03.10-13.16.00:775][389]LogStreaming: Display: FlushAsyncLoading(599): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.16.00:777][389]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.10-13.16.00:777][389]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/N00235865/AppData/Local/Temp/FabLibrary/d7dd822c-4dcf-4054-9362-2b8fa47cdbc8/chargerpannel.glb]
+[2026.03.10-13.16.00:844][395]LogStreaming: Display: FlushAsyncLoading(600): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.16.00:935][404]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.10-13.16.00:960][406]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2026.03.10-13.16.01:186][429]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.10-13.16.01:263][437]LogStreaming: Display: FlushAsyncLoading(617): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.16.01:312][442]LogStreaming: Display: FlushAsyncLoading(618): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.16.01:417][454]LogStreaming: Display: FlushAsyncLoading(619): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.16.01:440][456]LogStreaming: Display: FlushAsyncLoading(620): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.16.01:517][465]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.10-13.16.01:545][468]LogStreaming: Display: FlushAsyncLoading(622): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.16.01:603][474]LogStreaming: Display: FlushAsyncLoading(623): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.10-13.16.01:749][478]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_0.chargerpannel_texture_0 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.01:749][478]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_10.chargerpannel_texture_10 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.01:749][478]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_1.chargerpannel_texture_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.01:783][478]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_2.chargerpannel_texture_2 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1072.999983 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.01:798][478]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_12.chargerpannel_texture_12 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.01:800][478]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_11.chargerpannel_texture_11 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.01:807][478]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_16.chargerpannel_texture_16 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.01:808][478]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_14.chargerpannel_texture_14 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.01:809][478]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_17.chargerpannel_texture_17 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.01:810][478]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_5.chargerpannel_texture_5 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.01:817][478]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_13.chargerpannel_texture_13 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.01:817][478]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_15.chargerpannel_texture_15 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.01:818][478]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_3.chargerpannel_texture_3 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.01:820][478]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_6.chargerpannel_texture_6 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.01:824][478]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_4.chargerpannel_texture_4 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.02:987][517]LogStaticMesh: Display: Building static mesh chargerpannel (Required Memory Estimate: 49.494591 MB)...
+[2026.03.10-13.16.03:021][517]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_9.chargerpannel_texture_9 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1234.499988 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.03:022][517]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_8.chargerpannel_texture_8 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.03:022][517]LogTexture: Display: Building textures: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_7.chargerpannel_texture_7 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.03.10-13.16.03:369][528]LogStaticMesh: Built static mesh [0.38s] /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/StaticMeshes/chargerpannel.chargerpannel
+[2026.03.10-13.16.03:434][529]LogInterchangeEngine: Display: Interchange import completed [C:/Users/N00235865/A...54-9362-2b8fa47cdbc8/chargerpannel.glb]
+[2026.03.10-13.16.06:604][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.10-13.16.06:616][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.10-13.16.06:725][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.10-13.16.06:900][704]LogSavePackage: Moving output files for package: /Game/Dimensions/DarkVersion
+[2026.03.10-13.16.06:901][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/DarkVersion11181FB94CF9DF43ED55579B5D620782.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Dimensions/DarkVersion.umap'
+[2026.03.10-13.16.06:919][704]LogFileHelpers: Saving map 'DarkVersion' took 0.245
+[2026.03.10-13.16.06:919][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_N] ([1] browsable assets)...
+[2026.03.10-13.16.06:921][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_N.T_sfdnqii_2K_N]
+[2026.03.10-13.16.06:921][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_N]
+[2026.03.10-13.16.06:962][704]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_N
+[2026.03.10-13.16.06:962][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_sfdnqii_2K_N146C4A6D4DC465A7F94EAE8C3A86028B.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_N.uasset'
+[2026.03.10-13.16.06:964][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_ORM] ([1] browsable assets)...
+[2026.03.10-13.16.06:966][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_ORM.T_sfdnqii_2K_ORM]
+[2026.03.10-13.16.06:966][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_ORM]
+[2026.03.10-13.16.07:009][704]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_ORM
+[2026.03.10-13.16.07:009][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_sfdnqii_2K_ORMA88A756F46EC8953F22D7CAC8344CE96.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_ORM.uasset'
+[2026.03.10-13.16.07:010][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_B-O] ([1] browsable assets)...
+[2026.03.10-13.16.07:012][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_B-O.T_sfdnqii_2K_B-O]
+[2026.03.10-13.16.07:012][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_B-O]
+[2026.03.10-13.16.07:057][704]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_B-O
+[2026.03.10-13.16.07:057][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_sfdnqii_2K_B-OFBD952A9488C256E8CA6FCB4CD6136F7.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_B-O.uasset'
+[2026.03.10-13.16.07:060][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Materials/MI_sfdnqii] ([1] browsable assets)...
+[2026.03.10-13.16.07:080][704]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Materials/MI_sfdnqii.MI_sfdnqii]
+[2026.03.10-13.16.07:080][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Materials/MI_sfdnqii]
+[2026.03.10-13.16.07:090][704]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Materials/MI_sfdnqii
+[2026.03.10-13.16.07:090][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/MI_sfdnqii4DE50AFA4AF9F67826A78EBB455B4960.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Materials/MI_sfdnqii.uasset'
+[2026.03.10-13.16.07:092][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_N] ([1] browsable assets)...
+[2026.03.10-13.16.07:131][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_N.T_slxobqd_2K_N]
+[2026.03.10-13.16.07:131][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_N]
+[2026.03.10-13.16.07:164][704]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_N
+[2026.03.10-13.16.07:164][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_slxobqd_2K_N587C73134F2609F728EC9180F7A887E4.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_N.uasset'
+[2026.03.10-13.16.07:166][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_ORM] ([1] browsable assets)...
+[2026.03.10-13.16.07:168][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_ORM.T_slxobqd_2K_ORM]
+[2026.03.10-13.16.07:168][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_ORM]
+[2026.03.10-13.16.07:201][704]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_ORM
+[2026.03.10-13.16.07:201][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_slxobqd_2K_ORMB2443D334CF0D12E684B88A5868FB87B.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_ORM.uasset'
+[2026.03.10-13.16.07:202][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_B-O] ([1] browsable assets)...
+[2026.03.10-13.16.07:205][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_B-O.T_slxobqd_2K_B-O]
+[2026.03.10-13.16.07:205][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_B-O]
+[2026.03.10-13.16.07:240][704]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_B-O
+[2026.03.10-13.16.07:240][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_slxobqd_2K_B-O32BEBA32448E17480E495988EDB99A38.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_B-O.uasset'
+[2026.03.10-13.16.07:242][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Materials/MI_slxobqd] ([1] browsable assets)...
+[2026.03.10-13.16.07:252][704]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Materials/MI_slxobqd.MI_slxobqd]
+[2026.03.10-13.16.07:252][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Materials/MI_slxobqd]
+[2026.03.10-13.16.07:261][704]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Materials/MI_slxobqd
+[2026.03.10-13.16.07:261][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/MI_slxobqd2292210044181794F1D4CC86019A5980.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Materials/MI_slxobqd.uasset'
+[2026.03.10-13.16.07:262][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_B-O_Mat] ([1] browsable assets)...
+[2026.03.10-13.16.07:272][704]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_B-O_Mat.T_slxobqd_2K_B-O_Mat]
+[2026.03.10-13.16.07:272][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_B-O_Mat]
+[2026.03.10-13.16.07:281][704]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_B-O_Mat
+[2026.03.10-13.16.07:282][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/T_slxobqd_2K_B-O_MatE9CCDFF541CB377EB34DB584DD692E98.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_B-O_Mat.uasset'
+[2026.03.10-13.16.07:284][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci_fi_incubator/Incubator/Materials/Shell] ([1] browsable assets)...
+[2026.03.10-13.16.07:347][704]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci_fi_incubator/Incubator/Materials/Shell.Shell]
+[2026.03.10-13.16.07:347][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_incubator/Incubator/Materials/Shell]
+[2026.03.10-13.16.07:357][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci_fi_incubator/Incubator/Materials/Shell
+[2026.03.10-13.16.07:357][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Shell301552AC4F27C0B94FCEAB88A5AD5E00.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci_fi_incubator/Incubator/Materials/Shell.uasset'
+[2026.03.10-13.16.07:359][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci_fi_incubator/Incubator/Materials/Stand] ([1] browsable assets)...
+[2026.03.10-13.16.07:367][704]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci_fi_incubator/Incubator/Materials/Stand.Stand]
+[2026.03.10-13.16.07:367][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_incubator/Incubator/Materials/Stand]
+[2026.03.10-13.16.07:377][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci_fi_incubator/Incubator/Materials/Stand
+[2026.03.10-13.16.07:377][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Stand0543FCBA491C8BF9BAED67B22ECB1C1E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci_fi_incubator/Incubator/Materials/Stand.uasset'
+[2026.03.10-13.16.07:379][704]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_incubator/Incubator/Materials/Light_001] ([1] browsable assets)...
+[2026.03.10-13.16.07:379][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_incubator/Incubator/Materials/Light_001]
+[2026.03.10-13.16.07:386][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci_fi_incubator/Incubator/Materials/Light_001
+[2026.03.10-13.16.07:386][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Light_001F1626BF340F9C8BEA7422CB8C6EE0AF6.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci_fi_incubator/Incubator/Materials/Light_001.uasset'
+[2026.03.10-13.16.07:387][704]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_incubator/Incubator/Materials/Bottom_display] ([1] browsable assets)...
+[2026.03.10-13.16.07:387][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_incubator/Incubator/Materials/Bottom_display]
+[2026.03.10-13.16.07:395][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci_fi_incubator/Incubator/Materials/Bottom_display
+[2026.03.10-13.16.07:395][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Bottom_displayB69463794CF8135DB264C89482C1E13C.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci_fi_incubator/Incubator/Materials/Bottom_display.uasset'
+[2026.03.10-13.16.07:396][704]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_incubator/Incubator/Materials/Light] ([1] browsable assets)...
+[2026.03.10-13.16.07:396][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_incubator/Incubator/Materials/Light]
+[2026.03.10-13.16.07:402][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci_fi_incubator/Incubator/Materials/Light
+[2026.03.10-13.16.07:402][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/LightC8A21381448872BBDCBB2C9E61C6E274.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci_fi_incubator/Incubator/Materials/Light.uasset'
+[2026.03.10-13.16.07:405][704]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_incubator/Incubator/Materials/Top_display] ([1] browsable assets)...
+[2026.03.10-13.16.07:405][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_incubator/Incubator/Materials/Top_display]
+[2026.03.10-13.16.07:412][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci_fi_incubator/Incubator/Materials/Top_display
+[2026.03.10-13.16.07:412][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Top_displayF24E24814C062C5D75A8B8B6E1A338AC.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci_fi_incubator/Incubator/Materials/Top_display.uasset'
+[2026.03.10-13.16.07:414][704]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_incubator/Incubator/Materials/Pipes] ([1] browsable assets)...
+[2026.03.10-13.16.07:414][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_incubator/Incubator/Materials/Pipes]
+[2026.03.10-13.16.07:421][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci_fi_incubator/Incubator/Materials/Pipes
+[2026.03.10-13.16.07:421][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Pipes0120F8194442544071C4B3B2BEDD4BA6.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci_fi_incubator/Incubator/Materials/Pipes.uasset'
+[2026.03.10-13.16.07:422][704]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci_fi_incubator/Incubator/Materials/Wires] ([1] browsable assets)...
+[2026.03.10-13.16.07:422][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_incubator/Incubator/Materials/Wires]
+[2026.03.10-13.16.07:430][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci_fi_incubator/Incubator/Materials/Wires
+[2026.03.10-13.16.07:430][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/WiresA8736FAB439AF7046F078282D06E6BD8.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci_fi_incubator/Incubator/Materials/Wires.uasset'
+[2026.03.10-13.16.07:431][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci_fi_incubator/Incubator/Textures/thanit2022april_19] ([1] browsable assets)...
+[2026.03.10-13.16.07:470][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci_fi_incubator/Incubator/Textures/thanit2022april_19.thanit2022april_19]
+[2026.03.10-13.16.07:470][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_incubator/Incubator/Textures/thanit2022april_19]
+[2026.03.10-13.16.07:559][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci_fi_incubator/Incubator/Textures/thanit2022april_19
+[2026.03.10-13.16.07:559][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/thanit2022april_198D7E21CD458621CEE9012495FD031AED.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci_fi_incubator/Incubator/Textures/thanit2022april_19.uasset'
+[2026.03.10-13.16.07:560][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci_fi_incubator/Incubator/Textures/26900] ([1] browsable assets)...
+[2026.03.10-13.16.07:598][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci_fi_incubator/Incubator/Textures/26900.26900]
+[2026.03.10-13.16.07:598][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_incubator/Incubator/Textures/26900]
+[2026.03.10-13.16.07:627][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci_fi_incubator/Incubator/Textures/26900
+[2026.03.10-13.16.07:627][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/26900DA294B2B408AD83722750196B0948AB6.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci_fi_incubator/Incubator/Textures/26900.uasset'
+[2026.03.10-13.16.07:628][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci_fi_incubator/Incubator/StaticMeshes/Incubator] ([1] browsable assets)...
+[2026.03.10-13.16.07:641][704]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Sci_fi_incubator/Incubator/StaticMeshes/Incubator.Incubator]
+[2026.03.10-13.16.07:641][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci_fi_incubator/Incubator/StaticMeshes/Incubator]
+[2026.03.10-13.16.07:662][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci_fi_incubator/Incubator/StaticMeshes/Incubator
+[2026.03.10-13.16.07:662][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/IncubatorDBD7C4C74029D4CBC1FBE98722E20C4A.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci_fi_incubator/Incubator/StaticMeshes/Incubator.uasset'
+[2026.03.10-13.16.07:664][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_0] ([1] browsable assets)...
+[2026.03.10-13.16.07:667][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_0.chargerpannel_texture_0]
+[2026.03.10-13.16.07:667][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_0]
+[2026.03.10-13.16.07:808][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_0
+[2026.03.10-13.16.07:808][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_0E1E3A9184D4ACEF72D5624A5DE953370.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_0.uasset'
+[2026.03.10-13.16.07:811][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_1] ([1] browsable assets)...
+[2026.03.10-13.16.07:814][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_1.chargerpannel_texture_1]
+[2026.03.10-13.16.07:815][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_1]
+[2026.03.10-13.16.07:941][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_1
+[2026.03.10-13.16.07:941][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_18F2831FB48617416614C01B0D9E8542B.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_1.uasset'
+[2026.03.10-13.16.07:943][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_10] ([1] browsable assets)...
+[2026.03.10-13.16.07:947][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_10.chargerpannel_texture_10]
+[2026.03.10-13.16.07:947][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_10]
+[2026.03.10-13.16.08:067][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_10
+[2026.03.10-13.16.08:067][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_10BBBD09794902E38E6B1A0FA07EDBBE0A.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_10.uasset'
+[2026.03.10-13.16.08:071][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_11] ([1] browsable assets)...
+[2026.03.10-13.16.08:076][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_11.chargerpannel_texture_11]
+[2026.03.10-13.16.08:076][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_11]
+[2026.03.10-13.16.08:183][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_11
+[2026.03.10-13.16.08:183][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_11B42472CC434E8C00DD94599188EA28AE.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_11.uasset'
+[2026.03.10-13.16.08:185][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_12] ([1] browsable assets)...
+[2026.03.10-13.16.08:187][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_12.chargerpannel_texture_12]
+[2026.03.10-13.16.08:187][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_12]
+[2026.03.10-13.16.08:286][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_12
+[2026.03.10-13.16.08:287][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_129CE1ADA040A0F79BEA8CABB25B1875E7.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_12.uasset'
+[2026.03.10-13.16.08:288][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_13] ([1] browsable assets)...
+[2026.03.10-13.16.08:292][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_13.chargerpannel_texture_13]
+[2026.03.10-13.16.08:292][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_13]
+[2026.03.10-13.16.08:412][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_13
+[2026.03.10-13.16.08:412][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_13DD24C6A7457D4B7EE69B25B939543B4A.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_13.uasset'
+[2026.03.10-13.16.08:414][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_14] ([1] browsable assets)...
+[2026.03.10-13.16.08:416][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_14.chargerpannel_texture_14]
+[2026.03.10-13.16.08:416][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_14]
+[2026.03.10-13.16.08:510][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_14
+[2026.03.10-13.16.08:510][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_14E33ABFB5436FFBC4BF260FAE0EDCE5FF.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_14.uasset'
+[2026.03.10-13.16.08:512][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_15] ([1] browsable assets)...
+[2026.03.10-13.16.08:515][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_15.chargerpannel_texture_15]
+[2026.03.10-13.16.08:515][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_15]
+[2026.03.10-13.16.08:602][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_15
+[2026.03.10-13.16.08:602][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_153C41EA56406059797D0EADB26E694179.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_15.uasset'
+[2026.03.10-13.16.08:607][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_16] ([1] browsable assets)...
+[2026.03.10-13.16.08:610][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_16.chargerpannel_texture_16]
+[2026.03.10-13.16.08:610][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_16]
+[2026.03.10-13.16.08:702][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_16
+[2026.03.10-13.16.08:702][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_16845986BF40209CF10D4B22ACFA54F953.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_16.uasset'
+[2026.03.10-13.16.08:704][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_17] ([1] browsable assets)...
+[2026.03.10-13.16.08:707][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_17.chargerpannel_texture_17]
+[2026.03.10-13.16.08:707][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_17]
+[2026.03.10-13.16.08:794][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_17
+[2026.03.10-13.16.08:794][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_17D650243F49E3D02D6611089AF3A6AB02.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_17.uasset'
+[2026.03.10-13.16.08:795][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_2] ([1] browsable assets)...
+[2026.03.10-13.16.08:798][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_2.chargerpannel_texture_2]
+[2026.03.10-13.16.08:798][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_2]
+[2026.03.10-13.16.08:830][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_2
+[2026.03.10-13.16.08:830][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_225C58E6F4E717B7E217AC5BF1C73B222.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_2.uasset'
+[2026.03.10-13.16.08:831][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_3] ([1] browsable assets)...
+[2026.03.10-13.16.08:833][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_3.chargerpannel_texture_3]
+[2026.03.10-13.16.08:833][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_3]
+[2026.03.10-13.16.08:923][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_3
+[2026.03.10-13.16.08:923][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_31765B20E4543AF62079AA1BA8898FB94.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_3.uasset'
+[2026.03.10-13.16.08:925][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_4] ([1] browsable assets)...
+[2026.03.10-13.16.08:928][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_4.chargerpannel_texture_4]
+[2026.03.10-13.16.08:928][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_4]
+[2026.03.10-13.16.09:012][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_4
+[2026.03.10-13.16.09:012][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_44E3132AB456FF558F76152B4E25AEBE4.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_4.uasset'
+[2026.03.10-13.16.09:014][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_5] ([1] browsable assets)...
+[2026.03.10-13.16.09:017][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_5.chargerpannel_texture_5]
+[2026.03.10-13.16.09:017][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_5]
+[2026.03.10-13.16.09:095][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_5
+[2026.03.10-13.16.09:095][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_5EA8B5B464D3F4BE45F95858E482E4E76.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_5.uasset'
+[2026.03.10-13.16.09:097][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_6] ([1] browsable assets)...
+[2026.03.10-13.16.09:100][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_6.chargerpannel_texture_6]
+[2026.03.10-13.16.09:100][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_6]
+[2026.03.10-13.16.09:178][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_6
+[2026.03.10-13.16.09:178][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_6FFBBF869454B06FBD0463F925B6F52B2.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_6.uasset'
+[2026.03.10-13.16.09:179][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_8] ([1] browsable assets)...
+[2026.03.10-13.16.09:182][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_8.chargerpannel_texture_8]
+[2026.03.10-13.16.09:182][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_8]
+[2026.03.10-13.16.09:262][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_8
+[2026.03.10-13.16.09:262][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_80912E16D434554D40639908D01394FA3.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_8.uasset'
+[2026.03.10-13.16.09:266][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_9] ([1] browsable assets)...
+[2026.03.10-13.16.09:267][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_9.chargerpannel_texture_9]
+[2026.03.10-13.16.09:267][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_9]
+[2026.03.10-13.16.09:345][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_9
+[2026.03.10-13.16.09:345][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_90E950D1A4FBCC6E1C1343D8ACD72A4BE.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_9.uasset'
+[2026.03.10-13.16.09:347][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Screens] ([1] browsable assets)...
+[2026.03.10-13.16.09:356][704]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Screens.Screens]
+[2026.03.10-13.16.09:356][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Screens]
+[2026.03.10-13.16.09:366][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Screens
+[2026.03.10-13.16.09:366][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Screens983AD6F24150E53E132699A98308F4EA.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Screens.uasset'
+[2026.03.10-13.16.09:367][704]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/GLOSSY] ([1] browsable assets)...
+[2026.03.10-13.16.09:367][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/GLOSSY]
+[2026.03.10-13.16.09:376][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/GLOSSY
+[2026.03.10-13.16.09:376][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/GLOSSYCE8CC2314CC6B45FCFB92895AABB668F.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/GLOSSY.uasset'
+[2026.03.10-13.16.09:377][704]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Outer_Tube] ([1] browsable assets)...
+[2026.03.10-13.16.09:377][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Outer_Tube]
+[2026.03.10-13.16.09:384][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Outer_Tube
+[2026.03.10-13.16.09:384][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Outer_Tube3AD94D0D4BCD8F2B3ECDD0900250BEBB.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Outer_Tube.uasset'
+[2026.03.10-13.16.09:386][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_7] ([1] browsable assets)...
+[2026.03.10-13.16.09:389][704]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_7.chargerpannel_texture_7]
+[2026.03.10-13.16.09:389][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_7]
+[2026.03.10-13.16.09:463][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_7
+[2026.03.10-13.16.09:463][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel_texture_7F37B51184091875A267723A2F37468E3.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_7.uasset'
+[2026.03.10-13.16.09:465][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Material_001] ([1] browsable assets)...
+[2026.03.10-13.16.09:474][704]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Material_001.Material_001]
+[2026.03.10-13.16.09:474][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Material_001]
+[2026.03.10-13.16.09:484][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Material_001
+[2026.03.10-13.16.09:484][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Material_00162E31C5E43E19B7B86AB6D9739B6633A.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Material_001.uasset'
+[2026.03.10-13.16.09:484][704]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Numpad] ([1] browsable assets)...
+[2026.03.10-13.16.09:484][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Numpad]
+[2026.03.10-13.16.09:493][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Numpad
+[2026.03.10-13.16.09:493][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/Numpad9F4B5B064F4119E06B1A879F584544C0.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Numpad.uasset'
+[2026.03.10-13.16.09:494][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/StaticMeshes/chargerpannel] ([1] browsable assets)...
+[2026.03.10-13.16.09:504][704]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/StaticMeshes/chargerpannel.chargerpannel]
+[2026.03.10-13.16.09:504][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/StaticMeshes/chargerpannel]
+[2026.03.10-13.16.09:522][704]LogSavePackage: Moving output files for package: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/StaticMeshes/chargerpannel
+[2026.03.10-13.16.09:522][704]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/chargerpannel306AB5424995B0F4EEDE3EB30BC87D6E.tmp' to '../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Content/Fab/Sci-Fi_Charger_Panel/chargerpannel/StaticMeshes/chargerpannel.uasset'
+[2026.03.10-13.16.09:530][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.91 sec (total: 4.04 sec)
+[2026.03.10-13.16.09:612][704]LogContentValidation: Display: Starting to validate 45 assets
+[2026.03.10-13.16.09:612][704]LogContentValidation: Enabled validators:
+[2026.03.10-13.16.09:612][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.10-13.16.09:612][704]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.10-13.16.09:612][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.10-13.16.09:612][704]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.10-13.16.09:612][704]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.10-13.16.09:612][704]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.10-13.16.09:613][704]AssetCheck: /Game/Dimensions/DarkVersion Validating asset
+[2026.03.10-13.16.09:613][704]AssetCheck: /Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_N Validating asset
+[2026.03.10-13.16.09:613][704]AssetCheck: /Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_ORM Validating asset
+[2026.03.10-13.16.09:613][704]AssetCheck: /Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Textures/T_sfdnqii_2K_B-O Validating asset
+[2026.03.10-13.16.09:613][704]AssetCheck: /Game/Fab/Megascans/Decals/Tileable_Moss_Patches_sfdnqii/Medium/sfdnqii_tier_2/Materials/MI_sfdnqii Validating asset
+[2026.03.10-13.16.09:613][704]AssetCheck: /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_N Validating asset
+[2026.03.10-13.16.09:613][704]AssetCheck: /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_ORM Validating asset
+[2026.03.10-13.16.09:613][704]AssetCheck: /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_B-O Validating asset
+[2026.03.10-13.16.09:613][704]AssetCheck: /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Materials/MI_slxobqd Validating asset
+[2026.03.10-13.16.09:613][704]AssetCheck: /Game/Fab/Megascans/Decals/Metal_Rust_Pile_slxobqd/Medium/slxobqd_tier_2/Textures/T_slxobqd_2K_B-O_Mat Validating asset
+[2026.03.10-13.16.09:613][704]AssetCheck: /Game/Fab/Sci_fi_incubator/Incubator/Materials/Shell Validating asset
+[2026.03.10-13.16.09:613][704]AssetCheck: /Game/Fab/Sci_fi_incubator/Incubator/Materials/Stand Validating asset
+[2026.03.10-13.16.09:613][704]AssetCheck: /Game/Fab/Sci_fi_incubator/Incubator/Materials/Light_001 Validating asset
+[2026.03.10-13.16.09:613][704]AssetCheck: /Game/Fab/Sci_fi_incubator/Incubator/Materials/Bottom_display Validating asset
+[2026.03.10-13.16.09:614][704]AssetCheck: /Game/Fab/Sci_fi_incubator/Incubator/Materials/Light Validating asset
+[2026.03.10-13.16.09:614][704]AssetCheck: /Game/Fab/Sci_fi_incubator/Incubator/Materials/Top_display Validating asset
+[2026.03.10-13.16.09:614][704]AssetCheck: /Game/Fab/Sci_fi_incubator/Incubator/Materials/Pipes Validating asset
+[2026.03.10-13.16.09:614][704]AssetCheck: /Game/Fab/Sci_fi_incubator/Incubator/Materials/Wires Validating asset
+[2026.03.10-13.16.09:614][704]AssetCheck: /Game/Fab/Sci_fi_incubator/Incubator/Textures/thanit2022april_19 Validating asset
+[2026.03.10-13.16.09:614][704]AssetCheck: /Game/Fab/Sci_fi_incubator/Incubator/Textures/26900 Validating asset
+[2026.03.10-13.16.09:614][704]AssetCheck: /Game/Fab/Sci_fi_incubator/Incubator/StaticMeshes/Incubator Validating asset
+[2026.03.10-13.16.09:614][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_0 Validating asset
+[2026.03.10-13.16.09:614][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_1 Validating asset
+[2026.03.10-13.16.09:614][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_10 Validating asset
+[2026.03.10-13.16.09:614][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_11 Validating asset
+[2026.03.10-13.16.09:614][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_12 Validating asset
+[2026.03.10-13.16.09:614][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_13 Validating asset
+[2026.03.10-13.16.09:614][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_14 Validating asset
+[2026.03.10-13.16.09:614][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_15 Validating asset
+[2026.03.10-13.16.09:615][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_16 Validating asset
+[2026.03.10-13.16.09:615][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_17 Validating asset
+[2026.03.10-13.16.09:615][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_2 Validating asset
+[2026.03.10-13.16.09:615][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_3 Validating asset
+[2026.03.10-13.16.09:615][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_4 Validating asset
+[2026.03.10-13.16.09:615][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_5 Validating asset
+[2026.03.10-13.16.09:615][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_6 Validating asset
+[2026.03.10-13.16.09:615][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_8 Validating asset
+[2026.03.10-13.16.09:615][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_9 Validating asset
+[2026.03.10-13.16.09:615][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Screens Validating asset
+[2026.03.10-13.16.09:615][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/GLOSSY Validating asset
+[2026.03.10-13.16.09:615][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Outer_Tube Validating asset
+[2026.03.10-13.16.09:615][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Textures/chargerpannel_texture_7 Validating asset
+[2026.03.10-13.16.09:615][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Material_001 Validating asset
+[2026.03.10-13.16.09:615][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/Materials/Numpad Validating asset
+[2026.03.10-13.16.09:615][704]AssetCheck: /Game/Fab/Sci-Fi_Charger_Panel/chargerpannel/StaticMeshes/chargerpannel Validating asset
+[2026.03.10-13.16.09:665][704]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/Unreal Projects/TimeShift/Saved/SourceControl/UncontrolledChangelists.json
