@@ -8437,3 +8437,303 @@ Sampler Limit: 32
 [2026.03.18-20.40.38:621][164]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 2461.601562 MiB, MemoryLimit = 1344.113281 MiB 
 [2026.03.18-20.40.38:628][164]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/karlk/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
 [2026.03.18-20.40.38:679][165]LogInterchangeEngine: Display: Interchange import completed [C:/Users/karlk/AppDa...84-aec5-59ae9d85b18f/highpoly_rocks_free_download.glb]
+[2026.03.18-20.40.47:209][191]LogMeshUtilities: Finished distance field build in 6.6s - 126x126x126 sparse distance field, 3.0Mb total, 0.1Mb always loaded, 89% occupied, 0 triangles, highpoly_rocks_free_download
+[2026.03.18-20.41.02:785][396]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Rocks/highpoly_rocks_free_download/StaticMeshes/highpoly_rocks_free_download.highpoly_rocks_free_download
+[2026.03.18-20.41.02:786][396]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Rocks/highpoly_rocks_free_download/StaticMeshes/highpoly_rocks_free_download.highpoly_rocks_free_download
+[2026.03.18-20.41.02:787][396]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Rocks/highpoly_rocks_free_download/StaticMeshes/highpoly_rocks_free_download.highpoly_rocks_free_download as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_8
+[2026.03.18-20.41.03:872][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.03.18-20.41.03:880][439]LogEditorActor: Deleted 0 Actors (0.052 secs)
+[2026.03.18-20.41.03:891][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Rocks/highpoly_rocks_free_download/StaticMeshes/highpoly_rocks_free_download.highpoly_rocks_free_download
+[2026.03.18-20.41.03:892][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Rocks/highpoly_rocks_free_download/StaticMeshes/highpoly_rocks_free_download.highpoly_rocks_free_download
+[2026.03.18-20.41.03:894][439]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Rocks/highpoly_rocks_free_download/StaticMeshes/highpoly_rocks_free_download.highpoly_rocks_free_download as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_132
+[2026.03.18-20.41.10:565][790]LogDerivedDataCache: C:/Users/karlk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.18-20.41.40:204][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.03.18-20.41.42:103][472]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.18-20.41.42:287][472]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Fab/Rocks/highpoly_rocks_free_download/StaticMeshes/highpoly_rocks_free_download.highpoly_rocks_free_download
+	Asset Type: StaticMesh
+	Asset Name: /Game/Fab/Rocks/highpoly_rocks_free_download/Materials/Material.Material
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/Fab/Rocks/highpoly_rocks_free_download/Textures/highpoly_rocks_free_download_texture_2.highpoly_rocks_free_download_texture_2
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/Rocks/highpoly_rocks_free_download/Textures/highpoly_rocks_free_download_texture_1.highpoly_rocks_free_download_texture_1
+	Asset Type: Texture2D
+	Asset Name: /Game/Fab/Rocks/highpoly_rocks_free_download/Textures/highpoly_rocks_free_download_texture_0.highpoly_rocks_free_download_texture_0
+	Asset Type: Texture2D
+[2026.03.18-20.41.42:960][472]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 2461.601562 MiB, MemoryLimit = 1884.574219 MiB 
+[2026.03.18-20.41.42:960][472]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 2461.601562 MiB, MemoryLimit = 1884.574219 MiB 
+[2026.03.18-20.41.43:126][472]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Fab/Rocks/highpoly_rocks_free_download/StaticMeshes/highpoly_rocks_free_download) ...
+[2026.03.18-20.41.50:983][472]LogMeshUtilities: Finished distance field build in 6.3s - 126x126x126 sparse distance field, 3.0Mb total, 0.1Mb always loaded, 90% occupied, 0 triangles, highpoly_rocks_free_download
+[2026.03.18-20.41.51:262][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.03.18-20.41.51:298][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.18-20.41.51:332][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.03.18-20.41.51:642][473]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2026.03.18-20.41.51:881][474]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: ================================================
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Total job queries 666, among them cache hits 102 (15.32%), DDC hits 456 (68.47%), Duplicates 72 (10.81%)
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Tracking 492 distinct input hashes that result in 346 distinct outputs (70.33%)
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: RAM used: 3.14 MiB of 819.20 MiB budget. Usage: 0.38%
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Shaders Compiled: 36
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Jobs assigned 36, completed 36 (100%)
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Average time worker was idle: 2508.10 s
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Time job spent in pending queue: average 0.68 s, longest 2.30 s
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Job execution time: average 1.08 s, max 2.40 s
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Job life time (pending + execution): average 1.76 s, max 3.11
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Shader code size: total 403.398 KiB, numShaders 38, average 10.615 KiB, min 2.934 KiB, max 30.902 KiB
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.05 s
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.06%
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Jobs were issued in 36 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Average processing rate: 3.58 jobs/sec
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Total thread time: 31.321 s
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Total thread preprocess time: 8.165 s
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Percentage time preprocessing: 26.07%
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Effective parallelization: 3.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.389631
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.21 sec, max 2.21 sec, min 2.21 sec)
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.16 sec, max 2.16 sec, min 2.16 sec)
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.61 sec, max 1.61 sec, min 1.61 sec)
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 1.20 sec, max 1.29 sec, min 1.05 sec)
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 1.08 sec, max 1.49 sec, min 0.83 sec)
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.75% of total time (compiled    6 times, average 1.08 sec, max 1.49 sec, min 0.83 sec)
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.76% of total time (compiled    6 times, average 0.67 sec, max 1.12 sec, min 0.46 sec)
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 12.12% of total time (compiled    4 times, average 0.95 sec, max 1.49 sec, min 0.70 sec)
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.51% of total time (compiled    3 times, average 1.20 sec, max 1.29 sec, min 1.05 sec)
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 7.04% of total time (compiled    1 times, average 2.21 sec, max 2.21 sec, min 2.21 sec)
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: === Material stats ===
+[2026.03.18-20.42.42:280][334]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.18-20.42.42:281][334]LogShaderCompilers: Display: Materials Translated:    243
+[2026.03.18-20.42.42:281][334]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2026.03.18-20.42.42:281][334]LogShaderCompilers: Display: Material Translation Only: 0.12 s (49%)
+[2026.03.18-20.42.42:281][334]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.03.18-20.42.42:281][334]LogShaderCompilers: Display: Material Cache Hits: 59 (24%)
+[2026.03.18-20.42.42:281][334]LogShaderCompilers: Display: ================================================
+[2026.03.18-20.43.13:436][143]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25439.080078
+[2026.03.18-20.43.13:612][153]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.18-20.43.13:612][153]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25439.236328, Update Interval: 317.241730
+[2026.03.18-20.43.58:556][780]LogFab: Display: Add listing to project - b3b80a03-58b6-4125-b1ef-0b8508f12ed6
+[2026.03.18-20.43.58:556][780]LogFab: Display: Listing type - glb
+[2026.03.18-20.44.00:161][849]LogStreaming: Display: FlushAsyncLoading(703): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.18-20.44.00:162][849]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.18-20.44.00:162][849]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/karlk/AppData/Local/Temp/FabLibrary/b3b80a03-58b6-4125-b1ef-0b8508f12ed6/sm_human_skeleton.glb]
+[2026.03.18-20.44.00:250][853]LogStreaming: Display: FlushAsyncLoading(704): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.18-20.44.00:915][868]LogStreaming: Display: FlushAsyncLoading(705): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.18-20.44.05:270][  7]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 2439.188477 MiB, MemoryLimit = 794.816406 MiB 
+[2026.03.18-20.44.05:270][  7]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 2439.188477 MiB, MemoryLimit = 792.273438 MiB 
+[2026.03.18-20.44.05:271][  7]LogStaticMesh: Display: Building static mesh sm_human_skeleton (Required Memory Estimate: 2439.188584 MB)...
+[2026.03.18-20.44.13:573][467]LogStaticMesh: Built static mesh [8.30s] /Game/Fab/Human_Skeleton/sm_human_skeleton/StaticMeshes/sm_human_skeleton.sm_human_skeleton
+[2026.03.18-20.44.16:108][612]LogStaticMesh: Warning: sm_human_skeleton has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.03.18-20.44.16:109][612]LogStaticMesh: Warning: sm_human_skeleton has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.03.18-20.44.16:408][613]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 2439.188477 MiB, MemoryLimit = 1386.000 MiB 
+[2026.03.18-20.44.16:408][613]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [StaticMesh] anyway! RequiredMemory = 0.000 MiB + 2439.188477 MiB, MemoryLimit = 1386.000 MiB 
+[2026.03.18-20.44.16:433][614]LogInterchangeEngine: Display: Interchange import completed [C:/Users/karlk/AppDa...25-b1ef-0b8508f12ed6/sm_human_skeleton.glb]
+[2026.03.18-20.44.20:650][839]LogFab: Display: Add listing to project - c7c2c077-6765-4e8a-97f5-fc7222bb5c75
+[2026.03.18-20.44.20:650][839]LogFab: Display: Listing type - gltf
+[2026.03.18-20.44.21:452][864]LogStreaming: Display: FlushAsyncLoading(706): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.18-20.44.21:454][864]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.18-20.44.21:454][864]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/karlk/AppData/Local/Temp/FabLibrary/c7c2c077-6765-4e8a-97f5-fc7222bb5c75/hand_smear_se0wefxp_2k_ue_mid_extracted/se0wefxp_tier_2.gltf]
+[2026.03.18-20.44.21:561][866]LogStreaming: Display: FlushAsyncLoading(707): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.18-20.44.21:602][868]LogImageWrapper: Warning: PNG Warning() eXIf: duplicate
+[2026.03.18-20.44.21:602][868]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.18-20.44.21:647][868]LogStreaming: Display: FlushAsyncLoading(710): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.18-20.44.21:730][868]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+[2026.03.18-20.44.21:739][868]LogTexture: Display: Building textures: /Fab/Textures/Standard/T_DefaultDisplacement.T_DefaultDisplacement (TFO_BC4, 32x32 x1x1x1) (Required Memory Estimate: 1.16988 MB), EncodeSpeed: Fast
+[2026.03.18-20.44.21:739][868]LogTexture: Display: Building textures: /Fab/Textures/Standard/T_DefaultColor.T_DefaultColor (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 1.16142 MB), EncodeSpeed: Fast
+[2026.03.18-20.44.21:739][868]LogTexture: Display: Building textures: /Fab/Textures/Standard/T_DefaultMasks.T_DefaultMasks (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 1.16142 MB), EncodeSpeed: Fast
+[2026.03.18-20.44.21:741][868]LogTexture: Display: Building textures: /Fab/Textures/Standard/T_DefaultNormal.T_DefaultNormal (TFO_BC5, 32x32 x1x1x1) (Required Memory Estimate: 1.288993 MB), EncodeSpeed: Fast
+[2026.03.18-20.44.21:927][870]LogTexture: Display: Building textures: /Game/Fab/Megascans/Decals/Hand_Smear_se0wefxp/Medium/se0wefxp_tier_2/Textures/T_se0wefxp_2K_N.T_se0wefxp_2K_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2026.03.18-20.44.21:928][870]LogTexture: Display: Building textures: /Game/Fab/Megascans/Decals/Hand_Smear_se0wefxp/Medium/se0wefxp_tier_2/Textures/T_se0wefxp_2K_ORM.T_se0wefxp_2K_ORM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2026.03.18-20.44.21:929][870]LogTexture: Display: Building textures: /Game/Fab/Megascans/Decals/Hand_Smear_se0wefxp/Medium/se0wefxp_tier_2/Textures/T_se0wefxp_2K_B-O.T_se0wefxp_2K_B-O (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.03.18-20.44.22:078][876]LogInterchangeEngine: Display: Interchange import completed [C:/Users/karlk/AppDa..._2k_ue_mid_extracted/se0wefxp_tier_2.gltf]
+[2026.03.18-20.44.35:037][633]LogFab: Display: Add listing to project - a84ea9a4-3481-43a2-94d4-5cd6db670bc8
+[2026.03.18-20.44.35:037][633]LogFab: Display: Listing type - gltf
+[2026.03.18-20.44.35:836][658]LogStreaming: Display: FlushAsyncLoading(712): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.18-20.44.35:837][658]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.03.18-20.44.35:837][658]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/karlk/AppData/Local/Temp/FabLibrary/a84ea9a4-3481-43a2-94d4-5cd6db670bc8/blood_stain_shdwbbkc_2k_ue_mid_extracted/shdwbbkc_tier_2.gltf]
+[2026.03.18-20.44.35:922][660]LogStreaming: Display: FlushAsyncLoading(713): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.18-20.44.35:953][661]LogImageWrapper: Warning: PNG Warning() eXIf: duplicate
+[2026.03.18-20.44.35:953][661]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2026.03.18-20.44.35:989][662]LogStreaming: Display: FlushAsyncLoading(716): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.18-20.44.36:049][664]LogTexture: Display: Building textures: /Game/Fab/Megascans/Decals/Blood_Stain_shdwbbkc/Medium/shdwbbkc_tier_2/Textures/T_shdwbbkc_2K_N.T_shdwbbkc_2K_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2026.03.18-20.44.36:050][664]LogTexture: Display: Building textures: /Game/Fab/Megascans/Decals/Blood_Stain_shdwbbkc/Medium/shdwbbkc_tier_2/Textures/T_shdwbbkc_2K_ORM.T_shdwbbkc_2K_ORM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2026.03.18-20.44.36:050][664]LogTexture: Display: Building textures: /Game/Fab/Megascans/Decals/Blood_Stain_shdwbbkc/Medium/shdwbbkc_tier_2/Textures/T_shdwbbkc_2K_B-O.T_shdwbbkc_2K_B-O (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.03.18-20.44.36:200][666]LogInterchangeEngine: Display: Interchange import completed [C:/Users/karlk/AppDa..._2k_ue_mid_extracted/shdwbbkc_tier_2.gltf]
+[2026.03.18-20.44.50:217][427]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Human_Skeleton/sm_human_skeleton/StaticMeshes/sm_human_skeleton.sm_human_skeleton
+[2026.03.18-20.44.50:217][427]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Human_Skeleton/sm_human_skeleton/StaticMeshes/sm_human_skeleton.sm_human_skeleton
+[2026.03.18-20.44.50:218][427]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Human_Skeleton/sm_human_skeleton/StaticMeshes/sm_human_skeleton.sm_human_skeleton as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_146
+[2026.03.18-20.44.51:189][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.03.18-20.44.51:200][471]LogEditorActor: Deleted 0 Actors (0.049 secs)
+[2026.03.18-20.44.51:211][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Human_Skeleton/sm_human_skeleton/StaticMeshes/sm_human_skeleton.sm_human_skeleton
+[2026.03.18-20.44.51:212][471]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Human_Skeleton/sm_human_skeleton/StaticMeshes/sm_human_skeleton.sm_human_skeleton
+[2026.03.18-20.44.51:214][471]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Human_Skeleton/sm_human_skeleton/StaticMeshes/sm_human_skeleton.sm_human_skeleton as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_329
+[2026.03.18-20.45.14:081][808]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Fab/Human_Skeleton/sm_human_skeleton/StaticMeshes/sm_human_skeleton.sm_human_skeleton
+[2026.03.18-20.45.14:131][808]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: ================================================
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Total job queries 674, among them cache hits 108 (16.02%), DDC hits 456 (67.66%), Duplicates 72 (10.68%)
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Tracking 494 distinct input hashes that result in 348 distinct outputs (70.45%)
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: RAM used: 3.15 MiB of 819.20 MiB budget. Usage: 0.38%
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Shaders Compiled: 38
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Jobs assigned 38, completed 38 (100%)
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Average time worker was idle: 2351.00 s
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Time job spent in pending queue: average 0.64 s, longest 2.30 s
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Job execution time: average 1.06 s, max 2.40 s
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Job life time (pending + execution): average 1.70 s, max 3.11
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Shader code size: total 416.191 KiB, numShaders 40, average 10.404 KiB, min 2.934 KiB, max 30.902 KiB
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.74 s
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.06%
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Average processing rate: 3.54 jobs/sec
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Total thread time: 32.079 s
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Total thread preprocess time: 8.265 s
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Percentage time preprocessing: 25.76%
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Effective parallelization: 2.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.373194
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.21 sec, max 2.21 sec, min 2.21 sec)
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.16 sec, max 2.16 sec, min 2.16 sec)
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.61 sec, max 1.61 sec, min 1.61 sec)
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 1.20 sec, max 1.29 sec, min 1.05 sec)
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 1.08 sec, max 1.49 sec, min 0.83 sec)
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 20.26% of total time (compiled    6 times, average 1.08 sec, max 1.49 sec, min 0.83 sec)
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.46% of total time (compiled    6 times, average 0.67 sec, max 1.12 sec, min 0.46 sec)
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.83% of total time (compiled    4 times, average 0.95 sec, max 1.49 sec, min 0.70 sec)
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.24% of total time (compiled    3 times, average 1.20 sec, max 1.29 sec, min 1.05 sec)
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 6.88% of total time (compiled    1 times, average 2.21 sec, max 2.21 sec, min 2.21 sec)
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: === Material stats ===
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.18-20.45.42:288][256]LogShaderCompilers: Display: Materials Translated:    245
+[2026.03.18-20.45.42:289][256]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2026.03.18-20.45.42:289][256]LogShaderCompilers: Display: Material Translation Only: 0.12 s (49%)
+[2026.03.18-20.45.42:289][256]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.03.18-20.45.42:289][256]LogShaderCompilers: Display: Material Cache Hits: 59 (24%)
+[2026.03.18-20.45.42:289][256]LogShaderCompilers: Display: ================================================
+[2026.03.18-20.45.47:123][544]Cmd: DELETE
+[2026.03.18-20.45.47:123][544]Cmd: ACTOR DELETE
+[2026.03.18-20.45.47:148][544]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.18-20.45.47:200][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.18-20.45.47:206][544]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2026.03.18-20.46.07:335][642]Cmd: TRANSACTION UNDO
+[2026.03.18-20.46.07:337][642]LogEditorTransaction: Undo Place Objects
+[2026.03.18-20.46.20:503][379]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.18-20.46.20:503][379]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.18-20.46.20:507][379]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_420
+[2026.03.18-20.46.20:508][379]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_420
+[2026.03.18-20.46.39:283][336]LogPhysics: Warning: Scale for /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_420.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.18-20.46.39:283][336]LogPhysics: Warning: Scale for /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_420.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2026.03.18-20.47.28:743][125]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.18-20.47.28:743][125]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.18-20.47.28:745][125]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_667
+[2026.03.18-20.47.28:747][125]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_667
+[2026.03.18-20.48.28:766][370]Cmd: EDIT COPY
+[2026.03.18-20.48.29:822][433]Cmd: EDIT PASTE
+[2026.03.18-20.48.43:218][144]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.18-20.48.43:218][144]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.18-20.48.43:221][144]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_963
+[2026.03.18-20.48.43:222][144]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.StaticMeshActor_963
+[2026.03.18-20.48.54:054][702]Cmd: TRANSACTION UNDO
+[2026.03.18-20.48.54:054][702]LogEditorTransaction: Undo Place Objects
+[2026.03.18-20.49.16:157][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25802.400391
+[2026.03.18-20.49.16:360][796]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.18-20.49.16:360][796]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25802.587891, Update Interval: 323.930786
+[2026.03.18-20.50.03:273][401]Cmd: EDIT COPY
+[2026.03.18-20.50.03:959][441]Cmd: EDIT PASTE
+[2026.03.18-20.50.15:006][ 54]Cmd: DELETE
+[2026.03.18-20.50.15:006][ 54]Cmd: ACTOR DELETE
+[2026.03.18-20.50.15:023][ 54]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.18-20.50.15:062][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.03.18-20.50.15:074][ 54]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2026.03.18-20.50.59:565][526]Cmd: EDIT COPY
+[2026.03.18-20.51.00:304][569]Cmd: EDIT PASTE
+[2026.03.18-20.51.20:760][674]Cmd: EDIT COPY
+[2026.03.18-20.51.21:465][715]Cmd: EDIT PASTE
+[2026.03.18-20.51.33:715][357]Cmd: EDIT COPY
+[2026.03.18-20.51.34:398][397]Cmd: EDIT PASTE
+[2026.03.18-20.51.44:776][950]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.18-20.51.44:789][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.18-20.51.44:789][950]LogStreaming: Display: FlushAsyncLoading(717): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.18-20.51.44:790][950]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.18-20.51.44:866][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074988s)
+[2026.03.18-20.51.44:866][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.075079s)
+[2026.03.18-20.51.44:896][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.18-20.51.44:904][950]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.18-20.51.44:906][950]LogPlayLevel: PIE: World Init took: (0.002438s)
+[2026.03.18-20.51.44:907][950]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2026.03.18-20.51.44:907][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.18-20.51.44:907][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.18-20.51.44:907][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.18-20.51.44:907][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.18-20.51.44:907][950]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.18-20.51.44:907][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.18-20.51.44:907][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.18-20.51.44:907][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.18-20.51.44:907][950]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.18-20.51.44:907][950]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.18-20.51.44:907][950]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.18-20.51.44:911][950]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.18-20.51.44:928][950]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.03.18-20.51.44:930][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.18-20.51.44:930][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.18-20.51.44:930][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.18-20.51.44:930][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=72
+[2026.03.18-20.51.44:931][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=72
+[2026.03.18-20.51.44:933][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=72
+[2026.03.18-20.51.44:933][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=72
+[2026.03.18-20.51.44:933][950]LogInit: FAudioDevice initialized with ID 72.
+[2026.03.18-20.51.44:933][950]LogAudio: Display: Audio Device (ID: 72) registered with world 'DarkVersion'.
+[2026.03.18-20.51.44:933][950]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 72
+[2026.03.18-20.51.44:942][950]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.18-20.51.44:975][950]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 60) at 2026.03.18-20.51.44
+[2026.03.18-20.51.44:976][950]LogWorld: Bringing up level for play took: 0.033141
+[2026.03.18-20.51.44:980][950]LogOnline: OSS: Created online subsystem instance for: :Context_105
+[2026.03.18-20.51.44:988][950]PIE: Server logged in
+[2026.03.18-20.51.44:990][950]PIE: Play in editor total start time 0.203 seconds.
+[2026.03.18-20.51.50:153][254]LogBlueprintUserMessages: [ChangeLevel_C_3] Switch
+[2026.03.18-20.51.50:169][255]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.03.18-20.51.50:169][255]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.03.18-20.51.50:169][255]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.03.18-20.51.50:169][255]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.03.18-20.51.50:172][255]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.18-20.51.50:183][255]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.18-20.51.50:217][255]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.18-20.51.50:230][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.03.18-20.51.50:242][255]LogStreaming: Display: FlushAsyncLoading(719): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.18-20.51.50:305][255]LogAudio: Display: Audio Device (ID: 72) registered with world 'LightVersion'.
+[2026.03.18-20.51.50:305][255]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.18-20.51.50:307][255]LogPlayLevel: PIE: World Init took: (0.002238s)
+[2026.03.18-20.51.50:307][255]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.18-20.51.50:354][255]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.03.18-20.51.50
+[2026.03.18-20.51.50:355][255]LogWorld: Bringing up level for play took: 0.047629
+[2026.03.18-20.51.50:362][255]LogLoad: Took 0.193071 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.03.18-20.51.50:362][255]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.03.18-20.52.12:671][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.18-20.52.12:671][586]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.18-20.52.12:672][586]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.18-20.52.12:681][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.18-20.52.12:684][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.18-20.52.12:693][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.18-20.52.12:726][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.18-20.52.12:726][586]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 72
+[2026.03.18-20.52.12:726][586]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72, StreamState=4
+[2026.03.18-20.52.12:731][586]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72, StreamState=2
+[2026.03.18-20.52.12:750][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.03.18-20.52.12:858][587]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2026.03.18-20.52.43:506][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.18-20.52.43:553][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimensions/DarkVersion" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/DarkVersion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.18-20.52.43:625][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.18-20.52.43:802][288]LogSavePackage: Moving output files for package: /Game/Dimensions/DarkVersion
+[2026.03.18-20.52.43:802][288]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/DarkVersionFCB131C549DA7D9BCC8143919F6A802F.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/DarkVersion.umap'
+[2026.03.18-20.52.43:828][288]LogFileHelpers: Saving map 'DarkVersion' took 0.276
+[2026.03.18-20.52.43:838][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 331.871 ms (total: 16.2 sec)
+[2026.03.18-20.52.43:889][288]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.18-20.52.43:889][288]LogContentValidation: Enabled validators:
+[2026.03.18-20.52.43:889][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.18-20.52.43:889][288]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.18-20.52.43:889][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.18-20.52.43:889][288]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.18-20.52.43:889][288]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.18-20.52.43:889][288]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.18-20.52.43:891][288]AssetCheck: /Game/Dimensions/DarkVersion Validating asset
