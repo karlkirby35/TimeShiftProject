@@ -3334,3 +3334,1385 @@ FPackageName: Skipped package /Game/SciFiContainers/Materials/MasterMaterials/MM
 [2026.03.19-18.26.30:244][952]AssetCheck: /Game/Inventory/widgets/WBP_inventory Validating asset
 [2026.03.19-18.26.30:244][952]AssetCheck: /Game/Inventory/widgets/WBP_Slot Validating asset
 [2026.03.19-18.26.30:268][952]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/karlk/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.19-18.27.03:541][468]LogContentBrowser: Deferred new asset file creation: bp_item_Child
+[2026.03.19-18.27.03:554][468]LogContentBrowser: Creating deferred item: bp_item_Child
+[2026.03.19-18.27.03:581][469]LogContentBrowser: Renaming the item being created (Deferred Item: bp_item_Child).
+[2026.03.19-18.27.06:113][591]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7222.898926
+[2026.03.19-18.27.06:301][600]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-18.27.06:301][600]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7223.066895, Update Interval: 352.578522
+[2026.03.19-18.27.15:359][ 28]LogContentBrowser: Attempting asset rename: bp_item_Child -> bp_fuelcanitem
+[2026.03.19-18.27.15:376][ 28]LogContentBrowser: End creating deferred item bp_item_Child
+[2026.03.19-18.28.29:158][477]LogDerivedDataCache: C:/Users/karlk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.19-18.29.13:652][537]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.03.19-18.29.14:150][553]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.03.19-18.29.14:417][565]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.03.19-18.29.14:449][566]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.03.19-18.29.20:522][835]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/blueprints/bp_fuelcanitem.bp_fuelcanitem
+[2026.03.19-18.29.20:522][835]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2026.03.19-18.29.23:101][956]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-18.29.23:101][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-18.29.23:200][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.03.19-18.29.28:304][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.03.19-18.29.28:456][182]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.03.19-18.29.28:467][182]LogSlate: Took 0.010507 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.03.19-18.29.29:989][182]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.19-18.29.30:061][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.19-18.29.30:094][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.03.19-18.29.30:123][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.19-18.29.32:486][285]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.19-18.29.32:498][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.19-18.29.32:528][285]LogStreaming: Display: FlushAsyncLoading(570): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.19-18.29.32:528][285]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-18.29.32:597][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068805s)
+[2026.03.19-18.29.32:597][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.068854s)
+[2026.03.19-18.29.32:624][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.19-18.29.32:629][285]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.19-18.29.32:631][285]LogPlayLevel: PIE: World Init took: (0.002183s)
+[2026.03.19-18.29.32:632][285]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.03.19-18.29.32:632][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.19-18.29.32:632][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.19-18.29.32:632][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.19-18.29.32:632][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.19-18.29.32:632][285]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.19-18.29.32:632][285]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.19-18.29.32:632][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.19-18.29.32:632][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.19-18.29.32:632][285]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.19-18.29.32:632][285]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.19-18.29.32:632][285]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.19-18.29.32:635][285]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.19-18.29.32:652][285]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.03.19-18.29.32:653][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.19-18.29.32:653][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.19-18.29.32:653][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.19-18.29.32:653][285]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.03.19-18.29.32:653][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.03.19-18.29.32:655][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.03.19-18.29.32:655][285]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.03.19-18.29.32:655][285]LogInit: FAudioDevice initialized with ID 20.
+[2026.03.19-18.29.32:655][285]LogAudio: Display: Audio Device (ID: 20) registered with world 'LightVersion'.
+[2026.03.19-18.29.32:655][285]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.03.19-18.29.32:661][285]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.19-18.29.32:693][285]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.03.19-18.29.32
+[2026.03.19-18.29.32:695][285]LogWorld: Bringing up level for play took: 0.033416
+[2026.03.19-18.29.32:697][285]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2026.03.19-18.29.32:706][285]PIE: Server logged in
+[2026.03.19-18.29.32:709][285]PIE: Play in editor total start time 0.212 seconds.
+[2026.03.19-18.29.47:549][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-18.29.47:549][169]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-18.29.47:550][169]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-18.29.47:559][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-18.29.47:561][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.19-18.29.47:569][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-18.29.47:599][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-18.29.47:602][169]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.03.19-18.29.47:603][169]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2026.03.19-18.29.47:605][169]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2026.03.19-18.29.47:622][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.19-18.29.47:702][170]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2026.03.19-18.31.16:260][323]LogContentBrowser: Deferred new asset file creation: bp_item_Child
+[2026.03.19-18.31.16:273][323]LogContentBrowser: Creating deferred item: bp_item_Child
+[2026.03.19-18.31.16:290][324]LogContentBrowser: Renaming the item being created (Deferred Item: bp_item_Child).
+[2026.03.19-18.31.23:457][754]LogContentBrowser: Attempting asset rename: bp_item_Child -> bp_fuelcanitem
+[2026.03.19-18.31.23:464][754]LogContentBrowser: End creating deferred item bp_item_Child
+[2026.03.19-18.31.28:230][  9]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/blueprints/bp_fuelcanitem.bp_fuelcanitem
+[2026.03.19-18.31.28:231][  9]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.03.19-18.31.43:158][834]LogActor: Loaded Actor (BP_FuelCan_GEN_VARIABLE_BP_FuelCan_C_CAT) with IsValid() == false
+[2026.03.19-18.31.43:181][834]LogActor: Loaded Actor (BP_FuelCan_GEN_VARIABLE_BP_FuelCan_C_CAT) with IsValid() == false
+[2026.03.19-18.31.47:726][100]LogStreaming: Display: FlushAsyncLoading(571): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.19-18.31.47:726][100]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/Inventory/blueprints/bp_fuelcanitem (0xF47B2D44CE4960EA) - The package to load does not exist on disk or in the loader
+[2026.03.19-18.31.47:727][100]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Inventory/blueprints/bp_fuelcanitem.bp_fuelcanitem'
+[2026.03.19-18.31.49:374][198]LogEditorTransaction: Undo Add Component
+[2026.03.19-18.31.53:353][411]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.03.19-18.31.57:907][664]LogActor: Loaded Actor (BP_FuelCan_GEN_VARIABLE_BP_FuelCan_C_CAT) with IsValid() == false
+[2026.03.19-18.31.57:907][664]LogActor: Loaded Actor (BP_FuelCan_GEN_VARIABLE_BP_FuelCan_C_CAT) with IsValid() == false
+[2026.03.19-18.31.57:942][664]LogActor: Loaded Actor (BP_FuelCan_GEN_VARIABLE_BP_FuelCan_C_CAT) with IsValid() == false
+[2026.03.19-18.31.59:742][770]LogEditorTransaction: Undo Add Component
+[2026.03.19-18.31.59:910][772]LogEditorTransaction: Undo Add Component
+[2026.03.19-18.33.22:558][ 46]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.19-18.33.22:570][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.19-18.33.22:570][ 46]LogStreaming: Display: FlushAsyncLoading(572): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.19-18.33.22:570][ 46]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-18.33.22:639][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069850s)
+[2026.03.19-18.33.22:639][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.069904s)
+[2026.03.19-18.33.22:691][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.19-18.33.22:699][ 46]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.19-18.33.22:701][ 46]LogPlayLevel: PIE: World Init took: (0.002158s)
+[2026.03.19-18.33.22:702][ 46]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.03.19-18.33.22:702][ 46]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.19-18.33.22:702][ 46]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.19-18.33.22:702][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.19-18.33.22:702][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.19-18.33.22:702][ 46]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.19-18.33.22:702][ 46]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.19-18.33.22:702][ 46]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.19-18.33.22:702][ 46]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.19-18.33.22:702][ 46]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.19-18.33.22:702][ 46]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.19-18.33.22:702][ 46]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.19-18.33.22:705][ 46]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.19-18.33.22:722][ 46]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.03.19-18.33.22:722][ 46]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.19-18.33.22:722][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.19-18.33.22:722][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.19-18.33.22:723][ 46]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.03.19-18.33.22:723][ 46]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.03.19-18.33.22:725][ 46]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.03.19-18.33.22:726][ 46]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.03.19-18.33.22:726][ 46]LogInit: FAudioDevice initialized with ID 21.
+[2026.03.19-18.33.22:726][ 46]LogAudio: Display: Audio Device (ID: 21) registered with world 'LightVersion'.
+[2026.03.19-18.33.22:726][ 46]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.03.19-18.33.22:732][ 46]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.19-18.33.22:762][ 46]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.03.19-18.33.22
+[2026.03.19-18.33.22:763][ 46]LogWorld: Bringing up level for play took: 0.030496
+[2026.03.19-18.33.22:766][ 46]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2026.03.19-18.33.22:775][ 46]PIE: Server logged in
+[2026.03.19-18.33.22:778][ 46]PIE: Play in editor total start time 0.208 seconds.
+[2026.03.19-18.33.28:329][373]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.19-18.33.28:329][373]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.03.19-18.33.28:329][373]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.19-18.33.31:192][534]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7607.966309
+[2026.03.19-18.33.31:372][544]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-18.33.31:372][544]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7608.128906, Update Interval: 304.317749
+[2026.03.19-18.33.32:629][617]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.19-18.33.32:629][617]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.03.19-18.33.48:155][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-18.33.48:155][546]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-18.33.48:157][546]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-18.33.48:168][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-18.33.48:171][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.19-18.33.48:179][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-18.33.48:210][546]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.19-18.33.48:211][546]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.03.19-18.33.48:211][546]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2026.03.19-18.33.48:214][546]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2026.03.19-18.33.48:220][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-18.33.48:230][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.03.19-18.33.48:308][547]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2026.03.19-18.37.10:468][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.19-18.37.10:476][ 26]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.033
+[2026.03.19-18.37.10:477][ 26]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/blueprints/bp_fuelcanitem] ([2] browsable assets)...
+[2026.03.19-18.37.10:477][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/blueprints/bp_fuelcanitem]
+[2026.03.19-18.37.10:498][ 26]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/blueprints/bp_fuelcanitem_Auto0
+[2026.03.19-18.37.10:498][ 26]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/bp_fuelcanitem_Auto03E86CAD8477B4E28FC2C9F95AA460113.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Inventory/blueprints/bp_fuelcanitem_Auto0.uasset'
+[2026.03.19-18.37.10:499][ 26]LogFileHelpers: Auto-saving content packages took 0.023
+[2026.03.19-18.39.11:744][390]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7948.499023
+[2026.03.19-18.39.12:745][393]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-18.39.12:745][393]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7949.166016, Update Interval: 352.717682
+[2026.03.19-18.45.37:799][548]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8334.543945
+[2026.03.19-18.45.38:798][551]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-18.45.38:799][551]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8335.209961, Update Interval: 318.561981
+[2026.03.19-18.50.24:850][398]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.03.19-18.50.30:186][624]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/models/BP_FuelCan.BP_FuelCan_C
+[2026.03.19-18.50.30:186][624]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/models/BP_FuelCan.BP_FuelCan_C
+[2026.03.19-18.50.30:188][624]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/models/BP_FuelCan.BP_FuelCan as actor: BP_FuelCan_C /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.BP_FuelCan_C_0
+[2026.03.19-18.50.30:189][624]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/models/BP_FuelCan.BP_FuelCan as actor: BP_FuelCan_C /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.BP_FuelCan_C_0
+[2026.03.19-18.50.30:194][624]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.03.19-18.50.30:411][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.03.19-18.50.30:422][633]LogEditorActor: Deleted 0 Actors (0.041 secs)
+[2026.03.19-18.51.39:963][568]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8696.694336
+[2026.03.19-18.51.40:963][571]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-18.51.40:963][571]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8697.362305, Update Interval: 354.993744
+[2026.03.19-18.57.09:360][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.19-18.57.09:368][880]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.037
+[2026.03.19-18.57.09:368][880]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.19-18.57.09:493][880]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.19-18.57.09:494][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.19-18.57.09:525][880]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1
+[2026.03.19-18.57.09:526][880]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_FirstPersonCharacter_Auto1636203094BF681A6D2C1B48AC40F1268.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto1.uasset'
+[2026.03.19-18.57.09:527][880]LogFileHelpers: Auto-saving content packages took 0.158
+[2026.03.19-18.58.23:652][103]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9100.189453
+[2026.03.19-18.58.24:651][106]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-18.58.24:651][106]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9100.855469, Update Interval: 340.657990
+[2026.03.19-19.00.05:821][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.03.19-19.00.09:036][574]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.19-19.00.09:049][574]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.19-19.00.09:049][574]LogStreaming: Display: FlushAsyncLoading(573): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.19-19.00.09:049][574]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-19.00.09:121][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071649s)
+[2026.03.19-19.00.09:121][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.071695s)
+[2026.03.19-19.00.09:148][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.19-19.00.09:160][574]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.19-19.00.09:162][574]LogPlayLevel: PIE: World Init took: (0.002360s)
+[2026.03.19-19.00.09:163][574]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.03.19-19.00.09:163][574]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.19-19.00.09:163][574]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.19-19.00.09:163][574]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.19-19.00.09:163][574]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.19-19.00.09:163][574]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.19-19.00.09:163][574]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.19-19.00.09:163][574]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.19-19.00.09:163][574]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.19-19.00.09:163][574]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.19-19.00.09:163][574]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.19-19.00.09:163][574]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.19-19.00.09:166][574]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.19-19.00.09:181][574]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.03.19-19.00.09:182][574]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.19-19.00.09:182][574]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.19-19.00.09:182][574]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.19-19.00.09:182][574]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.03.19-19.00.09:182][574]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.03.19-19.00.09:184][574]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.03.19-19.00.09:186][574]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.03.19-19.00.09:186][574]LogInit: FAudioDevice initialized with ID 22.
+[2026.03.19-19.00.09:186][574]LogAudio: Display: Audio Device (ID: 22) registered with world 'LightVersion'.
+[2026.03.19-19.00.09:186][574]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.03.19-19.00.09:191][574]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.19-19.00.09:223][574]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.03.19-19.00.09
+[2026.03.19-19.00.09:225][574]LogWorld: Bringing up level for play took: 0.032211
+[2026.03.19-19.00.09:227][574]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2026.03.19-19.00.09:236][574]PIE: Server logged in
+[2026.03.19-19.00.09:239][574]PIE: Play in editor total start time 0.19 seconds.
+[2026.03.19-19.00.17:770][ 75]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.19-19.00.17:770][ 75]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.03.19-19.00.17:770][ 75]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.19-19.00.22:536][361]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.19-19.00.22:536][361]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.03.19-19.00.33:386][ 11]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.19-19.00.33:387][ 11]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.03.19-19.00.34:653][ 87]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.19-19.00.34:653][ 87]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.03.19-19.01.00:354][626]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 806.898438 MiB 
+[2026.03.19-19.01.00:354][626]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 806.898438 MiB 
+[2026.03.19-19.01.00:472][631]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_2_Normal.T_Box_2_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.03.19-19.01.00:644][641]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 769.929688 MiB 
+[2026.03.19-19.01.00:644][641]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 769.929688 MiB 
+[2026.03.19-19.01.00:679][643]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_2_Metallic.T_Box_2_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2026.03.19-19.01.00:836][652]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 783.957031 MiB 
+[2026.03.19-19.01.00:836][652]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 783.957031 MiB 
+[2026.03.19-19.01.00:873][654]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_2_Roughness.T_Box_2_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2026.03.19-19.01.01:005][660]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 791.250 MiB 
+[2026.03.19-19.01.01:005][660]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 791.250 MiB 
+[2026.03.19-19.01.01:111][666]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_2_Emissive.T_Box_2_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.03.19-19.01.01:240][672]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 781.746094 MiB 
+[2026.03.19-19.01.01:240][672]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 781.746094 MiB 
+[2026.03.19-19.01.01:353][678]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_2_BaseColor.T_Box_2_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.03.19-19.01.01:489][686]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 792.710938 MiB 
+[2026.03.19-19.01.01:489][686]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1105.000 MiB, MemoryLimit = 792.710938 MiB 
+[2026.03.19-19.01.01:526][688]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_1_A_Roughness.T_Box_1_A_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2026.03.19-19.01.01:668][696]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 791.332031 MiB 
+[2026.03.19-19.01.01:668][696]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 791.332031 MiB 
+[2026.03.19-19.01.01:791][704]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_1_A_Normal.T_Box_1_A_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.03.19-19.01.01:922][711]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 793.761719 MiB 
+[2026.03.19-19.01.01:922][711]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 1153.000 MiB, MemoryLimit = 793.761719 MiB 
+[2026.03.19-19.01.02:013][716]LogTexture: Display: Building textures: /Game/SciFi_Props/Materials/Textures/T_Box_1_A_Emissive.T_Box_1_A_Emissive (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2026.03.19-19.01.18:288][685]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.19-19.01.18:288][685]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.03.19-19.01.23:595][  3]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.19-19.01.23:595][  3]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.03.19-19.01.27:176][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-19.01.27:176][215]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-19.01.27:177][215]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-19.01.27:190][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-19.01.27:192][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.19-19.01.27:201][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-19.01.27:232][215]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.19-19.01.27:232][215]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.03.19-19.01.27:232][215]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.03.19-19.01.27:236][215]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.03.19-19.01.27:240][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-19.01.27:253][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.19-19.01.27:327][216]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2026.03.19-19.04.56:289][181]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9492.753906
+[2026.03.19-19.04.56:489][193]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-19.04.56:489][193]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9492.936523, Update Interval: 347.229828
+[2026.03.19-19.06.43:636][813]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/blueprints/bp_item.bp_item_C
+[2026.03.19-19.06.43:636][813]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/blueprints/bp_item.bp_item_C
+[2026.03.19-19.06.43:637][813]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/blueprints/bp_item.bp_item as actor: bp_item_C /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.bp_item_C_2
+[2026.03.19-19.06.43:639][813]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/blueprints/bp_item.bp_item as actor: bp_item_C /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.bp_item_C_2
+[2026.03.19-19.06.44:246][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.03.19-19.06.44:253][840]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2026.03.19-19.06.44:261][840]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/blueprints/bp_item.bp_item_C
+[2026.03.19-19.06.44:261][840]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/blueprints/bp_item.bp_item_C
+[2026.03.19-19.06.44:277][840]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/blueprints/bp_item.bp_item as actor: bp_item_C /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.bp_item_C_3
+[2026.03.19-19.06.44:278][840]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/blueprints/bp_item.bp_item as actor: bp_item_C /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.bp_item_C_3
+[2026.03.19-19.07.32:420][ 12]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/models/BP_FuelCan.BP_FuelCan_C
+[2026.03.19-19.07.32:420][ 12]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Inventory/models/BP_FuelCan.BP_FuelCan_C
+[2026.03.19-19.07.32:422][ 12]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/models/BP_FuelCan.BP_FuelCan as actor: BP_FuelCan_C /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.BP_FuelCan_C_1
+[2026.03.19-19.07.32:423][ 12]LogActorFactory: Actor Factory spawned Blueprint /Game/Inventory/models/BP_FuelCan.BP_FuelCan as actor: BP_FuelCan_C /Game/Dimensions/LightVersion.LightVersion:PersistentLevel.BP_FuelCan_C_1
+[2026.03.19-19.07.34:127][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.19-19.07.34:138][ 87]LogEditorActor: Deleted 0 Actors (0.041 secs)
+[2026.03.19-19.07.43:751][520]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.19-19.07.43:764][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.19-19.07.43:765][520]LogStreaming: Display: FlushAsyncLoading(574): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.19-19.07.43:765][520]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-19.07.43:837][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072013s)
+[2026.03.19-19.07.43:837][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.072058s)
+[2026.03.19-19.07.43:864][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.19-19.07.43:872][520]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.19-19.07.43:874][520]LogPlayLevel: PIE: World Init took: (0.002108s)
+[2026.03.19-19.07.43:875][520]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.03.19-19.07.43:875][520]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.19-19.07.43:875][520]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.19-19.07.43:875][520]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.19-19.07.43:875][520]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.19-19.07.43:875][520]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.19-19.07.43:875][520]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.19-19.07.43:875][520]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.19-19.07.43:875][520]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.19-19.07.43:875][520]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.19-19.07.43:875][520]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.19-19.07.43:875][520]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.19-19.07.43:877][520]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.19-19.07.43:896][520]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.03.19-19.07.43:896][520]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.19-19.07.43:896][520]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.19-19.07.43:896][520]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.19-19.07.43:896][520]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.03.19-19.07.43:896][520]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.03.19-19.07.43:899][520]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.03.19-19.07.43:899][520]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.03.19-19.07.43:899][520]LogInit: FAudioDevice initialized with ID 23.
+[2026.03.19-19.07.43:899][520]LogAudio: Display: Audio Device (ID: 23) registered with world 'LightVersion'.
+[2026.03.19-19.07.43:899][520]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.03.19-19.07.43:904][520]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.19-19.07.43:938][520]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.03.19-19.07.43
+[2026.03.19-19.07.43:939][520]LogWorld: Bringing up level for play took: 0.035320
+[2026.03.19-19.07.43:942][520]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2026.03.19-19.07.43:952][520]PIE: Server logged in
+[2026.03.19-19.07.43:955][520]PIE: Play in editor total start time 0.191 seconds.
+[2026.03.19-19.07.48:527][790]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.19-19.07.48:527][790]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.03.19-19.07.48:527][790]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.19-19.07.49:160][828]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.19-19.07.49:160][828]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.03.19-19.07.55:780][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-19.07.55:780][223]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-19.07.55:781][223]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-19.07.55:790][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-19.07.55:794][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.19-19.07.55:802][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-19.07.55:832][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-19.07.55:835][223]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.03.19-19.07.55:835][223]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2026.03.19-19.07.55:838][223]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2026.03.19-19.07.55:855][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.19-19.07.55:931][224]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2026.03.19-19.08.11:874][986]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.19-19.08.11:886][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.19-19.08.11:886][986]LogStreaming: Display: FlushAsyncLoading(575): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.19-19.08.11:886][986]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-19.08.11:957][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069933s)
+[2026.03.19-19.08.11:957][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.069989s)
+[2026.03.19-19.08.11:985][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.03.19-19.08.11:991][986]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.19-19.08.11:993][986]LogPlayLevel: PIE: World Init took: (0.002162s)
+[2026.03.19-19.08.11:994][986]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.03.19-19.08.11:994][986]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.19-19.08.11:994][986]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.19-19.08.11:994][986]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.19-19.08.11:994][986]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.19-19.08.11:994][986]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.19-19.08.11:994][986]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.19-19.08.11:994][986]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.19-19.08.11:994][986]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.19-19.08.11:994][986]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.19-19.08.11:994][986]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.19-19.08.11:994][986]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.19-19.08.11:997][986]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.19-19.08.12:012][986]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.03.19-19.08.12:013][986]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.19-19.08.12:013][986]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.19-19.08.12:013][986]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.19-19.08.12:013][986]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.03.19-19.08.12:013][986]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2026.03.19-19.08.12:017][986]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.03.19-19.08.12:017][986]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.03.19-19.08.12:017][986]LogInit: FAudioDevice initialized with ID 24.
+[2026.03.19-19.08.12:017][986]LogAudio: Display: Audio Device (ID: 24) registered with world 'LightVersion'.
+[2026.03.19-19.08.12:017][986]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.03.19-19.08.12:022][986]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.19-19.08.12:053][986]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.03.19-19.08.12
+[2026.03.19-19.08.12:055][986]LogWorld: Bringing up level for play took: 0.033479
+[2026.03.19-19.08.12:057][986]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2026.03.19-19.08.12:067][986]PIE: Server logged in
+[2026.03.19-19.08.12:069][986]PIE: Play in editor total start time 0.184 seconds.
+[2026.03.19-19.08.15:016][160]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.19-19.08.15:016][160]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.03.19-19.08.15:016][160]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.19-19.08.16:220][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-19.08.16:220][230]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-19.08.16:222][230]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-19.08.16:231][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-19.08.16:233][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.19-19.08.16:242][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-19.08.16:274][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-19.08.16:277][230]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.03.19-19.08.16:277][230]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2026.03.19-19.08.16:279][230]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2026.03.19-19.08.16:296][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.03.19-19.08.16:360][231]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2026.03.19-19.08.20:452][426]Cmd: DELETE
+[2026.03.19-19.08.20:452][426]Cmd: ACTOR DELETE
+[2026.03.19-19.08.20:486][426]LogEditorActor: Deleted Actor: bp_item_C
+[2026.03.19-19.08.20:516][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.19-19.08.20:522][426]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2026.03.19-19.08.49:101][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.19-19.08.49:290][748]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto2
+[2026.03.19-19.08.49:291][748]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersion_Auto2460C416C4D7F31290510DB97DE4F54D9.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/LightVersion_Auto2.umap'
+[2026.03.19-19.08.49:293][748]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.220
+[2026.03.19-19.08.49:293][748]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.220
+[2026.03.19-19.08.49:293][748]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_InventoryComp] ([2] browsable assets)...
+[2026.03.19-19.08.49:293][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_InventoryComp]
+[2026.03.19-19.08.49:314][748]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_InventoryComp_Auto2
+[2026.03.19-19.08.49:314][748]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_InventoryComp_Auto2C40D05184D88597644285AB3C70944CB.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_InventoryComp_Auto2.uasset'
+[2026.03.19-19.08.49:314][748]LogFileHelpers: Auto-saving content packages took 0.021
+[2026.03.19-19.11.34:794][120]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9891.149414
+[2026.03.19-19.11.35:796][123]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-19.11.35:796][123]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9891.815430, Update Interval: 303.415009
+[2026.03.19-19.17.27:022][462]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10243.236328
+[2026.03.19-19.17.28:023][465]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-19.17.28:023][465]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10243.903320, Update Interval: 351.741699
+[2026.03.19-19.18.49:776][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.19-19.18.49:932][710]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto3
+[2026.03.19-19.18.49:932][710]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersion_Auto35B04C14E4C4ECC3B57356BB8F7711522.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/LightVersion_Auto3.umap'
+[2026.03.19-19.18.49:935][710]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.191
+[2026.03.19-19.18.49:935][710]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.191
+[2026.03.19-19.18.49:935][710]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/blueprints/bp_item] ([2] browsable assets)...
+[2026.03.19-19.18.49:935][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/blueprints/bp_item]
+[2026.03.19-19.18.49:950][710]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/blueprints/bp_item_Auto3
+[2026.03.19-19.18.49:951][710]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/bp_item_Auto3B3CD868C434227CD4EEEA5896E78EE6B.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Inventory/blueprints/bp_item_Auto3.uasset'
+[2026.03.19-19.18.49:951][710]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_InventoryComp] ([2] browsable assets)...
+[2026.03.19-19.18.49:951][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_InventoryComp]
+[2026.03.19-19.18.49:970][710]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_InventoryComp_Auto3
+[2026.03.19-19.18.49:970][710]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_InventoryComp_Auto3C45E2E654A8CE989109405BA9B680171.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_InventoryComp_Auto3.uasset'
+[2026.03.19-19.18.49:972][710]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/blueprints/bp_fuelcanitem] ([2] browsable assets)...
+[2026.03.19-19.18.49:972][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/blueprints/bp_fuelcanitem]
+[2026.03.19-19.18.49:981][710]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/blueprints/bp_fuelcanitem_Auto3
+[2026.03.19-19.18.49:981][710]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/bp_fuelcanitem_Auto3923F19714447ABA55D0FA79F0EBD78B0.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Inventory/blueprints/bp_fuelcanitem_Auto3.uasset'
+[2026.03.19-19.18.49:982][710]LogFileHelpers: Auto-saving content packages took 0.047
+[2026.03.19-19.20.19:540][671]LogBlueprint: Error: [AssetLog] /Game/Inventory/blueprints/bp_fuelcanitem.bp_fuelcanitem: [Compiler] This blueprint (self) is not a BP_FirstPersonCharacter_C, therefore ' Target ' must have a connection.
+[2026.03.19-19.20.19:548][671]LogStreaming: Display: FlushAsyncLoading(576): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.19-19.20.19:617][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.03.19-19.24.11:789][ 97]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10647.521484
+[2026.03.19-19.24.11:988][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-19.24.11:988][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10647.704102, Update Interval: 324.062622
+[2026.03.19-19.28.29:158][539]LogDerivedDataCache: C:/Users/karlk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.19-19.28.50:227][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.03.19-19.28.50:391][784]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto4
+[2026.03.19-19.28.50:391][784]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersion_Auto411E9BE2641392C7F945826AD3D128409.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/LightVersion_Auto4.umap'
+[2026.03.19-19.28.50:392][784]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.196
+[2026.03.19-19.28.50:392][784]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.196
+[2026.03.19-19.28.50:394][784]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.19-19.28.50:438][784]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.19-19.28.50:438][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.19-19.28.50:463][784]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4
+[2026.03.19-19.28.50:463][784]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_FirstPersonCharacter_Auto4659E3CAE41BC1E3E988A46B1B5383B14.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto4.uasset'
+[2026.03.19-19.28.50:464][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_InventoryComp] ([2] browsable assets)...
+[2026.03.19-19.28.50:464][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_InventoryComp]
+[2026.03.19-19.28.50:483][784]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_InventoryComp_Auto4
+[2026.03.19-19.28.50:483][784]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_InventoryComp_Auto46645149F46E2956F2EA917B8764C593D.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_InventoryComp_Auto4.uasset'
+[2026.03.19-19.28.50:484][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/blueprints/bp_fuelcanitem] ([2] browsable assets)...
+[2026.03.19-19.28.50:484][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/blueprints/bp_fuelcanitem]
+[2026.03.19-19.28.50:494][784]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/blueprints/bp_fuelcanitem_Auto4
+[2026.03.19-19.28.50:494][784]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/bp_fuelcanitem_Auto40FAC9FE24A7E602CCA62A18DC3938A1A.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Inventory/blueprints/bp_fuelcanitem_Auto4.uasset'
+[2026.03.19-19.28.50:494][784]LogFileHelpers: Auto-saving content packages took 0.102
+[2026.03.19-19.30.17:725][ 17]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11012.590820
+[2026.03.19-19.30.17:908][ 28]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-19.30.17:908][ 28]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11012.757812, Update Interval: 322.722260
+[2026.03.19-19.36.22:567][907]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11376.568359
+[2026.03.19-19.36.22:767][919]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-19.36.22:767][919]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11376.750977, Update Interval: 300.974152
+[2026.03.19-19.42.18:696][942]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11732.045898
+[2026.03.19-19.42.19:695][945]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-19.42.19:695][945]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11732.712891, Update Interval: 323.062836
+[2026.03.19-19.48.27:801][512]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12101.056641
+[2026.03.19-19.48.28:002][524]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-19.48.28:002][524]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12101.241211, Update Interval: 306.548065
+[2026.03.19-19.48.53:308][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.03.19-19.49.20:196][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.19-19.49.20:205][246]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.037
+[2026.03.19-19.49.20:206][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/blueprints/bp_fuelcanitem] ([2] browsable assets)...
+[2026.03.19-19.49.20:206][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/blueprints/bp_fuelcanitem]
+[2026.03.19-19.49.20:220][246]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/blueprints/bp_fuelcanitem_Auto5
+[2026.03.19-19.49.20:220][246]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/bp_fuelcanitem_Auto577194E0548C7076D816449B63A8B460F.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Inventory/blueprints/bp_fuelcanitem_Auto5.uasset'
+[2026.03.19-19.49.20:220][246]LogFileHelpers: Auto-saving content packages took 0.016
+[2026.03.19-19.50.00:201][420]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.19-19.50.00:225][420]LogPlayLevel: [PlayLevel] Compiling BP_FirstPersonCharacter before play...
+[2026.03.19-19.50.00:349][420]LogPlayLevel: [PlayLevel] Compiling bp_fuelcanitem before play...
+[2026.03.19-19.50.00:419][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.19-19.50.00:425][420]LogPlayLevel: PlayLevel: Blueprint regeneration took 212 ms (2 blueprints)
+[2026.03.19-19.50.00:458][420]LogStreaming: Display: FlushAsyncLoading(577): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.19-19.50.00:458][420]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-19.50.00:525][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066098s)
+[2026.03.19-19.50.00:525][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.066150s)
+[2026.03.19-19.50.00:550][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.19-19.50.00:554][420]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.19-19.50.00:557][420]LogPlayLevel: PIE: World Init took: (0.002286s)
+[2026.03.19-19.50.00:558][420]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2026.03.19-19.50.00:558][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.19-19.50.00:558][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.19-19.50.00:558][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.19-19.50.00:558][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.19-19.50.00:558][420]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.19-19.50.00:558][420]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.19-19.50.00:558][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.19-19.50.00:558][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.19-19.50.00:558][420]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.19-19.50.00:558][420]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.19-19.50.00:558][420]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.19-19.50.00:560][420]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.19-19.50.00:578][420]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.03.19-19.50.00:578][420]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.19-19.50.00:578][420]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.19-19.50.00:578][420]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.19-19.50.00:579][420]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2026.03.19-19.50.00:579][420]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2026.03.19-19.50.00:581][420]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2026.03.19-19.50.00:581][420]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2026.03.19-19.50.00:581][420]LogInit: FAudioDevice initialized with ID 25.
+[2026.03.19-19.50.00:581][420]LogAudio: Display: Audio Device (ID: 25) registered with world 'LightVersion'.
+[2026.03.19-19.50.00:581][420]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2026.03.19-19.50.00:587][420]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.19-19.50.00:621][420]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.03.19-19.50.00
+[2026.03.19-19.50.00:622][420]LogWorld: Bringing up level for play took: 0.034616
+[2026.03.19-19.50.00:625][420]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2026.03.19-19.50.00:633][420]PIE: Server logged in
+[2026.03.19-19.50.00:635][420]PIE: Play in editor total start time 0.423 seconds.
+[2026.03.19-19.50.05:690][720]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.19-19.50.05:690][720]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.03.19-19.50.05:690][720]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.19-19.50.08:640][897]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.19-19.50.08:640][897]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.03.19-19.50.30:838][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-19.50.30:838][226]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-19.50.30:839][226]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-19.50.30:849][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-19.50.30:852][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.19-19.50.30:858][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-19.50.30:890][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-19.50.30:893][226]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2026.03.19-19.50.30:893][226]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2026.03.19-19.50.30:896][226]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2026.03.19-19.50.30:911][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.19-19.50.30:956][227]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2026.03.19-19.54.12:201][217]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12445.388672
+[2026.03.19-19.54.13:534][221]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-19.54.13:534][221]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12446.389648, Update Interval: 315.778687
+[2026.03.19-19.59.51:322][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.19-19.59.51:492][234]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto6
+[2026.03.19-19.59.51:492][234]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersion_Auto67170045D4B15B22BEB4F70A1B5F0B501.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/LightVersion_Auto6.umap'
+[2026.03.19-19.59.51:497][234]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.204
+[2026.03.19-19.59.51:497][234]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.204
+[2026.03.19-20.00.28:919][347]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12822.082031
+[2026.03.19-20.00.29:919][350]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-20.00.29:919][350]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12822.748047, Update Interval: 344.116943
+[2026.03.19-20.07.05:977][538]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13219.132812
+[2026.03.19-20.07.06:977][541]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-20.07.06:977][541]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13219.798828, Update Interval: 339.597778
+[2026.03.19-20.09.53:952][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.03.19-20.09.53:957][848]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.033
+[2026.03.19-20.09.53:957][848]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/blueprints/bp_fuelcanitem] ([2] browsable assets)...
+[2026.03.19-20.09.53:957][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/blueprints/bp_fuelcanitem]
+[2026.03.19-20.09.53:970][848]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/blueprints/bp_fuelcanitem_Auto7
+[2026.03.19-20.09.53:970][848]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/bp_fuelcanitem_Auto7D6A9D1BC48EE20D87FEA1D910D4C331C.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Inventory/blueprints/bp_fuelcanitem_Auto7.uasset'
+[2026.03.19-20.09.53:971][848]LogFileHelpers: Auto-saving content packages took 0.014
+[2026.03.19-20.09.55:608][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.19-20.10.08:796][546]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.19-20.10.08:808][546]LogPlayLevel: [PlayLevel] Compiling bp_fuelcanitem before play...
+[2026.03.19-20.10.08:884][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.03.19-20.10.08:890][546]LogPlayLevel: PlayLevel: Blueprint regeneration took 83 ms (1 blueprints)
+[2026.03.19-20.10.08:913][546]LogStreaming: Display: FlushAsyncLoading(578): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.19-20.10.08:913][546]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.10.08:981][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068169s)
+[2026.03.19-20.10.08:981][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.068227s)
+[2026.03.19-20.10.09:009][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.19-20.10.09:013][546]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.19-20.10.09:016][546]LogPlayLevel: PIE: World Init took: (0.002449s)
+[2026.03.19-20.10.09:017][546]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2026.03.19-20.10.09:017][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.19-20.10.09:017][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.19-20.10.09:017][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.19-20.10.09:017][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.19-20.10.09:017][546]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.19-20.10.09:017][546]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.19-20.10.09:017][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.19-20.10.09:017][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.19-20.10.09:017][546]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.19-20.10.09:017][546]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.19-20.10.09:017][546]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.19-20.10.09:019][546]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.19-20.10.09:037][546]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.03.19-20.10.09:038][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.19-20.10.09:038][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.19-20.10.09:038][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.19-20.10.09:038][546]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2026.03.19-20.10.09:038][546]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2026.03.19-20.10.09:041][546]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2026.03.19-20.10.09:041][546]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2026.03.19-20.10.09:041][546]LogInit: FAudioDevice initialized with ID 26.
+[2026.03.19-20.10.09:041][546]LogAudio: Display: Audio Device (ID: 26) registered with world 'LightVersion'.
+[2026.03.19-20.10.09:041][546]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2026.03.19-20.10.09:046][546]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.19-20.10.09:081][546]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.03.19-20.10.09
+[2026.03.19-20.10.09:082][546]LogWorld: Bringing up level for play took: 0.035448
+[2026.03.19-20.10.09:085][546]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2026.03.19-20.10.09:095][546]PIE: Server logged in
+[2026.03.19-20.10.09:098][546]PIE: Play in editor total start time 0.291 seconds.
+[2026.03.19-20.10.15:654][932]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.19-20.10.15:654][932]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.03.19-20.10.15:654][932]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.19-20.13.42:282][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.13.42:282][630]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.13.42:283][630]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.13.42:294][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.13.42:296][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.19-20.13.42:304][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.13.42:333][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.13.42:337][630]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2026.03.19-20.13.42:337][630]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=4
+[2026.03.19-20.13.42:339][630]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26, StreamState=2
+[2026.03.19-20.13.42:359][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.03.19-20.13.42:393][631]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2026.03.19-20.13.45:194][793]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13618.234375
+[2026.03.19-20.13.45:393][805]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-20.13.45:393][805]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13618.416016, Update Interval: 348.463989
+[2026.03.19-20.14.16:173][628]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ShiftingManagement/ChangeLevel.ChangeLevel
+[2026.03.19-20.14.16:174][628]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.03.19-20.16.46:272][663]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.19-20.16.46:283][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.19-20.16.46:283][663]LogStreaming: Display: FlushAsyncLoading(579): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.19-20.16.46:283][663]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.16.46:351][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066757s)
+[2026.03.19-20.16.46:351][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.066796s)
+[2026.03.19-20.16.46:399][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.03.19-20.16.46:406][663]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.19-20.16.46:408][663]LogPlayLevel: PIE: World Init took: (0.002073s)
+[2026.03.19-20.16.46:409][663]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2026.03.19-20.16.46:409][663]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.19-20.16.46:409][663]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.19-20.16.46:409][663]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.19-20.16.46:409][663]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.19-20.16.46:409][663]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.19-20.16.46:409][663]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.19-20.16.46:409][663]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.19-20.16.46:409][663]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.19-20.16.46:409][663]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.19-20.16.46:409][663]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.19-20.16.46:409][663]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.19-20.16.46:412][663]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.19-20.16.46:426][663]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.03.19-20.16.46:428][663]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.19-20.16.46:428][663]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.19-20.16.46:428][663]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.19-20.16.46:428][663]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2026.03.19-20.16.46:428][663]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2026.03.19-20.16.46:431][663]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2026.03.19-20.16.46:431][663]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2026.03.19-20.16.46:431][663]LogInit: FAudioDevice initialized with ID 27.
+[2026.03.19-20.16.46:431][663]LogAudio: Display: Audio Device (ID: 27) registered with world 'LightVersion'.
+[2026.03.19-20.16.46:431][663]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2026.03.19-20.16.46:436][663]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.19-20.16.46:468][663]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.03.19-20.16.46
+[2026.03.19-20.16.46:469][663]LogWorld: Bringing up level for play took: 0.032484
+[2026.03.19-20.16.46:472][663]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2026.03.19-20.16.46:480][663]PIE: Server logged in
+[2026.03.19-20.16.46:482][663]PIE: Play in editor total start time 0.2 seconds.
+[2026.03.19-20.16.52:270][  5]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.19-20.16.52:270][  5]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.03.19-20.16.52:270][  5]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.19-20.17.09:657][ 48]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.19-20.17.09:657][ 48]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.03.19-20.17.11:068][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.17.11:068][131]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.17.11:069][131]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.17.11:079][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.17.11:081][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.19-20.17.11:090][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.17.11:122][131]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.19-20.17.11:123][131]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2026.03.19-20.17.11:123][131]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=4
+[2026.03.19-20.17.11:126][131]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27, StreamState=2
+[2026.03.19-20.17.11:129][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.17.11:141][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.03.19-20.17.11:182][132]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2026.03.19-20.20.17:941][674]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14010.788086
+[2026.03.19-20.20.18:940][677]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-20.20.18:941][677]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14011.458984, Update Interval: 301.111481
+[2026.03.19-20.20.19:696][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.03.19-20.20.21:870][801]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.19-20.20.21:881][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.19-20.20.21:881][801]LogStreaming: Display: FlushAsyncLoading(580): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.19-20.20.21:881][801]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.20.21:948][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067055s)
+[2026.03.19-20.20.21:948][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.067093s)
+[2026.03.19-20.20.21:974][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.03.19-20.20.21:980][801]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.19-20.20.21:982][801]LogPlayLevel: PIE: World Init took: (0.001896s)
+[2026.03.19-20.20.21:983][801]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2026.03.19-20.20.21:983][801]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.19-20.20.21:983][801]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.19-20.20.21:983][801]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.19-20.20.21:983][801]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.19-20.20.21:983][801]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.19-20.20.21:983][801]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.19-20.20.21:983][801]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.19-20.20.21:983][801]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.19-20.20.21:983][801]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.19-20.20.21:983][801]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.19-20.20.21:983][801]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.19-20.20.21:985][801]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.19-20.20.22:002][801]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.03.19-20.20.22:002][801]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.19-20.20.22:002][801]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.19-20.20.22:002][801]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.19-20.20.22:003][801]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2026.03.19-20.20.22:003][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2026.03.19-20.20.22:005][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2026.03.19-20.20.22:005][801]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2026.03.19-20.20.22:005][801]LogInit: FAudioDevice initialized with ID 28.
+[2026.03.19-20.20.22:005][801]LogAudio: Display: Audio Device (ID: 28) registered with world 'LightVersion'.
+[2026.03.19-20.20.22:005][801]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2026.03.19-20.20.22:009][801]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.19-20.20.22:040][801]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.03.19-20.20.22
+[2026.03.19-20.20.22:041][801]LogWorld: Bringing up level for play took: 0.031852
+[2026.03.19-20.20.22:045][801]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2026.03.19-20.20.22:052][801]PIE: Server logged in
+[2026.03.19-20.20.22:055][801]PIE: Play in editor total start time 0.174 seconds.
+[2026.03.19-20.20.26:260][ 51]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.19-20.20.26:260][ 51]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.03.19-20.20.26:260][ 51]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.19-20.20.26:844][ 86]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.19-20.20.26:844][ 86]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.03.19-20.20.33:575][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.20.33:575][487]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.20.33:576][487]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.20.33:586][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.20.33:588][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.19-20.20.33:596][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.20.33:626][487]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.19-20.20.33:627][487]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2026.03.19-20.20.33:627][487]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=4
+[2026.03.19-20.20.33:629][487]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
+[2026.03.19-20.20.33:635][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.20.33:646][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.19-20.20.33:688][488]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2026.03.19-20.20.39:322][824]LogEditorTransaction: Undo Delete current selection
+[2026.03.19-20.20.40:070][850]LogEditorTransaction: Undo Move Node
+[2026.03.19-20.20.40:469][869]LogEditorTransaction: Undo Add Node
+[2026.03.19-20.20.40:883][889]LogEditorTransaction: Undo Create Pin Link
+[2026.03.19-20.20.41:284][908]LogEditorTransaction: Undo Move Node
+[2026.03.19-20.20.41:700][928]LogEditorTransaction: Undo Move Node
+[2026.03.19-20.20.42:198][953]LogEditorTransaction: Undo Add Node
+[2026.03.19-20.20.44:312][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.03.19-20.23.36:534][158]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: b64...2c7
+[2026.03.19-20.23.36:534][158]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 100 RefreshExpires: 1.553e+07
+[2026.03.19-20.23.36:734][170]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: b64...2c7 Access[Expires: 2026.03.19-22.23.36 Remaining: 7200.94] Refresh[Expires: 2026-09-15T15:19:28.323Z Remaining: 15533752.32] State: Valid
+[2026.03.19-20.23.39:878][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.03.19-20.23.40:542][389]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.19-20.23.40:595][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/blueprints/bp_fuelcanitem] ([2] browsable assets)...
+[2026.03.19-20.23.40:595][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/blueprints/bp_fuelcanitem]
+[2026.03.19-20.23.40:595][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/blueprints/bp_fuelcanitem" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Inventory/blueprints/bp_fuelcanitem.uasset" SILENT=true
+[2026.03.19-20.23.40:610][389]LogSavePackage: Moving output files for package: /Game/Inventory/blueprints/bp_fuelcanitem
+[2026.03.19-20.23.40:610][389]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/bp_fuelcanitemE8B47DE1486C0E2242B9F2BF0FA8797D.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Inventory/blueprints/bp_fuelcanitem.uasset'
+[2026.03.19-20.23.40:625][389]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.375 ms (total: 977.319 ms)
+[2026.03.19-20.23.40:670][389]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.19-20.23.40:670][389]LogContentValidation: Enabled validators:
+[2026.03.19-20.23.40:670][389]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.19-20.23.40:670][389]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.19-20.23.40:670][389]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.19-20.23.40:670][389]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.19-20.23.40:670][389]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.19-20.23.40:670][389]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.19-20.23.40:670][389]AssetCheck: /Game/Inventory/blueprints/bp_fuelcanitem Validating asset
+[2026.03.19-20.23.40:692][389]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/karlk/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.19-20.23.41:617][438]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.19-20.23.41:628][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.19-20.23.41:629][438]LogStreaming: Display: FlushAsyncLoading(581): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.19-20.23.41:629][438]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.23.41:695][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066445s)
+[2026.03.19-20.23.41:695][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.066486s)
+[2026.03.19-20.23.41:721][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.03.19-20.23.41:726][438]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.19-20.23.41:728][438]LogPlayLevel: PIE: World Init took: (0.001931s)
+[2026.03.19-20.23.41:730][438]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2026.03.19-20.23.41:730][438]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.19-20.23.41:730][438]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.19-20.23.41:730][438]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.19-20.23.41:730][438]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.19-20.23.41:730][438]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.19-20.23.41:730][438]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.19-20.23.41:730][438]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.19-20.23.41:730][438]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.19-20.23.41:730][438]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.19-20.23.41:730][438]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.19-20.23.41:730][438]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.19-20.23.41:732][438]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.19-20.23.41:749][438]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.03.19-20.23.41:749][438]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.19-20.23.41:749][438]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.19-20.23.41:749][438]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.19-20.23.41:749][438]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2026.03.19-20.23.41:749][438]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2026.03.19-20.23.41:753][438]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2026.03.19-20.23.41:753][438]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2026.03.19-20.23.41:753][438]LogInit: FAudioDevice initialized with ID 29.
+[2026.03.19-20.23.41:753][438]LogAudio: Display: Audio Device (ID: 29) registered with world 'LightVersion'.
+[2026.03.19-20.23.41:753][438]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2026.03.19-20.23.41:758][438]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.19-20.23.41:790][438]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.03.19-20.23.41
+[2026.03.19-20.23.41:792][438]LogWorld: Bringing up level for play took: 0.033155
+[2026.03.19-20.23.41:795][438]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2026.03.19-20.23.41:803][438]PIE: Server logged in
+[2026.03.19-20.23.41:806][438]PIE: Play in editor total start time 0.177 seconds.
+[2026.03.19-20.23.46:294][705]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.19-20.23.46:294][705]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.03.19-20.23.46:294][705]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.19-20.23.47:211][760]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.19-20.23.47:212][760]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.03.19-20.23.47:451][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.23.47:451][773]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.23.47:452][773]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.23.47:461][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.23.47:464][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.19-20.23.47:471][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.23.47:500][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.23.47:503][773]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2026.03.19-20.23.47:504][773]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=4
+[2026.03.19-20.23.47:506][773]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=2
+[2026.03.19-20.23.47:520][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.19-20.23.47:560][774]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2026.03.19-20.24.14:055][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.19-20.24.14:238][ 27]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto8
+[2026.03.19-20.24.14:238][ 27]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersion_Auto83B4C5E56475ABA4C5E6E6A979AE32E86.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/LightVersion_Auto8.umap'
+[2026.03.19-20.24.14:240][ 27]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.212
+[2026.03.19-20.24.14:241][ 27]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.212
+[2026.03.19-20.24.14:242][ 27]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/blueprints/bp_item] ([2] browsable assets)...
+[2026.03.19-20.24.14:242][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/blueprints/bp_item]
+[2026.03.19-20.24.14:255][ 27]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/blueprints/bp_item_Auto8
+[2026.03.19-20.24.14:255][ 27]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/bp_item_Auto8A4FEDB21436CC14E4C1F9D8A7AD6FD5E.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Inventory/blueprints/bp_item_Auto8.uasset'
+[2026.03.19-20.24.14:258][ 27]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ShiftingManagement/ChangeLevel] ([2] browsable assets)...
+[2026.03.19-20.24.14:390][ 27]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ShiftingManagement/ChangeLevel.ChangeLevel]
+[2026.03.19-20.24.14:390][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShiftingManagement/ChangeLevel]
+[2026.03.19-20.24.14:406][ 27]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ShiftingManagement/ChangeLevel_Auto8
+[2026.03.19-20.24.14:406][ 27]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/ChangeLevel_Auto8C8A8FEB04457C45260D2B5B7B9809BAF.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/ShiftingManagement/ChangeLevel_Auto8.uasset'
+[2026.03.19-20.24.14:407][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.19-20.24.14:450][ 27]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.03.19-20.24.14:450][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.19-20.24.14:479][ 27]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto8
+[2026.03.19-20.24.14:480][ 27]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_FirstPersonCharacter_Auto8CD0AAFF240C36D1142839B9D7BDE910E.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto8.uasset'
+[2026.03.19-20.24.14:480][ 27]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_InventoryComp] ([2] browsable assets)...
+[2026.03.19-20.24.14:480][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_InventoryComp]
+[2026.03.19-20.24.14:503][ 27]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_InventoryComp_Auto8
+[2026.03.19-20.24.14:503][ 27]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_InventoryComp_Auto80DF78C974F2E92D8E2F4C1B510EDA18E.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_InventoryComp_Auto8.uasset'
+[2026.03.19-20.24.14:506][ 27]LogFileHelpers: Auto-saving content packages took 0.265
+[2026.03.19-20.24.44:057][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.19-20.24.44:301][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.19-20.24.45:462][ 96]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.19-20.24.45:474][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.19-20.24.45:484][ 96]LogStreaming: Display: FlushAsyncLoading(582): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.19-20.24.45:484][ 96]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.24.45:551][ 96]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066494s)
+[2026.03.19-20.24.45:551][ 96]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.066538s)
+[2026.03.19-20.24.45:577][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.19-20.24.45:583][ 96]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.19-20.24.45:584][ 96]LogPlayLevel: PIE: World Init took: (0.001928s)
+[2026.03.19-20.24.45:586][ 96]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2026.03.19-20.24.45:586][ 96]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.19-20.24.45:586][ 96]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.19-20.24.45:586][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.19-20.24.45:586][ 96]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.19-20.24.45:586][ 96]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.19-20.24.45:586][ 96]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.19-20.24.45:586][ 96]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.19-20.24.45:586][ 96]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.19-20.24.45:586][ 96]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.19-20.24.45:586][ 96]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.19-20.24.45:586][ 96]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.19-20.24.45:588][ 96]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.19-20.24.45:604][ 96]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.03.19-20.24.45:604][ 96]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.19-20.24.45:604][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.19-20.24.45:604][ 96]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.19-20.24.45:605][ 96]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2026.03.19-20.24.45:605][ 96]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2026.03.19-20.24.45:607][ 96]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2026.03.19-20.24.45:607][ 96]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2026.03.19-20.24.45:607][ 96]LogInit: FAudioDevice initialized with ID 30.
+[2026.03.19-20.24.45:607][ 96]LogAudio: Display: Audio Device (ID: 30) registered with world 'LightVersion'.
+[2026.03.19-20.24.45:607][ 96]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2026.03.19-20.24.45:613][ 96]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.19-20.24.45:645][ 96]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.03.19-20.24.45
+[2026.03.19-20.24.45:646][ 96]LogWorld: Bringing up level for play took: 0.032318
+[2026.03.19-20.24.45:649][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2026.03.19-20.24.45:658][ 96]PIE: Server logged in
+[2026.03.19-20.24.45:660][ 96]PIE: Play in editor total start time 0.187 seconds.
+[2026.03.19-20.24.50:396][378]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.19-20.24.50:396][378]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.03.19-20.24.50:396][378]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.19-20.24.51:298][432]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.19-20.24.51:298][432]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.03.19-20.24.51:647][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.24.51:647][451]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.24.51:647][451]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.24.51:658][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.24.51:661][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.19-20.24.51:668][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.24.51:698][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.24.51:701][451]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2026.03.19-20.24.51:701][451]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=4
+[2026.03.19-20.24.51:703][451]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=2
+[2026.03.19-20.24.51:718][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.19-20.24.51:756][452]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2026.03.19-20.25.59:532][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.03.19-20.26.00:441][308]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.19-20.26.00:453][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.19-20.26.00:455][308]LogStreaming: Display: FlushAsyncLoading(583): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.19-20.26.00:455][308]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.26.00:519][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065062s)
+[2026.03.19-20.26.00:520][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.065105s)
+[2026.03.19-20.26.00:546][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.19-20.26.00:551][308]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.19-20.26.00:553][308]LogPlayLevel: PIE: World Init took: (0.001942s)
+[2026.03.19-20.26.00:553][308]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2026.03.19-20.26.00:553][308]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.19-20.26.00:553][308]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.19-20.26.00:553][308]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.19-20.26.00:553][308]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.19-20.26.00:553][308]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.19-20.26.00:553][308]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.19-20.26.00:553][308]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.19-20.26.00:553][308]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.19-20.26.00:553][308]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.19-20.26.00:553][308]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.19-20.26.00:553][308]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.19-20.26.00:556][308]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.19-20.26.00:573][308]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.03.19-20.26.00:573][308]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.19-20.26.00:573][308]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.19-20.26.00:573][308]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.19-20.26.00:574][308]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2026.03.19-20.26.00:574][308]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2026.03.19-20.26.00:576][308]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2026.03.19-20.26.00:576][308]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2026.03.19-20.26.00:576][308]LogInit: FAudioDevice initialized with ID 31.
+[2026.03.19-20.26.00:576][308]LogAudio: Display: Audio Device (ID: 31) registered with world 'LightVersion'.
+[2026.03.19-20.26.00:576][308]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2026.03.19-20.26.00:582][308]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.19-20.26.00:614][308]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.03.19-20.26.00
+[2026.03.19-20.26.00:615][308]LogWorld: Bringing up level for play took: 0.032454
+[2026.03.19-20.26.00:618][308]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2026.03.19-20.26.00:625][308]PIE: Server logged in
+[2026.03.19-20.26.00:628][308]PIE: Play in editor total start time 0.175 seconds.
+[2026.03.19-20.26.05:065][571]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.19-20.26.05:065][571]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.03.19-20.26.05:065][571]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.19-20.26.06:365][649]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.19-20.26.06:365][649]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.03.19-20.26.07:643][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.26.07:643][723]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.26.07:643][723]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.26.07:653][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.26.07:656][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.19-20.26.07:664][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.26.07:693][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.26.07:697][723]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2026.03.19-20.26.07:697][723]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=4
+[2026.03.19-20.26.07:699][723]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=2
+[2026.03.19-20.26.07:715][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.03.19-20.26.07:751][723]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14360.302734
+[2026.03.19-20.26.07:754][724]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2026.03.19-20.26.07:946][734]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-20.26.07:946][734]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14360.480469, Update Interval: 350.851776
+[2026.03.19-20.28.29:269][967]LogDerivedDataCache: C:/Users/karlk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.19-20.29.25:363][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.19-20.29.41:928][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.19-20.29.43:041][757]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.19-20.29.43:053][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.19-20.29.43:062][757]LogStreaming: Display: FlushAsyncLoading(584): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.19-20.29.43:062][757]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.29.43:128][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065131s)
+[2026.03.19-20.29.43:128][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.065175s)
+[2026.03.19-20.29.43:155][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.19-20.29.43:162][757]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.19-20.29.43:164][757]LogPlayLevel: PIE: World Init took: (0.002192s)
+[2026.03.19-20.29.43:164][757]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2026.03.19-20.29.43:164][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.19-20.29.43:164][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.19-20.29.43:164][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.19-20.29.43:164][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.19-20.29.43:165][757]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.19-20.29.43:165][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.19-20.29.43:165][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.19-20.29.43:165][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.19-20.29.43:165][757]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.19-20.29.43:165][757]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.19-20.29.43:165][757]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.19-20.29.43:167][757]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.19-20.29.43:184][757]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.03.19-20.29.43:184][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.19-20.29.43:184][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.19-20.29.43:184][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.19-20.29.43:184][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2026.03.19-20.29.43:184][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2026.03.19-20.29.43:187][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2026.03.19-20.29.43:187][757]LogInit: FAudioDevice initialized with ID 32.
+[2026.03.19-20.29.43:187][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2026.03.19-20.29.43:187][757]LogAudio: Display: Audio Device (ID: 32) registered with world 'LightVersion'.
+[2026.03.19-20.29.43:187][757]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2026.03.19-20.29.43:192][757]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.19-20.29.43:222][757]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.03.19-20.29.43
+[2026.03.19-20.29.43:223][757]LogWorld: Bringing up level for play took: 0.031233
+[2026.03.19-20.29.43:226][757]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2026.03.19-20.29.43:235][757]PIE: Server logged in
+[2026.03.19-20.29.43:237][757]PIE: Play in editor total start time 0.184 seconds.
+[2026.03.19-20.29.47:557][ 14]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.19-20.29.47:557][ 14]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.03.19-20.29.47:557][ 14]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.19-20.29.48:173][ 51]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.19-20.29.48:173][ 51]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.03.19-20.29.48:505][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.29.48:505][ 69]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.29.48:506][ 69]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.29.48:515][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.29.48:517][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.19-20.29.48:525][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.29.48:558][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.29.48:559][ 69]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2026.03.19-20.29.48:559][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=4
+[2026.03.19-20.29.48:561][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=2
+[2026.03.19-20.29.48:575][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.19-20.29.48:615][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2026.03.19-20.32.58:026][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14770.284180
+[2026.03.19-20.32.58:226][342]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-20.32.58:226][342]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14770.466797, Update Interval: 311.836304
+[2026.03.19-20.34.33:734][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.19-20.34.33:896][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto9
+[2026.03.19-20.34.33:897][388]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersion_Auto91EEBA2764C8115A01FC8C5865C024439.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/LightVersion_Auto9.umap'
+[2026.03.19-20.34.33:899][388]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.192
+[2026.03.19-20.34.33:899][388]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.192
+[2026.03.19-20.34.33:899][388]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/models/BP_FuelCan] ([2] browsable assets)...
+[2026.03.19-20.34.34:019][388]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Inventory/models/BP_FuelCan.BP_FuelCan]
+[2026.03.19-20.34.34:021][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/models/BP_FuelCan]
+[2026.03.19-20.34.34:036][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/models/BP_FuelCan_Auto9
+[2026.03.19-20.34.34:036][388]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_FuelCan_Auto95B2464F84F390DA48087C0B9E0A48C04.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Inventory/models/BP_FuelCan_Auto9.uasset'
+[2026.03.19-20.34.34:037][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.19-20.34.34:037][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.19-20.34.34:058][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto9
+[2026.03.19-20.34.34:058][388]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_FirstPersonCharacter_Auto92672771C4CCEAB5C4133EFA8E01D59D6.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto9.uasset'
+[2026.03.19-20.34.34:059][388]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/blueprints/bp_fuelcanitem] ([2] browsable assets)...
+[2026.03.19-20.34.34:059][388]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/blueprints/bp_fuelcanitem]
+[2026.03.19-20.34.34:070][388]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/blueprints/bp_fuelcanitem_Auto9
+[2026.03.19-20.34.34:070][388]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/bp_fuelcanitem_Auto9BFA12504434C64ADA5764D9D438CC93F.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Inventory/blueprints/bp_fuelcanitem_Auto9.uasset'
+[2026.03.19-20.34.34:070][388]LogFileHelpers: Auto-saving content packages took 0.171
+[2026.03.19-20.36.47:027][785]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.03.19-20.37.15:605][472]LogBlueprint: Error: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2026.03.19-20.37.15:607][472]LogBlueprint: Error: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2026.03.19-20.37.15:671][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.03.19-20.39.09:457][371]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15141.585938
+[2026.03.19-20.39.09:658][383]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-20.39.09:658][383]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15141.768555, Update Interval: 306.571869
+[2026.03.19-20.40.11:262][791]LogBlueprint: Error: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2026.03.19-20.40.11:262][791]LogBlueprint: Error: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2026.03.19-20.40.11:333][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.19-20.42.56:051][921]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.19-20.42.56:073][921]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.19-20.42.56:073][921]BlueprintLog: Warning: Blueprint failed to compile:  BP_FuelCan
+[2026.03.19-20.42.58:394][921]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.03.19-20.42.58:456][921]LogStreaming: Display: FlushAsyncLoading(585): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.19-20.42.58:456][921]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.42.58:538][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082231s)
+[2026.03.19-20.42.58:538][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.082277s)
+[2026.03.19-20.42.58:570][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.19-20.42.58:579][921]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.19-20.42.58:581][921]LogPlayLevel: PIE: World Init took: (0.002260s)
+[2026.03.19-20.42.58:582][921]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2026.03.19-20.42.58:582][921]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.19-20.42.58:582][921]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.19-20.42.58:582][921]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.19-20.42.58:582][921]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.19-20.42.58:582][921]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.19-20.42.58:582][921]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.19-20.42.58:582][921]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.19-20.42.58:582][921]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.19-20.42.58:582][921]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.19-20.42.58:582][921]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.19-20.42.58:582][921]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.19-20.42.58:585][921]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.19-20.42.58:602][921]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.03.19-20.42.58:602][921]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.19-20.42.58:602][921]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.19-20.42.58:602][921]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.19-20.42.58:603][921]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2026.03.19-20.42.58:603][921]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2026.03.19-20.42.58:607][921]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2026.03.19-20.42.58:607][921]LogInit: FAudioDevice initialized with ID 33.
+[2026.03.19-20.42.58:607][921]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2026.03.19-20.42.58:607][921]LogAudio: Display: Audio Device (ID: 33) registered with world 'LightVersion'.
+[2026.03.19-20.42.58:607][921]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2026.03.19-20.42.58:611][921]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.19-20.42.58:643][921]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.03.19-20.42.58
+[2026.03.19-20.42.58:644][921]LogWorld: Bringing up level for play took: 0.033166
+[2026.03.19-20.42.58:647][921]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2026.03.19-20.42.58:656][921]PIE: Server logged in
+[2026.03.19-20.42.58:659][921]PIE: Play in editor total start time 2.595 seconds.
+[2026.03.19-20.43.04:528][262]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.19-20.43.04:528][262]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.03.19-20.43.04:528][262]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.19-20.43.05:137][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.43.05:137][297]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.43.05:138][297]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.43.05:146][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.43.05:149][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.19-20.43.05:157][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.43.05:186][297]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.19-20.43.05:187][297]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2026.03.19-20.43.05:187][297]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=4
+[2026.03.19-20.43.05:190][297]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33, StreamState=2
+[2026.03.19-20.43.05:194][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.43.05:209][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.03.19-20.43.05:250][298]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2026.03.19-20.44.43:657][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.03.19-20.44.43:853][532]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dimensions/LightVersion_Auto0
+[2026.03.19-20.44.43:854][532]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersion_Auto09815940F49B27951E1F6ECAA34103A1E.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Dimensions/LightVersion_Auto0.umap'
+[2026.03.19-20.44.43:857][532]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.231
+[2026.03.19-20.44.43:857][532]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.231
+[2026.03.19-20.44.43:857][532]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/models/BP_FuelCan] ([2] browsable assets)...
+[2026.03.19-20.44.44:004][532]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Inventory/models/BP_FuelCan.BP_FuelCan]
+[2026.03.19-20.44.44:004][532]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/models/BP_FuelCan]
+[2026.03.19-20.44.44:020][532]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/models/BP_FuelCan_Auto0
+[2026.03.19-20.44.44:020][532]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_FuelCan_Auto0FA4BDCCA451E28074C5F068818FDAC93.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Inventory/models/BP_FuelCan_Auto0.uasset'
+[2026.03.19-20.44.44:024][532]LogFileHelpers: Auto-saving content packages took 0.168
+[2026.03.19-20.44.57:064][572]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15489.049805
+[2026.03.19-20.44.58:064][575]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-20.44.58:064][575]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15489.716797, Update Interval: 339.440308
+[2026.03.19-20.47.35:892][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.19-20.47.36:953][970]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.19-20.47.36:968][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.19-20.47.36:968][970]LogStreaming: Display: FlushAsyncLoading(586): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.19-20.47.36:969][970]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.47.37:034][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065236s)
+[2026.03.19-20.47.37:034][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/LightVersion.LightVersion to /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion (0.065288s)
+[2026.03.19-20.47.37:063][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.19-20.47.37:073][970]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.03.19-20.47.37:074][970]LogPlayLevel: PIE: World Init took: (0.002222s)
+[2026.03.19-20.47.37:075][970]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2026.03.19-20.47.37:075][970]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.19-20.47.37:075][970]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.19-20.47.37:075][970]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.19-20.47.37:075][970]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.19-20.47.37:075][970]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.19-20.47.37:075][970]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.19-20.47.37:075][970]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.19-20.47.37:075][970]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.19-20.47.37:075][970]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.19-20.47.37:075][970]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.19-20.47.37:075][970]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.19-20.47.37:077][970]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.19-20.47.37:094][970]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.03.19-20.47.37:094][970]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.19-20.47.37:094][970]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.19-20.47.37:094][970]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.19-20.47.37:095][970]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2026.03.19-20.47.37:095][970]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2026.03.19-20.47.37:097][970]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2026.03.19-20.47.37:098][970]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2026.03.19-20.47.37:098][970]LogInit: FAudioDevice initialized with ID 34.
+[2026.03.19-20.47.37:098][970]LogAudio: Display: Audio Device (ID: 34) registered with world 'LightVersion'.
+[2026.03.19-20.47.37:098][970]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2026.03.19-20.47.37:102][970]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.03.19-20.47.37:134][970]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.03.19-20.47.37
+[2026.03.19-20.47.37:135][970]LogWorld: Bringing up level for play took: 0.031884
+[2026.03.19-20.47.37:139][970]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2026.03.19-20.47.37:147][970]PIE: Server logged in
+[2026.03.19-20.47.37:150][970]PIE: Play in editor total start time 0.185 seconds.
+[2026.03.19-20.47.42:455][285]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.03.19-20.47.42:455][285]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.03.19-20.47.42:455][285]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.03.19-20.47.42:856][309]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.03.19-20.47.42:856][309]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.03.19-20.47.43:646][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.47.43:646][355]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.03.19-20.47.43:646][355]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.47.43:656][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.47.43:660][355]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.19-20.47.43:667][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.47.43:703][355]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.19-20.47.43:703][355]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2026.03.19-20.47.43:703][355]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=4
+[2026.03.19-20.47.43:705][355]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34, StreamState=2
+[2026.03.19-20.47.43:710][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.19-20.47.43:720][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.19-20.47.43:791][356]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2026.03.19-20.51.21:702][561]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15873.598633
+[2026.03.19-20.51.22:702][564]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.19-20.51.22:702][564]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15874.265625, Update Interval: 314.597626
+[2026.03.19-20.54.44:481][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.03.19-20.54.50:982][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.19-20.54.50:993][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.19-20.54.51:040][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimensions/LightVersion" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/LightVersion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.19-20.54.51:111][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.19-20.54.51:270][  8]LogSavePackage: Moving output files for package: /Game/Dimensions/LightVersion
+[2026.03.19-20.54.51:271][  8]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/LightVersionE7A6A9FE47CD628CEB93EE81F7BD863E.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/LightVersion.umap'
+[2026.03.19-20.54.51:294][  8]LogFileHelpers: Saving map 'LightVersion' took 0.255
+[2026.03.19-20.54.51:295][  8]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/blueprints/bp_item] ([2] browsable assets)...
+[2026.03.19-20.54.51:295][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/blueprints/bp_item]
+[2026.03.19-20.54.51:295][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/blueprints/bp_item" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Inventory/blueprints/bp_item.uasset" SILENT=true
+[2026.03.19-20.54.51:305][  8]LogSavePackage: Moving output files for package: /Game/Inventory/blueprints/bp_item
+[2026.03.19-20.54.51:305][  8]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/bp_itemCA349D9F428F260F004C7E9F3BD1D5A7.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Inventory/blueprints/bp_item.uasset'
+[2026.03.19-20.54.51:307][  8]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/models/BP_FuelCan] ([2] browsable assets)...
+[2026.03.19-20.54.51:327][  8]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Inventory/models/BP_FuelCan.BP_FuelCan]
+[2026.03.19-20.54.51:327][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/models/BP_FuelCan]
+[2026.03.19-20.54.51:327][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/models/BP_FuelCan" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Inventory/models/BP_FuelCan.uasset" SILENT=true
+[2026.03.19-20.54.51:341][  8]LogSavePackage: Moving output files for package: /Game/Inventory/models/BP_FuelCan
+[2026.03.19-20.54.51:341][  8]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_FuelCanDC22F142419815A928B1F0B9C3499031.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Inventory/models/BP_FuelCan.uasset'
+[2026.03.19-20.54.51:343][  8]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ShiftingManagement/ChangeLevel] ([2] browsable assets)...
+[2026.03.19-20.54.51:343][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShiftingManagement/ChangeLevel]
+[2026.03.19-20.54.51:343][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShiftingManagement/ChangeLevel" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/ShiftingManagement/ChangeLevel.uasset" SILENT=true
+[2026.03.19-20.54.51:357][  8]LogSavePackage: Moving output files for package: /Game/ShiftingManagement/ChangeLevel
+[2026.03.19-20.54.51:357][  8]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/ChangeLevel140AC17946005B5823FFE087E266AA0B.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/ShiftingManagement/ChangeLevel.uasset'
+[2026.03.19-20.54.51:358][  8]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.03.19-20.54.51:358][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.03.19-20.54.51:381][  8]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.03.19-20.54.51:382][  8]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_FirstPersonCharacter9404880C483D578424B1198A2F879F0E.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.03.19-20.54.51:383][  8]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_InventoryComp] ([2] browsable assets)...
+[2026.03.19-20.54.51:383][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_InventoryComp]
+[2026.03.19-20.54.51:383][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_InventoryComp" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/FirstPerson/Blueprints/BP_InventoryComp.uasset" SILENT=true
+[2026.03.19-20.54.51:402][  8]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_InventoryComp
+[2026.03.19-20.54.51:403][  8]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_InventoryComp6381D36849434C4FF0ACF28823C51B2E.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/FirstPerson/Blueprints/BP_InventoryComp.uasset'
+[2026.03.19-20.54.51:404][  8]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/blueprints/bp_fuelcanitem] ([2] browsable assets)...
+[2026.03.19-20.54.51:404][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/blueprints/bp_fuelcanitem]
+[2026.03.19-20.54.51:404][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/blueprints/bp_fuelcanitem" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Inventory/blueprints/bp_fuelcanitem.uasset" SILENT=true
+[2026.03.19-20.54.51:414][  8]LogSavePackage: Moving output files for package: /Game/Inventory/blueprints/bp_fuelcanitem
+[2026.03.19-20.54.51:415][  8]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/bp_fuelcanitemCD44A2224ECD392D3C4D309486A39289.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Inventory/blueprints/bp_fuelcanitem.uasset'
+[2026.03.19-20.54.51:434][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 441.093 ms (total: 1.41 sec)
+[2026.03.19-20.54.51:482][  8]LogContentValidation: Display: Starting to validate 7 assets
+[2026.03.19-20.54.51:482][  8]LogContentValidation: Enabled validators:
+[2026.03.19-20.54.51:482][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.19-20.54.51:482][  8]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.19-20.54.51:482][  8]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.19-20.54.51:482][  8]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.19-20.54.51:482][  8]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.19-20.54.51:482][  8]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.19-20.54.51:482][  8]AssetCheck: /Game/Dimensions/LightVersion Validating asset
+[2026.03.19-20.54.51:482][  8]AssetCheck: /Game/Inventory/blueprints/bp_item Validating asset
+[2026.03.19-20.54.51:482][  8]AssetCheck: /Game/Inventory/models/BP_FuelCan Validating asset
+[2026.03.19-20.54.51:482][  8]AssetCheck: /Game/ShiftingManagement/ChangeLevel Validating asset
+[2026.03.19-20.54.51:482][  8]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.03.19-20.54.51:482][  8]AssetCheck: /Game/FirstPerson/Blueprints/BP_InventoryComp Validating asset
+[2026.03.19-20.54.51:483][  8]AssetCheck: /Game/Inventory/blueprints/bp_fuelcanitem Validating asset
+[2026.03.19-20.54.52:726][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.19-20.54.52:823][ 79]LogStall: Shutdown...
+[2026.03.19-20.54.52:823][ 79]LogStall: Shutdown complete.
+[2026.03.19-20.54.52:901][ 79]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.52:901][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.53:098][ 79]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.19-20.54.53:098][ 79]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.53:098][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.53:274][ 79]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.19-20.54.53:275][ 79]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.53:275][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.53:468][ 79]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.53:468][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.53:583][ 79]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.19-20.54.53:583][ 79]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.53:583][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.53:676][ 79]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.19-20.54.53:676][ 79]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.53:676][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.53:788][ 79]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.19-20.54.53:788][ 79]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.53:789][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.53:925][ 79]LogSlate: Window 'Content Browser' being destroyed
+[2026.03.19-20.54.53:971][ 79]LogSlate: Window 'Fab' being destroyed
+[2026.03.19-20.54.53:974][ 79]LogSlate: Window 'Message Log' being destroyed
+[2026.03.19-20.54.53:987][ 79]LogSlate: Window 'TimeShift - Unreal Editor' being destroyed
+[2026.03.19-20.54.54:669][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.19-20.54.54:720][ 79]Cmd: QUIT_EDITOR
+[2026.03.19-20.54.54:720][ 79]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.19-20.54.54:735][ 80]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.19-20.54.54:737][ 80]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.19-20.54.54:737][ 80]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.19-20.54.54:782][ 80]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.54:783][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.54:825][ 80]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.19-20.54.54:827][ 80]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.19-20.54.54:833][ 80]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.19-20.54.54:860][ 80]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.54:860][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.54:865][ 80]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.54:865][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.54:869][ 80]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.54:869][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.54:872][ 80]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.54:872][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.54:876][ 80]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.54:876][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.54:881][ 80]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.54:881][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.54:885][ 80]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.54:885][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.54:888][ 80]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.54:888][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.54:892][ 80]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.54:892][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.54:897][ 80]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.54:897][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.54:902][ 80]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.54:902][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.54:907][ 80]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.54:908][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.54:911][ 80]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.03.19-20.54.54:912][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.19-20.54.54:927][ 80]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.19-20.54.54:928][ 80]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.19-20.54.54:940][ 80]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.19-20.54.55:925][ 80]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.19-20.54.55:925][ 80]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.19-20.54.55:925][ 80]LogAudio: Display: Audio Device unregistered from world 'LightVersion'.
+[2026.03.19-20.54.55:925][ 80]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.19-20.54.55:925][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.19-20.54.55:930][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.19-20.54.55:952][ 80]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.19-20.54.55:953][ 80]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.19-20.54.55:960][ 80]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.19-20.54.55:963][ 80]LogExit: Preparing to exit.
+[2026.03.19-20.54.56:081][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.03.19-20.54.56:097][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:098][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.56:100][ 80]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.19-20.54.57:253][ 80]LogEditorDataStorage: Deinitializing
+[2026.03.19-20.54.57:665][ 80]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.19-20.54.57:767][ 80]LogExit: Editor shut down
+[2026.03.19-20.54.57:783][ 80]LogExit: Transaction tracking system shut down
+[2026.03.19-20.54.58:516][ 80]LogExit: Object subsystem successfully closed.
+[2026.03.19-20.54.58:538][ 80]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.19-20.54.59:023][ 80]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/d727e7dd-fbea-4136-8c9e-134f6e96b363.
+[2026.03.19-20.54.59:068][ 80]LogMemoryProfiler: Shutdown
+[2026.03.19-20.54.59:068][ 80]LogNetworkingProfiler: Shutdown
+[2026.03.19-20.54.59:068][ 80]LoadingProfiler: Shutdown
+[2026.03.19-20.54.59:070][ 80]LogTimingProfiler: Shutdown
+[2026.03.19-20.54.59:075][ 80]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.19-20.54.59:075][ 80]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.19-20.54.59:660][ 80]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.19-20.54.59:661][ 80]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.19-20.54.59:688][ 80]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.19-20.54.59:688][ 80]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5BB0DAC0-4A66-F267-19C6-629027E29CDD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=50d3a7f54c7ac2537ce0628b08f9cdd2%7Cb648c2d6d45e412d9e146d556cfdd2c7%7Ca0c08c5d-9b90-4830-a0cf-1eeee123c8e7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.19-20.55.00:447][ 80]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.19-20.55.00:447][ 80]RenderDocPlugin: plugin has been unloaded.
+[2026.03.19-20.55.00:461][ 80]LogXGEController: Cleaning working directory: C:/Users/karlk/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.03.19-20.55.00:479][ 80]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.19-20.55.00:479][ 80]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.19-20.55.00:480][ 80]LogPakFile: Destroying PakPlatformFile
+[2026.03.19-20.55.01:038][ 80]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.19-20.55.01:076][ 80]LogExit: Exiting.
+[2026.03.19-20.55.01:119][ 80]Log file closed, 03/19/26 20:55:01
