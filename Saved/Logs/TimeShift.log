@@ -2843,3 +2843,368 @@ FPackageName: Skipped package /Game/SciFiContainers/Materials/MasterMaterials/MM
 [2026.03.25-11.50.05:086][976]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3186.160400
 [2026.03.25-11.50.05:275][982]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.25-11.50.05:275][982]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3186.316895, Update Interval: 309.325836
+[2026.03.25-11.53.11:487][376]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.03.25-11.53.11:487][376]Can't find target element.
+[2026.03.25-11.53.37:112][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.03.25-11.53.38:499][122]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.25-11.53.38:531][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.03.25-11.53.38:550][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.03.25-11.53.38:571][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.25-11.54.13:786][170]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.03.25-11.54.13:962][173]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.03.25-11.54.20:669][370]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ShiftingManagement/GL_TimeShift.GL_TimeShift
+[2026.03.25-11.54.20:671][370]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.03.25-11.54.35:107][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.25-11.54.50:884][615]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.03.25-11.54.54:797][615]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.25-11.54.54:812][615]LogContentBrowser: Deferred new asset file creation: NewBlueprint1
+[2026.03.25-11.54.54:821][615]LogContentBrowser: Creating deferred item: NewBlueprint1
+[2026.03.25-11.54.54:841][616]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint1).
+[2026.03.25-11.55.00:015][234]LogContentBrowser: Attempting asset rename: NewBlueprint1 -> bp_keycard
+[2026.03.25-11.55.00:021][234]LogContentBrowser: End creating deferred item NewBlueprint1
+[2026.03.25-11.55.05:439][800]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bp_keycard.bp_keycard
+[2026.03.25-11.55.05:440][800]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.03.25-11.55.09:951][101]LogSlate: Window 'bp_keycard' being destroyed
+[2026.03.25-11.55.46:945][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.25-11.55.47:093][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.25-11.55.52:311][554]LogStreaming: Display: FlushAsyncLoading(573): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.25-11.55.52:313][554]LogStaticMesh: Display: Building static mesh 1M_Cube (Required Memory Estimate: 0.02183 MB)...
+[2026.03.25-11.55.52:318][554]LogStaticMesh: Built static mesh [0.00s] /Game/Clinic/Demo/Geometry/Meshes/1M_Cube.1M_Cube
+[2026.03.25-11.55.52:356][555]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.03.25-11.56.02:356][547]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3543.430664
+[2026.03.25-11.56.02:492][562]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-11.56.02:492][562]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3543.557861, Update Interval: 318.840302
+[2026.03.25-11.56.42:437][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: ================================================
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Total job queries 855, among them cache hits 261 (30.53%), DDC hits 564 (65.96%), Duplicates 25 (2.92%)
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Tracking 569 distinct input hashes that result in 391 distinct outputs (68.72%)
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: RAM used: 3.38 MiB of 3.20 GiB budget. Usage: 0.10%
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Shaders Compiled: 5
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Average time worker was idle: 762.58 s
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.08 s
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Job execution time: average 1.16 s, max 1.63 s
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Job life time (pending + execution): average 1.20 s, max 1.64
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Shader code size: total 65.316 KiB, numShaders 9, average 7.257 KiB, min 3.777 KiB, max 11.93 KiB
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.00 s
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Average processing rate: 0.83 jobs/sec
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Total thread time: 3.867 s
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Total thread preprocess time: 11.194 s
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Percentage time preprocessing: 289.46%
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Effective parallelization: 0.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 16 - 0.040260
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    4 times, average 0.51 sec, max 0.58 sec, min 0.42 sec)
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    4 times, average 0.28 sec, max 0.32 sec, min 0.25 sec)
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display:                                                  FVelocityPS - 52.43% of total time (compiled    4 times, average 0.51 sec, max 0.58 sec, min 0.42 sec)
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display:                                                  FVelocityVS - 28.61% of total time (compiled    4 times, average 0.28 sec, max 0.32 sec, min 0.25 sec)
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 18.96% of total time (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: === Material stats ===
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Materials Translated:    217
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Material Translation Only: 0.05 s (42%)
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: Material Cache Hits: 34 (16%)
+[2026.03.25-11.57.07:806][544]LogShaderCompilers: Display: ================================================
+[2026.03.25-11.57.59:483][295]LogBlueprint: Error: [AssetLog] /Game/bp_keycard.bp_keycard: [Compiler] This blueprint (self) is not a GL_TimeShift_C, therefore ' Target ' must have a connection.
+[2026.03.25-11.57.59:483][295]LogBlueprint: Error: [AssetLog] /Game/bp_keycard.bp_keycard: [Compiler] Variable node  Set haskeycard  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.03.25-11.57.59:485][295]LogStreaming: Display: FlushAsyncLoading(574): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.25-11.57.59:540][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.03.25-11.58.03:687][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.25-11.58.28:799][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.03.25-11.58.28:802][697]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.025
+[2026.03.25-11.58.28:802][697]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ShiftingManagement/GL_TimeShift] ([2] browsable assets)...
+[2026.03.25-11.58.28:802][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShiftingManagement/GL_TimeShift]
+[2026.03.25-11.58.28:811][697]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ShiftingManagement/GL_TimeShift_Auto2
+[2026.03.25-11.58.28:811][697]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/GL_TimeShift_Auto2DF7DCB204A87691827C8EA96AB02A861.tmp' to '../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/Autosaves/Game/ShiftingManagement/GL_TimeShift_Auto2.uasset'
+[2026.03.25-11.58.28:812][697]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/bp_keycard] ([2] browsable assets)...
+[2026.03.25-11.58.28:843][697]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp_keycard.bp_keycard]
+[2026.03.25-11.58.28:843][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp_keycard]
+[2026.03.25-11.58.28:843][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp_keycard" FILE="../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/Autosaves/Game/bp_keycard_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.03.25-11.58.28:854][697]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bp_keycard_Auto2
+[2026.03.25-11.58.28:854][697]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/bp_keycard_Auto2A2C7EE864122942E528974AA7BACE501.tmp' to '../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/Autosaves/Game/bp_keycard_Auto2.uasset'
+[2026.03.25-11.58.28:854][697]LogFileHelpers: Auto-saving content packages took 0.053
+[2026.03.25-11.58.48:953][ 26]LogDerivedDataCache: C:/Users/N00235865/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.25-11.59.16:074][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.25-12.01.57:279][448]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3898.368408
+[2026.03.25-12.01.57:421][465]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-12.01.57:421][465]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3898.502197, Update Interval: 339.742432
+[2026.03.25-12.04.22:278][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.03.25-12.04.22:475][707]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.03.25-12.04.22:486][707]LogSlate: Took 0.010132 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.03.25-12.04.23:362][707]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.25-12.04.23:613][707]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-12.04.23:613][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-12.04.23:662][707]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-12.04.23:663][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-12.04.23:711][707]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.25-12.04.23:711][707]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-12.04.23:711][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-12.04.23:777][707]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.25-12.04.23:777][707]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-12.04.23:777][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-12.04.23:834][707]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.25-12.04.23:834][707]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-12.04.23:834][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-12.04.23:888][707]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.25-12.04.23:888][707]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-12.04.23:888][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-12.04.23:950][707]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.25-12.04.23:950][707]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-12.04.23:950][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-12.04.24:004][707]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.25-12.04.24:004][707]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-12.04.24:004][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-12.04.24:039][707]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/bp_keycard.bp_keycard
+	Asset Type: Blueprint
+[2026.03.25-12.04.24:393][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.25-12.04.24:476][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.25-12.04.24:502][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.25-12.04.24:530][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.03.25-12.04.24:564][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.03.25-12.08.19:870][206]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4280.948242
+[2026.03.25-12.08.20:167][211]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-12.08.20:168][211]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4281.200684, Update Interval: 328.869293
+[2026.03.25-12.14.47:422][818]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4668.505859
+[2026.03.25-12.14.47:637][825]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-12.14.47:637][825]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4668.689941, Update Interval: 333.205353
+[2026.03.25-12.15.04:176][307]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.25-12.15.04:213][307]LogContentBrowser: Deferred new asset file creation: NewBlueprint1
+[2026.03.25-12.15.04:221][307]LogContentBrowser: Creating deferred item: NewBlueprint1
+[2026.03.25-12.15.04:233][308]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint1).
+[2026.03.25-12.15.08:132][435]LogContentBrowser: Attempting asset rename: NewBlueprint1 -> bp_keypad
+[2026.03.25-12.15.08:138][435]LogContentBrowser: End creating deferred item NewBlueprint1
+[2026.03.25-12.15.10:325][502]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bp_keypad.bp_keypad
+[2026.03.25-12.15.10:326][502]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.03.25-12.15.24:547][911]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.03.25-12.15.34:114][190]LogEditorTransaction: Undo Modify Component Scale
+[2026.03.25-12.15.36:586][255]LogEditorTransaction: Undo Modify Component Scale
+[2026.03.25-12.16.19:905][519]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.25-12.16.20:441][525]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.25-12.16.20:876][539]LogEditorTransaction: Undo Set Scale
+[2026.03.25-12.16.21:248][549]LogEditorTransaction: Undo Set Scale
+[2026.03.25-12.16.21:724][563]LogEditorTransaction: Undo Set Scale
+[2026.03.25-12.16.22:197][577]LogEditorTransaction: Undo Modify Component Scale
+[2026.03.25-12.16.22:636][590]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.25-12.16.23:527][614]LogEditorTransaction: Undo Add Component
+[2026.03.25-12.16.56:300][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.25-12.17.10:698][982]LogSlate: Took 0.006409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.03.25-12.17.17:278][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.25-12.17.17:939][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.25-12.17.24:592][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.25-12.17.24:867][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.03.25-12.17.25:412][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-12.17.25:529][420]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/bp_keypad] ([2] browsable assets)...
+[2026.03.25-12.17.25:536][420]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp_keypad.bp_keypad]
+[2026.03.25-12.17.25:536][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp_keypad]
+[2026.03.25-12.17.25:536][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp_keypad" FILE="../../../../../Users/N00235865/Desktop/TimeShiftProject/Content/bp_keypad.uasset" SILENT=true
+[2026.03.25-12.17.25:545][420]LogSavePackage: Moving output files for package: /Game/bp_keypad
+[2026.03.25-12.17.25:545][420]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/bp_keypadDE2F3A43496A15FFF08B40A7E606E096.tmp' to '../../../../../Users/N00235865/Desktop/TimeShiftProject/Content/bp_keypad.uasset'
+[2026.03.25-12.17.25:555][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.006 ms (total: 1.01 sec)
+[2026.03.25-12.17.25:610][420]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.25-12.17.25:610][420]LogContentValidation: Enabled validators:
+[2026.03.25-12.17.25:610][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-12.17.25:610][420]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-12.17.25:610][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-12.17.25:610][420]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-12.17.25:610][420]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-12.17.25:610][420]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-12.17.25:610][420]AssetCheck: /Game/bp_keypad Validating asset
+[2026.03.25-12.17.25:633][420]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.25-12.18.24:708][170]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interaction/BP_ButtonDoor.BP_ButtonDoor
+[2026.03.25-12.18.24:708][170]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.03.25-12.18.57:666][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.03.25-12.18.57:673][358]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.042
+[2026.03.25-12.18.57:673][358]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ShiftingManagement/GL_TimeShift] ([2] browsable assets)...
+[2026.03.25-12.18.57:673][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShiftingManagement/GL_TimeShift]
+[2026.03.25-12.18.57:684][358]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ShiftingManagement/GL_TimeShift_Auto3
+[2026.03.25-12.18.57:684][358]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/GL_TimeShift_Auto3E10CD94D495A67D2972585B2F1B98B61.tmp' to '../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/Autosaves/Game/ShiftingManagement/GL_TimeShift_Auto3.uasset'
+[2026.03.25-12.18.57:684][358]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/bp_keypad] ([2] browsable assets)...
+[2026.03.25-12.18.57:694][358]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp_keypad.bp_keypad]
+[2026.03.25-12.18.57:694][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp_keypad]
+[2026.03.25-12.18.57:694][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp_keypad" FILE="../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/Autosaves/Game/bp_keypad_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2026.03.25-12.18.57:702][358]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/bp_keypad_Auto3
+[2026.03.25-12.18.57:702][358]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/bp_keypad_Auto33CCCF7D64907F9499E9A189D81053F3B.tmp' to '../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/Autosaves/Game/bp_keypad_Auto3.uasset'
+[2026.03.25-12.18.57:703][358]LogFileHelpers: Auto-saving content packages took 0.030
+[2026.03.25-12.19.32:135][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.25-12.19.33:469][376]LogSlate: Window 'Save Content' being destroyed
+[2026.03.25-12.19.33:487][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-12.19.33:529][376]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ShiftingManagement/GL_TimeShift] ([2] browsable assets)...
+[2026.03.25-12.19.33:529][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/ShiftingManagement/GL_TimeShift]
+[2026.03.25-12.19.33:529][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShiftingManagement/GL_TimeShift" FILE="../../../../../Users/N00235865/Desktop/TimeShiftProject/Content/ShiftingManagement/GL_TimeShift.uasset" SILENT=true
+[2026.03.25-12.19.33:536][376]LogSavePackage: Moving output files for package: /Game/ShiftingManagement/GL_TimeShift
+[2026.03.25-12.19.33:536][376]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/GL_TimeShift047DA9AB4532A582E78528A827F538B9.tmp' to '../../../../../Users/N00235865/Desktop/TimeShiftProject/Content/ShiftingManagement/GL_TimeShift.uasset'
+[2026.03.25-12.19.33:537][376]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/bp_keypad] ([2] browsable assets)...
+[2026.03.25-12.19.33:537][376]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp_keypad]
+[2026.03.25-12.19.33:537][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp_keypad" FILE="../../../../../Users/N00235865/Desktop/TimeShiftProject/Content/bp_keypad.uasset" SILENT=true
+[2026.03.25-12.19.33:544][376]LogSavePackage: Moving output files for package: /Game/bp_keypad
+[2026.03.25-12.19.33:545][376]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/bp_keypad75F85AFC465C7BCFC7DFC8BC191D4DE6.tmp' to '../../../../../Users/N00235865/Desktop/TimeShiftProject/Content/bp_keypad.uasset'
+[2026.03.25-12.19.33:595][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.255 ms (total: 1.12 sec)
+[2026.03.25-12.19.33:595][376]LogStreaming: Display: FlushAsyncLoading(575): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.25-12.19.33:637][376]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.25-12.19.33:668][376]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/DarkVersion.DarkVersion
+[2026.03.25-12.19.33:668][376]Cmd: MAP LOAD FILE="../../../../../Users/N00235865/Desktop/TimeShiftProject/Content/Dimensions/DarkVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.25-12.19.33:710][376]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-12.19.33:710][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-12.19.33:745][376]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.25-12.19.33:754][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.25-12.19.33:759][376]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.03.25-12.19.33:762][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.25-12.19.33:790][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.03.25-12.19.33:813][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.03.25-12.19.33:857][376]LogAudio: Display: Audio Device (ID: 1) registered with world 'DarkVersion'.
+[2026.03.25-12.19.33:857][376]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.03.25-12.19.33:909][376]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.25-12.19.33:942][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.03.25-12.19.33:956][376]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.25-12.19.33:956][376]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
+[2026.03.25-12.19.34:101][376]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.25-12.19.34:101][376]LogContentValidation: Enabled validators:
+[2026.03.25-12.19.34:101][376]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-12.19.34:101][376]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-12.19.34:101][376]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-12.19.34:101][376]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-12.19.34:101][376]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-12.19.34:101][376]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-12.19.34:101][376]AssetCheck: /Game/ShiftingManagement/GL_TimeShift Validating asset
+[2026.03.25-12.19.34:101][376]AssetCheck: /Game/bp_keypad Validating asset
+[2026.03.25-12.19.34:517][376]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.25-12.19.34:819][377]LogSlate: External Image Picker: DecompressImage failed
+[2026.03.25-12.19.59:647][240]Cmd: EDIT COPY
+[2026.03.25-12.20.00:780][281]Cmd: EDIT PASTE
+[2026.03.25-12.20.00:848][281]LogClass: Warning: Short type name "puzzledoor2_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc50a7ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc50d7c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc50d7dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc50d01d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc50d246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc50a526c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc50df30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc50d01d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc50d246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.03.25-12.20.00:852][281]LogClass: Warning: Short type name "puzzledoor2_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+0x00007ffc50a7ca1e UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc50d7c187 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc50d7dad0 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc50d01d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc50d246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc50a526c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc50df30db UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc50d01d57 UnrealEditor-CoreUObject.dll!UnknownFunction []
+0x00007ffc50d246c7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+
+[2026.03.25-12.20.08:520][565]Cmd: DELETE
+[2026.03.25-12.20.08:520][565]Cmd: ACTOR DELETE
+[2026.03.25-12.20.08:532][565]LogEditorActor: Deleted Actor: puzzledoor2_C
+[2026.03.25-12.20.08:557][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.25-12.20.08:564][565]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2026.03.25-12.20.21:040][953]Cmd: DELETE
+[2026.03.25-12.20.21:040][953]Cmd: ACTOR DELETE
+[2026.03.25-12.20.21:050][953]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-12.20.21:070][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.25-12.20.21:073][953]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.03.25-12.20.31:415][267]LogStreaming: Display: FlushAsyncLoading(577): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.25-12.20.31:440][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.25-12.20.32:643][267]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.25-12.20.32:681][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.03.25-12.20.32:700][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.25-12.20.32:723][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.25-12.20.32:754][267]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.25-12.20.51:472][814]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5032.539062
+[2026.03.25-12.20.51:675][820]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-12.20.51:675][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5032.708496, Update Interval: 329.349030
+[2026.03.25-12.20.53:112][828]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.25-12.20.53:150][828]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.25-12.20.53:157][828]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.25-12.20.53:175][829]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.03.25-12.21.18:110][572]LogContentBrowser: Attempting asset rename: NewBlueprint -> bp_keypadblocker
+[2026.03.25-12.21.18:117][572]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.25-12.21.20:121][630]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/bp_keypadblocker.bp_keypadblocker
+[2026.03.25-12.21.20:121][630]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.03.25-12.21.38:647][200]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.03.25-12.22.10:597][200]LogEditorTransaction: Undo Add Component
+[2026.03.25-12.23.04:207][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.25-12.23.54:336][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.25-12.25.00:712][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.03.25-12.25.07:516][783]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/bp_keypad.bp_keypad_C
+[2026.03.25-12.25.07:516][783]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/bp_keypad.bp_keypad_C
+[2026.03.25-12.25.07:519][783]LogActorFactory: Actor Factory spawned Blueprint /Game/bp_keypad.bp_keypad as actor: bp_keypad_C /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.bp_keypad_C_0
+[2026.03.25-12.25.07:521][783]LogActorFactory: Actor Factory spawned Blueprint /Game/bp_keypad.bp_keypad as actor: bp_keypad_C /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.bp_keypad_C_0
+[2026.03.25-12.25.07:525][783]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.03.25-12.25.08:860][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.25-12.25.08:862][820]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2026.03.25-12.25.08:880][820]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/bp_keypad.bp_keypad_C
+[2026.03.25-12.25.08:880][820]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/bp_keypad.bp_keypad_C
+[2026.03.25-12.25.08:883][820]LogActorFactory: Actor Factory spawned Blueprint /Game/bp_keypad.bp_keypad as actor: bp_keypad_C /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.bp_keypad_C_1
+[2026.03.25-12.25.08:885][820]LogActorFactory: Actor Factory spawned Blueprint /Game/bp_keypad.bp_keypad as actor: bp_keypad_C /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.bp_keypad_C_1
+[2026.03.25-12.25.16:292][ 35]Cmd: TRANSACTION UNDO
+[2026.03.25-12.25.16:292][ 35]LogEditorTransaction: Undo Set Rotation
+[2026.03.25-12.25.18:018][ 81]Cmd: TRANSACTION UNDO
+[2026.03.25-12.25.18:018][ 81]LogEditorTransaction: Undo Set Rotation
+[2026.03.25-12.26.26:662][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.25-12.26.31:872][299]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.03.25-12.26.31:872][299]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.03.25-12.26.43:592][647]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/bp_keypadblocker.bp_keypadblocker_C
+[2026.03.25-12.26.43:592][647]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/bp_keypadblocker.bp_keypadblocker_C
+[2026.03.25-12.26.43:593][647]LogActorFactory: Actor Factory spawned Blueprint /Game/bp_keypadblocker.bp_keypadblocker as actor: bp_keypadblocker_C /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.bp_keypadblocker_C_0
+[2026.03.25-12.26.43:595][647]LogActorFactory: Actor Factory spawned Blueprint /Game/bp_keypadblocker.bp_keypadblocker as actor: bp_keypadblocker_C /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.bp_keypadblocker_C_0
+[2026.03.25-12.26.45:630][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.25-12.26.45:635][707]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2026.03.25-12.26.45:652][707]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/bp_keypadblocker.bp_keypadblocker_C
+[2026.03.25-12.26.45:652][707]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/bp_keypadblocker.bp_keypadblocker_C
+[2026.03.25-12.26.45:655][707]LogActorFactory: Actor Factory spawned Blueprint /Game/bp_keypadblocker.bp_keypadblocker as actor: bp_keypadblocker_C /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.bp_keypadblocker_C_1
+[2026.03.25-12.26.45:657][707]LogActorFactory: Actor Factory spawned Blueprint /Game/bp_keypadblocker.bp_keypadblocker as actor: bp_keypadblocker_C /Game/Dimensions/DarkVersion.DarkVersion:PersistentLevel.bp_keypadblocker_C_1
+[2026.03.25-12.26.58:688][ 90]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5399.760254
+[2026.03.25-12.26.58:914][ 96]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-12.26.58:915][ 96]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5399.950195, Update Interval: 305.502502
+[2026.03.25-12.28.51:063][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.25-12.32.51:457][301]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5752.537598
+[2026.03.25-12.32.51:653][308]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-12.32.51:653][308]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5752.706055, Update Interval: 339.839478
+[2026.03.25-12.35.57:742][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.25-12.35.57:746][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-12.35.57:805][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimensions/DarkVersion" FILE="../../../../../Users/N00235865/Desktop/TimeShiftProject/Content/Dimensions/DarkVersion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.25-12.35.57:861][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.03.25-12.35.58:022][989]LogSavePackage: Moving output files for package: /Game/Dimensions/DarkVersion
+[2026.03.25-12.35.58:023][989]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/DarkVersion1E4E6852480B460940AF6D8FBFE644D0.tmp' to '../../../../../Users/N00235865/Desktop/TimeShiftProject/Content/Dimensions/DarkVersion.umap'
+[2026.03.25-12.35.58:040][989]LogFileHelpers: Saving map 'DarkVersion' took 0.236
+[2026.03.25-12.35.58:041][989]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/bp_keypad] ([2] browsable assets)...
+[2026.03.25-12.35.58:058][989]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp_keypad.bp_keypad]
+[2026.03.25-12.35.58:058][989]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp_keypad]
+[2026.03.25-12.35.58:058][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp_keypad" FILE="../../../../../Users/N00235865/Desktop/TimeShiftProject/Content/bp_keypad.uasset" SILENT=true
+[2026.03.25-12.35.58:066][989]LogSavePackage: Moving output files for package: /Game/bp_keypad
+[2026.03.25-12.35.58:067][989]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/bp_keypad362E18CB4AFCFB75A62639A71B3F7EF3.tmp' to '../../../../../Users/N00235865/Desktop/TimeShiftProject/Content/bp_keypad.uasset'
+[2026.03.25-12.35.58:068][989]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/bp_keypadblocker] ([2] browsable assets)...
+[2026.03.25-12.35.58:074][989]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/bp_keypadblocker.bp_keypadblocker]
+[2026.03.25-12.35.58:074][989]OBJ SavePackage: Finished generating thumbnails for package [/Game/bp_keypadblocker]
+[2026.03.25-12.35.58:074][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp_keypadblocker" FILE="../../../../../Users/N00235865/Desktop/TimeShiftProject/Content/bp_keypadblocker.uasset" SILENT=true
+[2026.03.25-12.35.58:083][989]LogSavePackage: Moving output files for package: /Game/bp_keypadblocker
+[2026.03.25-12.35.58:083][989]LogSavePackage: Moving '../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/bp_keypadblocker924B0908402C71DBA98A9FBFFA831CC5.tmp' to '../../../../../Users/N00235865/Desktop/TimeShiftProject/Content/bp_keypadblocker.uasset'
+[2026.03.25-12.35.58:093][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 347.156 ms (total: 1.46 sec)
+[2026.03.25-12.35.58:148][989]LogContentValidation: Display: Starting to validate 3 assets
+[2026.03.25-12.35.58:148][989]LogContentValidation: Enabled validators:
+[2026.03.25-12.35.58:148][989]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-12.35.58:148][989]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-12.35.58:148][989]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-12.35.58:148][989]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-12.35.58:148][989]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-12.35.58:148][989]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-12.35.58:149][989]AssetCheck: /Game/Dimensions/DarkVersion Validating asset
+[2026.03.25-12.35.58:149][989]AssetCheck: /Game/bp_keypad Validating asset
+[2026.03.25-12.35.58:149][989]AssetCheck: /Game/bp_keypadblocker Validating asset
+[2026.03.25-12.35.58:170][989]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/N00235865/Desktop/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.25-12.36.01:259][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
