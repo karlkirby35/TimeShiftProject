@@ -4381,3 +4381,607 @@ FPackageName: Skipped package /Game/SciFiContainers/Materials/MasterMaterials/MM
 [2026.04.08-17.06.15:002][ 45]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
 [2026.04.08-17.06.15:021][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
 [2026.04.08-17.06.15:110][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2026.04.08-17.09.03:667][691]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5804.771973
+[2026.04.08-17.09.04:667][694]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.08-17.09.04:667][694]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5805.438965, Update Interval: 343.009125
+[2026.04.08-17.09.52:331][313]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.04.08-17.09.52:342][313]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.04.08-17.09.52:355][313]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.04.08-17.09.52:377][314]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.04.08-17.10.02:756][852]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Prompts
+[2026.04.08-17.10.02:778][852]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.04.08-17.10.04:773][941]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WB_Prompts.WB_Prompts
+[2026.04.08-17.10.04:781][941]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.04.08-17.10.04:789][941]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2026.04.08-17.10.58:616][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.04.08-17.10.58:759][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.04.08-17.10.58:937][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.04.08-17.11.23:504][464]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/models/BP_FuelCan.BP_FuelCan
+[2026.04.08-17.11.23:504][464]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2026.04.08-17.13.20:077][101]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interaction/FuseConsole.FuseConsole
+[2026.04.08-17.13.20:077][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2026.04.08-17.13.57:428][172]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2026.04.08-17.15.35:776][867]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6196.865234
+[2026.04.08-17.15.35:960][878]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.08-17.15.35:960][878]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6197.033691, Update Interval: 359.934082
+[2026.04.08-17.15.52:155][782]LogStreaming: Display: FlushAsyncLoading(639): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.08-17.16.18:314][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.04.08-17.16.18:322][313]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/DarkVersion' took 0.151
+[2026.04.08-17.16.18:322][313]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Interaction/FuseConsole] ([2] browsable assets)...
+[2026.04.08-17.16.18:359][313]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Interaction/FuseConsole.FuseConsole]
+[2026.04.08-17.16.18:359][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interaction/FuseConsole]
+[2026.04.08-17.16.18:359][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interaction/FuseConsole" FILE="../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Interaction/FuseConsole_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.04.08-17.16.18:381][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Interaction/FuseConsole_Auto6
+[2026.04.08-17.16.18:382][313]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/FuseConsole_Auto6005765044C20A4147857C2B92B17EC3F.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Interaction/FuseConsole_Auto6.uasset'
+[2026.04.08-17.16.18:383][313]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WB_Prompts] ([2] browsable assets)...
+[2026.04.08-17.16.18:387][313]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WB_Prompts.WB_Prompts]
+[2026.04.08-17.16.18:387][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_Prompts]
+[2026.04.08-17.16.18:387][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Prompts" FILE="../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/WB_Prompts_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.04.08-17.16.18:399][313]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WB_Prompts_Auto6
+[2026.04.08-17.16.18:399][313]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/WB_Prompts_Auto6B3F4BE024EBE03EB7B44CB9967AFF4F4.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/WB_Prompts_Auto6.uasset'
+[2026.04.08-17.16.18:400][313]LogFileHelpers: Auto-saving content packages took 0.078
+[2026.04.08-17.17.32:684][678]LogShaderCompilers: Display: ================================================
+[2026.04.08-17.17.32:684][678]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.08-17.17.32:684][678]LogShaderCompilers: Display: Total job queries 722, among them cache hits 178 (24.65%), DDC hits 468 (64.82%), Duplicates 66 (9.14%)
+[2026.04.08-17.17.32:684][678]LogShaderCompilers: Display: Tracking 478 distinct input hashes that result in 332 distinct outputs (69.46%)
+[2026.04.08-17.17.32:684][678]LogShaderCompilers: Display: RAM used: 3.01 MiB of 819.20 MiB budget. Usage: 0.37%
+[2026.04.08-17.17.32:684][678]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Shaders Compiled: 10
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Average time worker was idle: 381.47 s
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.12 s
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Job execution time: average 1.31 s, max 2.05 s
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Job life time (pending + execution): average 1.36 s, max 2.05
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Shader code size: total 99.879 KiB, numShaders 12, average 8.323 KiB, min 2.84 KiB, max 13.551 KiB
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.35 s
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.12%
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Average processing rate: 1.87 jobs/sec
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Total thread time: 9.4 s
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Total thread preprocess time: 11.082 s
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Percentage time preprocessing: 117.90%
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Effective parallelization: 1.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.219766
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.35 sec, max 1.50 sec, min 1.19 sec)
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 1.00 sec, max 1.15 sec, min 0.85 sec)
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.78 sec, max 0.87 sec, min 0.68 sec)
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.55 sec, max 0.55 sec, min 0.55 sec)
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 28.64% of total time (compiled    2 times, average 1.35 sec, max 1.50 sec, min 1.19 sec)
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display:                                                  FVelocityPS - 21.25% of total time (compiled    2 times, average 1.00 sec, max 1.15 sec, min 0.85 sec)
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.52% of total time (compiled    2 times, average 0.78 sec, max 0.87 sec, min 0.68 sec)
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.97% of total time (compiled    2 times, average 0.52 sec, max 0.59 sec, min 0.44 sec)
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display:                                                  FVelocityVS - 10.19% of total time (compiled    2 times, average 0.48 sec, max 0.56 sec, min 0.40 sec)
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: === Material stats ===
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Materials Translated:    246
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Material Translation Only: 0.14 s (56%)
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: Material Cache Hits: 31 (13%)
+[2026.04.08-17.17.32:685][678]LogShaderCompilers: Display: ================================================
+[2026.04.08-17.18.53:770][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.04.08-17.18.55:367][697]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.08-17.18.55:387][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.08-17.18.55:387][697]LogStreaming: Display: FlushAsyncLoading(640): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.08-17.18.55:387][697]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.08-17.18.55:493][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.105244s)
+[2026.04.08-17.18.55:493][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.105310s)
+[2026.04.08-17.18.55:575][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.04.08-17.18.55:586][697]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.04.08-17.18.55:588][697]LogPlayLevel: PIE: World Init took: (0.002634s)
+[2026.04.08-17.18.55:589][697]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.04.08-17.18.55:589][697]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.08-17.18.55:589][697]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.08-17.18.55:589][697]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.08-17.18.55:589][697]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.08-17.18.55:589][697]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.08-17.18.55:589][697]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.08-17.18.55:589][697]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.08-17.18.55:589][697]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.08-17.18.55:590][697]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.08-17.18.55:590][697]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.08-17.18.55:590][697]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.08-17.18.55:592][697]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.08-17.18.55:610][697]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.04.08-17.18.55:610][697]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.08-17.18.55:610][697]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.08-17.18.55:610][697]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.08-17.18.55:611][697]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.04.08-17.18.55:611][697]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.04.08-17.18.55:616][697]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.04.08-17.18.55:616][697]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.04.08-17.18.55:616][697]LogInit: FAudioDevice initialized with ID 18.
+[2026.04.08-17.18.55:616][697]LogAudio: Display: Audio Device (ID: 18) registered with world 'DarkVersion'.
+[2026.04.08-17.18.55:616][697]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.04.08-17.18.55:623][697]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.08-17.18.55:668][697]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 60) at 2026.04.08-18.18.55
+[2026.04.08-17.18.55:669][697]LogWorld: Bringing up level for play took: 0.045771
+[2026.04.08-17.18.55:672][697]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2026.04.08-17.18.55:681][697]LogBlueprintUserMessages: [BP_InventoryComp] 0
+[2026.04.08-17.18.55:683][697]PIE: Server logged in
+[2026.04.08-17.18.55:686][697]PIE: Play in editor total start time 0.299 seconds.
+[2026.04.08-17.18.55:738][697]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-03-20_-_Space_Debris_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.08-17.19.00:348][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.08-17.19.00:348][967]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.08-17.19.00:349][967]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-17.19.00:358][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-17.19.00:365][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.08-17.19.00:375][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-17.19.00:455][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.08-17.19.00:455][967]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.04.08-17.19.00:455][967]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2026.04.08-17.19.00:458][967]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2026.04.08-17.19.00:473][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.04.08-17.19.00:557][968]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2026.04.08-17.20.43:873][150]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-17.20.43:873][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-17.20.44:263][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.04.08-17.20.46:515][267]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.08-17.20.46:515][267]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-17.20.46:515][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-17.20.46:758][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.04.08-17.20.48:614][372]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.08-17.20.48:614][372]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-17.20.48:614][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-17.20.48:832][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.04.08-17.20.49:932][435]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.04.08-17.20.49:932][435]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-17.20.49:932][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-17.20.50:130][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.04.08-17.21.38:862][277]LogBlueprint: Warning: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] Could not find a variable named "interactwidget" in '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C'.
+Make sure '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C' has been compiled for  Get interactwidget
+[2026.04.08-17.21.38:862][277]LogBlueprint: Warning: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] Could not find a variable named "interactwidget" in '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C'.
+Make sure '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C' has been compiled for  Get interactwidget
+[2026.04.08-17.21.38:862][277]LogBlueprint: Warning: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] Could not find a variable named "interactwidget" in '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C'.
+Make sure '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C' has been compiled for  Set interactwidget
+[2026.04.08-17.21.38:863][277]LogBlueprint: Error: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2026.04.08-17.21.38:864][277]LogBlueprint: Error: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] The property associated with  Interactwidget  could not be found in '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C'
+[2026.04.08-17.21.38:864][277]LogBlueprint: Error: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] The property associated with  Interactwidget  could not be found in '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C'
+[2026.04.08-17.21.38:864][277]LogBlueprint: Error: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] The property associated with  Interactwidget  could not be found in '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C'
+[2026.04.08-17.21.38:974][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.04.08-17.21.56:336][279]LogBlueprint: Warning: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] Could not find a variable named "interactwidget" in '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C'.
+Make sure '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C' has been compiled for  Get interactwidget
+[2026.04.08-17.21.56:336][279]LogBlueprint: Warning: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] Could not find a variable named "interactwidget" in '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C'.
+Make sure '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C' has been compiled for  Get interactwidget
+[2026.04.08-17.21.56:337][279]LogBlueprint: Error: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] The property associated with  Interactwidget  could not be found in '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C'
+[2026.04.08-17.21.56:337][279]LogBlueprint: Error: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] The property associated with  Interactwidget  could not be found in '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C'
+[2026.04.08-17.21.56:444][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.04.08-17.22.02:818][647]LogBlueprint: Warning: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] Could not find a variable named "interactwidget" in '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C'.
+Make sure '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C' has been compiled for  Get interactwidget
+[2026.04.08-17.22.02:818][647]LogBlueprint: Warning: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] Could not find a variable named "interactwidget" in '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C'.
+Make sure '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C' has been compiled for  Get interactwidget
+[2026.04.08-17.22.02:819][647]LogBlueprint: Error: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] The property associated with  Interactwidget  could not be found in '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C'
+[2026.04.08-17.22.02:819][647]LogBlueprint: Error: [AssetLog] C:\Users\karlk\TimeShiftProject\Content\Inventory\models\BP_FuelCan.uasset: [Compiler] The property associated with  Interactwidget  could not be found in '/Game/Inventory/models/BP_FuelCan.BP_FuelCan_C'
+[2026.04.08-17.22.02:914][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.04.08-17.22.15:499][380]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6596.591309
+[2026.04.08-17.22.15:699][392]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.08-17.22.15:699][392]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6596.774902, Update Interval: 306.531586
+[2026.04.08-17.22.24:391][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.04.08-17.22.25:633][941]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.08-17.22.25:647][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.08-17.22.25:647][941]LogStreaming: Display: FlushAsyncLoading(641): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.08-17.22.25:648][941]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.08-17.22.25:735][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088251s)
+[2026.04.08-17.22.25:735][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.088312s)
+[2026.04.08-17.22.25:797][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.04.08-17.22.25:809][941]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.04.08-17.22.25:811][941]LogPlayLevel: PIE: World Init took: (0.002384s)
+[2026.04.08-17.22.25:813][941]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.04.08-17.22.25:813][941]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.08-17.22.25:813][941]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.08-17.22.25:813][941]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.08-17.22.25:813][941]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.08-17.22.25:813][941]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.08-17.22.25:813][941]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.08-17.22.25:813][941]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.08-17.22.25:813][941]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.08-17.22.25:813][941]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.08-17.22.25:813][941]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.08-17.22.25:813][941]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.08-17.22.25:815][941]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.08-17.22.25:832][941]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.04.08-17.22.25:834][941]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.08-17.22.25:834][941]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.08-17.22.25:834][941]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.08-17.22.25:834][941]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.04.08-17.22.25:834][941]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.04.08-17.22.25:838][941]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.04.08-17.22.25:838][941]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.04.08-17.22.25:838][941]LogInit: FAudioDevice initialized with ID 19.
+[2026.04.08-17.22.25:838][941]LogAudio: Display: Audio Device (ID: 19) registered with world 'DarkVersion'.
+[2026.04.08-17.22.25:838][941]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.04.08-17.22.25:843][941]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.08-17.22.25:882][941]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 60) at 2026.04.08-18.22.25
+[2026.04.08-17.22.25:883][941]LogWorld: Bringing up level for play took: 0.040221
+[2026.04.08-17.22.25:887][941]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2026.04.08-17.22.25:895][941]LogBlueprintUserMessages: [BP_InventoryComp] 0
+[2026.04.08-17.22.25:897][941]PIE: Server logged in
+[2026.04.08-17.22.25:900][941]PIE: Play in editor total start time 0.253 seconds.
+[2026.04.08-17.22.25:959][941]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-03-20_-_Space_Debris_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.08-17.22.54:543][655]LogBlueprintUserMessages: [ChangeLevel_C_1] Switch
+[2026.04.08-17.22.54:543][655]LogBlueprintUserMessages: [ChangeLevel_C_1] 1
+[2026.04.08-17.22.55:544][715]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.04.08-17.22.55:559][716]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.04.08-17.22.55:560][716]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.04.08-17.22.55:560][716]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.04.08-17.22.55:560][716]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::InvalidURL, reason: "Invalid URL: /Game/Dimensions/LightVersion"
+[2026.04.08-17.22.55:560][716]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Dimensions/LightVersion
+[2026.04.08-17.22.55:560][716]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Dimensions/LightVersion'
+[2026.04.08-17.22.55:560][716]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::ClientTravelFailure, reason: "Invalid URL: /Game/Dimensions/LightVersion"
+[2026.04.08-17.22.55:560][716]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Dimensions/LightVersion
+[2026.04.08-17.22.55:560][716]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Dimensions/LightVersion'
+[2026.04.08-17.22.55:575][717]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion?closed"
+[2026.04.08-17.22.55:575][717]LogNet: Browse: /Game/Dimensions/LightVersion?closed
+[2026.04.08-17.22.55:575][717]LogNet: Connection failed; returning to Entry
+[2026.04.08-17.22.55:575][717]LogLoad: LoadMap: /Game/Dimensions/LightVersion?closed
+[2026.04.08-17.22.55:575][717]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.08-17.22.55:577][717]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-17.22.55:588][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-17.22.55:684][717]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.08-17.22.55:699][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.04.08-17.22.55:710][717]LogStreaming: Display: FlushAsyncLoading(642): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.08-17.22.55:773][717]LogAudio: Display: Audio Device (ID: 19) registered with world 'LightVersion'.
+[2026.04.08-17.22.55:774][717]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.04.08-17.22.55:776][717]LogPlayLevel: PIE: World Init took: (0.002325s)
+[2026.04.08-17.22.55:776][717]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.08-17.22.55:827][717]LogActor: Loaded Actor (StaticMeshActor_782_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.08-17.22.55:827][717]LogActor: Loaded Actor (StaticMeshActor_777_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.08-17.22.55:827][717]LogActor: Loaded Actor (StaticMeshActor_865_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.08-17.22.55:835][717]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.04.08-18.22.55
+[2026.04.08-17.22.55:836][717]LogWorld: Bringing up level for play took: 0.060071
+[2026.04.08-17.22.55:845][717]LogBlueprintUserMessages: [BP_InventoryComp] 1
+[2026.04.08-17.22.55:845][717]LogLoad: Took 0.270745 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.04.08-17.22.55:846][717]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.04.08-17.22.55:914][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.04.08-17.22.55:970][717]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-02-16_-_Airlock_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.08-17.22.58:349][859]LogTexture: Display: Building textures: /Game/Fab/Megascans/Decals/Hand_Smear_se0wefxp/Medium/se0wefxp_tier_2/Textures/T_se0wefxp_2K_B-O.T_se0wefxp_2K_B-O (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.04.08-17.23.09:877][539]LogBlueprintUserMessages: [ChangeLevel_C_2] Switch
+[2026.04.08-17.23.09:877][539]LogBlueprintUserMessages: [ChangeLevel_C_2] 1
+[2026.04.08-17.23.10:908][587]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.04.08-17.23.10:908][587]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.04.08-17.23.10:908][587]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.04.08-17.23.10:908][587]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.04.08-17.23.10:911][587]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-17.23.10:919][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-17.23.11:019][587]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.08-17.23.11:032][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.04.08-17.23.11:043][587]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.08-17.23.11:116][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073045s)
+[2026.04.08-17.23.11:116][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.073116s)
+[2026.04.08-17.23.11:116][587]LogAudio: Display: Audio Device (ID: 19) registered with world 'DarkVersion'.
+[2026.04.08-17.23.11:116][587]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.04.08-17.23.11:119][587]LogPlayLevel: PIE: World Init took: (0.002366s)
+[2026.04.08-17.23.11:119][587]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.08-17.23.11:149][587]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 60) at 2026.04.08-18.23.11
+[2026.04.08-17.23.11:150][587]LogWorld: Bringing up level for play took: 0.031435
+[2026.04.08-17.23.11:159][587]LogBlueprintUserMessages: [BP_InventoryComp] 1
+[2026.04.08-17.23.11:159][587]LogLoad: Took 0.251223 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_DarkVersion)
+[2026.04.08-17.23.11:159][587]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.08-17.23.11:206][587]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-03-20_-_Space_Debris_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.08-17.24.07:327][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.08-17.24.07:327][928]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.08-17.24.07:328][928]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-17.24.07:338][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-17.24.07:341][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.08-17.24.07:351][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-17.24.07:412][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.08-17.24.07:414][928]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.04.08-17.24.07:414][928]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.04.08-17.24.07:416][928]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.04.08-17.24.07:435][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.04.08-17.24.07:514][929]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2026.04.08-17.24.32:171][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.04.08-17.24.33:788][332]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.08-17.24.33:801][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.08-17.24.33:836][332]LogStreaming: Display: FlushAsyncLoading(643): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.08-17.24.33:836][332]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.08-17.24.33:904][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067908s)
+[2026.04.08-17.24.33:904][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.067955s)
+[2026.04.08-17.24.33:953][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.04.08-17.24.33:964][332]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.04.08-17.24.33:965][332]LogPlayLevel: PIE: World Init took: (0.002121s)
+[2026.04.08-17.24.33:966][332]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.04.08-17.24.33:966][332]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.08-17.24.33:966][332]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.08-17.24.33:966][332]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.08-17.24.33:966][332]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.08-17.24.33:966][332]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.08-17.24.33:966][332]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.08-17.24.33:966][332]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.08-17.24.33:966][332]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.08-17.24.33:966][332]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.08-17.24.33:966][332]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.08-17.24.33:967][332]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.08-17.24.33:969][332]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.08-17.24.33:983][332]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.04.08-17.24.33:984][332]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.08-17.24.33:984][332]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.08-17.24.33:984][332]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.08-17.24.33:984][332]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.04.08-17.24.33:984][332]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.04.08-17.24.33:987][332]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.04.08-17.24.33:987][332]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.04.08-17.24.33:987][332]LogInit: FAudioDevice initialized with ID 20.
+[2026.04.08-17.24.33:987][332]LogAudio: Display: Audio Device (ID: 20) registered with world 'DarkVersion'.
+[2026.04.08-17.24.33:987][332]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.08-17.24.33:992][332]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.08-17.24.34:022][332]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 60) at 2026.04.08-18.24.34
+[2026.04.08-17.24.34:023][332]LogWorld: Bringing up level for play took: 0.030812
+[2026.04.08-17.24.34:025][332]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2026.04.08-17.24.34:032][332]LogBlueprintUserMessages: [BP_InventoryComp] 0
+[2026.04.08-17.24.34:034][332]PIE: Server logged in
+[2026.04.08-17.24.34:036][332]PIE: Play in editor total start time 0.236 seconds.
+[2026.04.08-17.24.34:089][332]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-03-20_-_Space_Debris_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.08-17.24.43:748][911]LogBlueprintUserMessages: [ChangeLevel_C_1] Switch
+[2026.04.08-17.24.43:748][911]LogBlueprintUserMessages: [ChangeLevel_C_1] 1
+[2026.04.08-17.24.44:749][971]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.04.08-17.24.44:764][972]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.04.08-17.24.44:765][972]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.04.08-17.24.44:765][972]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.04.08-17.24.44:765][972]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::InvalidURL, reason: "Invalid URL: /Game/Dimensions/LightVersion"
+[2026.04.08-17.24.44:765][972]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Dimensions/LightVersion
+[2026.04.08-17.24.44:765][972]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Dimensions/LightVersion'
+[2026.04.08-17.24.44:765][972]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::ClientTravelFailure, reason: "Invalid URL: /Game/Dimensions/LightVersion"
+[2026.04.08-17.24.44:765][972]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Dimensions/LightVersion
+[2026.04.08-17.24.44:765][972]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Dimensions/LightVersion'
+[2026.04.08-17.24.44:779][973]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion?closed"
+[2026.04.08-17.24.44:779][973]LogNet: Browse: /Game/Dimensions/LightVersion?closed
+[2026.04.08-17.24.44:779][973]LogNet: Connection failed; returning to Entry
+[2026.04.08-17.24.44:779][973]LogLoad: LoadMap: /Game/Dimensions/LightVersion?closed
+[2026.04.08-17.24.44:779][973]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.08-17.24.44:782][973]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-17.24.44:792][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-17.24.44:884][973]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.08-17.24.44:898][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.04.08-17.24.44:908][973]LogStreaming: Display: FlushAsyncLoading(644): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.08-17.24.44:967][973]LogAudio: Display: Audio Device (ID: 20) registered with world 'LightVersion'.
+[2026.04.08-17.24.44:967][973]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.04.08-17.24.44:970][973]LogPlayLevel: PIE: World Init took: (0.002247s)
+[2026.04.08-17.24.44:970][973]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.08-17.24.45:016][973]LogActor: Loaded Actor (StaticMeshActor_782_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.08-17.24.45:017][973]LogActor: Loaded Actor (StaticMeshActor_777_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.08-17.24.45:017][973]LogActor: Loaded Actor (StaticMeshActor_865_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.08-17.24.45:025][973]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.04.08-18.24.45
+[2026.04.08-17.24.45:027][973]LogWorld: Bringing up level for play took: 0.055646
+[2026.04.08-17.24.45:034][973]LogBlueprintUserMessages: [BP_InventoryComp] 1
+[2026.04.08-17.24.45:035][973]LogLoad: Took 0.255328 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.04.08-17.24.45:035][973]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.04.08-17.24.45:106][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.04.08-17.24.45:159][973]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-02-16_-_Airlock_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.08-17.24.58:808][789]LogBlueprintUserMessages: [ChangeLevel_C_2] Switch
+[2026.04.08-17.24.58:808][789]LogBlueprintUserMessages: [ChangeLevel_C_2] 1
+[2026.04.08-17.24.59:844][835]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.04.08-17.24.59:844][835]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.04.08-17.24.59:844][835]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.04.08-17.24.59:844][835]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.04.08-17.24.59:846][835]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-17.24.59:853][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-17.24.59:946][835]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.08-17.24.59:959][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.04.08-17.24.59:969][835]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.08-17.25.00:043][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073338s)
+[2026.04.08-17.25.00:043][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.073413s)
+[2026.04.08-17.25.00:043][835]LogAudio: Display: Audio Device (ID: 20) registered with world 'DarkVersion'.
+[2026.04.08-17.25.00:043][835]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.04.08-17.25.00:045][835]LogPlayLevel: PIE: World Init took: (0.002284s)
+[2026.04.08-17.25.00:045][835]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.08-17.25.00:074][835]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 60) at 2026.04.08-18.25.00
+[2026.04.08-17.25.00:075][835]LogWorld: Bringing up level for play took: 0.030248
+[2026.04.08-17.25.00:083][835]LogBlueprintUserMessages: [BP_InventoryComp] 1
+[2026.04.08-17.25.00:085][835]LogLoad: Took 0.241232 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_DarkVersion)
+[2026.04.08-17.25.00:085][835]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.08-17.25.00:133][835]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-03-20_-_Space_Debris_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.08-17.25.10:720][443]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.08-17.25.10:720][443]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.04.08-17.25.10:720][443]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.04.08-17.25.11:119][461]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.04.08-17.25.11:119][461]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.04.08-17.25.16:824][756]LogBlueprintUserMessages: [ChangeLevel_C_3] Switch
+[2026.04.08-17.25.16:824][756]LogBlueprintUserMessages: [ChangeLevel_C_3] 2
+[2026.04.08-17.25.17:840][817]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.04.08-17.25.17:840][817]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.04.08-17.25.17:840][817]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.04.08-17.25.17:840][817]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.08-17.25.17:843][817]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-17.25.17:852][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-17.25.17:936][817]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.08-17.25.17:947][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.04.08-17.25.17:957][817]LogStreaming: Display: FlushAsyncLoading(645): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.08-17.25.18:021][817]LogAudio: Display: Audio Device (ID: 20) registered with world 'LightVersion'.
+[2026.04.08-17.25.18:021][817]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.04.08-17.25.18:023][817]LogPlayLevel: PIE: World Init took: (0.002480s)
+[2026.04.08-17.25.18:024][817]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.08-17.25.18:075][817]LogActor: Loaded Actor (StaticMeshActor_782_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.08-17.25.18:075][817]LogActor: Loaded Actor (StaticMeshActor_777_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.08-17.25.18:075][817]LogActor: Loaded Actor (StaticMeshActor_865_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.08-17.25.18:083][817]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.04.08-18.25.18
+[2026.04.08-17.25.18:085][817]LogWorld: Bringing up level for play took: 0.061111
+[2026.04.08-17.25.18:094][817]LogBlueprintUserMessages: [BP_InventoryComp] 2
+[2026.04.08-17.25.18:095][817]LogLoad: Took 0.254270 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.04.08-17.25.18:095][817]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.04.08-17.25.18:155][817]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-02-16_-_Airlock_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.08-17.25.34:289][736]LogBlueprintUserMessages: [ChangeLevel_C_2] Switch
+[2026.04.08-17.25.34:289][736]LogBlueprintUserMessages: [ChangeLevel_C_2] 2
+[2026.04.08-17.25.35:304][797]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.04.08-17.25.35:305][797]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.04.08-17.25.35:305][797]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.04.08-17.25.35:305][797]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.04.08-17.25.35:307][797]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-17.25.35:318][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-17.25.35:406][797]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.08-17.25.35:419][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.04.08-17.25.35:430][797]LogPlayLevel: Creating play world package: /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.08-17.25.35:503][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073130s)
+[2026.04.08-17.25.35:503][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Dimensions/DarkVersion.DarkVersion to /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion (0.073203s)
+[2026.04.08-17.25.35:503][797]LogAudio: Display: Audio Device (ID: 20) registered with world 'DarkVersion'.
+[2026.04.08-17.25.35:503][797]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.04.08-17.25.35:506][797]LogPlayLevel: PIE: World Init took: (0.002217s)
+[2026.04.08-17.25.35:506][797]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.08-17.25.35:537][797]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 60) at 2026.04.08-18.25.35
+[2026.04.08-17.25.35:538][797]LogWorld: Bringing up level for play took: 0.032657
+[2026.04.08-17.25.35:546][797]LogBlueprintUserMessages: [BP_InventoryComp] 2
+[2026.04.08-17.25.35:547][797]LogLoad: Took 0.242401 seconds to LoadMap(/Game/Dimensions/UEDPIE_0_DarkVersion)
+[2026.04.08-17.25.35:547][797]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.08-17.25.35:594][797]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-03-20_-_Space_Debris_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.08-17.26.04:836][476]LogBlueprintUserMessages: [ChangeLevel_C_1] Switch
+[2026.04.08-17.26.04:836][476]LogBlueprintUserMessages: [ChangeLevel_C_1] 3
+[2026.04.08-17.26.05:837][536]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.04.08-17.26.05:853][537]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.04.08-17.26.05:853][537]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.04.08-17.26.05:853][537]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.04.08-17.26.05:853][537]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::InvalidURL, reason: "Invalid URL: /Game/Dimensions/LightVersion"
+[2026.04.08-17.26.05:853][537]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Dimensions/LightVersion
+[2026.04.08-17.26.05:853][537]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Dimensions/LightVersion'
+[2026.04.08-17.26.05:853][537]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::ClientTravelFailure, reason: "Invalid URL: /Game/Dimensions/LightVersion"
+[2026.04.08-17.26.05:853][537]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Dimensions/LightVersion
+[2026.04.08-17.26.05:853][537]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Dimensions/LightVersion'
+[2026.04.08-17.26.05:868][538]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion?closed"
+[2026.04.08-17.26.05:868][538]LogNet: Browse: /Game/Dimensions/LightVersion?closed
+[2026.04.08-17.26.05:868][538]LogNet: Connection failed; returning to Entry
+[2026.04.08-17.26.05:868][538]LogLoad: LoadMap: /Game/Dimensions/LightVersion?closed
+[2026.04.08-17.26.05:868][538]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.08-17.26.05:871][538]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-17.26.05:880][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-17.26.05:978][538]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.08-17.26.05:988][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.04.08-17.26.05:998][538]LogStreaming: Display: FlushAsyncLoading(646): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.08-17.26.06:062][538]LogAudio: Display: Audio Device (ID: 20) registered with world 'LightVersion'.
+[2026.04.08-17.26.06:062][538]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.04.08-17.26.06:064][538]LogPlayLevel: PIE: World Init took: (0.002363s)
+[2026.04.08-17.26.06:064][538]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.08-17.26.06:116][538]LogActor: Loaded Actor (StaticMeshActor_782_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.08-17.26.06:116][538]LogActor: Loaded Actor (StaticMeshActor_777_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.08-17.26.06:116][538]LogActor: Loaded Actor (StaticMeshActor_865_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.08-17.26.06:125][538]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.04.08-18.26.06
+[2026.04.08-17.26.06:128][538]LogWorld: Bringing up level for play took: 0.062612
+[2026.04.08-17.26.06:136][538]LogBlueprintUserMessages: [BP_InventoryComp] 3
+[2026.04.08-17.26.06:137][538]LogLoad: Took 0.269007 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.04.08-17.26.06:137][538]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.04.08-17.26.06:206][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.04.08-17.26.06:262][538]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-02-16_-_Airlock_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.08-17.26.21:877][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.08-17.26.21:877][469]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.04.08-17.26.21:878][469]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.08-17.26.21:888][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-17.26.21:891][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.08-17.26.21:901][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.08-17.26.21:961][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.08-17.26.21:961][469]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.04.08-17.26.21:961][469]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2026.04.08-17.26.21:964][469]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2026.04.08-17.26.21:985][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.04.08-17.26.22:065][470]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2026.04.08-17.26.29:861][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.04.08-17.26.29:874][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.08-17.26.29:933][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dimensions/DarkVersion" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/DarkVersion.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.04.08-17.26.30:029][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.04.08-17.26.30:212][885]LogSavePackage: Moving output files for package: /Game/Dimensions/DarkVersion
+[2026.04.08-17.26.30:212][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/DarkVersionBF0DF6A940F252AF3E0442ACCB30A3DE.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/DarkVersion.umap'
+[2026.04.08-17.26.30:238][885]LogFileHelpers: Saving map 'DarkVersion' took 0.305
+[2026.04.08-17.26.30:238][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Interaction/BP_Generator] ([2] browsable assets)...
+[2026.04.08-17.26.30:238][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interaction/BP_Generator]
+[2026.04.08-17.26.30:238][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interaction/BP_Generator" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Interaction/BP_Generator.uasset" SILENT=true
+[2026.04.08-17.26.30:260][885]LogSavePackage: Moving output files for package: /Game/Interaction/BP_Generator
+[2026.04.08-17.26.30:260][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_GeneratorC0D7EFC5472BAF570955D69D05735720.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Interaction/BP_Generator.uasset'
+[2026.04.08-17.26.30:261][885]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Interaction/FuseConsole] ([2] browsable assets)...
+[2026.04.08-17.26.30:284][885]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Interaction/FuseConsole.FuseConsole]
+[2026.04.08-17.26.30:284][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interaction/FuseConsole]
+[2026.04.08-17.26.30:284][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interaction/FuseConsole" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Interaction/FuseConsole.uasset" SILENT=true
+[2026.04.08-17.26.30:303][885]LogSavePackage: Moving output files for package: /Game/Interaction/FuseConsole
+[2026.04.08-17.26.30:303][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/FuseConsole2536B4894295BF9A60F64FB403C3328B.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Interaction/FuseConsole.uasset'
+[2026.04.08-17.26.30:306][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Interaction/puzzlekey1] ([2] browsable assets)...
+[2026.04.08-17.26.30:306][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interaction/puzzlekey1]
+[2026.04.08-17.26.30:306][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interaction/puzzlekey1" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Interaction/puzzlekey1.uasset" SILENT=true
+[2026.04.08-17.26.30:322][885]LogSavePackage: Moving output files for package: /Game/Interaction/puzzlekey1
+[2026.04.08-17.26.30:322][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/puzzlekey1DD40077446C132ADB56CD586AB0E51E6.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Interaction/puzzlekey1.uasset'
+[2026.04.08-17.26.30:323][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Interaction/puzzlekey2] ([2] browsable assets)...
+[2026.04.08-17.26.30:323][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interaction/puzzlekey2]
+[2026.04.08-17.26.30:323][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interaction/puzzlekey2" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Interaction/puzzlekey2.uasset" SILENT=true
+[2026.04.08-17.26.30:349][885]LogSavePackage: Moving output files for package: /Game/Interaction/puzzlekey2
+[2026.04.08-17.26.30:349][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/puzzlekey2AA9A314F48B8789C480F62BBE15D6854.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Interaction/puzzlekey2.uasset'
+[2026.04.08-17.26.30:351][885]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/models/BP_FuelCan] ([2] browsable assets)...
+[2026.04.08-17.26.30:360][885]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Inventory/models/BP_FuelCan.BP_FuelCan]
+[2026.04.08-17.26.30:360][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/models/BP_FuelCan]
+[2026.04.08-17.26.30:360][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/models/BP_FuelCan" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Inventory/models/BP_FuelCan.uasset" SILENT=true
+[2026.04.08-17.26.30:380][885]LogSavePackage: Moving output files for package: /Game/Inventory/models/BP_FuelCan
+[2026.04.08-17.26.30:380][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_FuelCanBF853993419A1F91B81BE9BE3E4639AA.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Inventory/models/BP_FuelCan.uasset'
+[2026.04.08-17.26.30:381][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inventory/models/fusekey] ([2] browsable assets)...
+[2026.04.08-17.26.30:381][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/models/fusekey]
+[2026.04.08-17.26.30:381][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/models/fusekey" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Inventory/models/fusekey.uasset" SILENT=true
+[2026.04.08-17.26.30:398][885]LogSavePackage: Moving output files for package: /Game/Inventory/models/fusekey
+[2026.04.08-17.26.30:398][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/fusekeyF7FC897E4150ACE4F1E9D7B519EA5171.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Inventory/models/fusekey.uasset'
+[2026.04.08-17.26.30:399][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white] ([1] browsable assets)...
+[2026.04.08-17.26.30:400][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white]
+[2026.04.08-17.26.30:408][885]LogSavePackage: Moving output files for package: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white
+[2026.04.08-17.26.30:408][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Pipes_white11F0749045F865A1DF1EC191D705B343.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white.uasset'
+[2026.04.08-17.26.30:415][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Metal_2] ([1] browsable assets)...
+[2026.04.08-17.26.30:415][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Metal_2]
+[2026.04.08-17.26.30:424][885]LogSavePackage: Moving output files for package: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Metal_2
+[2026.04.08-17.26.30:424][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Metal_2D5A7504B4D9407613EB57F9D651376F5.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Metal_2.uasset'
+[2026.04.08-17.26.30:425][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Metal_2_0] ([1] browsable assets)...
+[2026.04.08-17.26.30:425][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Metal_2_0]
+[2026.04.08-17.26.30:433][885]LogSavePackage: Moving output files for package: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Metal_2_0
+[2026.04.08-17.26.30:433][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Metal_2_0F4CB0A934990CB14E92CFA9F886C5D7D.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Metal_2_0.uasset'
+[2026.04.08-17.26.30:435][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white_0] ([1] browsable assets)...
+[2026.04.08-17.26.30:435][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white_0]
+[2026.04.08-17.26.30:443][885]LogSavePackage: Moving output files for package: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white_0
+[2026.04.08-17.26.30:443][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Pipes_white_01BF74E8040010785A1E555813CF94678.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white_0.uasset'
+[2026.04.08-17.26.30:446][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Sec_rockets_black] ([1] browsable assets)...
+[2026.04.08-17.26.30:446][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Sec_rockets_black]
+[2026.04.08-17.26.30:455][885]LogSavePackage: Moving output files for package: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Sec_rockets_black
+[2026.04.08-17.26.30:455][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Sec_rockets_blackE583F75F40B88886257312A6D694BF5A.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Sec_rockets_black.uasset'
+[2026.04.08-17.26.30:457][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white_2] ([1] browsable assets)...
+[2026.04.08-17.26.30:457][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white_2]
+[2026.04.08-17.26.30:465][885]LogSavePackage: Moving output files for package: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white_2
+[2026.04.08-17.26.30:466][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Pipes_white_29FEF7BB1444A203992C4D3A3DDD7537B.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white_2.uasset'
+[2026.04.08-17.26.30:467][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Textures/rocket_engine_inspired_from_vulcain_2_texture_0] ([1] browsable assets)...
+[2026.04.08-17.26.30:467][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Textures/rocket_engine_inspired_from_vulcain_2_texture_0]
+[2026.04.08-17.26.30:483][885]LogSavePackage: Moving output files for package: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Textures/rocket_engine_inspired_from_vulcain_2_texture_0
+[2026.04.08-17.26.30:483][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/rocket_engine_inspired_from_vulcB6CC1D1A45071E2140E570972137FAF3.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Textures/rocket_engine_inspired_from_vulcain_2_texture_0.uasset'
+[2026.04.08-17.26.30:488][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white_1] ([1] browsable assets)...
+[2026.04.08-17.26.30:488][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white_1]
+[2026.04.08-17.26.30:497][885]LogSavePackage: Moving output files for package: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white_1
+[2026.04.08-17.26.30:497][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Pipes_white_1B051EF7043175A91418A209592460ED1.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white_1.uasset'
+[2026.04.08-17.26.30:499][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Nozzle_metal] ([1] browsable assets)...
+[2026.04.08-17.26.30:499][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Nozzle_metal]
+[2026.04.08-17.26.30:508][885]LogSavePackage: Moving output files for package: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Nozzle_metal
+[2026.04.08-17.26.30:508][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/Nozzle_metal694501014F0C3046C656CCB88EFC2AD5.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Nozzle_metal.uasset'
+[2026.04.08-17.26.30:509][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/StaticMeshes/rocket_engine_inspired_from_vulcain_2] ([1] browsable assets)...
+[2026.04.08-17.26.30:509][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/StaticMeshes/rocket_engine_inspired_from_vulcain_2]
+[2026.04.08-17.26.30:583][885]LogSavePackage: Moving output files for package: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/StaticMeshes/rocket_engine_inspired_from_vulcain_2
+[2026.04.08-17.26.30:583][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/rocket_engine_inspired_from_vulc196FD40245FABA9610D9A694BFF8DC85.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/StaticMeshes/rocket_engine_inspired_from_vulcain_2.uasset'
+[2026.04.08-17.26.30:587][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/WB_Prompts] ([2] browsable assets)...
+[2026.04.08-17.26.30:587][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_Prompts]
+[2026.04.08-17.26.30:587][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_Prompts" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/WB_Prompts.uasset" SILENT=true
+[2026.04.08-17.26.30:596][885]LogSavePackage: Moving output files for package: /Game/WB_Prompts
+[2026.04.08-17.26.30:596][885]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/WB_PromptsEB4BB3D84A4E4EEE99BF5480F06319D5.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/WB_Prompts.uasset'
+[2026.04.08-17.26.30:609][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 735.954 ms (total: 3.28 sec)
+[2026.04.08-17.26.30:670][885]LogContentValidation: Display: Starting to validate 18 assets
+[2026.04.08-17.26.30:670][885]LogContentValidation: Enabled validators:
+[2026.04.08-17.26.30:670][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.08-17.26.30:670][885]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.08-17.26.30:670][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.08-17.26.30:670][885]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.08-17.26.30:670][885]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.08-17.26.30:670][885]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.08-17.26.30:671][885]AssetCheck: /Game/Dimensions/DarkVersion Validating asset
+[2026.04.08-17.26.30:671][885]AssetCheck: /Game/Interaction/BP_Generator Validating asset
+[2026.04.08-17.26.30:671][885]AssetCheck: /Game/Interaction/FuseConsole Validating asset
+[2026.04.08-17.26.30:671][885]AssetCheck: /Game/Interaction/puzzlekey1 Validating asset
+[2026.04.08-17.26.30:671][885]AssetCheck: /Game/Interaction/puzzlekey2 Validating asset
+[2026.04.08-17.26.30:671][885]AssetCheck: /Game/Inventory/models/BP_FuelCan Validating asset
+[2026.04.08-17.26.30:671][885]AssetCheck: /Game/Inventory/models/fusekey Validating asset
+[2026.04.08-17.26.30:671][885]AssetCheck: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white Validating asset
+[2026.04.08-17.26.30:671][885]AssetCheck: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Metal_2 Validating asset
+[2026.04.08-17.26.30:671][885]AssetCheck: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Metal_2_0 Validating asset
+[2026.04.08-17.26.30:671][885]AssetCheck: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white_0 Validating asset
+[2026.04.08-17.26.30:671][885]AssetCheck: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Sec_rockets_black Validating asset
+[2026.04.08-17.26.30:671][885]AssetCheck: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white_2 Validating asset
+[2026.04.08-17.26.30:671][885]AssetCheck: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Textures/rocket_engine_inspired_from_vulcain_2_texture_0 Validating asset
+[2026.04.08-17.26.30:672][885]AssetCheck: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Pipes_white_1 Validating asset
+[2026.04.08-17.26.30:672][885]AssetCheck: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/Materials/Nozzle_metal Validating asset
+[2026.04.08-17.26.30:672][885]AssetCheck: /Game/Fab/Rocket_nozzle__Inspired_from_Vulcain_2_/rocket_engine_inspired_from_vulcain_2/StaticMeshes/rocket_engine_inspired_from_vulcain_2 Validating asset
+[2026.04.08-17.26.30:672][885]AssetCheck: /Game/WB_Prompts Validating asset
+[2026.04.08-17.26.30:710][885]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/karlk/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
