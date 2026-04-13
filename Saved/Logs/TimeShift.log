@@ -7359,3 +7359,600 @@ Make sure '/Game/Interaction/BP_Telescope.BP_Telescope_C' has been compiled for 
 [2026.04.13-14.35.28:921][951]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/karlk/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
 [2026.04.13-14.35.29:316][953]LogSlate: External Image Picker: DecompressImage failed
 [2026.04.13-14.35.32:829][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.04.13-14.35.54:171][169]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10047.224609
+[2026.04.13-14.35.55:172][172]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-14.35.55:172][172]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10047.891602, Update Interval: 314.570160
+[2026.04.13-14.36.50:532][157]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Interaction/Doors/puzzledoor4.puzzledoor4
+[2026.04.13-14.36.50:533][157]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_110
+[2026.04.13-14.37.05:314][665]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\karlk\Downloads\spinopel-ambulance-siren-364900.mp3)
+[2026.04.13-14.37.05:323][665]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave spinopel-ambulance-siren-364900...
+[2026.04.13-14.37.05:341][665]LogAudioDerivedData: Display: spinopel-ambulance-siren-364900 compressed to 19.87% (from 945KB to 187KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.04.13-14.37.05:342][665]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/spinopel-ambulance-siren-364900.spinopel-ambulance-siren-364900: Duration=10.97 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=192319 bytes, ChunkN=0)
+[2026.04.13-14.37.05:345][665]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_-1_END wave spinopel-ambulance-siren-364900...
+[2026.04.13-14.37.05:364][665]LogAudioDerivedData: Display: spinopel-ambulance-siren-364900 compressed to 19.87% (from 945KB to 187KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.04.13-14.37.05:365][665]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/spinopel-ambulance-siren-364900.spinopel-ambulance-siren-364900: Duration=10.97 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=192319 bytes, ChunkN=0)
+[2026.04.13-14.37.11:128][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.04.13-14.41.45:662][974]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10398.684570
+[2026.04.13-14.41.46:663][977]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-14.41.46:663][977]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10399.351562, Update Interval: 313.116241
+[2026.04.13-14.45.26:779][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.04.13-14.45.26:794][637]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.058
+[2026.04.13-14.45.26:795][637]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Interaction/Doors/puzzledoor4] ([2] browsable assets)...
+[2026.04.13-14.45.26:915][637]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Interaction/Doors/puzzledoor4.puzzledoor4]
+[2026.04.13-14.45.26:915][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interaction/Doors/puzzledoor4]
+[2026.04.13-14.45.26:930][637]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Interaction/Doors/puzzledoor4_Auto1
+[2026.04.13-14.45.26:930][637]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/puzzledoor4_Auto12172F28F4425B2FD8C4AE88E048C9AB7.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Interaction/Doors/puzzledoor4_Auto1.uasset'
+[2026.04.13-14.45.26:934][637]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/spinopel-ambulance-siren-364900] ([1] browsable assets)...
+[2026.04.13-14.45.26:939][637]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/spinopel-ambulance-siren-364900.spinopel-ambulance-siren-364900]
+[2026.04.13-14.45.26:939][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/spinopel-ambulance-siren-364900]
+[2026.04.13-14.45.26:956][637]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/spinopel-ambulance-siren-364900_Auto1
+[2026.04.13-14.45.26:956][637]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/spinopel-ambulance-siren-364900_861DFA5B42944B5D5D27DB868CBDB0CE.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/Audio/spinopel-ambulance-siren-364900_Auto1.uasset'
+[2026.04.13-14.45.26:957][637]LogFileHelpers: Auto-saving content packages took 0.163
+[2026.04.13-14.47.57:053][ 88]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10770.046875
+[2026.04.13-14.47.58:053][ 91]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-14.47.58:053][ 91]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10770.714844, Update Interval: 349.504089
+[2026.04.13-14.50.14:556][501]LogDerivedDataCache: C:/Users/karlk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.13-14.54.41:116][300]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11174.105469
+[2026.04.13-14.54.42:116][303]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-14.54.42:116][303]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11174.772461, Update Interval: 347.158417
+[2026.04.13-15.01.05:837][454]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11558.802734
+[2026.04.13-15.01.06:837][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-15.01.06:837][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11559.469727, Update Interval: 341.919617
+[2026.04.13-15.04.07:105][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.04.13-15.04.08:021][355]LogSlate: Window 'Save Content' being destroyed
+[2026.04.13-15.04.08:035][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.13-15.04.08:082][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Interaction/Doors/puzzledoor4] ([2] browsable assets)...
+[2026.04.13-15.04.08:082][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/Interaction/Doors/puzzledoor4]
+[2026.04.13-15.04.08:082][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Interaction/Doors/puzzledoor4" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Interaction/Doors/puzzledoor4.uasset" SILENT=true
+[2026.04.13-15.04.08:101][355]LogSavePackage: Moving output files for package: /Game/Interaction/Doors/puzzledoor4
+[2026.04.13-15.04.08:102][355]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/puzzledoor4B8F858FA4F0C7B26A3DC1DB8B92CA5C5.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Interaction/Doors/puzzledoor4.uasset'
+[2026.04.13-15.04.08:103][355]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/spinopel-ambulance-siren-364900] ([1] browsable assets)...
+[2026.04.13-15.04.08:103][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/spinopel-ambulance-siren-364900]
+[2026.04.13-15.04.08:103][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/spinopel-ambulance-siren-364900" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Audio/spinopel-ambulance-siren-364900.uasset" SILENT=true
+[2026.04.13-15.04.08:115][355]LogSavePackage: Moving output files for package: /Game/Audio/spinopel-ambulance-siren-364900
+[2026.04.13-15.04.08:116][355]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/spinopel-ambulance-siren-36490037259201486CBCD2CCD836BF86C34E4F.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/Audio/spinopel-ambulance-siren-364900.uasset'
+[2026.04.13-15.04.08:181][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.563 ms (total: 2.32 sec)
+[2026.04.13-15.04.08:181][355]LogStreaming: Display: FlushAsyncLoading(667): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-15.04.08:226][355]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenu
+[2026.04.13-15.04.08:227][355]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StartMenuDesign/StartMenu.StartMenu
+[2026.04.13-15.04.08:228][355]Cmd: MAP LOAD FILE="../../../../../../Users/karlk/TimeShiftProject/Content/StartMenuDesign/StartMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.13-15.04.08:291][355]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.04.08:292][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.04.08:335][355]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.13-15.04.08:349][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.04.13-15.04.08:360][355]LogWorld: UWorld::CleanupWorld for StartMenu, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.04.08:360][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.04.08:397][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.04.13-15.04.08:441][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.04.13-15.04.08:473][355]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartMenu'.
+[2026.04.13-15.04.08:473][355]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenu
+[2026.04.13-15.04.08:484][355]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.13-15.04.08:521][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.04.13-15.04.08:545][355]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.13-15.04.08:545][355]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2026.04.13-15.04.08:613][355]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.13-15.04.08:613][355]LogContentValidation: Enabled validators:
+[2026.04.13-15.04.08:613][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.13-15.04.08:613][355]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.13-15.04.08:613][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.13-15.04.08:613][355]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.13-15.04.08:613][355]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.13-15.04.08:613][355]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.13-15.04.08:613][355]AssetCheck: /Game/Interaction/Doors/puzzledoor4 Validating asset
+[2026.04.13-15.04.08:613][355]AssetCheck: /Game/Audio/spinopel-ambulance-siren-364900 Validating asset
+[2026.04.13-15.04.08:655][355]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/karlk/TimeShiftProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.13-15.04.09:015][357]LogSlate: External Image Picker: DecompressImage failed
+[2026.04.13-15.04.10:525][361]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.13-15.04.10:537][361]LogPlayLevel: [PlayLevel] Compiling music before play...
+[2026.04.13-15.04.10:540][361]LogPlayLevel: [PlayLevel] Compiling BP_ButtonDoor before play...
+[2026.04.13-15.04.10:570][361]LogPlayLevel: [PlayLevel] Compiling BP_Generator before play...
+[2026.04.13-15.04.10:607][361]LogPlayLevel: [PlayLevel] Compiling BP_Button before play...
+[2026.04.13-15.04.10:635][361]LogPlayLevel: [PlayLevel] Compiling BP_Telescope before play...
+[2026.04.13-15.04.10:647][361]LogPlayLevel: [PlayLevel] Compiling FuseConsole before play...
+[2026.04.13-15.04.10:680][361]LogPlayLevel: [PlayLevel] Compiling BP_FuelCan before play...
+[2026.04.13-15.04.10:714][361]LogPlayLevel: [PlayLevel] Compiling bp_keypad before play...
+[2026.04.13-15.04.10:714][361]LogPlayLevel: [PlayLevel]   Compiling WB_KeypadUi as a dependent...
+[2026.04.13-15.04.10:751][361]LogPlayLevel: [PlayLevel] Compiling music1 before play...
+[2026.04.13-15.04.10:755][361]LogPlayLevel: [PlayLevel] Compiling WBP_MainUi before play...
+[2026.04.13-15.04.10:801][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.04.13-15.04.10:811][361]LogPlayLevel: PlayLevel: Blueprint regeneration took 275 ms (11 blueprints)
+[2026.04.13-15.04.10:812][361]LogStreaming: Display: FlushAsyncLoading(669): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-15.04.10:814][361]LogPlayLevel: Creating play world package: /Game/StartMenuDesign/UEDPIE_0_StartMenu
+[2026.04.13-15.04.10:815][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001121s)
+[2026.04.13-15.04.10:815][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMenuDesign/StartMenu.StartMenu to /Game/StartMenuDesign/UEDPIE_0_StartMenu.StartMenu (0.001164s)
+[2026.04.13-15.04.10:848][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.04.13-15.04.10:854][361]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenu
+[2026.04.13-15.04.10:857][361]LogPlayLevel: PIE: World Init took: (0.001875s)
+[2026.04.13-15.04.10:857][361]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2026.04.13-15.04.10:857][361]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.13-15.04.10:857][361]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.13-15.04.10:857][361]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.13-15.04.10:857][361]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.13-15.04.10:857][361]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.13-15.04.10:857][361]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.13-15.04.10:858][361]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.13-15.04.10:858][361]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.13-15.04.10:858][361]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.13-15.04.10:858][361]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.13-15.04.10:858][361]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.13-15.04.10:860][361]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.13-15.04.10:879][361]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.04.13-15.04.10:880][361]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.13-15.04.10:880][361]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.13-15.04.10:880][361]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.13-15.04.10:880][361]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2026.04.13-15.04.10:880][361]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2026.04.13-15.04.10:883][361]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2026.04.13-15.04.10:883][361]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2026.04.13-15.04.10:884][361]LogInit: FAudioDevice initialized with ID 35.
+[2026.04.13-15.04.10:884][361]LogAudio: Display: Audio Device (ID: 35) registered with world 'StartMenu'.
+[2026.04.13-15.04.10:884][361]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2026.04.13-15.04.10:890][361]LogLoad: Game class is 'startmenumode_C'
+[2026.04.13-15.04.10:890][361]LogWorld: Bringing World /Game/StartMenuDesign/UEDPIE_0_StartMenu.StartMenu up for play (max tick rate 60) at 2026.04.13-16.04.10
+[2026.04.13-15.04.10:891][361]LogWorld: Bringing up level for play took: 0.000375
+[2026.04.13-15.04.10:894][361]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2026.04.13-15.04.10:896][361]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.13-15.04.10:896][361]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.04.13-15.04.10:897][361]PIE: Server logged in
+[2026.04.13-15.04.10:899][361]PIE: Play in editor total start time 0.363 seconds.
+[2026.04.13-15.04.46:684][502]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.04.13-15.04.46:684][502]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.04.13-15.04.46:695][503]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.04.13-15.04.46:695][503]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.04.13-15.04.46:695][503]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.04.13-15.04.46:695][503]LogWorld: BeginTearingDown for /Game/StartMenuDesign/UEDPIE_0_StartMenu
+[2026.04.13-15.04.46:695][503]LogWorld: UWorld::CleanupWorld for StartMenu, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.04.46:695][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.04.46:751][503]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.13-15.04.46:753][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.04.13-15.04.46:760][503]LogStreaming: Display: FlushAsyncLoading(671): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-15.04.46:826][503]LogAudio: Display: Audio Device (ID: 35) registered with world 'LightVersion'.
+[2026.04.13-15.04.46:826][503]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.04.13-15.04.46:828][503]LogPlayLevel: PIE: World Init took: (0.002170s)
+[2026.04.13-15.04.46:828][503]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.13-15.04.46:876][503]LogActor: Loaded Actor (StaticMeshActor_782_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.04.46:876][503]LogActor: Loaded Actor (StaticMeshActor_777_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.04.46:878][503]LogActor: Loaded Actor (StaticMeshActor_865_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.04.46:888][503]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.04.13-16.04.46
+[2026.04.13-15.04.46:890][503]LogWorld: Bringing up level for play took: 0.060798
+[2026.04.13-15.04.46:899][503]LogBlueprintUserMessages: [BP_InventoryComp] 0
+[2026.04.13-15.04.46:899][503]LogLoad: Took 0.203823 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.04.13-15.04.46:899][503]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.04.13-15.04.46:969][503]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-02-16_-_Airlock_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.05.12:373][ 21]LogBlueprintUserMessages: [ChangeLevel_C_5] Switch
+[2026.04.13-15.05.12:373][ 21]LogBlueprintUserMessages: [ChangeLevel_C_5] 0
+[2026.04.13-15.05.13:389][ 82]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.04.13-15.05.13:389][ 82]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.04.13-15.05.13:389][ 82]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.04.13-15.05.13:389][ 82]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.04.13-15.05.13:390][ 82]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.05.13:401][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.05.13:468][ 82]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.13-15.05.13:479][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.04.13-15.05.13:488][ 82]LogStreaming: Display: FlushAsyncLoading(672): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-15.05.13:559][ 82]LogAudio: Display: Audio Device (ID: 35) registered with world 'DarkVersion'.
+[2026.04.13-15.05.13:559][ 82]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.04.13-15.05.13:562][ 82]LogPlayLevel: PIE: World Init took: (0.002244s)
+[2026.04.13-15.05.13:562][ 82]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.13-15.05.13:603][ 82]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 60) at 2026.04.13-16.05.13
+[2026.04.13-15.05.13:604][ 82]LogWorld: Bringing up level for play took: 0.042981
+[2026.04.13-15.05.13:613][ 82]LogBlueprintUserMessages: [BP_InventoryComp] 0
+[2026.04.13-15.05.13:614][ 82]LogLoad: Took 0.225143 seconds to LoadMap(/Game/Dimensions/DarkVersion)
+[2026.04.13-15.05.13:614][ 82]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/DarkVersion
+[2026.04.13-15.05.13:673][ 82]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-03-20_-_Space_Debris_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.05.27:634][920]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.13-15.05.27:634][920]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.04.13-15.05.27:634][920]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.04.13-15.05.30:133][ 70]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.04.13-15.05.30:133][ 70]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.04.13-15.05.35:834][412]LogBlueprintUserMessages: [ChangeLevel_C_1] Switch
+[2026.04.13-15.05.35:834][412]LogBlueprintUserMessages: [ChangeLevel_C_1] 1
+[2026.04.13-15.05.36:836][472]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.04.13-15.05.36:851][473]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.04.13-15.05.36:851][473]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.04.13-15.05.36:851][473]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.04.13-15.05.36:851][473]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::InvalidURL, reason: "Invalid URL: /Game/Dimensions/LightVersion"
+[2026.04.13-15.05.36:851][473]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Dimensions/LightVersion
+[2026.04.13-15.05.36:851][473]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Dimensions/LightVersion'
+[2026.04.13-15.05.36:851][473]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::ClientTravelFailure, reason: "Invalid URL: /Game/Dimensions/LightVersion"
+[2026.04.13-15.05.36:851][473]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Dimensions/LightVersion
+[2026.04.13-15.05.36:851][473]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Dimensions/LightVersion'
+[2026.04.13-15.05.36:867][474]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion?closed"
+[2026.04.13-15.05.36:867][474]LogNet: Browse: /Game/Dimensions/LightVersion?closed
+[2026.04.13-15.05.36:867][474]LogNet: Connection failed; returning to Entry
+[2026.04.13-15.05.36:867][474]LogLoad: LoadMap: /Game/Dimensions/LightVersion?closed
+[2026.04.13-15.05.36:867][474]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.13-15.05.36:870][474]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.05.36:879][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.05.36:957][474]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.13-15.05.36:968][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.04.13-15.05.36:978][474]LogStreaming: Display: FlushAsyncLoading(673): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-15.05.37:034][474]LogAudio: Display: Audio Device (ID: 35) registered with world 'LightVersion'.
+[2026.04.13-15.05.37:034][474]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.04.13-15.05.37:039][474]LogPlayLevel: PIE: World Init took: (0.003994s)
+[2026.04.13-15.05.37:039][474]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.13-15.05.37:084][474]LogActor: Loaded Actor (StaticMeshActor_782_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.05.37:084][474]LogActor: Loaded Actor (StaticMeshActor_777_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.05.37:086][474]LogActor: Loaded Actor (StaticMeshActor_865_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.05.37:094][474]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.04.13-16.05.37
+[2026.04.13-15.05.37:095][474]LogWorld: Bringing up level for play took: 0.055381
+[2026.04.13-15.05.37:102][474]LogBlueprintUserMessages: [BP_InventoryComp] 1
+[2026.04.13-15.05.37:103][474]LogLoad: Took 0.234731 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.04.13-15.05.37:103][474]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.04.13-15.05.37:150][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.04.13-15.05.37:201][474]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-02-16_-_Airlock_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.05.37:593][498]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.13-15.05.37:593][498]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.04.13-15.05.39:736][626]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.04.13-15.05.39:736][626]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.04.13-15.05.46:555][ 35]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.05.58:854][773]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.06.04:948][114]LogBlueprintUserMessages: [ChangeLevel_C_2] Switch
+[2026.04.13-15.06.04:948][114]LogBlueprintUserMessages: [ChangeLevel_C_2] 1
+[2026.04.13-15.06.05:964][175]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.04.13-15.06.05:964][175]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.04.13-15.06.05:964][175]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.04.13-15.06.05:964][175]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.04.13-15.06.05:965][175]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.06.05:976][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.06.06:060][175]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.13-15.06.06:071][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.04.13-15.06.06:082][175]LogStreaming: Display: FlushAsyncLoading(674): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-15.06.06:140][175]LogAudio: Display: Audio Device (ID: 35) registered with world 'DarkVersion'.
+[2026.04.13-15.06.06:140][175]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.04.13-15.06.06:144][175]LogPlayLevel: PIE: World Init took: (0.004332s)
+[2026.04.13-15.06.06:144][175]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.13-15.06.06:189][175]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 60) at 2026.04.13-16.06.06
+[2026.04.13-15.06.06:190][175]LogWorld: Bringing up level for play took: 0.044461
+[2026.04.13-15.06.06:197][175]LogBlueprintUserMessages: [BP_InventoryComp] 1
+[2026.04.13-15.06.06:198][175]LogLoad: Took 0.233773 seconds to LoadMap(/Game/Dimensions/DarkVersion)
+[2026.04.13-15.06.06:198][175]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/DarkVersion
+[2026.04.13-15.06.06:253][175]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-03-20_-_Space_Debris_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.06.18:191][874]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.13-15.06.18:191][874]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.04.13-15.06.20:707][ 25]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.04.13-15.06.20:707][ 25]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.04.13-15.06.29:515][525]LogBlueprintUserMessages: [ChangeLevel_C_3] Switch
+[2026.04.13-15.06.29:515][525]LogBlueprintUserMessages: [ChangeLevel_C_3] 2
+[2026.04.13-15.06.30:546][582]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.04.13-15.06.30:546][582]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.04.13-15.06.30:546][582]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.04.13-15.06.30:546][582]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.13-15.06.30:549][582]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.06.30:555][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.06.30:637][582]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.13-15.06.30:647][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.04.13-15.06.30:657][582]LogStreaming: Display: FlushAsyncLoading(675): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-15.06.30:717][582]LogAudio: Display: Audio Device (ID: 35) registered with world 'LightVersion'.
+[2026.04.13-15.06.30:717][582]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.04.13-15.06.30:719][582]LogPlayLevel: PIE: World Init took: (0.002228s)
+[2026.04.13-15.06.30:719][582]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.13-15.06.30:764][582]LogActor: Loaded Actor (StaticMeshActor_782_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.06.30:765][582]LogActor: Loaded Actor (StaticMeshActor_777_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.06.30:766][582]LogActor: Loaded Actor (StaticMeshActor_865_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.06.30:774][582]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.04.13-16.06.30
+[2026.04.13-15.06.30:775][582]LogWorld: Bringing up level for play took: 0.056511
+[2026.04.13-15.06.30:783][582]LogBlueprintUserMessages: [BP_InventoryComp] 2
+[2026.04.13-15.06.30:783][582]LogLoad: Took 0.237577 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.04.13-15.06.30:783][582]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.04.13-15.06.30:848][582]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-02-16_-_Airlock_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.06.57:822][185]LogBlueprintUserMessages: [ChangeLevel_C_2] Switch
+[2026.04.13-15.06.57:822][185]LogBlueprintUserMessages: [ChangeLevel_C_2] 2
+[2026.04.13-15.06.58:841][243]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.04.13-15.06.58:842][243]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.04.13-15.06.58:842][243]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.04.13-15.06.58:842][243]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.04.13-15.06.58:843][243]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.06.58:852][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.06.58:917][243]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.13-15.06.58:929][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.04.13-15.06.58:940][243]LogStreaming: Display: FlushAsyncLoading(676): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-15.06.59:000][243]LogAudio: Display: Audio Device (ID: 35) registered with world 'DarkVersion'.
+[2026.04.13-15.06.59:001][243]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.04.13-15.06.59:003][243]LogPlayLevel: PIE: World Init took: (0.002305s)
+[2026.04.13-15.06.59:003][243]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.13-15.06.59:047][243]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 60) at 2026.04.13-16.06.59
+[2026.04.13-15.06.59:047][243]LogWorld: Bringing up level for play took: 0.044181
+[2026.04.13-15.06.59:055][243]LogBlueprintUserMessages: [BP_InventoryComp] 2
+[2026.04.13-15.06.59:056][243]LogLoad: Took 0.214036 seconds to LoadMap(/Game/Dimensions/DarkVersion)
+[2026.04.13-15.06.59:056][243]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/DarkVersion
+[2026.04.13-15.06.59:115][243]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-03-20_-_Space_Debris_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:086][657]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:102][658]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:119][659]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:135][660]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:152][661]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:168][662]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:186][663]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:201][664]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:218][665]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:235][666]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:252][667]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:268][668]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:285][669]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:302][670]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:319][671]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:336][672]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:352][673]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.06:370][674]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.10:984][951]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.13-15.07.10:984][951]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.04.13-15.07.13:017][ 73]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.04.13-15.07.13:017][ 73]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.04.13-15.07.23:712][696]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.31:202][145]LogBlueprintUserMessages: [ChangeLevel_C_1] Switch
+[2026.04.13-15.07.31:203][145]LogBlueprintUserMessages: [ChangeLevel_C_1] 3
+[2026.04.13-15.07.32:203][205]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.04.13-15.07.32:219][206]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.04.13-15.07.32:219][206]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.04.13-15.07.32:219][206]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.04.13-15.07.32:219][206]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::InvalidURL, reason: "Invalid URL: /Game/Dimensions/LightVersion"
+[2026.04.13-15.07.32:219][206]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Dimensions/LightVersion
+[2026.04.13-15.07.32:219][206]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Dimensions/LightVersion'
+[2026.04.13-15.07.32:219][206]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::ClientTravelFailure, reason: "Invalid URL: /Game/Dimensions/LightVersion"
+[2026.04.13-15.07.32:219][206]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Dimensions/LightVersion
+[2026.04.13-15.07.32:219][206]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Dimensions/LightVersion'
+[2026.04.13-15.07.32:235][207]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion?closed"
+[2026.04.13-15.07.32:235][207]LogNet: Browse: /Game/Dimensions/LightVersion?closed
+[2026.04.13-15.07.32:235][207]LogNet: Connection failed; returning to Entry
+[2026.04.13-15.07.32:235][207]LogLoad: LoadMap: /Game/Dimensions/LightVersion?closed
+[2026.04.13-15.07.32:235][207]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.13-15.07.32:237][207]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.07.32:247][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.07.32:325][207]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.13-15.07.32:336][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.04.13-15.07.32:347][207]LogStreaming: Display: FlushAsyncLoading(677): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-15.07.32:407][207]LogAudio: Display: Audio Device (ID: 35) registered with world 'LightVersion'.
+[2026.04.13-15.07.32:407][207]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.04.13-15.07.32:409][207]LogPlayLevel: PIE: World Init took: (0.002110s)
+[2026.04.13-15.07.32:409][207]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.13-15.07.32:455][207]LogActor: Loaded Actor (StaticMeshActor_782_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.07.32:455][207]LogActor: Loaded Actor (StaticMeshActor_777_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.07.32:456][207]LogActor: Loaded Actor (StaticMeshActor_865_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.07.32:466][207]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.04.13-16.07.32
+[2026.04.13-15.07.32:468][207]LogWorld: Bringing up level for play took: 0.058422
+[2026.04.13-15.07.32:476][207]LogBlueprintUserMessages: [BP_InventoryComp] 3
+[2026.04.13-15.07.32:477][207]LogLoad: Took 0.241683 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.04.13-15.07.32:477][207]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.04.13-15.07.32:525][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.04.13-15.07.32:579][207]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-02-16_-_Airlock_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.33:163][242]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11946.026367
+[2026.04.13-15.07.33:348][253]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.13-15.07.33:348][253]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11946.194336, Update Interval: 358.991058
+[2026.04.13-15.07.35:476][381]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.07.40:424][677]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.08.17:241][884]LogBlueprintUserMessages: [ChangeLevel_C_0] Switch
+[2026.04.13-15.08.17:241][884]LogBlueprintUserMessages: [ChangeLevel_C_0] 3
+[2026.04.13-15.08.18:258][945]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/DarkVersion"
+[2026.04.13-15.08.18:258][945]LogNet: Browse: /Game/Dimensions/DarkVersion
+[2026.04.13-15.08.18:258][945]LogLoad: LoadMap: /Game/Dimensions/DarkVersion
+[2026.04.13-15.08.18:258][945]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.04.13-15.08.18:260][945]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.08.18:269][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.08.18:345][945]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.13-15.08.18:357][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.13-15.08.18:367][945]LogStreaming: Display: FlushAsyncLoading(678): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-15.08.18:427][945]LogAudio: Display: Audio Device (ID: 35) registered with world 'DarkVersion'.
+[2026.04.13-15.08.18:427][945]LogChaosDD: Creating Chaos Debug Draw Scene for world DarkVersion
+[2026.04.13-15.08.18:430][945]LogPlayLevel: PIE: World Init took: (0.002482s)
+[2026.04.13-15.08.18:430][945]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.13-15.08.18:475][945]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_DarkVersion.DarkVersion up for play (max tick rate 60) at 2026.04.13-16.08.18
+[2026.04.13-15.08.18:475][945]LogWorld: Bringing up level for play took: 0.045007
+[2026.04.13-15.08.18:482][945]LogBlueprintUserMessages: [BP_InventoryComp] 3
+[2026.04.13-15.08.18:483][945]LogLoad: Took 0.225462 seconds to LoadMap(/Game/Dimensions/DarkVersion)
+[2026.04.13-15.08.18:483][945]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/DarkVersion
+[2026.04.13-15.08.18:550][945]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-03-20_-_Space_Debris_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.08.29:430][598]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(974)]!
+[2026.04.13-15.08.29:430][598]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.13-15.08.29:430][598]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2026.04.13-15.08.34:511][903]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.04.13-15.08.34:511][903]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.04.13-15.08.38:195][124]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.13-15.08.38:195][124]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.04.13-15.08.39:012][173]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.04.13-15.08.39:013][173]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.04.13-15.08.49:064][776]LogBlueprintUserMessages: [ChangeLevel_C_0] Switch
+[2026.04.13-15.08.49:064][776]LogBlueprintUserMessages: [ChangeLevel_C_0] 4
+[2026.04.13-15.08.50:064][836]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.04.13-15.08.50:080][837]LogLongPackageNames: Warning: Can't Find URL: None: . Invalidating and reverting to Default URL.
+[2026.04.13-15.08.50:080][837]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.04.13-15.08.50:080][837]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.04.13-15.08.50:080][837]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::InvalidURL, reason: "Invalid URL: /Game/Dimensions/LightVersion"
+[2026.04.13-15.08.50:080][837]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Dimensions/LightVersion
+[2026.04.13-15.08.50:080][837]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Dimensions/LightVersion'
+[2026.04.13-15.08.50:080][837]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::ClientTravelFailure, reason: "Invalid URL: /Game/Dimensions/LightVersion"
+[2026.04.13-15.08.50:080][837]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Dimensions/LightVersion
+[2026.04.13-15.08.50:080][837]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Dimensions/LightVersion'
+[2026.04.13-15.08.50:095][838]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion?closed"
+[2026.04.13-15.08.50:095][838]LogNet: Browse: /Game/Dimensions/LightVersion?closed
+[2026.04.13-15.08.50:096][838]LogNet: Connection failed; returning to Entry
+[2026.04.13-15.08.50:096][838]LogLoad: LoadMap: /Game/Dimensions/LightVersion?closed
+[2026.04.13-15.08.50:096][838]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_DarkVersion
+[2026.04.13-15.08.50:098][838]LogWorld: UWorld::CleanupWorld for DarkVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.08.50:108][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.08.50:177][838]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.13-15.08.50:188][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.04.13-15.08.50:199][838]LogStreaming: Display: FlushAsyncLoading(679): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-15.08.50:261][838]LogAudio: Display: Audio Device (ID: 35) registered with world 'LightVersion'.
+[2026.04.13-15.08.50:261][838]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.04.13-15.08.50:263][838]LogPlayLevel: PIE: World Init took: (0.002250s)
+[2026.04.13-15.08.50:263][838]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.13-15.08.50:311][838]LogActor: Loaded Actor (StaticMeshActor_782_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.08.50:311][838]LogActor: Loaded Actor (StaticMeshActor_777_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.08.50:311][838]LogActor: Loaded Actor (StaticMeshActor_865_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.08.50:320][838]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.04.13-16.08.50
+[2026.04.13-15.08.50:322][838]LogWorld: Bringing up level for play took: 0.058003
+[2026.04.13-15.08.50:329][838]LogBlueprintUserMessages: [BP_InventoryComp] 4
+[2026.04.13-15.08.50:331][838]LogLoad: Took 0.234426 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.04.13-15.08.50:331][838]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.04.13-15.08.50:382][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.04.13-15.08.50:436][838]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-02-16_-_Airlock_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.08.57:014][233]LogBlueprintUserMessages: [FuseConsole_C_1] has fuse
+[2026.04.13-15.09.04:732][696]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.07:363][854]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.13-15.09.07:364][854]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2026.04.13-15.09.08:097][898]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.04.13-15.09.08:097][898]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2026.04.13-15.09.12:450][159]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.16:993][430]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:527][642]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:543][643]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:560][644]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:576][645]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:593][646]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:609][647]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:626][648]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:643][649]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:659][650]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:676][651]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:692][652]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:710][653]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:726][654]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:742][655]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:760][656]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:776][657]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:793][658]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.20:810][659]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:493][ 60]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:510][ 61]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:526][ 62]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:543][ 63]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:560][ 64]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:576][ 65]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:592][ 66]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:609][ 67]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:627][ 68]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:644][ 69]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:659][ 70]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:676][ 71]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:692][ 72]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:710][ 73]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:726][ 74]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:742][ 75]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:760][ 76]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.09.27:776][ 77]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'tunetank-sci-fi-action-music-414656'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.10.03:736][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-15.10.03:736][230]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.04.13-15.10.03:737][230]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.10.03:746][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.10.03:749][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.13-15.10.03:759][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.10.03:802][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-15.10.03:802][230]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2026.04.13-15.10.03:802][230]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=4
+[2026.04.13-15.10.03:805][230]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35, StreamState=2
+[2026.04.13-15.10.03:823][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.04.13-15.10.03:871][231]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2026.04.13-15.10.05:512][329]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.13-15.10.05:524][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.13-15.10.05:524][329]LogStreaming: Display: FlushAsyncLoading(680): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-15.10.05:525][329]LogPlayLevel: Creating play world package: /Game/StartMenuDesign/UEDPIE_0_StartMenu
+[2026.04.13-15.10.05:526][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001340s)
+[2026.04.13-15.10.05:526][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StartMenuDesign/StartMenu.StartMenu to /Game/StartMenuDesign/UEDPIE_0_StartMenu.StartMenu (0.001375s)
+[2026.04.13-15.10.05:560][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.13-15.10.05:566][329]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMenu
+[2026.04.13-15.10.05:568][329]LogPlayLevel: PIE: World Init took: (0.001906s)
+[2026.04.13-15.10.05:569][329]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2026.04.13-15.10.05:569][329]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.13-15.10.05:569][329]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.13-15.10.05:569][329]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.13-15.10.05:569][329]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.13-15.10.05:569][329]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.13-15.10.05:569][329]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.13-15.10.05:569][329]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.13-15.10.05:569][329]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.13-15.10.05:569][329]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.13-15.10.05:569][329]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.13-15.10.05:569][329]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.13-15.10.05:572][329]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.13-15.10.05:589][329]LogAudioMixer: Display: Using Audio Hardware Device 27G2ZN3 (NVIDIA High Definition Audio)
+[2026.04.13-15.10.05:589][329]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.13-15.10.05:589][329]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.13-15.10.05:589][329]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.13-15.10.05:589][329]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2026.04.13-15.10.05:589][329]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2026.04.13-15.10.05:593][329]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2026.04.13-15.10.05:593][329]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2026.04.13-15.10.05:593][329]LogInit: FAudioDevice initialized with ID 36.
+[2026.04.13-15.10.05:593][329]LogAudio: Display: Audio Device (ID: 36) registered with world 'StartMenu'.
+[2026.04.13-15.10.05:593][329]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2026.04.13-15.10.05:598][329]LogLoad: Game class is 'startmenumode_C'
+[2026.04.13-15.10.05:599][329]LogWorld: Bringing World /Game/StartMenuDesign/UEDPIE_0_StartMenu.StartMenu up for play (max tick rate 60) at 2026.04.13-16.10.05
+[2026.04.13-15.10.05:599][329]LogWorld: Bringing up level for play took: 0.000384
+[2026.04.13-15.10.05:602][329]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2026.04.13-15.10.05:605][329]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.13-15.10.05:605][329]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2026.04.13-15.10.05:605][329]PIE: Server logged in
+[2026.04.13-15.10.05:608][329]PIE: Play in editor total start time 0.084 seconds.
+[2026.04.13-15.10.18:454][100]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2026.04.13-15.10.18:454][100]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2026.04.13-15.10.18:471][101]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/Dimensions/LightVersion"
+[2026.04.13-15.10.18:471][101]LogNet: Browse: /Game/Dimensions/LightVersion
+[2026.04.13-15.10.18:471][101]LogLoad: LoadMap: /Game/Dimensions/LightVersion
+[2026.04.13-15.10.18:471][101]LogWorld: BeginTearingDown for /Game/StartMenuDesign/UEDPIE_0_StartMenu
+[2026.04.13-15.10.18:472][101]LogWorld: UWorld::CleanupWorld for StartMenu, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.10.18:472][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.10.18:528][101]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.13-15.10.18:531][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.04.13-15.10.18:536][101]LogStreaming: Display: FlushAsyncLoading(681): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-15.10.18:597][101]LogAudio: Display: Audio Device (ID: 36) registered with world 'LightVersion'.
+[2026.04.13-15.10.18:597][101]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.04.13-15.10.18:599][101]LogPlayLevel: PIE: World Init took: (0.002425s)
+[2026.04.13-15.10.18:599][101]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.04.13-15.10.18:646][101]LogActor: Loaded Actor (StaticMeshActor_782_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.10.18:647][101]LogActor: Loaded Actor (StaticMeshActor_777_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.10.18:647][101]LogActor: Loaded Actor (StaticMeshActor_865_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.10.18:655][101]LogWorld: Bringing World /Game/Dimensions/UEDPIE_0_LightVersion.LightVersion up for play (max tick rate 60) at 2026.04.13-16.10.18
+[2026.04.13-15.10.18:657][101]LogWorld: Bringing up level for play took: 0.057361
+[2026.04.13-15.10.18:666][101]LogBlueprintUserMessages: [BP_InventoryComp] 0
+[2026.04.13-15.10.18:666][101]LogLoad: Took 0.194775 seconds to LoadMap(/Game/Dimensions/LightVersion)
+[2026.04.13-15.10.18:666][101]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/Dimensions/LightVersion
+[2026.04.13-15.10.18:727][101]LogAudio: Warning: Detected orphaned sound which is not a one-shot '2023-02-16_-_Airlock_-_www_FesliyanStudios_com'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2026.04.13-15.10.22:035][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-15.10.22:035][292]LogWorld: BeginTearingDown for /Game/Dimensions/UEDPIE_0_LightVersion
+[2026.04.13-15.10.22:036][292]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.10.22:046][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.10.22:048][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.13-15.10.22:056][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.10.22:094][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.13-15.10.22:094][292]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2026.04.13-15.10.22:094][292]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=4
+[2026.04.13-15.10.22:097][292]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36, StreamState=2
+[2026.04.13-15.10.22:114][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.04.13-15.10.22:154][293]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2026.04.13-15.10.27:792][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.04.13-15.10.27:799][619]LogStreaming: Display: FlushAsyncLoading(682): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.13-15.10.27:848][619]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.04.13-15.10.27:882][619]LogActor: Loaded Actor (StaticMeshActor_782_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.10.27:882][619]LogActor: Loaded Actor (StaticMeshActor_777_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.10.27:882][619]LogActor: Loaded Actor (StaticMeshActor_865_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.10.27:889][619]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Dimensions/LightVersion.LightVersion
+[2026.04.13-15.10.27:889][619]Cmd: MAP LOAD FILE="../../../../../../Users/karlk/TimeShiftProject/Content/Dimensions/LightVersion.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.13-15.10.27:987][619]LogWorld: UWorld::CleanupWorld for StartMenu, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.10.27:988][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.10.28:036][619]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.13-15.10.28:038][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.04.13-15.10.28:046][619]LogWorld: UWorld::CleanupWorld for LightVersion, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.10.28:050][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.10.28:095][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.04.13-15.10.28:136][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.04.13-15.10.28:199][619]LogAudio: Display: Audio Device (ID: 1) registered with world 'LightVersion'.
+[2026.04.13-15.10.28:199][619]LogChaosDD: Creating Chaos Debug Draw Scene for world LightVersion
+[2026.04.13-15.10.28:264][619]LogActor: Loaded Actor (StaticMeshActor_782_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.10.28:264][619]LogActor: Loaded Actor (StaticMeshActor_777_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.10.28:265][619]LogActor: Loaded Actor (StaticMeshActor_865_GEN_VARIABLE_StaticMeshActor_CAT) with IsValid() == false
+[2026.04.13-15.10.28:290][619]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.13-15.10.28:340][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.04.13-15.10.28:365][619]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.13-15.10.28:365][619]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.259ms to complete.
+[2026.04.13-15.10.29:154][621]LogSlate: External Image Picker: DecompressImage failed
+[2026.04.13-15.10.54:003][912]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_Ending.WB_Ending
+[2026.04.13-15.10.54:005][912]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_113
+[2026.04.13-15.10.54:014][912]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_114
+[2026.04.13-15.11.05:301][412]LogSlate: Window 'WB_Ending' being destroyed
+[2026.04.13-15.11.05:315][412]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.11.05:315][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.11.05:331][412]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2026.04.13-15.11.05:331][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.13-15.11.06:384][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.04.13-15.11.22:548][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
