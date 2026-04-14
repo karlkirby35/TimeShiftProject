@@ -3350,3 +3350,134 @@ Make sure '/Game/Interaction/Doors/puzzledoor3.puzzledoor3_C' has been compiled 
 [2026.04.14-16.08.22:336][371]LogSlate: External Image Picker: DecompressImage failed
 [2026.04.14-16.08.51:658][ 95]LogDerivedDataCache: C:/Users/karlk/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
 [2026.04.14-16.13.20:303][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.04.14-16.14.17:613][529]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4031.942871
+[2026.04.14-16.14.18:613][532]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.14-16.14.18:613][532]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4032.609863, Update Interval: 321.134674
+[2026.04.14-16.14.23:754][607]LogStreaming: Display: FlushAsyncLoading(545): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.14-16.14.23:994][607]LogAssetTools: Warning: Two factories registered with same priority : WmfFileMediaSourceFactory_0 and AvfFileMediaSourceFactory_0
+[2026.04.14-16.14.23:995][607]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\karlk\Downloads\Granitefield 5.m4a)
+[2026.04.14-16.14.23:998][607]LogAssetTools: Warning: Two factories registered with same priority : WmfFileMediaSourceFactory_0 and AvfFileMediaSourceFactory_0
+[2026.04.14-16.14.23:998][607]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\karlk\Downloads\Granitefield.m4a)
+[2026.04.14-16.14.23:999][607]LogAssetTools: Warning: Two factories registered with same priority : WmfFileMediaSourceFactory_0 and AvfFileMediaSourceFactory_0
+[2026.04.14-16.14.23:999][607]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\karlk\Downloads\Granitefield 4.m4a)
+[2026.04.14-16.14.23:999][607]LogAssetTools: Warning: Two factories registered with same priority : WmfFileMediaSourceFactory_0 and AvfFileMediaSourceFactory_0
+[2026.04.14-16.14.24:001][607]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\karlk\Downloads\Granitefield 3.m4a)
+[2026.04.14-16.14.24:001][607]LogAssetTools: Warning: Two factories registered with same priority : WmfFileMediaSourceFactory_0 and AvfFileMediaSourceFactory_0
+[2026.04.14-16.14.24:007][607]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\karlk\Downloads\Granitefield 2.m4a)
+[2026.04.14-16.14.27:560][750]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/Audio/Granitefield.Granitefield
+[2026.04.14-16.16.18:521][179]LogShaderCompilers: Display: ================================================
+[2026.04.14-16.16.18:521][179]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.04.14-16.16.18:521][179]LogShaderCompilers: Display: Total job queries 766, among them cache hits 175 (22.85%), DDC hits 523 (68.28%), Duplicates 66 (8.62%)
+[2026.04.14-16.16.18:521][179]LogShaderCompilers: Display: Tracking 525 distinct input hashes that result in 380 distinct outputs (72.38%)
+[2026.04.14-16.16.18:521][179]LogShaderCompilers: Display: RAM used: 3.50 MiB of 819.20 MiB budget. Usage: 0.43%
+[2026.04.14-16.16.18:521][179]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.04.14-16.16.18:521][179]LogShaderCompilers: Display: Shaders Compiled: 2
+[2026.04.14-16.16.18:521][179]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2026.04.14-16.16.18:521][179]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.07 s
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Job execution time: average 0.37 s, max 0.42 s
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Job life time (pending + execution): average 0.44 s, max 0.49
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Shader code size: total 8.121 KiB, numShaders 2, average 4.061 KiB, min 4.027 KiB, max 4.094 KiB
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.49 s
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Average processing rate: 4.07 jobs/sec
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Total thread time: 0.283 s
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Total thread preprocess time: 9.573 s
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Percentage time preprocessing: 3380.20%
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Effective parallelization: 0.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.072114
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display:                                TSlateMaterialShaderPSDefault - 59.16% of total time (compiled    1 times, average 0.17 sec, max 0.17 sec, min 0.17 sec)
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse - 40.84% of total time (compiled    1 times, average 0.12 sec, max 0.12 sec, min 0.12 sec)
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display:                                             FDebugViewModePS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: === Material stats ===
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Materials Translated:    221
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Material Translation Only: 0.07 s (45%)
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: Material Cache Hits: 52 (24%)
+[2026.04.14-16.16.18:522][179]LogShaderCompilers: Display: ================================================
+[2026.04.14-16.17.41:782][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.04.14-16.17.41:997][120]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.04.14-16.17.42:010][120]LogSlate: Took 0.011419 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.04.14-16.17.42:862][120]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.14-16.17.43:012][120]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Audio/Granitefield.Granitefield
+	Asset Type: FileMediaSource
+	Asset Name: /Game/Audio/Granitefield_2.Granitefield_2
+	Asset Type: FileMediaSource
+	Asset Name: /Game/Audio/Granitefield_3.Granitefield_3
+	Asset Type: FileMediaSource
+	Asset Name: /Game/Audio/Granitefield_4.Granitefield_4
+	Asset Type: FileMediaSource
+	Asset Name: /Game/Audio/Granitefield_5.Granitefield_5
+	Asset Type: FileMediaSource
+[2026.04.14-16.17.43:727][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.04.14-16.17.43:796][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.04.14-16.17.43:859][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.04.14-16.18.01:779][367]LogAssetTools: Warning: Two factories registered with same priority : WmfFileMediaSourceFactory_1 and AvfFileMediaSourceFactory_1
+[2026.04.14-16.18.01:779][367]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 ../../../../../../Users/karlk/Downloads/Granitefield 2.m4a)
+[2026.04.14-16.18.01:780][367]LogAssetTools: Warning: Two factories registered with same priority : WmfFileMediaSourceFactory_1 and AvfFileMediaSourceFactory_1
+[2026.04.14-16.18.01:780][367]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 ../../../../../../Users/karlk/Downloads/Granitefield 5.m4a)
+[2026.04.14-16.18.01:781][367]LogAssetTools: Warning: Two factories registered with same priority : WmfFileMediaSourceFactory_1 and AvfFileMediaSourceFactory_1
+[2026.04.14-16.18.01:781][367]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 ../../../../../../Users/karlk/Downloads/Granitefield.m4a)
+[2026.04.14-16.18.01:781][367]LogAssetTools: Warning: Two factories registered with same priority : WmfFileMediaSourceFactory_1 and AvfFileMediaSourceFactory_1
+[2026.04.14-16.18.01:781][367]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 ../../../../../../Users/karlk/Downloads/Granitefield 4.m4a)
+[2026.04.14-16.18.01:782][367]LogAssetTools: Warning: Two factories registered with same priority : WmfFileMediaSourceFactory_1 and AvfFileMediaSourceFactory_1
+[2026.04.14-16.18.01:782][367]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 ../../../../../../Users/karlk/Downloads/Granitefield 3.m4a)
+[2026.04.14-16.18.09:242][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.04.14-16.18.10:150][781]LogSlate: Window 'Delete Assets' being destroyed
+[2026.04.14-16.18.10:226][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.04.14-16.18.10:296][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.04.14-16.18.10:364][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.04.14-16.18.36:716][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.04.14-16.18.36:722][297]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Dimensions/LightVersion' took 0.072
+[2026.04.14-16.18.36:723][297]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.04.14-16.18.36:971][297]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.04.14-16.18.36:972][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.04.14-16.18.37:002][297]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2
+[2026.04.14-16.18.37:002][297]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_FirstPersonCharacter_Auto2B1B4AB4D4C14E55924EAFDA5CB593C62.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2.uasset'
+[2026.04.14-16.18.37:003][297]LogFileHelpers: Auto-saving content packages took 0.281
+[2026.04.14-16.20.40:430][559]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4414.746094
+[2026.04.14-16.20.40:702][566]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.14-16.20.40:703][566]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4414.986328, Update Interval: 356.606964
+[2026.04.14-16.20.47:995][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.04.14-16.21.04:698][883]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_Ending.WB_Ending
+[2026.04.14-16.21.04:698][883]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.04.14-16.21.04:707][883]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.04.14-16.21.19:341][680]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.14-16.21.24:159][962]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.14-16.21.27:557][160]LogSlate: Window 'Color Picker' being destroyed
+[2026.04.14-16.21.31:586][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.04.14-16.21.40:621][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.04.14-16.21.40:630][764]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.14-16.21.40:658][764]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2026.04.14-16.21.40:691][764]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2026.04.14-16.21.40:691][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2026.04.14-16.21.40:721][764]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2026.04.14-16.21.40:721][764]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/BP_FirstPersonCharacter01392AC746AE1CB1A82C7DA4943E210E.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2026.04.14-16.21.40:723][764]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_Ending] ([2] browsable assets)...
+[2026.04.14-16.21.40:727][764]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_Ending.WB_Ending]
+[2026.04.14-16.21.40:728][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_Ending]
+[2026.04.14-16.21.40:728][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Ending" FILE="../../../../../../Users/karlk/TimeShiftProject/Content/UI/WB_Ending.uasset" SILENT=true
+[2026.04.14-16.21.40:739][764]LogSavePackage: Moving output files for package: /Game/UI/WB_Ending
+[2026.04.14-16.21.40:739][764]LogSavePackage: Moving '../../../../../../Users/karlk/TimeShiftProject/Saved/WB_EndingB9BA0E11454E1E9CD8BC80B5DE1E72FA.tmp' to '../../../../../../Users/karlk/TimeShiftProject/Content/UI/WB_Ending.uasset'
+[2026.04.14-16.21.40:751][764]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.411 ms (total: 2.65 sec)
+[2026.04.14-16.21.40:781][764]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.14-16.21.40:781][764]LogContentValidation: Enabled validators:
+[2026.04.14-16.21.40:781][764]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.14-16.21.40:781][764]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.14-16.21.40:781][764]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.14-16.21.40:781][764]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.14-16.21.40:781][764]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.14-16.21.40:781][764]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.14-16.21.40:781][764]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2026.04.14-16.21.40:782][764]AssetCheck: /Game/UI/WB_Ending Validating asset
